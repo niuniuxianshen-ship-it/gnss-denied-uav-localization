@@ -1,0 +1,59 @@
+{
+  "rater_id": "R02",
+  "model_requested": "DeepSeek-V4.1-Flash",
+  "api_model": "deepseek-flash",
+  "endpoint": "https://api.deepseek.com/chat/completions",
+  "recorded_at": "2026-10-10T16:19:56.999567+08:00",
+  "retries": 0,
+  "attempts": 1,
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "enabled"
+    },
+    "reasoning_effort": "low",
+    "max_tokens": 8192,
+    "stream": false,
+    "tool_choice": "none",
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "material_hashes": {
+    "阅读说明.md": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+    "评分表_v0.2.md": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+    "共同材料.md": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+    "分歧处理方法.md": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+    "案例/CASE_001.txt": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+    "案例/CASE_002.txt": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+    "案例/CASE_003.txt": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89"
+  },
+  "history_messages": 0,
+  "tools_supplied": false,
+  "parent_context_submitted": false,
+  "reference_answers_submitted": false,
+  "service_side_memory_and_hidden_settings": "未确认",
+  "seed": "不可控（未提供）",
+  "recording_time_definition": "API请求起始时刻；非逐条生成时刻",
+  "http_status": 200,
+  "model_returned": "deepseek-flash",
+  "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+  "usage": {
+    "prompt_tokens": 4127,
+    "completion_tokens": 6804,
+    "total_tokens": 10931,
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 5612
+    },
+    "prompt_cache_hit_tokens": 256,
+    "prompt_cache_miss_tokens": 3871
+  },
+  "finish_reason": "stop",
+  "tool_calls": [],
+  "format_checks": [],
+  "elapsed_seconds": 30.7,
+  "submitted_at": "2026-10-10T16:20:27.703238+08:00"
+}

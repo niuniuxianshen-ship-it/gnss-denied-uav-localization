@@ -1,0 +1,30 @@
+{
+  "scope": "仅检查保存与可见流程，不进行参考答案对照、讨论或裁定",
+  "parent_exposure": "主助手曾编写并查看参考答案，不是本轮独立评分者",
+  "operator_agents": {
+    "R01": "/root/api_rater_r01",
+    "R02": "/root/api_rater_r02"
+  },
+  "operator_history": "fork_turns=none",
+  "scoring_backend": "DeepSeek-V4.1-Flash via official deepseek-flash API",
+  "requests_per_rater": {
+    "R01": 1,
+    "R02": 1
+  },
+  "settings_and_materials_equal_except_rater_and_time": true,
+  "tools_supplied": false,
+  "parent_conversation_sent": false,
+  "reference_answers_sent": false,
+  "service_side_memory_hidden_settings": "未确认",
+  "original_lock_sha256": {
+    "R01": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+    "R02": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF"
+  },
+  "format_checks": {
+    "R01": [],
+    "R02": []
+  },
+  "runner_sha256": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+  "reference_comparison_performed": false,
+  "discussion_or_adjudication_performed": false
+}

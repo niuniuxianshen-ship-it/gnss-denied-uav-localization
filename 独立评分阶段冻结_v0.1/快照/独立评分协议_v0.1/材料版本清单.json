@@ -1,0 +1,60 @@
+{
+  "protocol_version": "v0.1",
+  "status": "静态审查完成，待冻结",
+  "rubric_version": "v0.2",
+  "rubric_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "case_list_status": "尚未指定；模板无案例行",
+  "scorer_ids_status": "尚未指定",
+  "freeze_batch_id": null,
+  "freeze_time": null,
+  "model_runs_performed": false,
+  "independent_scoring_performed": false,
+  "files": [
+    {
+      "file": "材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "file": "模板/分歧及裁定记录_空白.csv",
+      "sha256": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "bytes": 619
+    },
+    {
+      "file": "模板/原始记录锁定_空白.csv",
+      "sha256": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "bytes": 191
+    },
+    {
+      "file": "模板/原始评分记录_空白.csv",
+      "sha256": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "bytes": 417
+    },
+    {
+      "file": "模板/批次冻结登记_空白.csv",
+      "sha256": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "bytes": 336
+    },
+    {
+      "file": "模板/案例材料登记_空白.csv",
+      "sha256": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "bytes": 473
+    },
+    {
+      "file": "模板/统计报告_空白.md",
+      "sha256": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "bytes": 2979
+    },
+    {
+      "file": "独立评分协议_v0.1.md",
+      "sha256": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "bytes": 10818
+    },
+    {
+      "file": "静态审查说明.md",
+      "sha256": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "bytes": 2558
+    }
+  ],
+  "manifest_scope": "固定协议正文、评分表副本、空白模板和静态审查说明。实际案例及锁定评分文件尚未登记，不将其虚构为已冻结材料。清单不包含自身哈希；正式批次冻结登记另记录本清单文件哈希。"
+}

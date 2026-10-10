@@ -1,0 +1,362 @@
+{
+  "checked_at": "2026-10-10T16:34:06.522477+08:00",
+  "review_type": "static_post_submission_review",
+  "score_table_changed": false,
+  "protocol_changed": false,
+  "original_records_changed": false,
+  "new_model_calls": 0,
+  "new_adjudication": false,
+  "original_reference_answers_read_this_review": false,
+  "all_checks_passed": true,
+  "protected_content_hash_collection_matches_pre_review": true,
+  "protected_files": [
+    {
+      "file": "候选比较评分表_v0.2.md",
+      "sha256_before_final_check": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_now": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "候选比较评分表草稿.md",
+      "sha256_before_final_check": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "sha256_now": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/材料版本清单.json",
+      "sha256_before_final_check": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "sha256_now": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "sha256_before_final_check": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "sha256_now": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/静态审查说明.md",
+      "sha256_before_final_check": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "sha256_now": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/材料/候选比较评分表_v0.2.md",
+      "sha256_before_final_check": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_now": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/分歧及裁定记录_空白.csv",
+      "sha256_before_final_check": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "sha256_now": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/原始记录锁定_空白.csv",
+      "sha256_before_final_check": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "sha256_now": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/原始评分记录_空白.csv",
+      "sha256_before_final_check": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "sha256_now": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/批次冻结登记_空白.csv",
+      "sha256_before_final_check": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "sha256_now": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/案例材料登记_空白.csv",
+      "sha256_before_final_check": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "sha256_now": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/统计报告_空白.md",
+      "sha256_before_final_check": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "sha256_now": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/共同材料.md",
+      "sha256_before_final_check": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "sha256_now": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/分歧处理方法.md",
+      "sha256_before_final_check": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "sha256_now": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256_before_final_check": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "sha256_now": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/材料清单.json",
+      "sha256_before_final_check": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "sha256_now": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/评分表_v0.2.md",
+      "sha256_before_final_check": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_now": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/评分记录_空白.csv",
+      "sha256_before_final_check": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "sha256_now": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/阅读说明.md",
+      "sha256_before_final_check": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "sha256_now": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/案例/CASE_001.txt",
+      "sha256_before_final_check": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "sha256_now": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/案例/CASE_002.txt",
+      "sha256_before_final_check": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "sha256_now": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/案例/CASE_003.txt",
+      "sha256_before_final_check": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "sha256_now": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/submission_lock.json",
+      "sha256_before_final_check": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "sha256_now": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/request.json",
+      "sha256_before_final_check": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "sha256_now": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_response.json",
+      "sha256_before_final_check": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "sha256_now": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_output.txt",
+      "sha256_before_final_check": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "sha256_now": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_reasoning.txt",
+      "sha256_before_final_check": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "sha256_now": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "sha256_before_final_check": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "sha256_now": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/metadata.json",
+      "sha256_before_final_check": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "sha256_now": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/submission_lock.json",
+      "sha256_before_final_check": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "sha256_now": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/request.json",
+      "sha256_before_final_check": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "sha256_now": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_response.json",
+      "sha256_before_final_check": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "sha256_now": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_output.txt",
+      "sha256_before_final_check": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "sha256_now": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_reasoning.txt",
+      "sha256_before_final_check": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "sha256_now": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "sha256_before_final_check": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "sha256_now": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/metadata.json",
+      "sha256_before_final_check": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "sha256_now": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "unchanged": true
+    }
+  ],
+  "original_locks": [
+    {
+      "rater": "R01",
+      "file": "request.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R01",
+      "file": "first_response.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R01",
+      "file": "first_output.txt",
+      "matches_lock": true
+    },
+    {
+      "rater": "R01",
+      "file": "first_reasoning.txt",
+      "matches_lock": true
+    },
+    {
+      "rater": "R01",
+      "file": "original_records.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R01",
+      "file": "metadata.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R02",
+      "file": "request.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R02",
+      "file": "first_response.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R02",
+      "file": "first_output.txt",
+      "matches_lock": true
+    },
+    {
+      "rater": "R02",
+      "file": "first_reasoning.txt",
+      "matches_lock": true
+    },
+    {
+      "rater": "R02",
+      "file": "original_records.json",
+      "matches_lock": true
+    },
+    {
+      "rater": "R02",
+      "file": "metadata.json",
+      "matches_lock": true
+    }
+  ],
+  "quote_checks": [
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "case_id": "CASE_001",
+      "quote": "该优势断言与其自身“对三个候选均相容”的说明直接矛盾，符合0分“无依据优势断言”条件。",
+      "matches_original": true,
+      "present_in_report": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "case_id": "CASE_001",
+      "quote": "没有提供任何支持“云南更强”的相对优势依据，比较结论与其引用依据直接矛盾。",
+      "matches_original": true,
+      "present_in_report": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "case_id": "CASE_002",
+      "quote": "它不属于0分，因为没有明确的无依据优势断言",
+      "matches_original": true,
+      "present_in_report": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "case_id": "CASE_002",
+      "quote": "没有明确说明现有线索无法区分主要候选及其证据缺口",
+      "matches_original": true,
+      "present_in_report": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "case_id": "CASE_002",
+      "quote": "没有明确的无依据优势断言，故不按0分，按1分。",
+      "matches_original": true,
+      "present_in_report": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "case_id": "CASE_003",
+      "quote": "明确说明现有线索无法区分第一候选与其他主要候选，并说明该缺口使当前材料无法为相对排序提供证据支持，暂定顺序不代表已证实的相对优势。",
+      "matches_original": true,
+      "present_in_report": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "case_id": "CASE_003",
+      "quote": "说明地名和区分线索缺口使当前材料无法支持相对排序；同时把排序限定为暂定、不代表云南已有已证实优势。",
+      "matches_original": true,
+      "present_in_report": true
+    }
+  ],
+  "links": [
+    {
+      "target": "../R01/original_records.json",
+      "exists": true
+    },
+    {
+      "target": "../R02/original_records.json",
+      "exists": true
+    },
+    {
+      "target": "../../评分者测试材料/共同材料.md",
+      "exists": true
+    },
+    {
+      "target": "../../../独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "exists": true
+    }
+  ],
+  "report_sha256": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137"
+}

@@ -1,0 +1,28 @@
+{
+  "created_at": "2026-10-10T16:57:16.996607+08:00",
+  "case_count": 8,
+  "case_ids": [
+    "CASE_004",
+    "CASE_005",
+    "CASE_006",
+    "CASE_007",
+    "CASE_008",
+    "CASE_009",
+    "CASE_010",
+    "CASE_011"
+  ],
+  "score_table_matches_original": true,
+  "all_evidence_quotes_match": true,
+  "all_rule_quotes_match": true,
+  "public_links_stay_inside_public_directory": true,
+  "reference_scores_separate": true,
+  "template_rows": 0,
+  "independent_ratings_performed": false,
+  "new_model_calls": 0,
+  "note": "静态编写检查不证明评分者一致性或所有边界均已覆盖。",
+  "original_files_verified": 114,
+  "all_original_files_unchanged": true,
+  "evidence_quotes_verified": 15,
+  "rule_quotes_verified": 22,
+  "temporary_script_removed": true
+}

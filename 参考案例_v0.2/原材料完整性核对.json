@@ -1,0 +1,704 @@
+{
+  "date": "2026-10-10",
+  "original_files_checked": 114,
+  "all_original_files_unchanged": true,
+  "new_model_calls": 0,
+  "files": [
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/评分结果解释与协议补充建议.md",
+      "sha256_before": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137",
+      "sha256_after": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.2/模板/阶段归档登记_空白.csv",
+      "sha256_before": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E",
+      "sha256_after": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/run_rater.py",
+      "sha256_before": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+      "sha256_after": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/配置与执行说明.md",
+      "sha256_before": "40363A96FEF7F2066EF1F5EE9138AF7D66DD58B78791EC63620EFDB209FCA98B",
+      "sha256_after": "40363A96FEF7F2066EF1F5EE9138AF7D66DD58B78791EC63620EFDB209FCA98B",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/冻结清单.sha256",
+      "sha256_before": "5BCA8C574CC4E1E1C25B594DCCBFAF6F2EA5C7E091043F72B7AA0A8E7738FACE",
+      "sha256_after": "5BCA8C574CC4E1E1C25B594DCCBFAF6F2EA5C7E091043F72B7AA0A8E7738FACE",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/原始记录锁定_空白.csv",
+      "sha256_before": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "sha256_after": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "sha256_before": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "sha256_after": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/案例/CASE_002.txt",
+      "sha256_before": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "sha256_after": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.2/独立评分协议_v0.2.md",
+      "sha256_before": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "sha256_after": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/submission_lock.json",
+      "sha256_before": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "sha256_after": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_导出.csv",
+      "sha256_before": "242EB6C1F567E0376E6180ABC8F5720E6BFBA04E8A81F59D7EF1EA489082B191",
+      "sha256_after": "242EB6C1F567E0376E6180ABC8F5720E6BFBA04E8A81F59D7EF1EA489082B191",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/案例/CASE_002.txt",
+      "sha256_before": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "sha256_after": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/首次提交记录.md",
+      "sha256_before": "006FB0D4C55B5FF8D02213EC4D322AA9F6A03A9A95BA1A0F9C9A587974AFA726",
+      "sha256_after": "006FB0D4C55B5FF8D02213EC4D322AA9F6A03A9A95BA1A0F9C9A587974AFA726",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.2/材料/候选比较评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/模板/阶段归档登记_空白.csv",
+      "sha256_before": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E",
+      "sha256_after": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256_before": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "sha256_after": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/批次冻结登记_空白.csv",
+      "sha256_before": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "sha256_after": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/独立评分协议_v0.2.md",
+      "sha256_before": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "sha256_after": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/材料清单.json",
+      "sha256_before": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "sha256_after": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/统计报告_空白.md",
+      "sha256_before": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "sha256_after": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_导出.csv",
+      "sha256_before": "6B4795A5CDE678C384E7560DD92968A9A55260E69F8DFFC9C8B244CF4C7E9BA9",
+      "sha256_after": "6B4795A5CDE678C384E7560DD92968A9A55260E69F8DFFC9C8B244CF4C7E9BA9",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/submission_lock.json",
+      "sha256_before": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "sha256_after": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "候选比较评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/提交后核对.json",
+      "sha256_before": "A0569B8C0219C7C7B5AD06CA32611996BC1BCB37BA08052F83B3F38360BA6C91",
+      "sha256_after": "A0569B8C0219C7C7B5AD06CA32611996BC1BCB37BA08052F83B3F38360BA6C91",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_response.json",
+      "sha256_before": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "sha256_after": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/submission_lock.json",
+      "sha256_before": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "sha256_after": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/案例材料登记_空白.csv",
+      "sha256_before": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "sha256_after": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.2/版本修改说明.md",
+      "sha256_before": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D",
+      "sha256_after": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256_before": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "sha256_after": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_output.txt",
+      "sha256_before": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "sha256_after": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/案例/CASE_003.txt",
+      "sha256_before": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "sha256_after": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/共同材料.md",
+      "sha256_before": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "sha256_after": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.2/材料版本清单.json",
+      "sha256_before": "7266B23D45E442A63A07D5DCC1AFC4E7C454835040940129F2D023286B1B3604",
+      "sha256_after": "7266B23D45E442A63A07D5DCC1AFC4E7C454835040940129F2D023286B1B3604",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_response.json",
+      "sha256_before": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "sha256_after": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.2/模板/同分理由复核记录_空白.csv",
+      "sha256_before": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F",
+      "sha256_after": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "sha256_before": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "sha256_after": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/材料/候选比较评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/submission_lock.json",
+      "sha256_before": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "sha256_after": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/材料版本清单.json",
+      "sha256_before": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "sha256_after": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/版本修改说明.md",
+      "sha256_before": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D",
+      "sha256_after": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/候选比较评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/共同材料.md",
+      "sha256_before": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "sha256_after": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/静态审查说明.md",
+      "sha256_before": "B504640DA389860340F1CE0429E6ED762D5BAA3C831448997FBDCFA4C95255D3",
+      "sha256_after": "B504640DA389860340F1CE0429E6ED762D5BAA3C831448997FBDCFA4C95255D3",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/参考答案_不发评分者/参考判分依据.md",
+      "sha256_before": "E610C64DC4BEE92FF1813218292D70637EEFACDB3707230B360A130F958BF5E0",
+      "sha256_after": "E610C64DC4BEE92FF1813218292D70637EEFACDB3707230B360A130F958BF5E0",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_response.json",
+      "sha256_before": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "sha256_after": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/分歧及裁定记录_空白.csv",
+      "sha256_before": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "sha256_after": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/静态审查说明.md",
+      "sha256_before": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "sha256_after": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/材料版本清单.json",
+      "sha256_before": "7266B23D45E442A63A07D5DCC1AFC4E7C454835040940129F2D023286B1B3604",
+      "sha256_after": "7266B23D45E442A63A07D5DCC1AFC4E7C454835040940129F2D023286B1B3604",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_output.txt",
+      "sha256_before": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "sha256_after": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/提交后核对.json",
+      "sha256_before": "A0569B8C0219C7C7B5AD06CA32611996BC1BCB37BA08052F83B3F38360BA6C91",
+      "sha256_after": "A0569B8C0219C7C7B5AD06CA32611996BC1BCB37BA08052F83B3F38360BA6C91",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/同分理由复核_登记.csv",
+      "sha256_before": "CE51B07AF06B0A1792093BC638927C3097E28AE353752896884D7EB4231DD3C9",
+      "sha256_after": "CE51B07AF06B0A1792093BC638927C3097E28AE353752896884D7EB4231DD3C9",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "sha256_before": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "sha256_after": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/分歧处理方法.md",
+      "sha256_before": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "sha256_after": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/metadata.json",
+      "sha256_before": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "sha256_after": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/文件完整性核对.json",
+      "sha256_before": "F0323C8C02EB96331A667F6619E74F0A455E1FBF92501E2AB3A343102DE7B308",
+      "sha256_after": "F0323C8C02EB96331A667F6619E74F0A455E1FBF92501E2AB3A343102DE7B308",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_output.txt",
+      "sha256_before": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "sha256_after": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/案例/CASE_001.txt",
+      "sha256_before": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "sha256_after": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/request.json",
+      "sha256_before": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "sha256_after": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/材料版本清单.json",
+      "sha256_before": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "sha256_after": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/模板/同分理由复核记录_空白.csv",
+      "sha256_before": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F",
+      "sha256_after": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/评分记录_空白.csv",
+      "sha256_before": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "sha256_after": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/案例材料登记_空白.csv",
+      "sha256_before": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "sha256_after": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_便读.md",
+      "sha256_before": "7923407D1A38C5BB3ABD1B8E482F6B099655DB3CCCA23D0EF07E393F3C3F9176",
+      "sha256_after": "7923407D1A38C5BB3ABD1B8E482F6B099655DB3CCCA23D0EF07E393F3C3F9176",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/材料/候选比较评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/静态审查说明.md",
+      "sha256_before": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "sha256_after": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/文件完整性核对.json",
+      "sha256_before": "F0323C8C02EB96331A667F6619E74F0A455E1FBF92501E2AB3A343102DE7B308",
+      "sha256_after": "F0323C8C02EB96331A667F6619E74F0A455E1FBF92501E2AB3A343102DE7B308",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/原始评分记录_空白.csv",
+      "sha256_before": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "sha256_after": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/案例/CASE_001.txt",
+      "sha256_before": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "sha256_after": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_response.json",
+      "sha256_before": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "sha256_after": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/metadata.json",
+      "sha256_before": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "sha256_after": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/评分结果解释与协议补充建议.md",
+      "sha256_before": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137",
+      "sha256_after": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/参考答案_不发评分者/参考答案_v0.1.json",
+      "sha256_before": "DD87E18A368C6186AF92A12D8C5AFCD178122EE43A264A5D35C0719242139A58",
+      "sha256_after": "DD87E18A368C6186AF92A12D8C5AFCD178122EE43A264A5D35C0719242139A58",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_便读.md",
+      "sha256_before": "7923407D1A38C5BB3ABD1B8E482F6B099655DB3CCCA23D0EF07E393F3C3F9176",
+      "sha256_after": "7923407D1A38C5BB3ABD1B8E482F6B099655DB3CCCA23D0EF07E393F3C3F9176",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_便读.md",
+      "sha256_before": "0D6F8F6CE2E0C52119FC5C8D0F4F9651CFDF8168A28418F4A9B2EF4912EE6A59",
+      "sha256_after": "0D6F8F6CE2E0C52119FC5C8D0F4F9651CFDF8168A28418F4A9B2EF4912EE6A59",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/README.md",
+      "sha256_before": "B308A9BDF61F8D558C11D3985734E8F66D140018E316D8FB94F21B943B1231B1",
+      "sha256_after": "B308A9BDF61F8D558C11D3985734E8F66D140018E316D8FB94F21B943B1231B1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/metadata.json",
+      "sha256_before": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "sha256_after": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_output.txt",
+      "sha256_before": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "sha256_after": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/分歧及裁定记录_空白.csv",
+      "sha256_before": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "sha256_after": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/材料/候选比较评分表_v0.2.md",
+      "sha256_before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "sha256_after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/案例/CASE_003.txt",
+      "sha256_before": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "sha256_after": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/request.json",
+      "sha256_before": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "sha256_after": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_reasoning.txt",
+      "sha256_before": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "sha256_after": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/分歧处理方法.md",
+      "sha256_before": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "sha256_after": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "sha256_before": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "sha256_after": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/候选比较评分表草稿.md",
+      "sha256_before": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "sha256_after": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_便读.md",
+      "sha256_before": "0D6F8F6CE2E0C52119FC5C8D0F4F9651CFDF8168A28418F4A9B2EF4912EE6A59",
+      "sha256_after": "0D6F8F6CE2E0C52119FC5C8D0F4F9651CFDF8168A28418F4A9B2EF4912EE6A59",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/阅读说明.md",
+      "sha256_before": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "sha256_after": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/评分者测试材料/评分记录_空白.csv",
+      "sha256_before": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "sha256_after": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_导出.csv",
+      "sha256_before": "242EB6C1F567E0376E6180ABC8F5720E6BFBA04E8A81F59D7EF1EA489082B191",
+      "sha256_after": "242EB6C1F567E0376E6180ABC8F5720E6BFBA04E8A81F59D7EF1EA489082B191",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/run_rater.py",
+      "sha256_before": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+      "sha256_after": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/request.json",
+      "sha256_before": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "sha256_after": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/原始记录锁定_空白.csv",
+      "sha256_before": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "sha256_after": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/配置与执行说明.md",
+      "sha256_before": "40363A96FEF7F2066EF1F5EE9138AF7D66DD58B78791EC63620EFDB209FCA98B",
+      "sha256_after": "40363A96FEF7F2066EF1F5EE9138AF7D66DD58B78791EC63620EFDB209FCA98B",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_reasoning.txt",
+      "sha256_before": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "sha256_after": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/阅读说明.md",
+      "sha256_before": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "sha256_after": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_reasoning.txt",
+      "sha256_before": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "sha256_after": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/阶段总结与冻结说明.md",
+      "sha256_before": "1DD22E9498D06702EDC178CE077E9E4EDD637C64225DF645F3726D03272BFEDC",
+      "sha256_after": "1DD22E9498D06702EDC178CE077E9E4EDD637C64225DF645F3726D03272BFEDC",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "sha256_before": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "sha256_after": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "unchanged": true
+    },
+    {
+      "file": "候选比较评分表草稿.md",
+      "sha256_before": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "sha256_after": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/metadata.json",
+      "sha256_before": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "sha256_after": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/原始评分记录_空白.csv",
+      "sha256_before": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "sha256_after": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_导出.csv",
+      "sha256_before": "6B4795A5CDE678C384E7560DD92968A9A55260E69F8DFFC9C8B244CF4C7E9BA9",
+      "sha256_after": "6B4795A5CDE678C384E7560DD92968A9A55260E69F8DFFC9C8B244CF4C7E9BA9",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/request.json",
+      "sha256_before": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "sha256_after": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_reasoning.txt",
+      "sha256_before": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "sha256_after": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/批次冻结登记_空白.csv",
+      "sha256_before": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "sha256_after": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/首次提交记录.md",
+      "sha256_before": "006FB0D4C55B5FF8D02213EC4D322AA9F6A03A9A95BA1A0F9C9A587974AFA726",
+      "sha256_after": "006FB0D4C55B5FF8D02213EC4D322AA9F6A03A9A95BA1A0F9C9A587974AFA726",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.1/管理文件清单.json",
+      "sha256_before": "A36CA1FC81F34EAAFCEEC862C68250EF4FF3E69A8FA0AB06E6848EC6134EE181",
+      "sha256_after": "A36CA1FC81F34EAAFCEEC862C68250EF4FF3E69A8FA0AB06E6848EC6134EE181",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "sha256_before": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "sha256_after": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/首次评分结果_冻结.csv",
+      "sha256_before": "E40210FD663350409549D4C6F9161BA705145DE60DAB23B6202DA0FA5DBD57A7",
+      "sha256_after": "E40210FD663350409549D4C6F9161BA705145DE60DAB23B6202DA0FA5DBD57A7",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/统计报告_空白.md",
+      "sha256_before": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "sha256_after": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/材料清单.json",
+      "sha256_before": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "sha256_after": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分阶段冻结_v0.1/冻结清单.json",
+      "sha256_before": "5D581CABEB8F73E992172BA2CA950836B22D074E73F623AD0357DD5AACA6BF2F",
+      "sha256_after": "5D581CABEB8F73E992172BA2CA950836B22D074E73F623AD0357DD5AACA6BF2F",
+      "unchanged": true
+    }
+  ],
+  "new_package_checks": {
+    "new_cases": 8,
+    "old_freeze_manifest_valid": true,
+    "public_and_management_manifests_valid": true,
+    "evidence_quotes_checked": 15,
+    "rule_quotes_checked": 22,
+    "score_table_unchanged": true,
+    "public_materials_answer_fields_absent": true,
+    "public_links_stay_inside": true,
+    "temporary_script_removed": true,
+    "new_model_calls": 0
+  }
+}

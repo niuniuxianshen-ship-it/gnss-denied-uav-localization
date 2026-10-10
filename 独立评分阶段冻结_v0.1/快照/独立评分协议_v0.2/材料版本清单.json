@@ -1,0 +1,72 @@
+{
+  "protocol_version": "v0.2",
+  "frozen_at": "2026-10-10T16:43:31.778134+08:00",
+  "change_scope": "程序字段及填写说明；不改变判分规则或原统计规则",
+  "score_table_version": "v0.2",
+  "score_table_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "files": [
+    {
+      "file": "材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "模板/同分理由复核记录_空白.csv",
+      "sha256": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F"
+    },
+    {
+      "file": "模板/阶段归档登记_空白.csv",
+      "sha256": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E"
+    },
+    {
+      "file": "版本修改说明.md",
+      "sha256": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D"
+    },
+    {
+      "file": "独立评分协议_v0.2.md",
+      "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809"
+    }
+  ],
+  "inherited_v0_1_files": [
+    {
+      "file": "独立评分协议_v0.1/材料版本清单.json",
+      "sha256": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616"
+    },
+    {
+      "file": "独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "sha256": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77"
+    },
+    {
+      "file": "独立评分协议_v0.1/静态审查说明.md",
+      "sha256": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB"
+    },
+    {
+      "file": "独立评分协议_v0.1/材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/分歧及裁定记录_空白.csv",
+      "sha256": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1"
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/原始记录锁定_空白.csv",
+      "sha256": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19"
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/原始评分记录_空白.csv",
+      "sha256": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92"
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/批次冻结登记_空白.csv",
+      "sha256": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152"
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/案例材料登记_空白.csv",
+      "sha256": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06"
+    },
+    {
+      "file": "独立评分协议_v0.1/模板/统计报告_空白.md",
+      "sha256": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819"
+    }
+  ],
+  "historical_first_scores_basis": "当时测试材料说明，不追溯标记为v0.2评分"
+}

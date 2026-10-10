@@ -1,0 +1,75 @@
+{
+  "materials_version": "v0.2",
+  "case_ids": [
+    "CASE_004",
+    "CASE_005",
+    "CASE_006",
+    "CASE_007",
+    "CASE_008",
+    "CASE_009",
+    "CASE_010",
+    "CASE_011"
+  ],
+  "material_type": "人工文本练习",
+  "scored_items": [
+    "②"
+  ],
+  "score_table_version": "v0.2",
+  "score_table_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "procedural_protocol_version": "v0.2",
+  "created_at": "2026-10-10T16:57:16.996607+08:00",
+  "files": [
+    {
+      "file": "共同材料说明.md",
+      "sha256": "A103ECFCEFCCB8E906204265008DB9870F611EB856EB6A557ED81465C5374434"
+    },
+    {
+      "file": "分歧裁定记录_空白.csv",
+      "sha256": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064"
+    },
+    {
+      "file": "案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837"
+    },
+    {
+      "file": "案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20"
+    },
+    {
+      "file": "案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E"
+    },
+    {
+      "file": "案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088"
+    },
+    {
+      "file": "案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF"
+    },
+    {
+      "file": "案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296"
+    },
+    {
+      "file": "案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7"
+    },
+    {
+      "file": "案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+    },
+    {
+      "file": "评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "阅读说明.md",
+      "sha256": "0F46A2F3015809A3EA6AFFBA58AED2763915BC62DED59FF6647961B8E78D1B8A"
+    }
+  ]
+}

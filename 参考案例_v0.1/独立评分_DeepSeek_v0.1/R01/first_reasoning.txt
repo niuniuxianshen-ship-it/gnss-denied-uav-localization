@@ -1,0 +1,27 @@
+Need to produce JSON only. Must include reference exposure statement, honest. I have not been given reference answers; but cannot claim isolation from training. Say I did not receive参考答案 in this request; cannot confirm historical/training exposure. I must evaluate ② only for three cases.
+
+CASE_001: The output lists three candidates. It says three clues compatible with all three candidates, but Yunnan clearly gets stronger existing evidence support. 依据就是画面有山地梯田、蓄水田块和林木. This is an unsupported advantage assertion: the clues are stated to be compatible with all three, no distinguishing evidence, yet claims Yunnan stronger. This meets 0分: 明确声称某候选具有更强证据支持，却没有提供支持这一相对优势的相关依据，或比较结论与其所引用的依据直接矛盾. It also directly contradicts its own statement. So score 0.
+
+CASE_002: Lists candidates, says common support clues for three candidates, need further comparison. It points out common clues but does not explain effect on relative ordering. It doesn't assert unsupported advantage? It just says need further comparison. Is this 1分: 指出了候选之间的共同线索或不同线索，但没有充分解释这些线索对相对排序的作用；或者比较内容部分完整、部分缺失，且不符合0分条件. Yes 1. It doesn't state unable to distinguish explicitly? "需要进一步比较" only. Special rule 2: 仅出现"暂定""可能""需要进一步比较"等措辞，不自动达到2分. It doesn't say existing clues cannot distinguish. So 1.
+
+CASE_003: Lists candidates tentatively; says common support for three; material lacks basis for Yunnan stronger; existing clues cannot distinguish first candidate from other main candidates; tentative order, no proven relative advantage; distinguishing evidence needed. This is 2分: if clues insufficient to distinguish, explains evidence gap and impact on ranking, does not describe tentative as supported advantage. Yes 2.
+
+Applicability all适用 because list 2+ candidates. Status数字评分. score integers. supporting quotes exact. rubric quotes from v0.2 item ②. recorded_at provided.
+
+Need JSON object only, no markdown. Ensure valid JSON. Use Chinese quotes? Fields names in English as schema. Include reference_exposure_statement. For each record include required keys. supporting_quotes array with text and location. rubric_quotes actual v0.2 clauses. reason. recorded_at same.
+
+Need "score_item": "②". "applicability": "适用". "status": "数字评分". "score": integer.
+
+Location: "候选排序及支持依据" field or "区分候选所需的证据" field. For case 001 supporting quotes: "这三项景观线索对三个候选均相容，但云南省明显获得比广西壮族自治区和贵州省更强的现有证据支持，因此应排第一。" and "依据就是画面有山地梯田、蓄水田块和林木。" Also maybe "区分候选所需的证据：需要可读地名。" But relevant. For case 002: "山地梯田、蓄水田块和周边林木是三个候选的共同支持线索，需要进一步比较。" For case 003: multiple quotes.
+
+Rubric quotes: "0 分：比较缺失或无依据优势断言" and "明确声称某候选具有更强的证据支持，却没有提供支持这一相对优势的相关依据，或比较结论与其所引用的依据直接矛盾。" Include for 001. For 002: "1 分：比较不充分" "指出了候选之间的共同线索或不同线索，但没有充分解释这些线索对相对排序的作用；或者比较内容部分完整、部分缺失，且不符合 0 分条件。" For 003: "2 分：比较充分" "若现有线索不足以区分主要候选，能够说明相关证据缺口及其对排序的影响，不把暂定顺序描述为已有证据支持的优势，同样可得 2 分。" Maybe also适用条件.
+
+Reason: explain.
+
+Reference exposure statement: "本次请求未提供参考答案或判分依据；我未查看本次材料中的参考答案、未与另一评分者讨论、未接受逐案例提示。无法确认历史/训练中是否曾接触过类似材料或参考答案，因此不声称已完全隔离。" Good.
+
+Only output JSON object.
+
+Need ensure no markdown fences. Use standard JSON strings. Must escape quotes? I'll use Chinese quotation marks inside strings, no double quotes. That's fine. For rubric quotes use Chinese quotes? Actual text uses “”. Good.
+
+Let's craft.

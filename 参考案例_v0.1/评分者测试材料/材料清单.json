@@ -1,0 +1,64 @@
+{
+  "version": "测试材料v0.1",
+  "case_origin": "人工文本练习，非真实模型输出",
+  "score_item": "②",
+  "rubric_version": "v0.2",
+  "rubric_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "scoring_performed": false,
+  "cases": [
+    {
+      "case_id": "CASE_001",
+      "file": "案例/CASE_001.txt",
+      "sha256": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122"
+    },
+    {
+      "case_id": "CASE_002",
+      "file": "案例/CASE_002.txt",
+      "sha256": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0"
+    },
+    {
+      "case_id": "CASE_003",
+      "file": "案例/CASE_003.txt",
+      "sha256": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89"
+    }
+  ],
+  "files": [
+    {
+      "file": "共同材料.md",
+      "sha256": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877"
+    },
+    {
+      "file": "分歧处理方法.md",
+      "sha256": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7"
+    },
+    {
+      "file": "分歧裁定记录_空白.csv",
+      "sha256": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064"
+    },
+    {
+      "file": "案例/CASE_001.txt",
+      "sha256": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122"
+    },
+    {
+      "file": "案例/CASE_002.txt",
+      "sha256": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0"
+    },
+    {
+      "file": "案例/CASE_003.txt",
+      "sha256": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89"
+    },
+    {
+      "file": "评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "阅读说明.md",
+      "sha256": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F"
+    }
+  ],
+  "scope": "本目录仅为评分者材料，案例没有参考分数或解释。清单不包含自身哈希。"
+}

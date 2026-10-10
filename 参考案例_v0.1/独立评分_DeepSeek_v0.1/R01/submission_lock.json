@@ -1,0 +1,31 @@
+{
+  "rater_id": "R01",
+  "locked_at": "2026-10-10T16:20:00.709150+08:00",
+  "files": [
+    {
+      "file": "request.json",
+      "sha256": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A"
+    },
+    {
+      "file": "first_response.json",
+      "sha256": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559"
+    },
+    {
+      "file": "first_output.txt",
+      "sha256": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9"
+    },
+    {
+      "file": "first_reasoning.txt",
+      "sha256": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A"
+    },
+    {
+      "file": "original_records.json",
+      "sha256": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1"
+    },
+    {
+      "file": "metadata.json",
+      "sha256": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86"
+    }
+  ],
+  "note": "First submission preserved; any later discussion or adjudication must be separate."
+}

@@ -1,0 +1,68 @@
+{
+  "version": "参考案例包v0.1",
+  "status": "静态审查完成，待独立评分测试",
+  "origin": "人工案例及编写者预设参考答案，非模型输出或独立评分结果",
+  "rubric_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "case_count": 3,
+  "model_runs": 0,
+  "independent_scoring_performed": false,
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "B308A9BDF61F8D558C11D3985734E8F66D140018E316D8FB94F21B943B1231B1"
+    },
+    {
+      "file": "参考答案_不发评分者/参考判分依据.md",
+      "sha256": "E610C64DC4BEE92FF1813218292D70637EEFACDB3707230B360A130F958BF5E0"
+    },
+    {
+      "file": "参考答案_不发评分者/参考答案_v0.1.json",
+      "sha256": "DD87E18A368C6186AF92A12D8C5AFCD178122EE43A264A5D35C0719242139A58"
+    },
+    {
+      "file": "评分者测试材料/共同材料.md",
+      "sha256": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877"
+    },
+    {
+      "file": "评分者测试材料/分歧处理方法.md",
+      "sha256": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7"
+    },
+    {
+      "file": "评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064"
+    },
+    {
+      "file": "评分者测试材料/材料清单.json",
+      "sha256": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_001.txt",
+      "sha256": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_002.txt",
+      "sha256": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_003.txt",
+      "sha256": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89"
+    },
+    {
+      "file": "评分者测试材料/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "评分者测试材料/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "评分者测试材料/阅读说明.md",
+      "sha256": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F"
+    },
+    {
+      "file": "静态审查说明.md",
+      "sha256": "B504640DA389860340F1CE0429E6ED762D5BAA3C831448997FBDCFA4C95255D3"
+    }
+  ],
+  "distribution": "评分者只接收评分者测试材料子目录；本清单含管理范围，亦不分发。"
+}
