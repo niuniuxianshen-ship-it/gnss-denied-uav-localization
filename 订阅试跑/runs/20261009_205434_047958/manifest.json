@@ -1,0 +1,19 @@
+{
+  "mode": "subscription_development",
+  "model_requested": "gpt-6.1-sol",
+  "cli_version": "codex-cli 0.160.1",
+  "login": "ChatGPT",
+  "reasoning_effort": "low",
+  "image_sha256": "d6c75712367a7bca76b176a9670ed5f7328a800fed063617aeef4140f30f9288",
+  "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+  "prompt_sha256": {
+    "A": "2e730fccceda2510cf2ccd067c3aaeec3109c3a3d7777b640a8e9a327cd003d5",
+    "B": "53343b6296215d6a5a5e6d036ce98dee513591d298f9ebe90b71bab1498d2d4e",
+    "C": "dec6056c1284796fb4e7b9b68e47b57c00e6585bf3421b3801c099efca42985e"
+  },
+  "disabled_skill_count": 190,
+  "history": "fresh ephemeral sessions",
+  "output_token_limit": "CLI default; not asserted equal to API 4096",
+  "retry_policy": "no runner retries; CLI transport may retry internally",
+  "limitations": "CLI base system prompt and managed policy remain; tool isolation must be inspected."
+}

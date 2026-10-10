@@ -1,0 +1,95 @@
+[
+  {
+    "variant": "A",
+    "started_at": "2026-10-09T21:58:50.261217+08:00",
+    "attempts": 1,
+    "http_status": 200,
+    "request_id": "未提供",
+    "answer": "广西壮族自治区",
+    "confidence": "72",
+    "format_issues": [],
+    "tool_calls": [],
+    "tool_detected": false,
+    "tool_note": "仅依据返回字段；服务端隐藏行为未确认",
+    "finish_reason": "stop",
+    "truncated_or_abnormal": false,
+    "model_returned": "deepseek-flash",
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+    "usage": {
+      "prompt_tokens": 2602,
+      "completion_tokens": 1299,
+      "total_tokens": 3901,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1287
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2602
+    },
+    "elapsed_seconds": 25.776
+  },
+  {
+    "variant": "B",
+    "started_at": "2026-10-09T21:59:16.201654+08:00",
+    "attempts": 1,
+    "http_status": 200,
+    "request_id": "未提供",
+    "answer": "广西壮族自治区",
+    "confidence": "70",
+    "format_issues": [],
+    "tool_calls": [],
+    "tool_detected": false,
+    "tool_note": "仅依据返回字段；服务端隐藏行为未确认",
+    "finish_reason": "stop",
+    "truncated_or_abnormal": false,
+    "model_returned": "deepseek-flash",
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+    "usage": {
+      "prompt_tokens": 2678,
+      "completion_tokens": 2525,
+      "total_tokens": 5203,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 2245
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2678
+    },
+    "elapsed_seconds": 29.149
+  },
+  {
+    "variant": "C",
+    "started_at": "2026-10-09T21:59:45.517598+08:00",
+    "attempts": 1,
+    "http_status": 200,
+    "request_id": "未提供",
+    "answer": "无法判断",
+    "confidence": "65",
+    "format_issues": [],
+    "tool_calls": [],
+    "tool_detected": false,
+    "tool_note": "仅依据返回字段；服务端隐藏行为未确认",
+    "finish_reason": "stop",
+    "truncated_or_abnormal": false,
+    "model_returned": "deepseek-flash",
+    "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+    "usage": {
+      "prompt_tokens": 2782,
+      "completion_tokens": 3368,
+      "total_tokens": 6150,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 3046
+      },
+      "prompt_cache_hit_tokens": 0,
+      "prompt_cache_miss_tokens": 2782
+    },
+    "elapsed_seconds": 36.74
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "mode": "offline",
+  "network_requests": 0,
+  "model_runs": 0,
+  "passed_checks": [
+    "PNG CRC、解压、尺寸及无附属块",
+    "冻结图片/附录哈希",
+    "三版共用规则无矛盾",
+    "实际图片Base64往返",
+    "一次单user消息且无历史",
+    "参数一致及请求大小",
+    "标准正文解析",
+    "length截断检测",
+    "tool_calls违规检测",
+    "行政区/分数错误检测",
+    "C无候选拒答解析"
+  ],
+  "image_sha256": "D6C75712367A7BCA76B176A9670ED5F7328A800FED063617AEEF4140F30F9288",
+  "appendix_sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+  "png": {
+    "dimensions": [
+      3000,
+      2000
+    ],
+    "chunks": [
+      "IDAT",
+      "IEND",
+      "IHDR"
+    ],
+    "crc_and_decompression": "pass"
+  },
+  "request_bytes": {
+    "A": 22063473,
+    "B": 22063857,
+    "C": 22064400
+  },
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "enabled"
+    },
+    "reasoning_effort": "low",
+    "max_tokens": 4096,
+    "stream": false,
+    "tool_choice": "none",
+    "response_format": {
+      "type": "text"
+    }
+  },
+  "prompt_sha256": {
+    "A": "E3790775E2C634DF6DC884D84529A6EF8F1DF1E49A54C89576BF2A35970EEA2C",
+    "B": "0EBB9D90D5677109AD92B09A46CFA887044A05F62A2929065ABB0A49D246FF35",
+    "C": "E36D7177B7D956B58FF94D7161B45EF3ED25915DAB48D1147B00A4679F6A3565"
+  },
+  "shared_rule": "三版均可依据画面中可见的信息、共同参考附录和模型已有地理知识进行判断，但不得联网、读取图片元数据或答案文件；模型已有地理知识不自动视为已验证事实，共同附录缺少相关条目也不自动构成必须拒答的理由。",
+  "environment": {
+    "service_side_memory": "未确认",
+    "hidden_instructions": "未确认",
+    "server_image_processing": "未确认",
+    "seed": "不可控（未发送）",
+    "temperature": "思考模式文档说明无效，未发送"
+  }
+}

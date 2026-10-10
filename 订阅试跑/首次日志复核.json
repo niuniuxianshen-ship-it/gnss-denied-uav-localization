@@ -1,0 +1,204 @@
+{
+  "mode": "existing_logs_only",
+  "model_runs": 0,
+  "records": [
+    {
+      "variant": "A",
+      "checks": {
+        "completed": true,
+        "usage_events": [
+          {
+            "type": "turn.completed",
+            "usage": {
+              "input_tokens": 18605,
+              "cached_input_tokens": 0,
+              "cache_write_input_tokens": 0,
+              "output_tokens": 40,
+              "reasoning_output_tokens": 18
+            }
+          }
+        ],
+        "failure_events": [],
+        "transport_or_error_events": [
+          {
+            "type": "error",
+            "message": "Reconnecting... 2/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 3/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 4/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 5/5 (request timed out)"
+          }
+        ],
+        "item_warning_events": [
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_0",
+              "type": "error",
+              "message": "Codex is ignoring 1 unrecognized configuration setting. Check for typos or deprecated settings.\n  session-flags: `tools.view_image` is ignored."
+            }
+          },
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_1",
+              "type": "error",
+              "message": "Codex is ignoring 1 unrecognized configuration setting. Check for typos or deprecated settings.\n  session-flags: `tools.view_image` is ignored."
+            }
+          },
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_2",
+              "type": "error",
+              "message": "Falling back from WebSockets to HTTPS transport. request timed out"
+            }
+          }
+        ],
+        "unexpected_item_types": [],
+        "non_json_lines": 0,
+        "note": "A completed turn can have recovered transport errors. Error items are not tool calls. Manually inspect all warnings; output completeness and tool use remain separate checks."
+      }
+    },
+    {
+      "variant": "B",
+      "checks": {
+        "completed": true,
+        "usage_events": [
+          {
+            "type": "turn.completed",
+            "usage": {
+              "input_tokens": 18708,
+              "cached_input_tokens": 0,
+              "cache_write_input_tokens": 0,
+              "output_tokens": 236,
+              "reasoning_output_tokens": 34
+            }
+          }
+        ],
+        "failure_events": [],
+        "transport_or_error_events": [
+          {
+            "type": "error",
+            "message": "Reconnecting... 2/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 3/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 4/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 5/5 (request timed out)"
+          }
+        ],
+        "item_warning_events": [
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_0",
+              "type": "error",
+              "message": "Codex is ignoring 1 unrecognized configuration setting. Check for typos or deprecated settings.\n  session-flags: `tools.view_image` is ignored."
+            }
+          },
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_1",
+              "type": "error",
+              "message": "Codex is ignoring 1 unrecognized configuration setting. Check for typos or deprecated settings.\n  session-flags: `tools.view_image` is ignored."
+            }
+          },
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_2",
+              "type": "error",
+              "message": "Falling back from WebSockets to HTTPS transport. request timed out"
+            }
+          }
+        ],
+        "unexpected_item_types": [],
+        "non_json_lines": 0,
+        "note": "A completed turn can have recovered transport errors. Error items are not tool calls. Manually inspect all warnings; output completeness and tool use remain separate checks."
+      }
+    },
+    {
+      "variant": "C",
+      "checks": {
+        "completed": true,
+        "usage_events": [
+          {
+            "type": "turn.completed",
+            "usage": {
+              "input_tokens": 18848,
+              "cached_input_tokens": 8960,
+              "cache_write_input_tokens": 0,
+              "output_tokens": 297,
+              "reasoning_output_tokens": 52
+            }
+          }
+        ],
+        "failure_events": [],
+        "transport_or_error_events": [
+          {
+            "type": "error",
+            "message": "Reconnecting... 2/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 3/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 4/5 (request timed out)"
+          },
+          {
+            "type": "error",
+            "message": "Reconnecting... 5/5 (request timed out)"
+          }
+        ],
+        "item_warning_events": [
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_0",
+              "type": "error",
+              "message": "Codex is ignoring 1 unrecognized configuration setting. Check for typos or deprecated settings.\n  session-flags: `tools.view_image` is ignored."
+            }
+          },
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_1",
+              "type": "error",
+              "message": "Codex is ignoring 1 unrecognized configuration setting. Check for typos or deprecated settings.\n  session-flags: `tools.view_image` is ignored."
+            }
+          },
+          {
+            "type": "item.completed",
+            "item": {
+              "id": "item_2",
+              "type": "error",
+              "message": "Falling back from WebSockets to HTTPS transport. request timed out"
+            }
+          }
+        ],
+        "unexpected_item_types": [],
+        "non_json_lines": 0,
+        "note": "A completed turn can have recovered transport errors. Error items are not tool calls. Manually inspect all warnings; output completeness and tool use remain separate checks."
+      }
+    }
+  ]
+}

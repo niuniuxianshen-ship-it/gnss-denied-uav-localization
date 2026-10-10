@@ -1,0 +1,96 @@
+{
+  "checks": [
+    {
+      "variant": "A",
+      "raw_text_matches_response": true,
+      "submitted_text_matches_frozen_inputs": true,
+      "tool_calls_found": false,
+      "finish_reason": "stop"
+    },
+    {
+      "variant": "B",
+      "raw_text_matches_response": true,
+      "submitted_text_matches_frozen_inputs": true,
+      "tool_calls_found": false,
+      "finish_reason": "stop"
+    },
+    {
+      "variant": "C",
+      "raw_text_matches_response": true,
+      "submitted_text_matches_frozen_inputs": true,
+      "tool_calls_found": false,
+      "finish_reason": "stop"
+    }
+  ],
+  "newline_serialization_repairs": [
+    {
+      "file": "A_output.txt",
+      "old_sha256": "CE4A202FFA5B85BC010CD2123195841D2699ADC192FF6BA06E4B6D700B47CD9B",
+      "new_sha256": "4EFA3382BAAD3FE37F9D2A1BC0904828E2E9A6E574B67CA8F5DC215C8280F437",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "A_reasoning.txt",
+      "old_sha256": "0B5AD4662ACA881639AF8915EFB5BB2702FA4F13FA4264933E20A0124D3288A2",
+      "new_sha256": "B2BF9B490E05EE0F9FDC0E1ABAE1C7D032F6BC8BC26CD88C9FE19B094E39ABB4",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "A_input.txt",
+      "old_sha256": "CF9E0C13FF0EC74F5F9DA0C988B88AE1149536BE55CD01E6CE6C9C1A3CB79E8F",
+      "new_sha256": "D249F086A188881E7CA944325D40D5DF72AA6350DAD2FF7EEE85E89CB8B17DD3",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "B_output.txt",
+      "old_sha256": "6DABAC86F90735C3EC9B7517D1998F3ADDB7869E36ED8D1F2E7C866A45CCA778",
+      "new_sha256": "807B691A9ECFB205E090FB9C4180BF8B819215B897411898649608860A9A2108",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "B_reasoning.txt",
+      "old_sha256": "A808D329BFDD7D642278657C537E65506AF406C91718AB36F4A95BEEB374B713",
+      "new_sha256": "91E9F1BEF77F4CD2835777AE65F73079B859AA7C2A7EDA6A543E759E6D99B8A0",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "B_input.txt",
+      "old_sha256": "7DD414E74DF39D695765D94F5521633ECB153D1DAB07E2A08216A74CE9C9E31D",
+      "new_sha256": "CE168AF6663E88C79FE8E7F1D76A4BB307465E386B07513C6ECF5C2AEEF58967",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "C_output.txt",
+      "old_sha256": "6501C0957C30FD0B9B6884280CF9583282B90B2FF453B8F79C788BE518FB5FCF",
+      "new_sha256": "45A8CA3FD9167DF015503D084B555636D60BC279040CA6986F5975DB27AA5041",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "C_reasoning.txt",
+      "old_sha256": "4F7B13D3057280FACD363C8B1E5EA561CD7D0F6363F399CDE23D538EB98A6695",
+      "new_sha256": "E9728AED48D69C1C54BF2D322BCCD83998DD4591F91E94E5C89F1CEF5608BCAF",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    },
+    {
+      "file": "C_input.txt",
+      "old_sha256": "5C00808739B50C8F7E768A0EC52B51D169564BBFEB84C1F9F521AF333ECC59D8",
+      "new_sha256": "FF84CC768C3A0B7186A2342ECA876715DE318C81B8A1DC2B140B453A482AB837",
+      "change": "Windows newline serialization only; restored from raw JSON or frozen submitted inputs"
+    }
+  ],
+  "credentials_written_in_deliverables": false,
+  "new_dataset_photos": 0,
+  "post_run_model_requests": 0,
+  "offline_check_count": 11,
+  "total_transport_attempts": {
+    "A": 2,
+    "B": 1,
+    "C": 1
+  },
+  "successful_response_count": {
+    "A": 1,
+    "B": 1,
+    "C": 1
+  },
+  "environment_isolation": "未确认"
+}

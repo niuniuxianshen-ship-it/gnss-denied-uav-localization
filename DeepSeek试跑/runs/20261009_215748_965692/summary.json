@@ -1,0 +1,9 @@
+[
+  {
+    "variant": "A",
+    "started_at": "2026-10-09T21:57:49.064949+08:00",
+    "attempts": 1,
+    "error": "URLError; response/transport failure; no retry",
+    "elapsed_seconds": 0.046
+  }
+]
