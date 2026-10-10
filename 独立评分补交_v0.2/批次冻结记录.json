@@ -1,0 +1,86 @@
+{
+  "batch_id": "CASE004_011_RESUBMISSION_V02_20261010T174133",
+  "frozen_at": "2026-10-10T17:41:33.820895+08:00",
+  "batch_type": "同批次双评分者补交；人工文本第②项练习",
+  "raters": [
+    "A",
+    "B"
+  ],
+  "case_ids": [
+    "CASE_004",
+    "CASE_005",
+    "CASE_006",
+    "CASE_007",
+    "CASE_008",
+    "CASE_009",
+    "CASE_010",
+    "CASE_011"
+  ],
+  "scored_items": [
+    "②"
+  ],
+  "source_delivery_folder": "独立评分准备_v0.1/发放包_v0.1",
+  "input_hashes": {
+    "案例/CASE_004.txt": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+    "案例/CASE_005.txt": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+    "案例/CASE_006.txt": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+    "案例/CASE_007.txt": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+    "案例/CASE_008.txt": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+    "案例/CASE_009.txt": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+    "案例/CASE_010.txt": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+    "案例/CASE_011.txt": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+    "评分表_v0.2.md": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+    "评分记录_空白.csv": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+    "阅读说明.md": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D"
+  },
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "enabled"
+    },
+    "reasoning_effort": "low",
+    "max_tokens": 32768,
+    "stream": false,
+    "tool_choice": "none",
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "input_copies_byte_identical": true,
+  "instructions_identical_except_id_and_actual_start_time": true,
+  "instruction_change_scope": "共同增加逐字引文保留标点的格式提醒，非判分规则增量，不含逐例提示",
+  "runner_sha256": "0FA7AFE512B7532A825F6AB6E0A63FB278DE62536534ABCC6F27AD5682A8A808",
+  "settings_sha256": "6D906ED2B86D2D862A5F59FEFB7FB162740FCB276C7A46622A6CA3D1BBECC397",
+  "prior_archives": [
+    {
+      "folder": "独立评分执行_v0.1",
+      "manifest": "本轮归档清单.json",
+      "sha256": "099AB6B82450C655C11300414BFA96F51CE7A36C3551E47B18946A69B5A90684"
+    },
+    {
+      "folder": "独立评分补交_v0.1",
+      "manifest": "补交归档清单.json",
+      "sha256": "34FE15CA550A361D7999E0BEF49504F74A0C632616B59FF7DCBCA2C5E243F453"
+    },
+    {
+      "folder": "独立评分状态复核_v0.1",
+      "manifest": "复核文件清单.json",
+      "sha256": "9E4CD4003D21960D2918647B1EA2D187C18E7200471B092C36E391B6EC48BA6F"
+    },
+    {
+      "folder": "独立评分状态复核_v0.1",
+      "manifest": "复核补充清单.json",
+      "sha256": "1684829B0A89A33567D0A80EF8C6E91DB5C85C28AA648531387492848D5B04AE"
+    }
+  ],
+  "previous_submissions_imported": false,
+  "history_or_parent_context_sent": false,
+  "reference_answers_or_opponent_results_sent": false,
+  "initial_attempts_each": 1,
+  "automatic_retries": 0,
+  "network_calls_before_freeze": 0,
+  "statistics_protocol": "独立评分协议v0.2继承v0.1的原始有效配对及互斥排除规定",
+  "qualification_scope": "结构、固定材料及引文来源核对；不是评分正确性或参考答案比对。引文格式偏差单独保留，不静默修正。",
+  "server_side_memory_and_hidden_settings": "未确认",
+  "seed": "不可控（未提供）"
+}

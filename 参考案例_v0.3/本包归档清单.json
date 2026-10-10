@@ -1,0 +1,101 @@
+{
+  "material_version": "v0.3",
+  "archive_type": "新人工案例及设计者参考静态归档，不是评分结果",
+  "archived_at": "2026-10-10T18:00:08.145398+08:00",
+  "files": [
+    {
+      "file": "README.md",
+      "sha256": "A5146B6E5A109502A12456646E724D001B97D63E8B8F15CCB144FA48401C1256"
+    },
+    {
+      "file": "参考答案_不发评分者/参考判分依据.md",
+      "sha256": "B817368D8492E329083255D13407568EB1768E2BCEE3820DE3A054C56DD673BF"
+    },
+    {
+      "file": "参考答案_不发评分者/参考答案_v0.3.json",
+      "sha256": "4C3672F4F0078CBA3EE9B0E950D630F293328B4E7F7D33AA539952E8C3BC2592"
+    },
+    {
+      "file": "最终发放文件哈希.json",
+      "sha256": "595FB4935757ABE159144AE7F0632EE6A6613C0790068AE6D1EDCAAC35ABA830"
+    },
+    {
+      "file": "最终发放文件哈希.sha256",
+      "sha256": "62AC6578FE44BD6C6A7B5B4330D3F8552632ECB907C263187D5C2AD149F0AC84"
+    },
+    {
+      "file": "评分发放包_v0.3.zip",
+      "sha256": "4FFFD98ED8005E300B20B9BED04D4FB97178963F18CA9B7380F84ADAF8C200F2"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_012.txt",
+      "sha256": "84AF1D8D0F00269F3604AFA7D888383E489739089E3BCAFCE088B0296948144B"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_013.txt",
+      "sha256": "B7591246512788E2C6146847A6034EE4D5A91F925112B190D157C40D1133E47C"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_014.txt",
+      "sha256": "AEEFEF52919F24510EA294133974B079CFE06A071CE701CAA5DE2848AAB53C89"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_015.txt",
+      "sha256": "C51FAD84E44C8221EEF8D17161465EDAE0367F70BDD1FDE7AE1A68028BDF6DB6"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_016.txt",
+      "sha256": "AC849349BAE7B27BB4ED0AF34691731362BAC6914A82899B897308DE7A360FC7"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_017.txt",
+      "sha256": "71F0791515DC0426508FA55D95FFE362178589D674B148A3821EA48B3F7C7284"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_018.txt",
+      "sha256": "616F4066980EE75793A2FA2C2E44398985272AB3039CD56725108D3AE8F2218D"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_019.txt",
+      "sha256": "8C48032E60A8D3018B614EDB0B61D6F3A4B1970D2A13BA252D98DC63F99FC286"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_020.txt",
+      "sha256": "B8ADB323164863002910EB4D60A543D4C40D8CE94AE6563A18D9E9A859C5D0CE"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_021.txt",
+      "sha256": "DF1DA4C9BECD7156D733AA2E3A0ADF9CCE563CE2E3C088A037CC2CB1F8E5890D"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_022.txt",
+      "sha256": "6E29DA7D56B90BE142A06305B6EB202E5F429574D200BC263B7DE77F0AD572FE"
+    },
+    {
+      "file": "评分者测试材料/案例/CASE_023.txt",
+      "sha256": "214AC39994EA25F1D6AF44A9458E45F526E9123E22253378810E742300E71056"
+    },
+    {
+      "file": "评分者测试材料/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "评分者测试材料/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "评分者测试材料/阅读说明.md",
+      "sha256": "AF5C168565083DFC708C22C30EABA5CA6A6F3AC6F0BBA0F28048BB55DE004C1B"
+    },
+    {
+      "file": "静态审查记录.json",
+      "sha256": "53B642874E01FF3BF1A1855A2014BCC7B8F253831351A16411DCEF0F44CFBE79"
+    },
+    {
+      "file": "静态审查说明.md",
+      "sha256": "551E0503E1B43219C5BF38206D0E92A58E56790BF8500B66557B96A6E45E87A6"
+    }
+  ],
+  "reference_files_not_delivered": true,
+  "new_model_calls": 0
+}

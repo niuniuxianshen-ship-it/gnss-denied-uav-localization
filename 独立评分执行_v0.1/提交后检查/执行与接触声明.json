@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "A": {
+      "rater_id": "A",
+      "endpoint": "https://api.deepseek.com/chat/completions",
+      "model_requested": "DeepSeek-V4.1-Flash",
+      "api_model": "deepseek-flash",
+      "settings": {
+        "model": "deepseek-flash",
+        "thinking": {
+          "type": "enabled"
+        },
+        "reasoning_effort": "low",
+        "max_tokens": 16384,
+        "stream": false,
+        "tool_choice": "none",
+        "response_format": {
+          "type": "json_object"
+        }
+      },
+      "material_hashes": {
+        "阅读说明.md": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+        "评分表_v0.2.md": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+        "评分记录_空白.csv": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+        "案例/CASE_004.txt": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+        "案例/CASE_005.txt": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+        "案例/CASE_006.txt": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+        "案例/CASE_007.txt": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+        "案例/CASE_008.txt": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+        "案例/CASE_009.txt": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+        "案例/CASE_010.txt": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+        "案例/CASE_011.txt": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+      },
+      "started_at": "2026-10-10T17:22:13.577668+08:00",
+      "attempts": 1,
+      "retries": 0,
+      "history_messages": 0,
+      "tools_supplied": false,
+      "parent_context_submitted": false,
+      "reference_answers_submitted": false,
+      "opponent_results_submitted": false,
+      "service_side_memory_and_hidden_settings": "未确认",
+      "seed": "不可控（未提供）",
+      "time_definition": "started_at为API批次请求起始；received_at和locked_at为客户端实际时间；CSV提交时间无法确认时允许未确认",
+      "http_status": 200,
+      "received_at": "2026-10-10T17:23:04.196176+08:00",
+      "model_returned": "deepseek-flash",
+      "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+      "usage": {
+        "prompt_tokens": 5374,
+        "completion_tokens": 11573,
+        "total_tokens": 16947,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 8922
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 5374
+      },
+      "finish_reason": "stop",
+      "tool_calls": [],
+      "elapsed_seconds": 50.617
+    },
+    "B": {
+      "rater_id": "B",
+      "endpoint": "https://api.deepseek.com/chat/completions",
+      "model_requested": "DeepSeek-V4.1-Flash",
+      "api_model": "deepseek-flash",
+      "settings": {
+        "model": "deepseek-flash",
+        "thinking": {
+          "type": "enabled"
+        },
+        "reasoning_effort": "low",
+        "max_tokens": 16384,
+        "stream": false,
+        "tool_choice": "none",
+        "response_format": {
+          "type": "json_object"
+        }
+      },
+      "material_hashes": {
+        "阅读说明.md": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+        "评分表_v0.2.md": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+        "评分记录_空白.csv": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+        "案例/CASE_004.txt": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+        "案例/CASE_005.txt": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+        "案例/CASE_006.txt": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+        "案例/CASE_007.txt": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+        "案例/CASE_008.txt": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+        "案例/CASE_009.txt": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+        "案例/CASE_010.txt": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+        "案例/CASE_011.txt": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+      },
+      "started_at": "2026-10-10T17:22:22.568960+08:00",
+      "attempts": 1,
+      "retries": 0,
+      "history_messages": 0,
+      "tools_supplied": false,
+      "parent_context_submitted": false,
+      "reference_answers_submitted": false,
+      "opponent_results_submitted": false,
+      "service_side_memory_and_hidden_settings": "未确认",
+      "seed": "不可控（未提供）",
+      "time_definition": "started_at为API批次请求起始；received_at和locked_at为客户端实际时间；CSV提交时间无法确认时允许未确认",
+      "http_status": 200,
+      "received_at": "2026-10-10T17:23:27.062737+08:00",
+      "model_returned": "deepseek-flash",
+      "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+      "usage": {
+        "prompt_tokens": 5374,
+        "completion_tokens": 16384,
+        "total_tokens": 21758,
+        "prompt_tokens_details": {
+          "cached_tokens": 128
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 13706
+        },
+        "prompt_cache_hit_tokens": 128,
+        "prompt_cache_miss_tokens": 5246
+      },
+      "finish_reason": "length",
+      "tool_calls": [],
+      "error": "JSONDecodeError: Unterminated string starting at: line 1 column 177 (char 176)",
+      "elapsed_seconds": 64.493
+    }
+  },
+  "exposure_statements": {
+    "A": "本轮请求仅提供阅读说明、评分表v0.2、空白评分记录和CASE_004至CASE_011八个案例文件。我未收到也未查看本轮参考答案、参考分数、管理索引或独立静态审查记录；评分表v0.2自身含“静态审查完成”字样，但这不是独立静态审查记录。服务端历史、训练材料或隐藏条件无法确认，因此不声称已完全隔离；本声明仅限本次可见上下文。",
+    "B": "本轮仅在本请求上下文中收到阅读说明、评分表v0.2、空白评分记录及CASE_004至CASE_011案例文件；未在本轮上下文中看到参考答案、参考分数、管理索引或静态审查记录。但服务端历史、训练材料或隐藏条件无法确认，因此不能声称已完全隔离，对这些内容的接触情况为未确认。"
+  },
+  "submission_locks": {
+    "A": {
+      "rater_id": "A",
+      "locked_at": "2026-10-10T17:23:04.197595+08:00",
+      "files": [
+        {
+          "file": "first_output.txt",
+          "sha256": "3D9825DA0F3DB2C32C3AAD17FCB024CA46512ED1F7E22F4AE25B5F7985186A5B"
+        },
+        {
+          "file": "first_reasoning.txt",
+          "sha256": "D41ED6F8B17E30190B907E4DF299DBBC1971AAC46AE6BE40CDA5E5650C0B8F3D"
+        },
+        {
+          "file": "first_response.json",
+          "sha256": "6AC780DE76E04F594A0E7A29673824686CCCBAF2F18E167C3E443E04C436962C"
+        },
+        {
+          "file": "metadata.json",
+          "sha256": "58770CA0E003A90651AB13C28E5A80DEFC80FF16B192FAD0F86C841086E04437"
+        },
+        {
+          "file": "original_submission.json",
+          "sha256": "2656722E3E05A5665CD7031AD538F00629A4835EFDC0EF0317F5FF9E687869FE"
+        },
+        {
+          "file": "request.json",
+          "sha256": "F537A465A2E0B00064D848184ED18CF74222C2FAD1E9833D5F9587CE3746A10B"
+        },
+        {
+          "file": "submitted.csv",
+          "sha256": "33C8C96203A906E186C9C7CF9CE50F885AE08B71D3873AA4B78F2DF9779302EB"
+        }
+      ],
+      "note": "首次原始提交；后续检查、讨论、裁定另存，不覆盖。"
+    },
+    "B": {
+      "rater_id": "B",
+      "locked_at": "2026-10-10T17:23:27.065111+08:00",
+      "files": [
+        {
+          "file": "first_output.txt",
+          "sha256": "D73B4C814F2F103E3EF23CE945D95B1A347F1550ADED0223CA2D133CB319FD8A"
+        },
+        {
+          "file": "first_reasoning.txt",
+          "sha256": "5108AB11405017EAA9767009F873D72BDF6D34C743EB20BAFB2EF89F12F73931"
+        },
+        {
+          "file": "first_response.json",
+          "sha256": "BA7485781D5D5C27D56792BCACC87468457A296D33E4A5FBE468B34A1112222A"
+        },
+        {
+          "file": "metadata.json",
+          "sha256": "5485743DD9F47CEEAE82E10185A853AE1D8C1C3A0564428B566E427D51963D79"
+        },
+        {
+          "file": "request.json",
+          "sha256": "F5327012104D600E0C090DF35D68907A583ADD64211EFC8CE9FD98812487F9F4"
+        }
+      ],
+      "note": "首次原始提交；后续检查、讨论、裁定另存，不覆盖。"
+    }
+  },
+  "B_declaration_source": "首次正文开头已完整保存的独立字符串；不修复截断JSON或抽取正式评分"
+}

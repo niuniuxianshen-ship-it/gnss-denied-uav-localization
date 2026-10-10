@@ -1,0 +1,124 @@
+{
+  "material_version": "v0.3",
+  "fixed_at": "2026-10-10T18:00:08.145398+08:00",
+  "case_ids": [
+    "CASE_012",
+    "CASE_013",
+    "CASE_014",
+    "CASE_015",
+    "CASE_016",
+    "CASE_017",
+    "CASE_018",
+    "CASE_019",
+    "CASE_020",
+    "CASE_021",
+    "CASE_022",
+    "CASE_023"
+  ],
+  "scored_items": [
+    "②"
+  ],
+  "rubric_version": "v0.2",
+  "rubric_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "template_sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+  "public_file_count": 15,
+  "public_files": [
+    {
+      "file": "阅读说明.md",
+      "sha256": "AF5C168565083DFC708C22C30EABA5CA6A6F3AC6F0BBA0F28048BB55DE004C1B",
+      "size_bytes": 6051
+    },
+    {
+      "file": "评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "size_bytes": 8175
+    },
+    {
+      "file": "评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "size_bytes": 261
+    },
+    {
+      "file": "案例/CASE_012.txt",
+      "sha256": "84AF1D8D0F00269F3604AFA7D888383E489739089E3BCAFCE088B0296948144B",
+      "size_bytes": 616
+    },
+    {
+      "file": "案例/CASE_013.txt",
+      "sha256": "B7591246512788E2C6146847A6034EE4D5A91F925112B190D157C40D1133E47C",
+      "size_bytes": 934
+    },
+    {
+      "file": "案例/CASE_014.txt",
+      "sha256": "AEEFEF52919F24510EA294133974B079CFE06A071CE701CAA5DE2848AAB53C89",
+      "size_bytes": 772
+    },
+    {
+      "file": "案例/CASE_015.txt",
+      "sha256": "C51FAD84E44C8221EEF8D17161465EDAE0367F70BDD1FDE7AE1A68028BDF6DB6",
+      "size_bytes": 731
+    },
+    {
+      "file": "案例/CASE_016.txt",
+      "sha256": "AC849349BAE7B27BB4ED0AF34691731362BAC6914A82899B897308DE7A360FC7",
+      "size_bytes": 1139
+    },
+    {
+      "file": "案例/CASE_017.txt",
+      "sha256": "71F0791515DC0426508FA55D95FFE362178589D674B148A3821EA48B3F7C7284",
+      "size_bytes": 1003
+    },
+    {
+      "file": "案例/CASE_018.txt",
+      "sha256": "616F4066980EE75793A2FA2C2E44398985272AB3039CD56725108D3AE8F2218D",
+      "size_bytes": 571
+    },
+    {
+      "file": "案例/CASE_019.txt",
+      "sha256": "8C48032E60A8D3018B614EDB0B61D6F3A4B1970D2A13BA252D98DC63F99FC286",
+      "size_bytes": 622
+    },
+    {
+      "file": "案例/CASE_020.txt",
+      "sha256": "B8ADB323164863002910EB4D60A543D4C40D8CE94AE6563A18D9E9A859C5D0CE",
+      "size_bytes": 1070
+    },
+    {
+      "file": "案例/CASE_021.txt",
+      "sha256": "DF1DA4C9BECD7156D733AA2E3A0ADF9CCE563CE2E3C088A037CC2CB1F8E5890D",
+      "size_bytes": 692
+    },
+    {
+      "file": "案例/CASE_022.txt",
+      "sha256": "6E29DA7D56B90BE142A06305B6EB202E5F429574D200BC263B7DE77F0AD572FE",
+      "size_bytes": 585
+    },
+    {
+      "file": "案例/CASE_023.txt",
+      "sha256": "214AC39994EA25F1D6AF44A9458E45F526E9123E22253378810E742300E71056",
+      "size_bytes": 1160
+    }
+  ],
+  "zip_file": "评分发放包_v0.3.zip",
+  "zip_sha256": "4FFFD98ED8005E300B20B9BED04D4FB97178963F18CA9B7380F84ADAF8C200F2",
+  "zip_entry_count": 15,
+  "record_template_headers": [
+    "评分者标识",
+    "案例编号",
+    "评分项",
+    "评分表版本及SHA256",
+    "案例文本SHA256",
+    "适用判断",
+    "评分处理状态",
+    "数字分",
+    "适用状态理由",
+    "案例原句",
+    "原句行号或字段",
+    "v0.2条款原句及位置",
+    "判分理由",
+    "待核实项",
+    "开始时间",
+    "提交时间"
+  ],
+  "note": "管理哈希清单在包外，不随发放包发送；评分者只能收到15文件目录或ZIP。"
+}

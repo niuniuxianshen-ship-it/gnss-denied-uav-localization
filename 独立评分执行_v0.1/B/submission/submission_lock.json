@@ -1,0 +1,27 @@
+{
+  "rater_id": "B",
+  "locked_at": "2026-10-10T17:23:27.065111+08:00",
+  "files": [
+    {
+      "file": "first_output.txt",
+      "sha256": "D73B4C814F2F103E3EF23CE945D95B1A347F1550ADED0223CA2D133CB319FD8A"
+    },
+    {
+      "file": "first_reasoning.txt",
+      "sha256": "5108AB11405017EAA9767009F873D72BDF6D34C743EB20BAFB2EF89F12F73931"
+    },
+    {
+      "file": "first_response.json",
+      "sha256": "BA7485781D5D5C27D56792BCACC87468457A296D33E4A5FBE468B34A1112222A"
+    },
+    {
+      "file": "metadata.json",
+      "sha256": "5485743DD9F47CEEAE82E10185A853AE1D8C1C3A0564428B566E427D51963D79"
+    },
+    {
+      "file": "request.json",
+      "sha256": "F5327012104D600E0C090DF35D68907A583ADD64211EFC8CE9FD98812487F9F4"
+    }
+  ],
+  "note": "首次原始提交；后续检查、讨论、裁定另存，不覆盖。"
+}

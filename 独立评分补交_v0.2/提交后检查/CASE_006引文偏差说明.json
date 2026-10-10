@@ -1,0 +1,13 @@
+{
+  "rater": "A",
+  "case": "CASE_006",
+  "type": "引文格式偏差，非数字等级或适用分歧",
+  "submitted_quote": "仅列出一个或没有候选时，记“不适用”。",
+  "source_fragment": "仅列出一个或没有候选时，记“不适用”；",
+  "source_full_line": "仅列出一个或没有候选时，记“不适用”；缺少必要的原始输出等材料，导致无法判断时，记“未评”。",
+  "difference": "引文片段末尾的原分号改为句号，其他字相同",
+  "disposition": "不修改原始CSV；完整性问题未修复，按协议优先排除该配对",
+  "statistics_effect": "V减少1；该案本身双方不适用，不属于双方数字评分，D/E均不受影响",
+  "score_correctness_adjudicated": false,
+  "followup_prompt_sent": false
+}

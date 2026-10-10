@@ -1,0 +1,216 @@
+{
+  "batch_id": "CASE004_011_FIRST_API_V01",
+  "archive_type": "首次提交及失败诊断归档（评分后）",
+  "archived_at": "2026-10-10T17:27:04.346955+08:00",
+  "files": [
+    {
+      "file": "A/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837"
+    },
+    {
+      "file": "A/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20"
+    },
+    {
+      "file": "A/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E"
+    },
+    {
+      "file": "A/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088"
+    },
+    {
+      "file": "A/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF"
+    },
+    {
+      "file": "A/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296"
+    },
+    {
+      "file": "A/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7"
+    },
+    {
+      "file": "A/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+    },
+    {
+      "file": "A/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "A/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "A/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D"
+    },
+    {
+      "file": "A/submission/first_output.txt",
+      "sha256": "3D9825DA0F3DB2C32C3AAD17FCB024CA46512ED1F7E22F4AE25B5F7985186A5B"
+    },
+    {
+      "file": "A/submission/first_reasoning.txt",
+      "sha256": "D41ED6F8B17E30190B907E4DF299DBBC1971AAC46AE6BE40CDA5E5650C0B8F3D"
+    },
+    {
+      "file": "A/submission/first_response.json",
+      "sha256": "6AC780DE76E04F594A0E7A29673824686CCCBAF2F18E167C3E443E04C436962C"
+    },
+    {
+      "file": "A/submission/metadata.json",
+      "sha256": "58770CA0E003A90651AB13C28E5A80DEFC80FF16B192FAD0F86C841086E04437"
+    },
+    {
+      "file": "A/submission/original_submission.json",
+      "sha256": "2656722E3E05A5665CD7031AD538F00629A4835EFDC0EF0317F5FF9E687869FE"
+    },
+    {
+      "file": "A/submission/request.json",
+      "sha256": "F537A465A2E0B00064D848184ED18CF74222C2FAD1E9833D5F9587CE3746A10B"
+    },
+    {
+      "file": "A/submission/submission_lock.json",
+      "sha256": "FE4FD88D24A0921A4606A74AB74DC3805F0524893AD70060132F028A2BAEFB38"
+    },
+    {
+      "file": "A/submission/submitted.csv",
+      "sha256": "33C8C96203A906E186C9C7CF9CE50F885AE08B71D3873AA4B78F2DF9779302EB"
+    },
+    {
+      "file": "B/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837"
+    },
+    {
+      "file": "B/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20"
+    },
+    {
+      "file": "B/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E"
+    },
+    {
+      "file": "B/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088"
+    },
+    {
+      "file": "B/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF"
+    },
+    {
+      "file": "B/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296"
+    },
+    {
+      "file": "B/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7"
+    },
+    {
+      "file": "B/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+    },
+    {
+      "file": "B/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "B/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "B/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D"
+    },
+    {
+      "file": "B/submission/first_output.txt",
+      "sha256": "D73B4C814F2F103E3EF23CE945D95B1A347F1550ADED0223CA2D133CB319FD8A"
+    },
+    {
+      "file": "B/submission/first_reasoning.txt",
+      "sha256": "5108AB11405017EAA9767009F873D72BDF6D34C743EB20BAFB2EF89F12F73931"
+    },
+    {
+      "file": "B/submission/first_response.json",
+      "sha256": "BA7485781D5D5C27D56792BCACC87468457A296D33E4A5FBE468B34A1112222A"
+    },
+    {
+      "file": "B/submission/metadata.json",
+      "sha256": "5485743DD9F47CEEAE82E10185A853AE1D8C1C3A0564428B566E427D51963D79"
+    },
+    {
+      "file": "B/submission/request.json",
+      "sha256": "F5327012104D600E0C090DF35D68907A583ADD64211EFC8CE9FD98812487F9F4"
+    },
+    {
+      "file": "B/submission/submission_lock.json",
+      "sha256": "29466F2429E9D87FD04305EFF83132209D3A6ABEA935BB82CE27DC3A581024B0"
+    },
+    {
+      "file": "input_hashes.json",
+      "sha256": "2AD76DA937FFBAEC165CC7074CB7175E0E88588D558F8932A81D5EF3B2ABA1C3"
+    },
+    {
+      "file": "run_rater.py",
+      "sha256": "BB52B79376034C9B9AF85FD72368D8C7C942F30DA4751D7D76C089986B533036"
+    },
+    {
+      "file": "settings.json",
+      "sha256": "FAC3A5FFB2944036802F951C8C2231EF9295B4E98F15B2A1F9FB1B41F24572CD"
+    },
+    {
+      "file": "执行说明.md",
+      "sha256": "4AC7ACC9580FD2310CD89418D1EB17448EF788200C2C646AEB5BD5FC9939063C"
+    },
+    {
+      "file": "提交后检查/A引文来源核对.json",
+      "sha256": "244910D2DB4DBEA305BD05569892FB246D644E2CA7A515EA3637E593F22FB28B"
+    },
+    {
+      "file": "提交后检查/分歧分类.csv",
+      "sha256": "DD6E86BA32FD0F170D74989994C75D94E3121E53B307BE9874734736FFE08261"
+    },
+    {
+      "file": "提交后检查/处理状态配对矩阵.csv",
+      "sha256": "DB920D8C753633FDBD2426CEA2977BF85C7A7497B5750906E1151AFFB0DECCA2"
+    },
+    {
+      "file": "提交后检查/执行与接触声明.json",
+      "sha256": "9F3DB08F35496582E6C772D49D66A5F59275564A5B4D9FA809BE5324362107C8"
+    },
+    {
+      "file": "提交后检查/数字一致率排除明细.csv",
+      "sha256": "AF8B7C26DDBF4736FFDD67C8B4CA996413C2124C60FC0588BD49522704B9D5FE"
+    },
+    {
+      "file": "提交后检查/结构完整性检查.csv",
+      "sha256": "BD0B5ED841FCCD65CA3C91DC8B0DB0DE9665A2BB728E60FA310A65953359F199"
+    },
+    {
+      "file": "提交后检查/结构完整性检查.json",
+      "sha256": "594264B1A6C89CA4D6C45412BE32907EF1B24FEA0C5B68D8D40E3BF6FACD200A"
+    },
+    {
+      "file": "提交后检查/统计结果.json",
+      "sha256": "2E5276F6F997D33D0761A409FE0259D49C4753F7A35B726BC811E3C5D68AF3EC"
+    },
+    {
+      "file": "提交后检查/适用判断待确认.csv",
+      "sha256": "D66004E28DD22925B0B6A87BBF9DA31F6BE7E903900F1CB41A04B6FB7813B501"
+    },
+    {
+      "file": "提交后检查/逐案配对结果.csv",
+      "sha256": "F2D2DD6EBC6637510195A21459D5A938F935934A0FF88135B9CB7C20D53FBEFB"
+    },
+    {
+      "file": "提交后检查/首次提交检查报告.md",
+      "sha256": "84C9EE8443279737C44B6627C7C62D55009DD34181CD2BA0281AC5344D005D38"
+    },
+    {
+      "file": "离线检查.json",
+      "sha256": "703016ED6DF01D197A67799AF1897109BBCA3D164AE1D6AC2FF58D3326700A4C"
+    }
+  ],
+  "note": "原始锁定不覆盖；B未完整提交；不是成功一致性验证。"
+}

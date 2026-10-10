@@ -1,0 +1,13 @@
+{
+  "input_file_count_each": 11,
+  "input_copies_byte_identical": true,
+  "hashes_match_frozen_delivery": true,
+  "same_settings": true,
+  "requests_equal_except_rater_id_and_start_time": true,
+  "messages_each": 1,
+  "network_calls": 0,
+  "tools_supplied": false,
+  "runner_sha256": "BB52B79376034C9B9AF85FD72368D8C7C942F30DA4751D7D76C089986B533036",
+  "settings_sha256": "FAC3A5FFB2944036802F951C8C2231EF9295B4E98F15B2A1F9FB1B41F24572CD",
+  "note": "本离线检查不包含案例评分或参考答案；运行器仅将11个白名单文件正文提交。"
+}

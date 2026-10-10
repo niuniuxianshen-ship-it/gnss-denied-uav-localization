@@ -1,0 +1,85 @@
+{
+  "checked_at": "2026-10-10T18:00:08.145398+08:00",
+  "status": "静态检查完成，待独立评分验证",
+  "new_case_count": 12,
+  "public_file_count": 15,
+  "score_table_and_template_unchanged": true,
+  "all_case_texts_complete": true,
+  "reference_quotes_and_rubrics_exact": true,
+  "same_evidence_contrast_groups": [
+    {
+      "cases": [
+        "CASE_012",
+        "CASE_013",
+        "CASE_014"
+      ],
+      "given_materials_byte_text_identical": true
+    },
+    {
+      "cases": [
+        "CASE_015",
+        "CASE_016",
+        "CASE_017"
+      ],
+      "given_materials_byte_text_identical": true
+    },
+    {
+      "cases": [
+        "CASE_018",
+        "CASE_019"
+      ],
+      "given_materials_byte_text_identical": true
+    },
+    {
+      "cases": [
+        "CASE_020",
+        "CASE_021"
+      ],
+      "given_materials_byte_text_identical": true
+    }
+  ],
+  "all_public_links_inside_package": [
+    "评分表_v0.2.md",
+    "评分记录_空白.csv",
+    "案例/CASE_012.txt",
+    "案例/CASE_013.txt",
+    "案例/CASE_014.txt",
+    "案例/CASE_015.txt",
+    "案例/CASE_016.txt",
+    "案例/CASE_017.txt",
+    "案例/CASE_018.txt",
+    "案例/CASE_019.txt",
+    "案例/CASE_020.txt",
+    "案例/CASE_021.txt",
+    "案例/CASE_022.txt",
+    "案例/CASE_023.txt"
+  ],
+  "zip_byte_identical_to_public_files": true,
+  "reference_and_management_files_in_package": false,
+  "new_model_calls": 0,
+  "new_photos": 0,
+  "new_geographic_rules": 0,
+  "independent_scoring_performed": false,
+  "raters_qualification_for_new_cases": "尚未登记；不声称已隔离",
+  "prior_archive_checks": [
+    {
+      "folder": "独立评分执行_v0.1",
+      "manifest": "本轮归档清单.json",
+      "sha256": "099AB6B82450C655C11300414BFA96F51CE7A36C3551E47B18946A69B5A90684",
+      "all_archived_files_unchanged": true
+    },
+    {
+      "folder": "独立评分补交_v0.1",
+      "manifest": "补交归档清单.json",
+      "sha256": "34FE15CA550A361D7999E0BEF49504F74A0C632616B59FF7DCBCA2C5E243F453",
+      "all_archived_files_unchanged": true
+    },
+    {
+      "folder": "独立评分补交_v0.2",
+      "manifest": "本批次归档清单.json",
+      "sha256": "C3FA6B5713E34903DF44261B1E9B55FFDFC0F9EFE7D73D05A0A10E80B2CDD0DD",
+      "all_archived_files_unchanged": true
+    }
+  ],
+  "limits": "人工文本设计；暂定参考并非独立验证。重点测试1分及0/1、1/2边界，不以设计者预期保证评分规则覆盖充分。"
+}

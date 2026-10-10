@@ -1,0 +1,13 @@
+{
+  "type": "复核完成后补充登记；不覆盖此前清单",
+  "files": [
+    {
+      "file": "B补交引文偏差登记.json",
+      "sha256": "9535A4EA5BCBAE781C9B83E6B093FE92DDD4CD24EC8042393E3C1DE74D3B6449"
+    },
+    {
+      "file": "B补交引文偏差与提交状态补充.md",
+      "sha256": "BEBED6B62221689CECAD219BBDFE1CD06FE015042BE9D3E4C49EBDCFE133AB6A"
+    }
+  ]
+}

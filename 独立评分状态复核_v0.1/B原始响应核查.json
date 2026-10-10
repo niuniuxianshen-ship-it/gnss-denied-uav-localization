@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-10T17:31:50.833062+08:00",
+  "transport_json_valid": true,
+  "choice_count": 1,
+  "raw_content_matches_saved_output": true,
+  "raw_reasoning_matches_saved_reasoning": true,
+  "submission_lock_hashes_match": true,
+  "entire_old_archive_hashes_match": true,
+  "finish_reason": "length",
+  "usage": {
+    "prompt_tokens": 5374,
+    "completion_tokens": 16384,
+    "total_tokens": 21758,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 13706
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 5246
+  },
+  "model_output_json_parse": {
+    "valid": false,
+    "error": "Unterminated string starting at",
+    "offset": 176
+  },
+  "body_case_ids_seen": [
+    "CASE_004",
+    "CASE_005",
+    "CASE_006",
+    "CASE_007",
+    "CASE_008",
+    "CASE_009",
+    "CASE_010",
+    "CASE_011"
+  ],
+  "output_tail": "9D2D1,36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F,适用,数字评分,2,受评文字列出三个候选，符合第②项适用条件；比较充分。,候选排序及支持依据：先列云南省、广西壮族自治区、贵州省。林地覆盖的起伏地形和小片农田对三者都提供支持；没有可读当地地名或其他差异信息，当前不能凭这些线索说明谁应排前，所列次序没有强弱含义。区分候选所需的证据：能够对应当地的地名或其他足以比较三候选的线索。,完整受评",
+  "csv_saved": false,
+  "conclusion": "服务返回的模型正文已在CASE_011中途截断；不是仅本地解析/保存失败。原始完整HTTP响应与已保存正文一致，没有遗漏的完整CSV可恢复。",
+  "old_batch_status": "单提交执行记录",
+  "score_agreement": "不计算",
+  "valid_complete_csv_submissions": 1,
+  "no_local_repair": true,
+  "source_archive_sha256": "099AB6B82450C655C11300414BFA96F51CE7A36C3551E47B18946A69B5A90684"
+}

@@ -1,0 +1,63 @@
+{
+  "rater_id": "A",
+  "endpoint": "https://api.deepseek.com/chat/completions",
+  "model_requested": "DeepSeek-V4.1-Flash",
+  "api_model": "deepseek-flash",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "enabled"
+    },
+    "reasoning_effort": "low",
+    "max_tokens": 32768,
+    "stream": false,
+    "tool_choice": "none",
+    "response_format": {
+      "type": "json_object"
+    }
+  },
+  "material_hashes": {
+    "阅读说明.md": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+    "评分表_v0.2.md": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+    "评分记录_空白.csv": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+    "案例/CASE_004.txt": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+    "案例/CASE_005.txt": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+    "案例/CASE_006.txt": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+    "案例/CASE_007.txt": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+    "案例/CASE_008.txt": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+    "案例/CASE_009.txt": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+    "案例/CASE_010.txt": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+    "案例/CASE_011.txt": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+  },
+  "started_at": "2026-10-10T17:42:18.888901+08:00",
+  "attempts": 1,
+  "retries": 0,
+  "history_messages": 0,
+  "tools_supplied": false,
+  "parent_context_submitted": false,
+  "reference_answers_submitted": false,
+  "opponent_results_submitted": false,
+  "service_side_memory_and_hidden_settings": "未确认",
+  "seed": "不可控（未提供）",
+  "time_definition": "started_at为API批次请求起始；received_at和locked_at为客户端实际时间；CSV提交时间无法确认时允许未确认",
+  "http_status": 200,
+  "received_at": "2026-10-10T17:43:26.559684+08:00",
+  "model_returned": "deepseek-flash",
+  "system_fingerprint": "aeb56401ca74e127821c4f9126dcb669",
+  "usage": {
+    "prompt_tokens": 5419,
+    "completion_tokens": 17182,
+    "total_tokens": 22601,
+    "prompt_tokens_details": {
+      "cached_tokens": 128
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 14545
+    },
+    "prompt_cache_hit_tokens": 128,
+    "prompt_cache_miss_tokens": 5291
+  },
+  "finish_reason": "stop",
+  "tool_calls": [],
+  "elapsed_seconds": 67.671
+}

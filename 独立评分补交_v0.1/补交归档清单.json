@@ -1,0 +1,100 @@
+{
+  "archive_type": "B新批次补交独立归档",
+  "archived_at": "2026-10-10T17:34:47.448438+08:00",
+  "files": [
+    {
+      "file": "B/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837"
+    },
+    {
+      "file": "B/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20"
+    },
+    {
+      "file": "B/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E"
+    },
+    {
+      "file": "B/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088"
+    },
+    {
+      "file": "B/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF"
+    },
+    {
+      "file": "B/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296"
+    },
+    {
+      "file": "B/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7"
+    },
+    {
+      "file": "B/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F"
+    },
+    {
+      "file": "B/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+    },
+    {
+      "file": "B/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70"
+    },
+    {
+      "file": "B/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D"
+    },
+    {
+      "file": "B/submission/first_output.txt",
+      "sha256": "EDC56C7363E05B7D4F54A9C2B39407393D6B724B6A43E70B83E21D4C729AE205"
+    },
+    {
+      "file": "B/submission/first_reasoning.txt",
+      "sha256": "559717C95A6D22240A7F0E068E797AA594F9A5EDC1DAE9B63F63ED160F83BE97"
+    },
+    {
+      "file": "B/submission/first_response.json",
+      "sha256": "5F09F2806FE423FC658BC232715890CBA9B26E78A25702837A2B4B1270F45005"
+    },
+    {
+      "file": "B/submission/metadata.json",
+      "sha256": "AD54ACC8C12DA5F6CEA42F7BC7BE557CF26D3355D308F406AB86E823B7B1A1E8"
+    },
+    {
+      "file": "B/submission/original_submission.json",
+      "sha256": "2ECC30C9D873A4D52F5032CD0BA7C4FF8EE7563EE5D8444BFDDBA878388C85A2"
+    },
+    {
+      "file": "B/submission/request.json",
+      "sha256": "AFD4D40EC5CBEDB1D892B9B65F9EE2FDC348DA994F498E9008D5C075F25AE233"
+    },
+    {
+      "file": "B/submission/submission_lock.json",
+      "sha256": "5C6499F36B9C5F8FB65F708DB12913861935CE2C77FD130853DDE039CAAAAC91"
+    },
+    {
+      "file": "B/submission/submitted.csv",
+      "sha256": "61D06D3C2780579A748704A2B19F26DC4ACE562307220B7A4366354FF16DEC34"
+    },
+    {
+      "file": "input_hashes.json",
+      "sha256": "2AD76DA937FFBAEC165CC7074CB7175E0E88588D558F8932A81D5EF3B2ABA1C3"
+    },
+    {
+      "file": "run_rater.py",
+      "sha256": "BB52B79376034C9B9AF85FD72368D8C7C942F30DA4751D7D76C089986B533036"
+    },
+    {
+      "file": "settings.json",
+      "sha256": "6D906ED2B86D2D862A5F59FEFB7FB162740FCB276C7A46622A6CA3D1BBECC397"
+    },
+    {
+      "file": "补交批次准备记录.json",
+      "sha256": "5B49D9F6C07497250E8BB4DB593E46D4811D35E4850F66976C260B662901109A"
+    }
+  ],
+  "old_archive_unchanged": true,
+  "mixed_batch_agreement_computed": false
+}

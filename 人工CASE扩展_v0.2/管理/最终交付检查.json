@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-10T18:24:54.635475+08:00",
+  "package_files": 13,
+  "ZIP_whitelist_only": true,
+  "ZIP_sha256": "9E0B4BAD71A1A5E3809A71E8BC797F06CF1C11E9DD39D8B7FE036455561A31A9",
+  "public_files_byte_identical_to_frozen_inputs": true,
+  "rubric_original_unchanged": true,
+  "original_draft_unchanged": true,
+  "A_B_first_submission_locks_match": true,
+  "old_archives": [
+    {
+      "archive": "独立评分执行_v0.1/本轮归档清单.json",
+      "manifest_sha256": "099AB6B82450C655C11300414BFA96F51CE7A36C3551E47B18946A69B5A90684",
+      "checked_files": 52,
+      "all_match": true
+    },
+    {
+      "archive": "独立评分补交_v0.1/补交归档清单.json",
+      "manifest_sha256": "34FE15CA550A361D7999E0BEF49504F74A0C632616B59FF7DCBCA2C5E243F453",
+      "checked_files": 23,
+      "all_match": true
+    },
+    {
+      "archive": "独立评分补交_v0.2/本批次归档清单.json",
+      "manifest_sha256": "C3FA6B5713E34903DF44261B1E9B55FFDFC0F9EFE7D73D05A0A10E80B2CDD0DD",
+      "checked_files": 56,
+      "all_match": true
+    },
+    {
+      "archive": "参考案例_v0.3/本包归档清单.json",
+      "manifest_sha256": "DDD064C399461F4362CFF229CE8CDDA16C6F5BECD82938D4CF6D240598D7E0C1",
+      "checked_files": 23,
+      "all_match": true
+    }
+  ],
+  "rule_version": "v0.2",
+  "protocol_version": "v0.2",
+  "new_protocol_v0_3_created": false,
+  "temporary_helpers_to_remove": [
+    "_prepare_package.py",
+    "_analyze_pair.py",
+    "_freeze_package.py"
+  ],
+  "retained_runner": "run_rater.py（可复用、默认离线、拒绝覆盖已提交目录）",
+  "retained_evidence": "请求、完整响应、首次正文、服务推理字段、CSV、元数据、输入副本、锁定记录、静态复核及统计为最终追溯证据。"
+}

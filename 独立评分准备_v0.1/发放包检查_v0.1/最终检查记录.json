@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-10",
+  "delivery_files": 11,
+  "unchanged_source_copies": 10,
+  "record_template_rows": 0,
+  "all_links_inside": true,
+  "zip_matches_directory": true,
+  "original_114_files_unchanged": true,
+  "source_case_package_unchanged": true,
+  "old_frozen_package_valid": true,
+  "final_manifest_valid": true,
+  "new_model_calls": 0,
+  "materials_sent_to_raters": false,
+  "manifest_sha256": "9E9D30888FAA10287C46D18E4CC940745EDF8D6F4B424801B3E8429691EBA77D",
+  "archive_sha256": "48B733CCED4F8B50DF8CA6B6796CB9292566A8768C300057AB2275D2F8439450",
+  "source_before_after_hashes_identical": true,
+  "protected_files": [
+    {
+      "file": "候选比较评分表_v0.2.md",
+      "before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "独立评分准备_v0.1/资格与发放范围确认.md",
+      "before": "292BDEC0023FDB5104F0640ED6B788152355C4BD4816A489E6321934A8274D8E",
+      "after": "292BDEC0023FDB5104F0640ED6B788152355C4BD4816A489E6321934A8274D8E",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/管理文件清单.json",
+      "before": "8AF3558BCECCD5FF3F896EE73C641DF8DAA7A7F3A055305BEA5591E7C96B0F63",
+      "after": "8AF3558BCECCD5FF3F896EE73C641DF8DAA7A7F3A055305BEA5591E7C96B0F63",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/README.md",
+      "before": "6060F110C529C31B796533D3AE70BAFE507F9A98016C6CFB6B1C0A03B7C07037",
+      "after": "6060F110C529C31B796533D3AE70BAFE507F9A98016C6CFB6B1C0A03B7C07037",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/原材料完整性核对.json",
+      "before": "29FDC56AFF5C32707F71F100EFAE79FA4F68FCB914117EE5B634A8D593BD5DE6",
+      "after": "29FDC56AFF5C32707F71F100EFAE79FA4F68FCB914117EE5B634A8D593BD5DE6",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/参考答案_不发评分者/参考判分依据.md",
+      "before": "C43B121225D9EBCEF3B366887F449FCD49A1A4001564AA5B2BA28144DE61BACF",
+      "after": "C43B121225D9EBCEF3B366887F449FCD49A1A4001564AA5B2BA28144DE61BACF",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/参考答案_不发评分者/参考答案_v0.2.json",
+      "before": "FD92B25146E2C3D9DA4B6C2F18C0E592362840DBC4B7177403188F5DC651083C",
+      "after": "FD92B25146E2C3D9DA4B6C2F18C0E592362840DBC4B7177403188F5DC651083C",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/共同材料说明.md",
+      "before": "A103ECFCEFCCB8E906204265008DB9870F611EB856EB6A557ED81465C5374434",
+      "after": "A103ECFCEFCCB8E906204265008DB9870F611EB856EB6A557ED81465C5374434",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/分歧裁定记录_空白.csv",
+      "before": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "after": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/材料清单.json",
+      "before": "93937A92558C2B9B1F08254DE6D1D70DFD3E4A20490E8F44E5CEE7001C44CAB0",
+      "after": "93937A92558C2B9B1F08254DE6D1D70DFD3E4A20490E8F44E5CEE7001C44CAB0",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_004.txt",
+      "before": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "after": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_005.txt",
+      "before": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "after": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_006.txt",
+      "before": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "after": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_007.txt",
+      "before": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "after": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_008.txt",
+      "before": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "after": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_009.txt",
+      "before": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "after": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_010.txt",
+      "before": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "after": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/案例/CASE_011.txt",
+      "before": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "after": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/评分表_v0.2.md",
+      "before": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "after": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/评分记录_空白.csv",
+      "before": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "after": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/评分者测试材料/阅读说明.md",
+      "before": "0F46A2F3015809A3EA6AFFBA58AED2763915BC62DED59FF6647961B8E78D1B8A",
+      "after": "0F46A2F3015809A3EA6AFFBA58AED2763915BC62DED59FF6647961B8E78D1B8A",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/静态审查记录.json",
+      "before": "A6631FB6DF7C7BE3AE2CF59395DD20C36A75341EE08D4021E8DE6CBB6D2731E6",
+      "after": "A6631FB6DF7C7BE3AE2CF59395DD20C36A75341EE08D4021E8DE6CBB6D2731E6",
+      "unchanged": true
+    },
+    {
+      "file": "参考案例_v0.2/静态审查说明.md",
+      "before": "983FC49458E401DEAE81FDC20B58DE8E49F218E5D3F8FE1AF760495877B3FCE3",
+      "after": "983FC49458E401DEAE81FDC20B58DE8E49F218E5D3F8FE1AF760495877B3FCE3",
+      "unchanged": true
+    }
+  ]
+}

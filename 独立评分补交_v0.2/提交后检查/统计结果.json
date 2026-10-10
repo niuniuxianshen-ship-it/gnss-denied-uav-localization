@@ -1,0 +1,47 @@
+{
+  "batch_id": "CASE004_011_RESUBMISSION_V02_20261010T174133",
+  "score_item": "②",
+  "N": 8,
+  "V": 7,
+  "D": 6,
+  "E": 6,
+  "numeric_agreement": 1.0,
+  "numeric_disagreements_D_minus_E": 0,
+  "excluded_N_minus_D": 2,
+  "exclusion_counts": {
+    "完整性问题": 1,
+    "双方不适用": 0,
+    "双方未评": 1,
+    "数字／不适用": 0,
+    "数字／未评": 0,
+    "不适用／未评": 0
+  },
+  "applicability_yes_no_disagreements": 0,
+  "processing_state_disagreements": 0,
+  "applicability_pending_pairs": 1,
+  "integrity_problem_pairs": 1,
+  "state_matrix_A_rows_B_columns": {
+    "数字评分": {
+      "数字评分": 6,
+      "不适用": 0,
+      "未评": 0
+    },
+    "不适用": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 0
+    },
+    "未评": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 1
+    }
+  },
+  "analysis_started_at": "2026-10-10T17:46:24.338417+08:00",
+  "both_locks_preceded_analysis": true,
+  "same_batch_settings_materials": true,
+  "prior_scores_used": false,
+  "reference_answers_used": false,
+  "adjudication": "未开展",
+  "caveat": "同模型、人工边界案例的原始配对一致率，不是准确率、规则有效性证明或统计独立性证明"
+}

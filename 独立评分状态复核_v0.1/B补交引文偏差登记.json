@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-10-10T17:37:11.661178+08:00",
+  "case_id": "CASE_006",
+  "field": "v0.2条款原句及位置",
+  "original_submission_quote": "仅列出一个或没有候选时，记“不适用”。",
+  "rubric_source_line": "仅列出一个或没有候选时，记“不适用”；缺少必要的原始输出等材料，导致无法判断时，记“未评”。",
+  "corresponding_source_fragment": "仅列出一个或没有候选时，记“不适用”；",
+  "difference": "引用片段的末标点由原文分号改为句号，其他字一致",
+  "classification": "引文格式偏差；内容可追溯，不等同于虚构条款",
+  "csv_complete": true,
+  "structure_checks_passed": true,
+  "fully_verbatim_format_passed": false,
+  "final_submission_qualification": "待确认（有一处逐字引用格式偏差）",
+  "original_csv_changed": false,
+  "scoring_rule_changed": false,
+  "score_adjudicated": false,
+  "old_batch_status": "单提交执行记录",
+  "score_agreement_computed": false
+}

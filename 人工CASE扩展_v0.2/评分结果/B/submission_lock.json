@@ -1,0 +1,35 @@
+{
+  "rater_id": "B",
+  "locked_at": "2026-10-10T18:17:50.382128+08:00",
+  "files": [
+    {
+      "file": "first_output.txt",
+      "sha256": "0E000E32A85A40DC1C89EA383C61DD1CE53E14465FFF38FFF08F9183F874DC45"
+    },
+    {
+      "file": "first_reasoning.txt",
+      "sha256": "2ACF6C0CDB79CB3F0626F6A85B5B2BB315D33E14B59C6402F6CC978FF648AB4B"
+    },
+    {
+      "file": "first_response.json",
+      "sha256": "075EA3BB86D3CFC822065AF20442A5DC71F392152E898934B626B81B001C3B23"
+    },
+    {
+      "file": "metadata.json",
+      "sha256": "27BCB85C9C987B46A9ADBEF67FDA03CB7E0751F14948584657F2708D0BC34DDB"
+    },
+    {
+      "file": "original_submission.json",
+      "sha256": "EA6FFC34AF34EC387E1753C4F614C7DB76292F4E5FFBBE0D6E350475B1874B4C"
+    },
+    {
+      "file": "request.json",
+      "sha256": "2058B568E7C1C2DA0459EB171B558BF8E86C64AF25CDE324B963DFEC190ADE82"
+    },
+    {
+      "file": "submitted.csv",
+      "sha256": "34BB05F1B2E198065295DE078996EE2E52E3E89644B7D614DACD761CD9B30DF5"
+    }
+  ],
+  "note": "首次原始提交；后续检查、讨论、裁定另存，不覆盖。"
+}

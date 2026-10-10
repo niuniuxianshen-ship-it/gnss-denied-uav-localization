@@ -1,0 +1,231 @@
+{
+  "package_id": "RATING_DELIVERY_20261010_V01",
+  "package_version": "v0.1",
+  "fixed_at": "2026-10-10T17:11:12.576903+08:00",
+  "case_materials_version": "v0.2",
+  "score_table_version": "v0.2",
+  "score_table_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "case_ids": [
+    "CASE_004",
+    "CASE_005",
+    "CASE_006",
+    "CASE_007",
+    "CASE_008",
+    "CASE_009",
+    "CASE_010",
+    "CASE_011"
+  ],
+  "scored_items": [
+    "②"
+  ],
+  "delivery_file_count": 11,
+  "delivery_files": [
+    {
+      "file": "案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "size_bytes": 1015
+    },
+    {
+      "file": "案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "size_bytes": 866
+    },
+    {
+      "file": "案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "size_bytes": 647
+    },
+    {
+      "file": "案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "size_bytes": 962
+    },
+    {
+      "file": "案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "size_bytes": 974
+    },
+    {
+      "file": "案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "size_bytes": 526
+    },
+    {
+      "file": "案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "size_bytes": 696
+    },
+    {
+      "file": "案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "size_bytes": 772
+    },
+    {
+      "file": "评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "size_bytes": 8175
+    },
+    {
+      "file": "评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "size_bytes": 261
+    },
+    {
+      "file": "阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "size_bytes": 5484
+    }
+  ],
+  "archive_file": "独立评分准备_v0.1/评分发放包_v0.1.zip",
+  "archive_sha256": "48B733CCED4F8B50DF8CA6B6796CB9292566A8768C300057AB2275D2F8439450",
+  "archive_entry_count": 11,
+  "readme_change_scope": "仅在独立副本并入通用材料说明、填写信息和所需哈希，删除外部依赖；未改判分标准",
+  "fixed_source_files": [
+    {
+      "file": "评分表_v0.2.md",
+      "source_file": "参考案例_v0.2/评分者测试材料/评分表_v0.2.md",
+      "source_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "delivery_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "byte_identical": true
+    },
+    {
+      "file": "评分记录_空白.csv",
+      "source_file": "参考案例_v0.2/评分者测试材料/评分记录_空白.csv",
+      "source_sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "delivery_sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_004.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_004.txt",
+      "source_sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "delivery_sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_005.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_005.txt",
+      "source_sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "delivery_sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_006.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_006.txt",
+      "source_sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "delivery_sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_007.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_007.txt",
+      "source_sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "delivery_sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_008.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_008.txt",
+      "source_sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "delivery_sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_009.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_009.txt",
+      "source_sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "delivery_sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_010.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_010.txt",
+      "source_sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "delivery_sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "byte_identical": true
+    },
+    {
+      "file": "案例/CASE_011.txt",
+      "source_file": "参考案例_v0.2/评分者测试材料/案例/CASE_011.txt",
+      "source_sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "delivery_sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "byte_identical": true
+    }
+  ],
+  "readme_source_file": "参考案例_v0.2/评分者测试材料/阅读说明.md",
+  "readme_source_sha256": "0F46A2F3015809A3EA6AFFBA58AED2763915BC62DED59FF6647961B8E78D1B8A",
+  "common_source_file": "参考案例_v0.2/评分者测试材料/共同材料说明.md",
+  "common_source_sha256": "A103ECFCEFCCB8E906204265008DB9870F611EB856EB6A557ED81465C5374434",
+  "checks": {
+    "exact_whitelist": true,
+    "links_stay_inside_delivery": true,
+    "immutable_files_byte_identical": true,
+    "reference_answer_fields_absent": true,
+    "record_template_rows": 0,
+    "zip_bytes_match_directory": true,
+    "external_management_files_in_delivery": false,
+    "new_model_calls": 0,
+    "case_materials_sent_to_raters": false
+  },
+  "record_template_headers": [
+    "评分者标识",
+    "案例编号",
+    "评分项",
+    "评分表版本及SHA256",
+    "案例文本SHA256",
+    "适用判断",
+    "评分处理状态",
+    "数字分",
+    "适用状态理由",
+    "案例原句",
+    "原句行号或字段",
+    "v0.2条款原句及位置",
+    "判分理由",
+    "待核实项",
+    "开始时间",
+    "提交时间"
+  ],
+  "link_checks": [
+    {
+      "file": "阅读说明.md",
+      "target": "评分表_v0.2.md"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "评分记录_空白.csv"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_004.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_005.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_006.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_007.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_008.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_009.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_010.txt"
+    },
+    {
+      "file": "阅读说明.md",
+      "target": "案例/CASE_011.txt"
+    }
+  ],
+  "note": "本清单是管理文件，不进入11文件目录或ZIP，不向评分者发送；最终阅读说明的自身哈希在此固定。"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "原批次单提交状态及B补交复核",
+  "files": [
+    {
+      "file": "B原始响应核查.json",
+      "sha256": "49391196D67596C2C558ED695BC4B0289FF99357D3B2CBBFD0F65291C55D2E9E"
+    },
+    {
+      "file": "B提交状态复核说明.md",
+      "sha256": "5394EFCAAEA28A8561466557802D8913D558041DC6B566D36B08F48AC3F244BB"
+    },
+    {
+      "file": "B补交引文来源核对.json",
+      "sha256": "BFC26BEC9EA13DA3C9234023C795DED3C6EA77EAC78B88C90C88B972B4EAE7B9"
+    },
+    {
+      "file": "B补交状态核对.json",
+      "sha256": "1ACC4ADFFD4155298FE3374AC53A292182C7FB6439890B6B3A767896A11244ED"
+    },
+    {
+      "file": "原批次状态登记.json",
+      "sha256": "8F11ABFF27F22AD744ACBE342D89C0FF807287E47DC0E58CC4F6BFAD64EB2888"
+    }
+  ]
+}

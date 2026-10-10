@@ -1,0 +1,40 @@
+{
+  "planned_pairs_N": 8,
+  "valid_pairs_V": 0,
+  "both_numeric_D": 0,
+  "equal_numeric_E": 0,
+  "numeric_disagreements": 0,
+  "excluded_N_minus_D": 8,
+  "numeric_agreement": null,
+  "exclusion_counts": {
+    "完整性问题": 8
+  },
+  "status_matrix_A_rows_B_columns": {
+    "数字评分": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 0
+    },
+    "不适用": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 0
+    },
+    "未评": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 0
+    }
+  },
+  "applicability_yes_no_disagreements": 0,
+  "applicability_pending_pairs": 0,
+  "processing_state_disagreements": 0,
+  "integrity_problem_pairs": 8,
+  "analysis_started_at": "2026-10-10T17:25:30.182176+08:00",
+  "both_original_locks_precede_analysis": true,
+  "note": "完全一致率不是准确率或规则有效性验证；未对照参考答案、未讨论或裁定。",
+  "batch_status": "未收到两份完整首次CSV；仅完成接收完整性诊断，正式一致性分析未成立",
+  "disagreement_evaluation": "无法判断：缺少B完整提交；计数0仅指有效配对中未能计数，不等于证明没有分歧",
+  "exclusion_scope": "按本轮要求的完整首次CSV提交进行配对；B截断信封中的局部行未重建为正式评分",
+  "complete_csv_submissions": 1
+}

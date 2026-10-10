@@ -1,0 +1,49 @@
+{
+  "batch_id": "ARTIFICIAL_V02_012_021_PAIR_01",
+  "material_version": "人工CASE扩展_v0.2",
+  "score_item": "②",
+  "N": 10,
+  "V": 6,
+  "D": 6,
+  "E": 6,
+  "numeric_agreement": 1.0,
+  "numeric_disagreements_D_minus_E": 0,
+  "excluded_N_minus_D": 4,
+  "exclusion_counts": {
+    "完整性问题": 4,
+    "双方不适用": 0,
+    "双方未评": 0,
+    "数字/不适用": 0,
+    "数字/未评": 0,
+    "不适用/未评": 0
+  },
+  "applicability_yes_no_disagreements_valid": 0,
+  "processing_state_disagreements_valid": 0,
+  "applicability_pending_pairs_valid": 0,
+  "raw_records_applicability_pending_pairs": 1,
+  "state_matrix_A_rows_B_columns": {
+    "数字评分": {
+      "数字评分": 6,
+      "不适用": 0,
+      "未评": 0
+    },
+    "不适用": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 0
+    },
+    "未评": {
+      "数字评分": 0,
+      "不适用": 0,
+      "未评": 0
+    }
+  },
+  "both_locks_preceded_analysis": true,
+  "analysis_started_at": "2026-10-10T18:21:53.348374+08:00",
+  "same_batch_settings_materials": true,
+  "prior_scores_used": false,
+  "reference_scores_used_for_statistics": false,
+  "reference_answers_role": "仅设计和静态解释，不参与一致率计算",
+  "adjudication": "未开展",
+  "note": "018—021虽原状态相同，条款引文不合原文，按完整性优先排除；不能用它们宣称状态一致性已验证。"
+}
