@@ -1,0 +1,155 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 187460597,
+        "ns": 6,
+        "title": "File:Yuezhao Lake, Hongcun, Anhui, China.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2026-03-30T07:35:43Z",
+            "size": 2083860,
+            "width": 4624,
+            "height": 3472,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Yuezhao_Lake%2C_Hongcun%2C_Anhui%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187460597",
+            "sha1": "cd9acd74dda6c2349c75e465db7f3febbf3e3c39",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-30 07:35:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Yuezhao Lake, Hongcun, Anhui, China",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hongcun|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "30.005420",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "117.984592",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Yuezhao Lake, Hongcun, Anhui, China",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HCCB3947&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HCCB3947 (page does not exist)\">HCCB3947</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-06-06T05:29:24Z",
+        "lastrevid": 1226629041,
+        "length": 337,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg",
+        "revisions": [
+          {
+            "revid": 1226629041,
+            "parentid": 1200891692,
+            "timestamp": "2026-06-06T05:29:22Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Yuezhao Lake, Hongcun, Anhui, China}}\n{{zh-hans|1=安徽省宏村的月沼}}\n|date=2025-12-23\n|source={{own}}\n|author=[[User:HCCB3947|HCCB3947]]\n|permission=\n|other versions=\n}}\n{{Location|30.00542|117.984592}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Hongcun]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Files with coordinates missing SDC location of creation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Hongcun"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          }
+        ]
+      }
+    ]
+  }
+}

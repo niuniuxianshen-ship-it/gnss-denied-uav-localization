@@ -1,0 +1,146 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 2380359,
+        "ns": 6,
+        "title": "File:Earth building-chengqi.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2007-07-10T08:03:08Z",
+            "size": 74981,
+            "width": 500,
+            "height": 375,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Earth_building-chengqi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Earth_building-chengqi.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2380359",
+            "sha1": "dc34c3a3f9f710d521d1637e615e8b826452c24e",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-07-10 08:03:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Earth building-chengqi",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "GFDL|License migration redundant|Chengqi Lou|Self-published work|PD-self",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "earth building chengqi lou",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2006-10-06",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bolobolo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bolobolo (page does not exist)\">Bolobolo</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-05-29T10:51:42Z",
+        "lastrevid": 1222189517,
+        "length": 316,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Earth_building-chengqi.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Earth_building-chengqi.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Earth_building-chengqi.jpg",
+        "revisions": [
+          {
+            "revid": 1222189517,
+            "parentid": 960898127,
+            "timestamp": "2026-05-29T10:51:42Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "== {{int:filedesc}} ==\n{{Self|GFDL|Cc-by-sa-3.0-migrated}}\n{{Information\n|Description=earth building chengqi lou\n|Source={{Own}}\n|Date=2006-10-06\n|Author=[[User:Bolobolo|Bolobolo]]\n|Permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{PD-self|author=[[User:Bolobolo|Bolobolo]]}}\n\n\n[[Category:Chengqi Lou]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-3.0-migrated"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Chengqi Lou"
+          },
+          {
+            "ns": 14,
+            "title": "Category:GFDL"
+          },
+          {
+            "ns": 14,
+            "title": "Category:License migration redundant"
+          },
+          {
+            "ns": 14,
+            "title": "Category:PD-self"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          }
+        ]
+      }
+    ]
+  }
+}

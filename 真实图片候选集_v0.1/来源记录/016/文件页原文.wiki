@@ -1,0 +1,19 @@
+== {{int:filedesc}} ==
+{{Information
+| Description = The Longsheng Rice Terraces, also called the Longji Rice Terraces, are located in Longsheng County, about 100 kilometres from Guilin, Guangxi, China.
+
+The terraced fields are built along the slope winding from the riverside up to the mountain top, between 600 to 800 metres above sea level.
+| Source      = [https://www.flickr.com/photos/xiquinho/49040261403/ 87778-Longsheng]
+| Date        = 2018-06-15 13:47
+| Author      = [https://www.flickr.com/people/7138083@N04 xiquinhosilva]
+| Permission  = 
+| other_versions=
+}}
+{{Location dec|25.816502|110.150558|source:Flickr}}
+
+=={{int:license-header}}==
+{{cc-by-2.0}}
+{{FlickreviewR|status=passed|author=xiquinhosilva|sourceurl=https://flickr.com/photos/7138083@N04/49040261403|archive=|reviewdate=2023-10-05 12:09:43|reviewlicense=cc-by-2.0|reviewer=FlickreviewR 2}}
+
+[[Category:Longsheng rice terraces]]
+[[Category:Photographs by Xiquinho Silva]]

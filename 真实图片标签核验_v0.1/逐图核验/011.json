@@ -1,0 +1,124 @@
+{
+  "candidate_id": "011",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(July_2023).jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AWuhan_Railway_Station_%28July_2023%29.jpg&oldid=1015387463",
+  "source_revision_id": 1015387463,
+  "source_author": "Zheng Zhou",
+  "original_place_description": "Exterior of Wuhan Railway Station in July 2023",
+  "source_field": "Commons Summary/Description、Source、Author、Date；Location模板若存在",
+  "original_file": "真实图片候选集_v0.1/原图/011.jpg",
+  "original_sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324",
+  "source_date": "2023-07-23 13:20:02",
+  "proposed_province": "湖北省",
+  "verification_level": "有独立支持",
+  "province_label_gate_passed": true,
+  "formal_selected": false,
+  "checked_by": "Codex /root 本次静态来源与画面审查；非双人标签核验",
+  "checked_at": "2026-10-10T20:41:04.551298+08:00",
+  "scope": "省级标签；非精确机位或坐标真值确认",
+  "identity": "武汉站站房外景；精确机位和坐标尚未独立核验。",
+  "observations": [
+    "可见武汉站和英文站名字样、中心高拱波浪屋顶、两侧起伏屋面及玻璃网格立面。",
+    "原图前景为广场，入口前有横向高架结构；不根据未辨识广告推断位置。"
+  ],
+  "sources": [
+    {
+      "id": "011_xinhua",
+      "field": "正文第二幅现场照片及紧随图注；页面发布日期",
+      "excerpt": "图为武汉火车站",
+      "role": "独立站房照片与地点说明"
+    },
+    {
+      "id": "011_xinhua_photo",
+      "field": "正文第二幅 img[src]，图注摄影署名：陈周璇",
+      "excerpt": "",
+      "role": "站房主体屋面和立面对照"
+    },
+    {
+      "id": "011_railway",
+      "field": "面包屑导航：车站引导 > 湖北 > 武汉；h1title：武汉站",
+      "excerpt": "",
+      "role": "武汉站的湖北省归属"
+    }
+  ],
+  "comparison": "新华网2021年照片与候选2023年照片来自不同作者、不同日期和拍摄角度。可以对应站房中央高拱波浪屋顶、两侧下弯屋面、玻璃分格和固定中英文站名。两张图片前景道路及广场形态不同，未认定为同一入口侧、同一机位或同一拍摄时刻；支持的是同一武汉站建筑及其省级归属。",
+  "independence": "候选作者 Zheng Zhou 声明 Own work；新华网图注明确陈周璇摄，原稿早于候选拍摄时间，且图像不是候选直接转载。铁路省级导航构成另一路机构资料，不以候选 EXIF 重复作为独立支持。",
+  "coordinate": "来源 Location：纬度30.608767、经度114.415742；heading 70.9287109375。来源原图含 GPS。仅确认字段存在及经纬度格式范围有效；坐标基准、准确性、相机点与入口侧未确认，未作地图边界核验。",
+  "conflicts": "未发现省级位置冲突。对照视角不同不能据此宣称坐标已核验，也不把武昌站、汉口站当武汉站。",
+  "pending": [
+    "核验来源相机坐标、坐标基准及方位；输入副本须清除 GPS 等元数据。",
+    "重复机位及与历史开发图关系在正式冻结时复查。"
+  ],
+  "evidence_records": [
+    {
+      "evidence_id": "011_xinhua",
+      "url": "https://uav.xinhuanet.com/2021-01/25/c_1210993908.htm",
+      "accessed_at": "2026-10-10T20:24:55.751261+08:00",
+      "http_status": 200,
+      "returned_url": "https://uav.xinhuanet.com/2021-01/25/c_1210993908.htm",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3F1C9FC11C37D1844A9D3E1B566BBC27FFEA2A59A7738696B725D781EE128DF1",
+      "bytes": 12016,
+      "encoding": "utf-8",
+      "images": [
+        "<img src=\"//uav.xinhuanet.com/20170906fyzg/images/20170830_fyzg_wrjlogo_v1.png\" />",
+        "<img src=\"//www.news.cn/res/xhwimg/xl2017/images/wx.png\" />",
+        "<img src=\"\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{A267068B-076E-4831-B201-41F2C7EC3515}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115451834801n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{C9587D31-B812-4A2B-A9D8-81C0B8E540D3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434113231n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{53863DC0-5D74-46DB-8B5D-3F47182D9FB3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434113881n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{01875DB5-FB17-432B-8F84-F43B5C6914EA}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434114551n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{825CA115-5788-47BF-A0A7-2F9C327BA917}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434115101n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{7F299A1F-E129-4F68-A994-ECFBB9DEEAF3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434115701n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{AE2F0FED-4320-4EC4-9DCF-CBB35CF37812}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434116301n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{D9C2F2A5-8E72-4CA9-BD44-2A311515BFD9}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434117011n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img src=\"//www.xinhuanet.com/images/syicon/space.gif\" width=\"24\" height=\"24\" border=\"0\" />",
+        "<img class=\"share-img\" src=\"//www.news.cn/res/xhwimg/common/share/logo4share.jpg\" width=\"300\" height=\"300\" />",
+        "<img src=\"//webd.home.news.cn/1.gif?z=1&_wdxid=010030101450000000000000011100001210993908\" border=\"0\" />"
+      ],
+      "title": [
+        "\r\n走进武汉三站一基地 今年春运不一样-新华网\r\n"
+      ]
+    },
+    {
+      "evidence_id": "011_xinhua_photo",
+      "url": "https://uav.xinhuanet.com/2021-01/25/1210993908_16115434113231n.jpg",
+      "accessed_at": "2026-10-10T20:30:57.462233+08:00",
+      "http_status": 200,
+      "returned_url": "https://uav.xinhuanet.com/2021-01/25/1210993908_16115434113231n.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 488471,
+      "sha256": "35FE2A615093FBEA74C0FA8FA3F8B3ADA343F36D94EB38155C52424426E47D44",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\011_xinhua_photo.jpg"
+    },
+    {
+      "evidence_id": "011_railway",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/hub/wh/201001/t20100122_1617.html",
+      "accessed_at": "2026-10-10T20:31:02.805697+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/hub/wh/201001/t20100122_1617.html",
+      "content_type": "text/html",
+      "bytes": 71808,
+      "sha256": "2376047A1F404C5C44C72C9765080682C79E0C632761E82265720B679CFF1539",
+      "title": [
+        "中国铁路12306"
+      ],
+      "images": [
+        "<IMG height=\"31\" src=\"../../../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src='\"+picURLs[i]+\"' width='400px' border='0' />",
+        "<img src=\"../../../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../../../images/public.png\" />",
+        "<img src=\"../../../../images/download.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\011_railway.html"
+    }
+  ],
+  "common_pending": "匿名输入尚未制作；来源、作者、坐标、证据和本表均留在管理侧。公开网络图片的既往预训练接触未确认。未运行定位模型。"
+}

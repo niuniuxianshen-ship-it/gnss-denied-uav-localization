@@ -1,0 +1,15 @@
+{
+  "candidate_id": "014",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1_fenghuang_2018.jpg",
+  "started_at": "2026-10-10T20:03:36.048769+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1_fenghuang_2018.jpg",
+  "received_at": "2026-10-10T20:03:44.835770+08:00",
+  "status": "saved",
+  "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08",
+  "sha1": "C061ADDDA744E573E62D85A6D274C140C44D0F27",
+  "bytes": 38439293,
+  "width": 8256,
+  "height": 5504,
+  "GPS_present_in_original": false
+}

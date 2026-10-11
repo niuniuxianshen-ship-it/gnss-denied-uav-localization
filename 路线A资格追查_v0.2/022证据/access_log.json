@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=revisions&titles=File%3AThe+giant+Buddha+statue+in+Leshan.jpg&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=50&rvdir=newer",
+    "file": "022_description_full_history.json",
+    "requested_at": "2026-10-11T14:00:19.399924+08:00",
+    "status": 200,
+    "bytes": 13447,
+    "sha256": "16847620155DF811C0D242CD39A1EE85399334B6200406FDAF9F02726F985343"
+  },
+  {
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=revisions&titles=File%3ADafo.jpg&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=50&rvdir=newer",
+    "file": "022_old_name_history.json",
+    "requested_at": "2026-10-11T14:00:20.612884+08:00",
+    "status": 200,
+    "bytes": 472,
+    "sha256": "FCCA9E3B22093C9E9E095F1103671D2BDE29C0FBEB7C4618783500B987558D4B"
+  }
+]

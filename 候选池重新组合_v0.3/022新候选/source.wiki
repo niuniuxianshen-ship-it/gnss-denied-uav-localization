@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description=
+{{cs|Obří socha Buddhy v Le-šanu (S'-čchuan, Čínská lidová republika).}}
+{{en|The giant Buddha statue in Leshan (Sichuan, People's Republic of China).}}
+|Source= {{Own}}
+|Date= 2004-08-26
+|Author= [[User:Ondřej Žváček|Ondřej Žváček]]
+|Permission= Free to distribute and modify as long as the author is attributed (see below).
+|other_versions= 
+}}
+
+== {{int:license-header}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated|cc-by-2.5|author=I, [[User:Ondřej Žváček|Ondřej Žváček]]}}
+
+[[Category:Leshan Giant Buddha]]
+[[Category:Taken with Sony DSC-W1]]

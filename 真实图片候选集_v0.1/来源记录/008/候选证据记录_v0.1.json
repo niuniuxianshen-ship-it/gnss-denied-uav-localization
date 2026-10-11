@@ -1,0 +1,63 @@
+{
+  "candidate_id": "008",
+  "candidate_image": "Yuanyang Hani Rice Terraces at Sunrise.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Yuanyang_Hani_Rice_Terraces_at_Sunrise.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AYuanyang_Hani_Rice_Terraces_at_Sunrise.jpg&oldid=916831694",
+  "page_revision_id": 916831694,
+  "page_snapshot": "来源记录/008/commons_api_response.json",
+  "original_source_field": [
+    "|source=https://www.flickr.com/photos/iloveboeing/12424132044/"
+  ],
+  "description": "Yuanyang Hani Rice Terraces at Sunrise",
+  "author": "Chiu Ho-yang",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source_credit": "https://www.flickr.com/photos/iloveboeing/12424132044/",
+  "date_field": "2014-01-17 08:13:38",
+  "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:China photographs taken on 2014-01-17",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Hani Terraces"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yuanyang_Hani_Rice_Terraces_at_Sunrise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/008.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833",
+  "source_SHA1": "675D2964379492B61EF4AE129F00EF3BE73A86C0",
+  "width": 4896,
+  "height": 2752,
+  "source_bytes": 1647155,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    4896,
+    2752
+  ],
+  "display_size": [
+    4896,
+    2752
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "云南省",
+  "label_evidence": "具体文件页 Summary/Description 称 Yuanyang Hani Rice Terraces at Sunrise；Summary/Source 链接 Flickr 12424132044；Location模板坐标及元阳→云南省映射待核验。",
+  "coordinate_templates": [
+    "{{Location|23.132362|102.736512}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "地貌/植被",
+  "signal_strength": "弱",
+  "difficulty": "困难",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "暮色或晨光中的蓄水梯田、山体轮廓与雾气；暗部细节不足，未见可读文字。",
+  "text_classification": "景观相似；无可读文字",
+  "verification_priority": true,
+  "similarity_pair": "S01：007/008；蓄水山坡梯田；日照和暗部差异明显",
+  "related_group": "；元阳同地点关联，不同作者",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

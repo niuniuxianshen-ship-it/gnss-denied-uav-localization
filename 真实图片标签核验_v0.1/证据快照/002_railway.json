@@ -1,0 +1,28 @@
+{
+  "evidence_id": "002_railway",
+  "url": "https://www.12306.cn/mormhweb/czyd_2143/sd/qd/",
+  "accessed_at": "2026-10-10T20:34:55.183096+08:00",
+  "http_status": 200,
+  "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sd/qd/",
+  "content_type": "text/html",
+  "bytes": 63083,
+  "sha256": "7A8FD9D9321DB738FDCD4C16A7C6A0942823713307CE1404B3A0439E8631535B",
+  "encoding": "utf-8",
+  "title": [
+    "中国铁路12306"
+  ],
+  "images": [
+    "<IMG height=\"31\" src=\"../../../images/c_l.gif\" width=\"9\" />",
+    "<IMG height=\"31\" src=\"../../../images/c_r.gif\" width=\"9\" />",
+    "<IMG height=\"13\" src=\"../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+    "<img src=\"../../../images/link01.png\" alt=\"\" />",
+    "<img src=\"../../../images/link02.png\" alt=\"\" />",
+    "<img src=\"../../../images/link03.png\" alt=\"\" />",
+    "<img src=\"../../../images/link04.png\" alt=\"\" />",
+    "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+    "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+    "<img src=\"../../../images/public.png\" />",
+    "<img src=\"../../../images/download.png\" />"
+  ],
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\002_railway.html"
+}

@@ -1,0 +1,62 @@
+{
+  "candidate_id": "020",
+  "candidate_image": "Earth building-chengqi.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Earth_building-chengqi.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AEarth_building-chengqi.jpg&oldid=1222189517",
+  "page_revision_id": 1222189517,
+  "page_snapshot": "来源记录/020/commons_api_response.json",
+  "original_source_field": [
+    "|Source={{Own}}"
+  ],
+  "description": "earth building chengqi lou",
+  "author": "Bolobolo",
+  "license": "Public domain",
+  "license_url": "",
+  "source_credit": "Own work",
+  "date_field": "2006-10-06",
+  "categories": [
+    "Category:CC-BY-SA-3.0-migrated",
+    "Category:Chengqi Lou",
+    "Category:GFDL",
+    "Category:License migration redundant",
+    "Category:PD-self",
+    "Category:Self-published work"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Earth_building-chengqi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/020.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "ADBC4CB6C3133217B7DF43F45FF1085751F978EDC6E5FC1FB773072AF00F8CFD",
+  "source_SHA1": "DC34C3A3F9F710D521D1637E615E8B826452C24E",
+  "width": 500,
+  "height": 375,
+  "source_bytes": 74981,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    500,
+    375
+  ],
+  "display_size": [
+    500,
+    375
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "福建省",
+  "label_evidence": "具体文件页 Summary/Description 称 earth building chengqi lou；分类 Chengqi Lou；承启楼→福建省映射和具体现场待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/建筑",
+  "signal_strength": "强",
+  "difficulty": "简单",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "建筑入口和高墙、门匾“承启楼”及竖向对联可见；来源原图仅500×375，仍有可读建筑名称。",
+  "text_classification": "文字清楚（建筑名称）",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

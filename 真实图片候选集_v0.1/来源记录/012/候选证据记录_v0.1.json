@@ -1,0 +1,59 @@
+{
+  "candidate_id": "012",
+  "candidate_image": "Gate of Hongcun Scenario Area, Anhui, China.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Gate_of_Hongcun_Scenario_Area,_Anhui,_China.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AGate_of_Hongcun_Scenario_Area%2C_Anhui%2C_China.jpg&oldid=1220712931",
+  "page_revision_id": 1220712931,
+  "page_snapshot": "来源记录/012/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "Gate of Hongcun Scenario Area, Anhui, China",
+  "author": "HCCB3947",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2025-12-23",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hongcun",
+    "Category:Self-published work"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gate_of_Hongcun_Scenario_Area%2C_Anhui%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/012.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "B912BE455CDCABDF6BD9197F1D42CF1DF28F11E48ECFA3506099F1CDBBD74F5E",
+  "source_SHA1": "02937F34DBD398FDD4BEAC1F4DED9772DCD214F8",
+  "width": 4624,
+  "height": 3472,
+  "source_bytes": 2309065,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    4624,
+    3472
+  ],
+  "display_size": [
+    4624,
+    3472
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "安徽省",
+  "label_evidence": "具体文件页 Summary/Description 明确称 Gate of Hongcun Scenario Area, Anhui, China；Summary/Source 为 Own work；现场对应待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/建筑",
+  "signal_strength": "强",
+  "difficulty": "简单",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "入口牌匾“宏村”清楚；木构多层屋顶、红灯笼、游客和山体背景。",
+  "text_classification": "文字清楚",
+  "verification_priority": true,
+  "similarity_pair": "",
+  "related_group": "；宏村同地点关联；012/019同作者",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

@@ -1,0 +1,11 @@
+{
+  "evidence_id": "002_report_photo",
+  "url": "https://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg",
+  "accessed_at": "2026-10-10T20:34:55.181091+08:00",
+  "http_status": 200,
+  "returned_url": "https://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 205784,
+  "sha256": "028ADFCE0C2970CD917BE7258CC7D06662ECF1E290A17029D4BE35817314A828",
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\002_report_photo.jpg"
+}

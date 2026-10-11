@@ -1,0 +1,168 @@
+{
+  "version": "v0.1",
+  "record_time": "2026-10-11T13:54:16.873876+08:00",
+  "scope": "最终冻结前资格补证；不新增候选、不改变规则、不运行定位模型",
+  "qualification_records": [
+    {
+      "candidate_id": "015",
+      "author": "chensiyuan",
+      "original_file": "真实图片候选集_v0.1/原图/015.jpg",
+      "original_sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D",
+      "role": "working",
+      "source_traceability": "明确",
+      "photo_specific_camera_station_evidence": "本轮未取得",
+      "camera_station_nature": "未确认",
+      "ground_photo_eligibility": "未确认",
+      "province_label_retracted": false,
+      "missing_evidence_is_not_conflict_or_illegality": true,
+      "formal_locked": false
+    },
+    {
+      "candidate_id": "021",
+      "author": "Bernt Rostad",
+      "original_file": "候选池重新组合_v0.3/021新候选/021.jpg",
+      "original_sha256": "C4A0276906D59DB7179057F712D1640C0668868DE5574892AD1FB7CA82EDCBCB",
+      "role": "working",
+      "source_traceability": "明确",
+      "photo_specific_camera_station_evidence": "本轮未取得",
+      "camera_station_nature": "未确认",
+      "ground_photo_eligibility": "未确认",
+      "province_label_retracted": false,
+      "missing_evidence_is_not_conflict_or_illegality": true,
+      "formal_locked": false
+    },
+    {
+      "candidate_id": "022",
+      "author": "Ondřej Žváček",
+      "original_file": "候选池重新组合_v0.3/022新候选/022.jpg",
+      "original_sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C",
+      "role": "working",
+      "source_traceability": "明确",
+      "photo_specific_camera_station_evidence": "本轮未取得",
+      "camera_station_nature": "未确认",
+      "ground_photo_eligibility": "未确认",
+      "province_label_retracted": false,
+      "missing_evidence_is_not_conflict_or_illegality": true,
+      "formal_locked": false
+    },
+    {
+      "candidate_id": "005",
+      "author": "HMGiovanniV",
+      "original_file": "真实图片候选集_v0.1/原图/005.jpg",
+      "original_sha256": "98BAB3B2466181EB670DC836F65763B37E3104250A02B284599F2257DE2ED301",
+      "role": "reserve",
+      "source_traceability": "明确",
+      "photo_specific_camera_station_evidence": "本轮未取得",
+      "camera_station_nature": "未确认",
+      "ground_photo_eligibility": "未确认",
+      "province_label_retracted": false,
+      "missing_evidence_is_not_conflict_or_illegality": true,
+      "formal_locked": false
+    }
+  ],
+  "working_ids": [
+    "001",
+    "002",
+    "011",
+    "015",
+    "021",
+    "022",
+    "007",
+    "008",
+    "014",
+    "019"
+  ],
+  "working_categories": {
+    "clear_text": [
+      "001",
+      "002",
+      "011"
+    ],
+    "missing_or_blurred_text": [
+      "015",
+      "021",
+      "022"
+    ],
+    "similar_landscape": [
+      "007",
+      "008",
+      "014",
+      "019"
+    ]
+  },
+  "association_records": [
+    {
+      "ids": [
+        "008",
+        "015"
+      ],
+      "type": "same_county_scene",
+      "description": "元阳县／相关景区，不同作者；未确认同一机位",
+      "automatic_exclusion": false
+    },
+    {
+      "ids": [
+        "014",
+        "015"
+      ],
+      "type": "same_author_different_site",
+      "description": "chensiyuan跨地点作者关联，影响未量化",
+      "automatic_exclusion": false
+    },
+    {
+      "ids": [
+        "007",
+        "021"
+      ],
+      "type": "same_province_different_site",
+      "description": "广西省级标签重复，不自动视作重复地点",
+      "automatic_exclusion": false
+    },
+    {
+      "ids": [
+        "001",
+        "022"
+      ],
+      "type": "same_province_different_site",
+      "description": "四川省级标签重复，不转移标签或资格",
+      "automatic_exclusion": false
+    }
+  ],
+  "gates": {
+    "working_image_count_complete": true,
+    "working_provincial_labels_supported_from_archived_evidence": true,
+    "classification_observations_recorded": true,
+    "associations_and_limitations_recorded": true,
+    "camera_station_nature_sufficiently_explained": false
+  },
+  "unresolved_working_ids": [
+    "015",
+    "021",
+    "022"
+  ],
+  "unresolved_reserve_ids": [
+    "005"
+  ],
+  "other_working_images_not_newly_qualified_this_round": [
+    "001",
+    "002",
+    "011",
+    "007",
+    "008",
+    "014",
+    "019"
+  ],
+  "freeze_decision": "未达到冻结前资格门槛",
+  "formal_locked_count": 0,
+  "formal_freeze_record_created": false,
+  "anonymous_inputs_created": 0,
+  "locating_model_calls": 0,
+  "performance_comparison_run": false,
+  "new_candidates_added": 0,
+  "scoring_rules_changed": false,
+  "experiment_design_changed": false,
+  "source_images_changed": false,
+  "original_image_metadata_used_for_eligibility": false,
+  "authors_contacted": false,
+  "new_scripts_or_derived_images_created": false
+}

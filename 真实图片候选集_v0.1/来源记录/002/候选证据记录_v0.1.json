@@ -1,0 +1,59 @@
+{
+  "candidate_id": "002",
+  "candidate_image": "New Qingdao railway station.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:New_Qingdao_railway_station.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3ANew_Qingdao_railway_station.jpg&oldid=454843824",
+  "page_revision_id": 454843824,
+  "page_snapshot": "来源记录/002/commons_api_response.json",
+  "original_source_field": [
+    "|Source={{own}}"
+  ],
+  "description": "Taken after arriving at the recently-reopened Qingdao Railway Station in Qingdao, China (site of the 2008 Olympic sailing events).",
+  "author": "Djhobo9",
+  "license": "Public domain",
+  "license_url": "",
+  "source_credit": "Own work",
+  "date_field": "2008-07-29",
+  "categories": [
+    "Category:PD-self",
+    "Category:Qingdao Railway Station",
+    "Category:Self-published work"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/New_Qingdao_railway_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/002.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788",
+  "source_SHA1": "F94D94C1A3FCE40341CA2360657787FCDC68CC9F",
+  "width": 2541,
+  "height": 1507,
+  "source_bytes": 915277,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    2541,
+    1507
+  ],
+  "display_size": [
+    2541,
+    1507
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "山东省",
+  "label_evidence": "具体文件页 Summary/Description 明确称 Qingdao Railway Station in Qingdao；Summary/Source 为 Own work；青岛→山东省映射待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/建筑/道路",
+  "signal_strength": "强",
+  "difficulty": "简单",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "钟楼、红色坡屋顶、拱门；原始分辨率可读“青岛”和QINGDAO，不能归入文字缺失组。",
+  "text_classification": "文字清楚",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

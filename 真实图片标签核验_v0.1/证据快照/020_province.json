@@ -1,0 +1,19 @@
+{
+  "evidence_id": "020_province",
+  "url": "https://www.yongding.gov.cn/yxyd/ydtl/201608/t20160801_1146189.htm",
+  "accessed_at": "2026-10-10T20:35:00.119764+08:00",
+  "http_status": 200,
+  "returned_url": "https://www.yongding.gov.cn/yxyd/ydtl/201608/t20160801_1146189.htm",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 18239,
+  "sha256": "974C12EA0B3B044DF460EE0EE785C392AF18A49ECD11342D96CA90580B9CDB58",
+  "encoding": "utf-8",
+  "title": [
+    "永定：土楼之乡客家故里-龙岩市永定区人民政府"
+  ],
+  "images": [
+    "<img src=\"../../../images/18yd_xl_icon2.png\" />",
+    "<img src=\"../../../images/18yd_xl_icon3.png\" />"
+  ],
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\020_province.html"
+}

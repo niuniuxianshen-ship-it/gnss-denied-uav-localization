@@ -1,0 +1,544 @@
+{
+  "legend": [
+    [
+      "photo-models",
+      "0",
+      "data",
+      "owner",
+      "data"
+    ],
+    [
+      "photo-models",
+      "0",
+      "data",
+      "engagement",
+      "data"
+    ],
+    [
+      "photo-geo-models",
+      "0",
+      "data"
+    ]
+  ],
+  "main": {
+    "photo-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-models",
+          "title": "P5",
+          "license": 0,
+          "sizes": {
+            "data": {
+              "sq": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_s.jpg",
+                  "width": 75,
+                  "height": 75,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_s.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "q": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_q.jpg",
+                  "width": 150,
+                  "height": 150,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_q.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "t": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_t.jpg",
+                  "width": 100,
+                  "height": 54,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_t.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "s": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_m.jpg",
+                  "width": 240,
+                  "height": 129,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_m.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "n": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_n.jpg",
+                  "width": 320,
+                  "height": 172,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_n.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "w": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_w.jpg",
+                  "width": 400,
+                  "height": 215,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_w.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "m": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f.jpg",
+                  "width": 500,
+                  "height": 269,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "z": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_z.jpg",
+                  "width": 640,
+                  "height": 344,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_z.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "c": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_c.jpg",
+                  "width": 800,
+                  "height": 430,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_c.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "l": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_b.jpg",
+                  "width": 1024,
+                  "height": 551,
+                  "url": "//live.staticflickr.com/5718/22503021938_afa2fdbe7f_b.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "h": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_c155244ae2_h.jpg",
+                  "width": 1600,
+                  "height": 860,
+                  "url": "//live.staticflickr.com/5718/22503021938_c155244ae2_h.jpg"
+                },
+                "exportMetaType": "pojo"
+              },
+              "k": {
+                "data": {
+                  "displayUrl": "//live.staticflickr.com/5718/22503021938_b370ad7cd1_k.jpg",
+                  "width": 2048,
+                  "height": 1101,
+                  "url": "//live.staticflickr.com/5718/22503021938_b370ad7cd1_k.jpg"
+                },
+                "exportMetaType": "pojo"
+              }
+            },
+            "exportMetaType": "pojo"
+          },
+          "canComment": false,
+          "canPublicComment": true,
+          "rotation": 0,
+          "owner": {
+            "data": {
+              "_flickrModelRegistry": "person-models",
+              "username": "juliatheresfeber",
+              "realname": "Julia Chan",
+              "buddyicon": {
+                "data": {
+                  "retina": "//combo.staticflickr.com/pw/images/bbuddyicon03_r.png#130876087@N03",
+                  "large": "//combo.staticflickr.com/pw/images/bbuddyicon03_l.png#130876087@N03",
+                  "medium": "//combo.staticflickr.com/pw/images/bbuddyicon03_m.png#130876087@N03",
+                  "small": "//combo.staticflickr.com/pw/images/bbuddyicon03_s.png#130876087@N03",
+                  "default": "//combo.staticflickr.com/pw/images/bbuddyicon03.png#130876087@N03"
+                },
+                "exportMetaType": "pojo"
+              },
+              "isPro": false,
+              "isAdFree": false,
+              "dateCreated": {
+                "data": "1429319920",
+                "exportMetaType": "serializeFunction"
+              },
+              "subscription": {
+                "data": {
+                  "isPastDue": false,
+                  "isPro": false,
+                  "isClosed": false
+                },
+                "exportMetaType": "pojo"
+              },
+              "segments": {
+                "data": [],
+                "exportMetaType": "array"
+              },
+              "isEligibleForGifts": true,
+              "eligibleGifts": {
+                "data": [
+                  "year",
+                  "month",
+                  "week"
+                ],
+                "exportMetaType": "array"
+              },
+              "newFlow": true,
+              "id": "130876087@N03"
+            },
+            "exportMetaType": "model"
+          },
+          "engagement": {
+            "data": {
+              "_flickrModelRegistry": "photo-engagement-models",
+              "ownerNsid": "130876087@N03",
+              "canShare": true,
+              "viewCount": 5,
+              "reactions": {
+                "data": {
+                  "like": {
+                    "data": {
+                      "id": "like",
+                      "count": 5,
+                      "didViewerReact": true,
+                      "canReact": true
+                    },
+                    "exportMetaType": "pojo"
+                  },
+                  "someOtherReaction": {
+                    "data": {
+                      "id": "someOtherReaction",
+                      "count": 3,
+                      "didViewerReact": false,
+                      "canReact": true
+                    },
+                    "exportMetaType": "pojo"
+                  }
+                },
+                "exportMetaType": "pojo"
+              },
+              "id": "22503021938"
+            },
+            "exportMetaType": "model"
+          },
+          "secret": "afa2fdbe7f",
+          "adEligibility": {
+            "data": {
+              "isAdEligible": true,
+              "labels": {
+                "data": [
+                  "SafeAutotags"
+                ],
+                "exportMetaType": "array"
+              },
+              "highScoreLabels": {
+                "data": [],
+                "exportMetaType": "array"
+              },
+              "lane": 1
+            },
+            "exportMetaType": "pojo"
+          },
+          "canAddMeta": false,
+          "oWidth": 3264,
+          "oHeight": 1755,
+          "safetyLevel": 0,
+          "upgradeSizes": {
+            "data": [
+              "h",
+              "k",
+              "3k",
+              "o"
+            ],
+            "exportMetaType": "array"
+          },
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "person-models": [
+      {
+        "data": "~0",
+        "exportMetaType": "model"
+      }
+    ],
+    "person-relationship-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "person-relationship-models",
+          "id": "130876087@N03"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-engagement-models": [
+      {
+        "data": "~1",
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-stats-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-stats-models",
+          "dateTaken": "2014-04-10 07:07:22",
+          "datePosted": "1447165902",
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-privacy-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-privacy-models",
+          "isPublic": true,
+          "permAddMeta": 2,
+          "permComment": 3,
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-notes-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-notes-models",
+          "notes": {
+            "data": {
+              "_data": [],
+              "fetchedStart": false,
+              "fetchedEnd": false,
+              "totalItems": 1.7976931348623157e+308
+            },
+            "exportMetaType": "collection"
+          },
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "note-models": [],
+    "photo-geo-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-geo-models",
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-location-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-location-models",
+          "geo": {
+            "data": "~2",
+            "exportMetaType": "model"
+          },
+          "levels": {
+            "data": {},
+            "exportMetaType": "pojo"
+          },
+          "text": "",
+          "staticMaps": {
+            "data": {},
+            "exportMetaType": "pojo"
+          },
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-head-meta-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "photo-head-meta-models",
+          "og:title": "P5",
+          "title": "P5",
+          "og:description": "",
+          "og:type": "article",
+          "og:url": "https://www.flickr.com/photos/130876087@N03/22503021938/",
+          "og:image": "https://live.staticflickr.com/5718/22503021938_afa2fdbe7f_b.jpg",
+          "og:image:width": 1024,
+          "og:image:height": 551,
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://live.staticflickr.com/5718/22503021938_afa2fdbe7f_b.jpg",
+          "twitter:description": "Explore juliatheresfeber's 2360 photos on Flickr!",
+          "twitter:app:url:iphone": "flickr://flickr.com/photos/130876087@N03/22503021938/",
+          "twitter:app:url:ipad": "flickr://flickr.com/photos/130876087@N03/22503021938/",
+          "twitter:app:url:googleplay": "https://www.flickr.com/photos/130876087@N03/22503021938/",
+          "id": "22503021938"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "group-models": [],
+    "photo-contexts-models": [],
+    "favorite-models": [],
+    "gallery-models": [],
+    "group-pool-models": [],
+    "set-models": [],
+    "photostream-models": [],
+    "license-models": [
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "All Rights Reserved",
+          "url": "https://www.flickrhelp.com/hc/en-us/articles/10710266545556-Using-Flickr-images-shared-by-other-members",
+          "id": "0"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-NC-SA 2.0",
+          "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+          "id": "1"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-NC 2.0",
+          "url": "https://creativecommons.org/licenses/by-nc/2.0/",
+          "id": "2"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-NC-ND 2.0",
+          "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+          "id": "3"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY 2.0",
+          "url": "https://creativecommons.org/licenses/by/2.0/",
+          "id": "4"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-SA 2.0",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "id": "5"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-ND 2.0",
+          "url": "https://creativecommons.org/licenses/by-nd/2.0/",
+          "id": "6"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "No known copyright restrictions",
+          "url": "https://www.flickr.com/commons/usage/",
+          "id": "7"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "United States Government Work",
+          "url": "https://www.usa.gov/government-copyright",
+          "id": "8"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "Public Domain Dedication (CC0)",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "id": "9"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "Public Domain Mark",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "id": "10"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "id": "11"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "id": "12"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-ND 4.0",
+          "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+          "id": "13"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-NC 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+          "id": "14"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-NC-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+          "id": "15"
+        },
+        "exportMetaType": "model"
+      },
+      {
+        "data": {
+          "_flickrModelRegistry": "license-models",
+          "name": "CC BY-NC-ND 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "id": "16"
+        },
+        "exportMetaType": "model"
+      }
+    ],
+    "photo-license-history-models": []
+  },
+  "version": "cyclical-json@2.1.3"
+}

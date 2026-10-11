@@ -1,0 +1,511 @@
+{
+  "created_at": "2026-10-10T20:41:04.551298+08:00",
+  "http_access_records": [
+    {
+      "evidence_id": "001_railway",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/t20100122_1598.html",
+      "accessed_at": "2026-10-10T20:24:55.747226+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/t20100122_1598.html",
+      "content_type": "text/html",
+      "sha256": "EE4AFDE7061439E6CCEB4C1A396261C339606228996C69B707991AE52790CCC2",
+      "bytes": 82919,
+      "encoding": "utf-8",
+      "images": [
+        "<IMG height=\"31\" src=\"../../../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src='\"+picURLs[i]+\"' width='400px' border='0' />",
+        "<img src=\"../../../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../../../images/public.png\" />",
+        "<img src=\"../../../../images/download.png\" />"
+      ],
+      "title": [
+        "中国铁路12306"
+      ]
+    },
+    {
+      "evidence_id": "001_railway_photo",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/W020121205753474094636.jpg",
+      "accessed_at": "2026-10-10T20:30:57.460103+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/W020121205753474094636.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 67336,
+      "sha256": "7A0B8195F9BB3FBE4F99B01DDA31581E963C1212A757C2FCE1C758F0423881E6",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\001_railway_photo.jpg"
+    },
+    {
+      "evidence_id": "002_designer",
+      "url": "https://zx.crec.cn/tabid/83/InfoID/106/frtid/90/Default.aspx",
+      "accessed_at": "2026-10-10T20:24:55.750255+08:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)>"
+    },
+    {
+      "evidence_id": "002_designer_alt",
+      "url": "https://cec-cn.com.cn/tabid/83/InfoID/106/frtid/90/Default.aspx",
+      "accessed_at": "2026-10-10T20:31:02.236557+08:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)>"
+    },
+    {
+      "evidence_id": "002_railway",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sd/qd/",
+      "accessed_at": "2026-10-10T20:34:55.183096+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sd/qd/",
+      "content_type": "text/html",
+      "bytes": 63083,
+      "sha256": "7A8FD9D9321DB738FDCD4C16A7C6A0942823713307CE1404B3A0439E8631535B",
+      "encoding": "utf-8",
+      "title": [
+        "中国铁路12306"
+      ],
+      "images": [
+        "<IMG height=\"31\" src=\"../../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src=\"../../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../../images/public.png\" />",
+        "<img src=\"../../../images/download.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_railway.html"
+    },
+    {
+      "evidence_id": "002_railway_index",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sd/",
+      "accessed_at": "2026-10-10T20:33:20.921729+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sd/",
+      "content_type": "text/html",
+      "bytes": 69186,
+      "sha256": "D124738C2BE946A924C01AB84892CB5919D94AB0964D5F6B462A0AC0238AF158",
+      "encoding": "utf-8",
+      "title": [
+        "铁路客户服务中心"
+      ],
+      "images": [
+        "<IMG height=\"31\" src=\"../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src=\"../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../images/public.png\" />",
+        "<img src=\"../../images/download.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_railway_index.html"
+    },
+    {
+      "evidence_id": "002_report_photo",
+      "url": "https://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg",
+      "accessed_at": "2026-10-10T20:34:55.181091+08:00",
+      "http_status": 200,
+      "returned_url": "https://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 205784,
+      "sha256": "028ADFCE0C2970CD917BE7258CC7D06662ECF1E290A17029D4BE35817314A828",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_report_photo.jpg"
+    },
+    {
+      "evidence_id": "002_reporting",
+      "url": "https://news.sina.com.cn/o/2008-07-28/063814229746s.shtml",
+      "accessed_at": "2026-10-10T20:33:20.920221+08:00",
+      "http_status": 200,
+      "returned_url": "https://news.sina.com.cn/o/2008-07-28/063814229746s.shtml",
+      "content_type": "text/html",
+      "bytes": 57055,
+      "sha256": "019F3D548E2DC309897DC57B3627473D01FD3BF24CEB60F2A3A5085F60ADE33B",
+      "encoding": "gb2312",
+      "title": [
+        "青岛火车站“旧瓶”装“新酒”_新闻中心_新浪网"
+      ],
+      "images": [
+        "<img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' />",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到路径导航栏\" />",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到正文内容\" />",
+        "<img src=\"http://i3.sinaimg.cn/dy/deco/2008/0721/yocc080721img/con_logo_news_001.gif\" width=\"119\" height=\"27\" alt=\"新闻中心\" id=\"pagelogo_img\" />",
+        "<img src=\"http://i1.sinaimg.cn/dy/31/U868P1T31D49F479DT20051230062828_s.jpg\" border=\"0\" onload=\"javascript:DrawImage(this)\"/>",
+        "<img alt=青岛火车站“旧瓶”装“新酒” src=\"http://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg\" border=\"1\" width=\"450\">",
+        "<img alt=青岛火车站“旧瓶”装“新酒” src=\"http://i1.sinaimg.cn/dy/o/2008-07-28/784585e4b770f0438d08d5a483c107c7.jpg\" border=\"1\" width=\"450\">",
+        "<img border=\"0\" src=\"' + google_ads[0].image_url +\n\t\t\t  '\"width=\"' + google_ads[0].image_width +\n\t\t\t  '\"height=\"' + google_ads[0].image_height + '\">"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_reporting.html"
+    },
+    {
+      "evidence_id": "002_xinhua",
+      "url": "https://2008.sina.com.cn/jz/other/p/2008-07-19/2152115115.shtml?from=wap",
+      "accessed_at": "2026-10-10T20:33:20.920221+08:00",
+      "http_status": 200,
+      "returned_url": "https://2008.sina.com.cn/jz/other/p/2008-07-19/2152115115.shtml?from=wap",
+      "content_type": "text/html",
+      "bytes": 66459,
+      "sha256": "A002D5A8E58BA9D40A79A56D959BF7DF0CAD0AD78CBE9ABF170A996DF0F2152C",
+      "encoding": "gb2312",
+      "title": [
+        "图文-青岛火车站全面竣工 火车站外钟楼一景_其他_2008奥运站_新浪网"
+      ],
+      "images": [
+        "<img src=\"图片\" onload=\"javascript:DrawImage(this)\">",
+        "<img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' />",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到路径导航栏\" />",
+        "<img src=\"http://i1.sinaimg.cn/2008/temp/jz/aq/2007-04-04/U814P461T49D1F1174DT20070405172832.jpg\" width=\"950\" height=\"60\" alt=\"2008年第29届奥运会\"/>",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到正文内容\" />",
+        "<img src=\"http://i3.sinaimg.cn/ty/deco/2007/0302/images/2008_i_ws_007.gif\" width=\"64\" height=\"30\" alt=\"\"/>",
+        "<img src=\"http://i3.sinaimg.cn/bb/article/con_ws_006.gif\" width=\"1\" height=\"34\" alt=\"\"/>",
+        "<img src=http://i0.sinaimg.cn/ty/images/media/U349P6T51D267F947DT20070122170551.gif border=0  onload=\"javascript:DrawImage(this)\"/>",
+        "<img src=\"http://i3.sinaimg.cn/ty/deco/2007/0302/images/2008_i_ws_007.gif\" width=\"64\" height=\"30\" alt=\"\"/>",
+        "<img src=\"http://i3.sinaimg.cn/bb/article/con_ws_006.gif\" width=\"1\" height=\"34\" alt=\"\"/>",
+        "<img src=http://i0.sinaimg.cn/ty/images/media/U349P6T51D267F947DT20070122170551.gif border=0  onload=\"javascript:DrawImage(this)\"/>",
+        "<img src=\"http://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg\" alt=\"图文-青岛火车站全面竣工 火车站外钟楼一景\"/>"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_xinhua.html"
+    },
+    {
+      "evidence_id": "002_xinhua_photo",
+      "url": "https://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg",
+      "accessed_at": "2026-10-10T20:34:55.182094+08:00",
+      "http_status": 200,
+      "returned_url": "https://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27847,
+      "sha256": "0607EF79432E09028AEC9A95D1CF30D84B7A1D0781145EF4B5271DB6DD698D3D",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_xinhua_photo.jpg"
+    },
+    {
+      "evidence_id": "011_railway",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/hub/wh/201001/t20100122_1617.html",
+      "accessed_at": "2026-10-10T20:31:02.805697+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/hub/wh/201001/t20100122_1617.html",
+      "content_type": "text/html",
+      "bytes": 71808,
+      "sha256": "2376047A1F404C5C44C72C9765080682C79E0C632761E82265720B679CFF1539",
+      "title": [
+        "中国铁路12306"
+      ],
+      "images": [
+        "<IMG height=\"31\" src=\"../../../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src='\"+picURLs[i]+\"' width='400px' border='0' />",
+        "<img src=\"../../../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../../../images/public.png\" />",
+        "<img src=\"../../../../images/download.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\011_railway.html"
+    },
+    {
+      "evidence_id": "011_xinhua",
+      "url": "https://uav.xinhuanet.com/2021-01/25/c_1210993908.htm",
+      "accessed_at": "2026-10-10T20:24:55.751261+08:00",
+      "http_status": 200,
+      "returned_url": "https://uav.xinhuanet.com/2021-01/25/c_1210993908.htm",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3F1C9FC11C37D1844A9D3E1B566BBC27FFEA2A59A7738696B725D781EE128DF1",
+      "bytes": 12016,
+      "encoding": "utf-8",
+      "images": [
+        "<img src=\"//uav.xinhuanet.com/20170906fyzg/images/20170830_fyzg_wrjlogo_v1.png\" />",
+        "<img src=\"//www.news.cn/res/xhwimg/xl2017/images/wx.png\" />",
+        "<img src=\"\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{A267068B-076E-4831-B201-41F2C7EC3515}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115451834801n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{C9587D31-B812-4A2B-A9D8-81C0B8E540D3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434113231n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{53863DC0-5D74-46DB-8B5D-3F47182D9FB3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434113881n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{01875DB5-FB17-432B-8F84-F43B5C6914EA}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434114551n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{825CA115-5788-47BF-A0A7-2F9C327BA917}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434115101n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{7F299A1F-E129-4F68-A994-ECFBB9DEEAF3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434115701n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{AE2F0FED-4320-4EC4-9DCF-CBB35CF37812}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434116301n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{D9C2F2A5-8E72-4CA9-BD44-2A311515BFD9}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434117011n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+        "<img src=\"//www.xinhuanet.com/images/syicon/space.gif\" width=\"24\" height=\"24\" border=\"0\" />",
+        "<img class=\"share-img\" src=\"//www.news.cn/res/xhwimg/common/share/logo4share.jpg\" width=\"300\" height=\"300\" />",
+        "<img src=\"//webd.home.news.cn/1.gif?z=1&_wdxid=010030101450000000000000011100001210993908\" border=\"0\" />"
+      ],
+      "title": [
+        "\r\n走进武汉三站一基地 今年春运不一样-新华网\r\n"
+      ]
+    },
+    {
+      "evidence_id": "011_xinhua_photo",
+      "url": "https://uav.xinhuanet.com/2021-01/25/1210993908_16115434113231n.jpg",
+      "accessed_at": "2026-10-10T20:30:57.462233+08:00",
+      "http_status": 200,
+      "returned_url": "https://uav.xinhuanet.com/2021-01/25/1210993908_16115434113231n.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 488471,
+      "sha256": "35FE2A615093FBEA74C0FA8FA3F8B3ADA343F36D94EB38155C52424426E47D44",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\011_xinhua_photo.jpg"
+    },
+    {
+      "evidence_id": "012_baq",
+      "url": "https://baq.kz/amp/news/othernews/900-zhyldan-asa-tarihy-bar-auyl-292611/",
+      "accessed_at": "2026-10-10T20:33:25.711904+08:00",
+      "error": "URLError: <urlopen error [Errno 2] No such file or directory>"
+    },
+    {
+      "evidence_id": "012_baq_photo",
+      "url": "https://baq.kz/userfiles/images/photo_5471888129125368790_y.jpg",
+      "accessed_at": "2026-10-10T20:33:25.816219+08:00",
+      "error": "URLError: <urlopen error [Errno 2] No such file or directory>"
+    },
+    {
+      "evidence_id": "012_huangshan",
+      "url": "https://wlj.huangshan.gov.cn/zwgk/public/6615733/11941775.html",
+      "accessed_at": "2026-10-10T20:33:30.720444+08:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>"
+    },
+    {
+      "evidence_id": "012_ly",
+      "url": "https://www.ly.com/travels/1139720.html",
+      "accessed_at": "2026-10-10T20:35:00.026407+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.ly.com/travels/1139720.html",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 154690,
+      "sha256": "A3CCFCBB7319E08BA6893B6CB1CB311CC01FA6301DF7AE1E06AA611EFF07D616",
+      "encoding": "utf-8",
+      "title": [
+        "【黟县验客】两天一夜｜沉浸式体验南方冬的韵味 - 黟县游记攻略【同程旅游攻略】"
+      ],
+      "images": [
+        "<img class=\"figma-brand-logo\" src=\"//file.40017.cn/tcweb/pc/home/img/logo.png\" alt=\"同程旅行\" />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/more-chevron.svg\" alt=\"\" />",
+        "<img src=\"https://pic5.40017.cn/02/000/26/d0/rBLkCVvWbqmAJWxmAAABQaM8azg489.png\">",
+        "<img src=\"https://pic5.40017.cn/02/000/1f/12/rBLkCVvS7pSAa_ssAAAA82XoyWY361.png\">",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/home.svg\" alt=\"\" />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/hotel_v2.svg\" alt=\"\" />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/flight_v2.svg\" alt=\"\" />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/train_v2.svg\" alt=\"\" />",
+        "<img class=\"figma-dynamic-icon figma-dynamic-icon--normal\" src=\"//file.40017.cn/tcweb/pc/home/img/guide.svg\" alt=\"\" />",
+        "<img class=\"figma-dynamic-icon figma-dynamic-icon--select\" src=\"//file.40017.cn/tcweb/pc/home/img/guide_select.svg\" alt=\"\" />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/more-chevron.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/scenic.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/domestic.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/outbound.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/cruise.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/visa.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/guide.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/business.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/bus-ship.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/car.svg\" alt=\"\" />",
+        "<img class=\"figma-more-icon\" src=\"//file.40017.cn/tcweb/pc/home/img/other.svg\" alt=\"\" />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/礼物.png\" alt=\"\" />",
+        "<img src=\"//pic5.40017.cn/01/001/6e/1a/rBLkBVk4tzaANgJIAAAFAEOk3cw261.gif\">",
+        "<img src=\"//pic5.40017.cn/01/001/6e/1a/rBLkBVk4tzaANgJIAAAFAEOk3cw261.gif\">",
+        "<img src=\"//pic5.40017.cn/01/001/6e/1a/rBLkBVk4tzaANgJIAAAFAEOk3cw261.gif\">",
+        "<img src=\"//pic5.40017.cn/i/ori/1l4aobBZSO4_90x90_00.jpg\" />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBvRflMqc_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBvSaH2Ok_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBvUleUsU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBvY2SnD2_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBvXJzEME_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBw1asOl2_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBw5EDTwY_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBw5iMjKg_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBw7PbAwU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwa5Hczu_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwdOsTBe_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwdyQFkA_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwgxlVSw_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwkgHuIU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwjdYuis_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwlFyhKU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwoyF9Ly_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwru2PSM_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwrMMFEc_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwvhEbXq_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwC6iDAt_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwyVSuCQ_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwDleoBG_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBx3TRhvi_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwDN2UHm_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwHnScsE_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwJfosz6_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwJPrOco_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwMh1CIU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwOxOm3K_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwP90hW0_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwRuCjWo_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwUTeSaY_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwXTryQE_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwWU7UDC_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBwZQ4LWU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBx1uxYYg_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBx1Y4fqU_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBx3ZfDUs_750x_02.jpg' />",
+        "<img data-img-src='//pic5.40017.cn/i/ori/1qfBx5Y9Xeo_750x_02.jpg' />",
+        "<img src=\"//file.40017.cn/tcweb/pc/home/img/app_2023051201.png\" style=\"\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\012_ly.html"
+    },
+    {
+      "evidence_id": "012_ly_photo",
+      "url": "https://pic5.40017.cn/i/ori/1qfBwdyQFkA_750x_02.jpg",
+      "accessed_at": "2026-10-10T20:36:43.460493+08:00",
+      "http_status": 200,
+      "returned_url": "https://pic5.40017.cn/i/ori/1qfBwdyQFkA_750x_02.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 112559,
+      "sha256": "8AB4B1447EFEDE6EACD8BE33397964D133D0AB5C33B31D68A3C793BB72DC8407",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\012_ly_photo.jpg"
+    },
+    {
+      "evidence_id": "012_tourism",
+      "url": "https://www.cnta-osaka.jp/6878.html",
+      "accessed_at": "2026-10-10T20:31:04.352000+08:00",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "evidence_id": "012_travel",
+      "url": "https://jianwenlu.seesaa.net/article/446584155.html",
+      "accessed_at": "2026-10-10T20:25:00.750191+08:00",
+      "http_status": 200,
+      "returned_url": "https://jianwenlu.seesaa.net/article/446584155.html",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "BE7BA93C3E38AF805D65F820661476BA9B3964CEADC062EF2BE0C63D29B563F0",
+      "bytes": 41869,
+      "encoding": "UTF-8",
+      "images": [
+        "<img src=\"//accaii.com/jianwenlu/script?guid=on\">",
+        "<img src=\"//www.kaiseki-website.com/getstats_m.php?sid=1174868&guid=ON\" />",
+        "<img border=\"0\" alt=\"西逓バス乗り場.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E38390E382B9E4B997E3828AE5A0B4-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E38390E382B9E4B997E3828AE5A0B4-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓景区入り口.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E699AFE58CBAE585A5E3828AE58FA3-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E699AFE58CBAE585A5E3828AE58FA3-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓街の入り口.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E8A197E381AEE585A5E3828AE58FA3-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E8A197E381AEE585A5E3828AE58FA3-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓路地.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E8B7AFE59CB0-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E8B7AFE59CB0-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓　石の家.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E38080E79FB3E381AEE5AEB6-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E38080E79FB3E381AEE5AEB6-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓　旧家.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E38080E697A7E5AEB6-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E38080E697A7E5AEB6-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓小高い丘.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E5B08FE9AB98E38184E4B898-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E5B08FE9AB98E38184E4B898-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"西逓　丘から眺める.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E8A5BFE98093E38080E4B898E3818BE38289E79CBAE38281E3828B-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E8A5BFE98093E38080E4B898E3818BE38289E79CBAE38281E3828B-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"宏村入り口.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E585A5E3828AE58FA3-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E5AE8FE69D91E585A5E3828AE58FA3-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"宏村南湖.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E58D97E6B996-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E5AE8FE69D91E58D97E6B996-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"宏村　家屋　門.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E38080E5AEB6E5B18BE38080E99680-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E5AE8FE69D91E38080E5AEB6E5B18BE38080E99680-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"宏村　家屋.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E38080E5AEB6E5B18B-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E5AE8FE69D91E38080E5AEB6E5B18B-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"宏村　肉.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E38080E88289-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E5AE8FE69D91E38080E88289-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img border=\"0\" alt=\"宏村　バス時刻.jpg\" src=\"https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E38080E38390E382B9E69982E588BB-thumbnail2.jpg\" width=\"640\" height=\"359\" onclick=\"location.href = 'https://jianwenlu.seesaa.net/upload/detail/image/E5AE8FE69D91E38080E38390E382B9E69982E588BB-thumbnail2.jpg.html'; return false;\" style=\"cursor:pointer;\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E9BB84E5B1B1E7AB99-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/E5B1AFE6B893E78E89E69D91E78FADE8BB8A-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/E4B88AE9A592E7AB99E7AB8BE4BD93E4BAA4E5B7AE-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/E699AFE58CBAE38390E382B9-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/E9BB84E5B1B1E58C97E7AB99-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E58C97E59BBDE59586E59F8EE7AB99-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E58D97E784A6E5AEA2E9818BE7AB99-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.605E8B7AFE38390E382B9E8B7AFE7B79AE6A188E58685-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.604E8B7AFE38390E382B9E8B7AFE7B79AE6A188E58685-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E982AFE984B2E6B1BDE8BB8AE5AEA2E9818BE7B78FE7AB99-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/4.E982AFE984B2E69DB1E7AB99-e15ce-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E898ADE5B79EE7899BE88289E68B89E9BABAE381AEE5BA97-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E5A48FE6B2B3-E59088E4BD9CE38390E382B9-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E6A191E7A791E88D89E58E9F-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"https://jianwenlu.up.seesaa.net/image/1.E898ADE5B79EE6B1BDE8BB8AE58D97E7AB99-thumbnail2.jpg\" alt=\"\" />",
+        "<img src=\"//travel.blogmura.com/chinatravel/img/chinatravel88_31.gif\" width=\"88\" height=\"31\" border=\"0\" alt=\"\" />",
+        "<img src=\"//blog.with2.net/img/banner/c/banner_1/br_c_2198_1.gif\" width=\"110\" height=\"31\" border=\"0\" />",
+        "<img src=\"https://blog.seesaa.jp/img/seesaablog.gif\" width=\"138\" height=\"22\" alt=\"Powered by Seesaa\" />"
+      ],
+      "title": [
+        "黄山（3）西逓・宏村（安徽南部の古村落）: 我的中国見聞録"
+      ]
+    },
+    {
+      "evidence_id": "012_travel_photo",
+      "url": "https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E585A5E3828AE58FA3-thumbnail2.jpg",
+      "accessed_at": "2026-10-10T20:30:57.463282+08:00",
+      "http_status": 200,
+      "returned_url": "https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E585A5E3828AE58FA3-thumbnail2.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 130872,
+      "sha256": "991F1AD17C87366F84FF8BC584B75E537062F526D6E202A95689E3B25C698245",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\012_travel_photo.jpg"
+    },
+    {
+      "evidence_id": "020_localgov",
+      "url": "https://www.yongding.gov.cn/yxyd/ydtl/200804/t20080420_1145764.htm",
+      "accessed_at": "2026-10-10T20:25:00.864872+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.yongding.gov.cn/yxyd/ydtl/200804/t20080420_1145764.htm",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "D583CB097AACE07D88FB0D8C6DE7E0C1595BB8172AC3BC811CDAECC9A4552317",
+      "bytes": 111328,
+      "encoding": "utf-8",
+      "images": [
+        "<img src=\"../../../images/18yd_xl_icon2.png\" />",
+        "<img src=\"../../../images/18yd_xl_icon3.png\" />"
+      ],
+      "title": [
+        "土楼景点-龙岩市永定区人民政府"
+      ]
+    },
+    {
+      "evidence_id": "020_mct",
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/dcxc/detail/5058.html",
+      "accessed_at": "2026-10-10T20:31:07.059416+08:00",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "evidence_id": "020_mct_photo",
+      "url": "https://zhuanti.mct.gov.cn/Uploads/Picture/2023/12/29/u658e2eb1f1e59.jpg",
+      "accessed_at": "2026-10-10T20:33:25.925751+08:00",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "evidence_id": "020_province",
+      "url": "https://www.yongding.gov.cn/yxyd/ydtl/201608/t20160801_1146189.htm",
+      "accessed_at": "2026-10-10T20:35:00.119764+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.yongding.gov.cn/yxyd/ydtl/201608/t20160801_1146189.htm",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 18239,
+      "sha256": "974C12EA0B3B044DF460EE0EE785C392AF18A49ECD11342D96CA90580B9CDB58",
+      "encoding": "utf-8",
+      "title": [
+        "永定：土楼之乡客家故里-龙岩市永定区人民政府"
+      ],
+      "images": [
+        "<img src=\"../../../images/18yd_xl_icon2.png\" />",
+        "<img src=\"../../../images/18yd_xl_icon3.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\020_province.html"
+    }
+  ],
+  "web_read_field_records": [
+    {
+      "evidence_id": "012_tourism_web",
+      "url": "https://www.cnta-osaka.jp/6878.html",
+      "accessed_at": "2026-10-10T20:41:04.551298+08:00",
+      "method": "web工具读取正文；HTTP归档请求403，未取得原始HTML",
+      "title": "安徽省南部の古村落 ： 西遞、宏村",
+      "fields": [
+        "页面标题标明安徽省南部，列出西递、宏村；宏村段说明宏村位于黟县县城东北。"
+      ],
+      "purpose": "只核对宏村的省级归属，不作为012门面照片或入口方向证据"
+    },
+    {
+      "evidence_id": "020_mct_web",
+      "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/dcxc/detail/5058.html",
+      "accessed_at": "2026-10-10T20:41:04.551298+08:00",
+      "method": "web工具读取正文；HTTP归档请求403，未取得原始HTML或现场图片",
+      "title": "福建·永定土楼数字文旅体验之旅",
+      "fields": [
+        "主要乡村旅游点第4项：福建土楼王景区位于永定区高头镇，列出承启楼。"
+      ],
+      "purpose": "辅助地点事实；未取得与020对应的具体门面证据"
+    }
+  ],
+  "note": "访问失败记录及未对应门面图片均保留，不当作正向证据；图片只用于管理侧审计，不计入开发图片数量。"
+}

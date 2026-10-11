@@ -1,0 +1,8 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Ziquejie_Rice_Terrace.jpg",
+  "time": "2026-10-11T01:32:11.142431+00:00",
+  "http_status": "000",
+  "returncode": 6,
+  "error": "curl: (6) Could not resolve host: commons.wikimedia.org",
+  "file": null
+}

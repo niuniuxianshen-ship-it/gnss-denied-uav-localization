@@ -1,0 +1,10 @@
+{
+  "candidate_id": "010",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg",
+  "started_at": "2026-10-10T19:51:54.835826+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg",
+  "received_at": "2026-10-10T19:52:02.772790+08:00",
+  "status": "failed",
+  "error": "AssertionError: "
+}

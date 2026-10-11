@@ -1,0 +1,15 @@
+{
+  "candidate_id": "015",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1_yuanyang_rice_terrace_paozhuzhai_2012.jpg",
+  "started_at": "2026-10-10T20:04:14.906029+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1_yuanyang_rice_terrace_paozhuzhai_2012.jpg",
+  "received_at": "2026-10-10T20:04:21.426911+08:00",
+  "status": "saved",
+  "sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D",
+  "sha1": "2858BFF02A0F5A772049CC4309993D0FDD6E0602",
+  "bytes": 24152287,
+  "width": 4744,
+  "height": 7120,
+  "GPS_present_in_original": false
+}

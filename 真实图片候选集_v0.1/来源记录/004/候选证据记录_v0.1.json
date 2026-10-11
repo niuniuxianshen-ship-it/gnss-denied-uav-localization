@@ -1,0 +1,60 @@
+{
+  "candidate_id": "004",
+  "candidate_image": "Street of Hongcun 20141110.JPG",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Street_of_Hongcun_20141110.JPG",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AStreet_of_Hongcun_20141110.JPG&oldid=1255797670",
+  "page_revision_id": 1255797670,
+  "page_snapshot": "来源记录/004/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "宏村的街道",
+  "author": "颐园新居",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2014-11-10 11:43:30",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Hongcun",
+    "Category:Self-published work",
+    "Category:Taken with Nikon D7000"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Street_of_Hongcun_20141110.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/004.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "093D61CDEAE8D92DB632BDD899F5ED07EB55CD1D12AEF6BEC2C9B3659762BA02",
+  "source_SHA1": "BD31D7126C24EB97490CA204B5283511C5366EFE",
+  "width": 1920,
+  "height": 2560,
+  "source_bytes": 3702120,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    1920,
+    2560
+  ],
+  "display_size": [
+    1920,
+    2560
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "安徽省",
+  "label_evidence": "具体文件页 Summary/Description 为“宏村的街道”；分类 Hongcun；宏村→安徽省映射待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/道路/文字",
+  "signal_strength": "中",
+  "difficulty": "中等",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "白墙、深色瓦顶、马头墙、窄石板路；商铺文字可见，不能直接记文字缺失。",
+  "text_classification": "可见文字；不归入缺失组",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "；宏村同地点关联；012/019同作者",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

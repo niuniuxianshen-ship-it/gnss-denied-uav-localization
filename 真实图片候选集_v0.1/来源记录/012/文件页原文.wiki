@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Gate of Hongcun Scenario Area, Anhui, China}}
+{{zh-hans|1=安徽省宏村景区大门}}
+|date=2025-12-23
+|source={{own}}
+|author=[[User:HCCB3947|HCCB3947]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Hongcun]]

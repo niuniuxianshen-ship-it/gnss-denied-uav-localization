@@ -1,0 +1,16 @@
+{
+  "time": "2026-10-11T18:22:35.801989+08:00",
+  "baseline_count": 1051,
+  "old_files_missing": [],
+  "old_files_changed": [
+    "README.md"
+  ],
+  "exception": "README.md navigation only",
+  "reviewed_regions": 24,
+  "deleted_temporary_regions": 24,
+  "broken_local_links": [],
+  "formal_frozen": 0,
+  "anonymous_input_created": 0,
+  "geolocation_model_calls": 0,
+  "scope_draft_effective": false
+}

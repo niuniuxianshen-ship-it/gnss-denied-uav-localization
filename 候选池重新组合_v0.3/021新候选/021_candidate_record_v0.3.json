@@ -1,0 +1,74 @@
+{
+  "candidate_id": "021",
+  "candidate_image": "ElephantTrunkHill.jpg",
+  "original_file": "021新候选/021.jpg",
+  "source": "Wikimedia Commons / Flickr original",
+  "source_page": "https://commons.wikimedia.org/wiki/File:ElephantTrunkHill.jpg",
+  "source_original_page": "https://www.flickr.com/photos/brostad/3928884953/",
+  "page_revision_id": 1151786011,
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AElephantTrunkHill.jpg&oldid=1151786011",
+  "author": "Bernt Rostad",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "date_field": "2009-07-19",
+  "sha256": "C4A0276906D59DB7179057F712D1640C0668868DE5574892AD1FB7CA82EDCBCB",
+  "source_SHA1": "9d359b9e20823bca1bcc038652f6e1a5f72b7e2e",
+  "original_matches_source_size_and_SHA1": true,
+  "width": 3888,
+  "height": 2592,
+  "source_bytes": 3632890,
+  "metadata_removed": false,
+  "proposed_province": "广西壮族自治区",
+  "label_verification_state": "有独立支持",
+  "label_scope": "specific fixed scene and provincial association only; precise camera station unconfirmed",
+  "classification_proposal": "text absent or not reliably readable in inspected original-pixel regions",
+  "classification_original_pixel_boxes": [
+    [
+      650,
+      1800,
+      1200,
+      2300
+    ],
+    [
+      3000,
+      1900,
+      3750,
+      2400
+    ],
+    [
+      1300,
+      1600,
+      2000,
+      2200
+    ],
+    [
+      2700,
+      1250,
+      3350,
+      1800
+    ],
+    [
+      2650,
+      0,
+      3350,
+      600
+    ],
+    [
+      2750,
+      1950,
+      3150,
+      2350
+    ]
+  ],
+  "photography_station_type": "未确认",
+  "ground_photo_eligibility": "未确认",
+  "formal_test_locked": false,
+  "model_run": false,
+  "anonymous_input_created": false,
+  "primary_scene_comparison": "xinhua_elephant_1.jpg (Ma Ning, 2024-10-25)",
+  "administration_source": "gx_natural_resources.html (2025-05-09)",
+  "excluded_initial_photo_file": "初选排除_S5A0043.jpg",
+  "excluded_initial_reason": "readable characters on student group board; not a text-blurred replacement",
+  "record_time": "2026-10-11T13:31:11.992007+08:00",
+  "suspected_text_observation": "small red mark / possible sign text at [2750,1950,3150,2350]; not reliably readable; not declared completely text-free"
+}

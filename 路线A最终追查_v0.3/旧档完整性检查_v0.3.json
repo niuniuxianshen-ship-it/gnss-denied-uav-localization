@@ -1,0 +1,13 @@
+{
+  "checked_old_files": 1017,
+  "missing_old_files": [],
+  "allowed_navigation_changes": [
+    {
+      "path": "README.md",
+      "before": "2758038EB1149F17DF5B536A7F2B6EECDECD77666D0F3AFCF9A64ED819EE18FA",
+      "after": "38338D622A03CBC036B882A97FC599887007C99BB747799AB751117D61CEA0F6"
+    }
+  ],
+  "unexpected_changes": [],
+  "all_other_old_files_unchanged": true
+}

@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=a street in Pingyao}}
+|date=2015-01-05 11:23:17
+|source=https://www.flickr.com/photos/janbockaert/16316690396/
+|author=Jan Bockaert
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{cc-by-sa-2.0}}{{FlickreviewR|status=passed|author=janbockaert|sourceurl=https://flickr.com/photos/91474557@N00/16316690396|archive=|reviewdate=2022-02-17 16:04:49|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}
+
+[[Category:Streets in Pingyao]]

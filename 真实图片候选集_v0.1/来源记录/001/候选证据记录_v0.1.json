@@ -1,0 +1,60 @@
+{
+  "candidate_id": "001",
+  "candidate_image": "Chengdu station.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Chengdu_station.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AChengdu_station.jpg&oldid=1121890830",
+  "page_revision_id": 1121890830,
+  "page_snapshot": "来源记录/001/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "chengdu station",
+  "author": "Nihongarden",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2010-08-01 17:18:52",
+  "categories": [
+    "Category:August 2010 in rail transport in China",
+    "Category:CC-BY-SA-4.0",
+    "Category:Chengdu Railway Station",
+    "Category:Self-published work"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Chengdu_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/001.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45",
+  "source_SHA1": "645784F4711FAD73A0662227FFE89025FC503A1B",
+  "width": 2048,
+  "height": 1360,
+  "source_bytes": 571474,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    2048,
+    1360
+  ],
+  "display_size": [
+    2048,
+    1360
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "四川省",
+  "label_evidence": "具体文件页 Summary/Description（API ImageDescription）为 chengdu station；分类 Chengdu Railway Station；成都→四川省映射待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/建筑/道路",
+  "signal_strength": "强",
+  "difficulty": "简单",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "站房上“成都”和英文站名可读；前景有车辆及城市道路。",
+  "text_classification": "文字清楚",
+  "verification_priority": true,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

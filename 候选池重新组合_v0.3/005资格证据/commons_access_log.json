@@ -1,0 +1,26 @@
+[
+  {
+    "name": "005_latest_revision",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccomment%7Ccontent&rvslots=main&titles=File%3AXi+Jie+%28West+Street%29%2C+Quanzhou+Aug+2023.jpg",
+    "record_time": "2026-10-11T13:13:41.134625+08:00",
+    "status": 200,
+    "file": "005_latest_revision.json",
+    "sha256": "97ce230171ad306e5606cd3b18f183a64462fe3000e34813c75e2624b19056b8"
+  },
+  {
+    "name": "author_userpage",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=User%3AHMGiovanniV",
+    "record_time": "2026-10-11T13:13:41.963977+08:00",
+    "status": 200,
+    "file": "author_userpage.json",
+    "sha256": "724e2c1feb969960306e884b608ac1cd1805af9fc69b14f6a9009221fda5ed3b"
+  },
+  {
+    "name": "author_uploads_2023",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=allimages&aiuser=HMGiovanniV&aisort=timestamp&aidir=older&aistart=2023-10-06T00%3A00%3A00Z&ailimit=100&aiprop=timestamp%7Cuser%7Curl%7Cdescription",
+    "record_time": "2026-10-11T13:13:42.852263+08:00",
+    "status": 200,
+    "file": "author_uploads_2023.json",
+    "sha256": "f33f0333987fa69f31eccf46000ece2b52aedf3fa5d0508916247dd61604cabe"
+  }
+]

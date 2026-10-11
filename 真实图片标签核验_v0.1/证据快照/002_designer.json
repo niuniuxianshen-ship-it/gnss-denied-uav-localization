@@ -1,0 +1,6 @@
+{
+  "evidence_id": "002_designer",
+  "url": "https://zx.crec.cn/tabid/83/InfoID/106/frtid/90/Default.aspx",
+  "accessed_at": "2026-10-10T20:24:55.750255+08:00",
+  "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)>"
+}

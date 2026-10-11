@@ -1,0 +1,15 @@
+{
+  "candidate_id": "003",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg",
+  "started_at": "2026-10-10T19:50:24.668907+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg",
+  "received_at": "2026-10-10T19:50:27.805593+08:00",
+  "status": "saved",
+  "sha256": "37150716F6AB3FC16B9FD706E64DED0FB89418222DA5A01F1B0C53041902B22F",
+  "sha1": "59AADA9589C64F8CFF473D63D396E4B30D4A5047",
+  "bytes": 3698668,
+  "width": 3120,
+  "height": 4160,
+  "GPS_present_in_original": true
+}

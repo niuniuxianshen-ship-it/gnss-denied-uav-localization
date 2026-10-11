@@ -1,0 +1,8 @@
+{
+  "requested_at": "2026-10-11T14:40:52.933000+08:00",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&titles=File%3AHuangmaohai+sea+crossing+bridge+Zhuhai+dusk+2026+dllu.jpg%7CFile%3AA+view+from+Su+causeway+%286070105940%29.jpg%7CCommons%3AFeatured+picture+candidates%2FFile%3AHuangmaohai+sea+crossing+bridge+Zhuhai+dusk+2026+dllu.jpg&iiprop=url%7Csize%7Csha1%7Cextmetadata&rvprop=ids%7Ctimestamp%7Cuser%7Ccontent&rvslots=main",
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&titles=File%3AHuangmaohai+sea+crossing+bridge+Zhuhai+dusk+2026+dllu.jpg%7CFile%3AA+view+from+Su+causeway+%286070105940%29.jpg%7CCommons%3AFeatured+picture+candidates%2FFile%3AHuangmaohai+sea+crossing+bridge+Zhuhai+dusk+2026+dllu.jpg&iiprop=url%7Csize%7Csha1%7Cextmetadata&rvprop=ids%7Ctimestamp%7Cuser%7Ccontent&rvslots=main",
+  "http_status": 200,
+  "bytes": 15237,
+  "sha256": "B247072684E60AD4A63A57B6FD9DEA99FF6BBFC60EFDF7C1D2D8A7C0AF8FDB4C"
+}

@@ -1,0 +1,15 @@
+{
+  "candidate_id": "002",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/New_Qingdao_railway_station.jpg",
+  "started_at": "2026-10-10T19:50:10.003471+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/New_Qingdao_railway_station.jpg",
+  "received_at": "2026-10-10T19:50:12.634423+08:00",
+  "status": "saved",
+  "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788",
+  "sha1": "F94D94C1A3FCE40341CA2360657787FCDC68CC9F",
+  "bytes": 915277,
+  "width": 2541,
+  "height": 1507,
+  "GPS_present_in_original": false
+}

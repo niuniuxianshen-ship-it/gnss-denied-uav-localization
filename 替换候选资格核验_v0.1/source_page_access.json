@@ -1,0 +1,40 @@
+[
+  {
+    "file": "027_official_page.html",
+    "url": "https://wgly.hangzhou.gov.cn/art/2022/12/1/art_1229696389_58943150.html",
+    "time": "2026-10-11T15:07:53.418934+08:00",
+    "status": 200,
+    "bytes": 6426,
+    "sha256": "318396E741DA9F0F6F3434C2A7B68ED334BBA71C46DEED1C127203A22CF45CD9"
+  },
+  {
+    "file": "027_xinhua_page.html",
+    "url": "https://wgly.hangzhou.gov.cn/art/2020/8/12/art_1229505585_58935212.html",
+    "time": "2026-10-11T15:07:58.267705+08:00",
+    "status": 200,
+    "bytes": 45682,
+    "sha256": "732156FFDCA3FBECAC20B6697446E6D4DEBF94D30A119CC8FCAD86484832B1F1"
+  },
+  {
+    "file": "025_highestbridges_page.html",
+    "url": "https://www.highestbridges.com/wiki/index.php?title=Zhijinghe_Bridge",
+    "time": "2026-10-11T15:08:03.244927+08:00",
+    "status": 200,
+    "bytes": 35991,
+    "sha256": "44E8C123B0578AA38E6427849B4D9CF7B5B1A776319447FC95FEED9FF21E0A98"
+  },
+  {
+    "file": "025_mot.pdf",
+    "url": "https://xxgk.mot.gov.cn/jigou/zhghs/202206/P020220615548831895579.pdf",
+    "time": "2026-10-11T15:08:06.094947+08:00",
+    "status": 200,
+    "bytes": 490941,
+    "sha256": "88A2310941ED6D08D969B9621D170E6F667DAB696B79D83EFD4B8E9BAA6DD687"
+  },
+  {
+    "file": "027_hangzhou_appendix.pdf",
+    "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3148/site/attach/0/27429998fa2444a899abcec658deafe8.pdf",
+    "time": "2026-10-11T15:08:11.847511+08:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

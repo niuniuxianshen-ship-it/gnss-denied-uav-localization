@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Harbin Central Street}}
+|date=2019-07-06 15:18:19
+|source={{own}}
+|author=[[User:Jonashtand|Jonashtand]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Central Street, Harbin]]
+[[Category:Files uploaded by Jonashtand]]

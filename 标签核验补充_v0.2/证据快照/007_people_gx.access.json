@@ -1,0 +1,8 @@
+{
+  "url": "https://gx.people.com.cn/n2/2023/0610/c179430-40452072.html",
+  "retrieved_at": "2026-10-11T09:00:44.891781+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 60,
+  "result": "000\nhttps://gx.people.com.cn/n2/2023/0610/c179430-40452072.html",
+  "stderr": "curl: (60) schannel: SNI or certificate check failed: SEC_E_WRONG_PRINCIPAL (0x80090322) - 目标主要名称不正确。\nMore details here: https://curl.se/docs/sslcerts.html\n\ncurl failed to verify the legitimacy of the server and therefore could not\nestablish a secure connection to it. To learn more about this situation and\nhow to fix it, please visit the webpage mentioned above."
+}

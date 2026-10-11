@@ -1,0 +1,24 @@
+[
+  {
+    "evidence_id": "012_tourism_web",
+    "url": "https://www.cnta-osaka.jp/6878.html",
+    "accessed_at": "2026-10-10T20:41:04.551298+08:00",
+    "method": "web工具读取正文；HTTP归档请求403，未取得原始HTML",
+    "title": "安徽省南部の古村落 ： 西遞、宏村",
+    "fields": [
+      "页面标题标明安徽省南部，列出西递、宏村；宏村段说明宏村位于黟县县城东北。"
+    ],
+    "purpose": "只核对宏村的省级归属，不作为012门面照片或入口方向证据"
+  },
+  {
+    "evidence_id": "020_mct_web",
+    "url": "https://zhuanti.mct.gov.cn/mmyghcyt2023/dcxc/detail/5058.html",
+    "accessed_at": "2026-10-10T20:41:04.551298+08:00",
+    "method": "web工具读取正文；HTTP归档请求403，未取得原始HTML或现场图片",
+    "title": "福建·永定土楼数字文旅体验之旅",
+    "fields": [
+      "主要乡村旅游点第4项：福建土楼王景区位于永定区高头镇，列出承启楼。"
+    ],
+    "purpose": "辅助地点事实；未取得与020对应的具体门面证据"
+  }
+]

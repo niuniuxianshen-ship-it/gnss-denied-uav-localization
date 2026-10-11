@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=chengdu station}}
+|date=2010-08-01 17:18:52
+|source={{own}}
+|author=[[User:Nihongarden|Nihongarden]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Chengdu Railway Station]]
+[[Category:August 2010 in rail transport in China]]

@@ -1,0 +1,13 @@
+{
+  "url": "https://live.staticflickr.com/7425/12424132044_0c7afccf2b_o.jpg",
+  "read_time": "2026-10-11T09:02:40.672990+08:00",
+  "client": "curl Schannel default certificate checks",
+  "retry_note": "single retry after initial 429 about 7 minutes earlier; no automatic retries",
+  "exit_code": 0,
+  "response": "200\nhttps://live.staticflickr.com/7425/12424132044_0c7afccf2b_o.jpg\n",
+  "error": "",
+  "file": "标签核验补充_v0.2\\证据快照\\008_flickr_original_schannel.jpg",
+  "bytes": 1647155,
+  "sha256": "5ef683b510cf282af18720bcbf3adb44454fdd6f216dc42b6f5e01ed3d884833",
+  "byte_equal_to_candidate_008": true
+}

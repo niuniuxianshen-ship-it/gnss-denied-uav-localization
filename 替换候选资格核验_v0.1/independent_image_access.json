@@ -1,0 +1,32 @@
+[
+  {
+    "file": "027_xinhua.jpg",
+    "url": "https://wgly.hangzhou.gov.cn/cms_files/jcms1/web3039/site/picture/old4cn/W020200811381510196381.jpg",
+    "time": "2026-10-11T15:03:21.914969+08:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "027_official.png",
+    "url": "https://wgly.hangzhou.gov.cn/cms_files/jcms1/web3039/site/picture/-1/230117095843946708.png",
+    "time": "2026-10-11T15:03:31.653208+08:00",
+    "status": 200,
+    "bytes": 165989,
+    "sha256": "4E6A3EFE2CBE48CCF6266E64B8BA175C6883EE2816E0388E03F9EBCBE4E6D838"
+  },
+  {
+    "file": "025_gorge.jpg",
+    "url": "https://www.highestbridges.com/wiki/images/c/c7/Zhijinghe2011Gorge.jpg",
+    "time": "2026-10-11T15:03:41.355718+08:00",
+    "status": 200,
+    "bytes": 1202587,
+    "sha256": "38147BD0DA885B30EB8B99D935D2055FCCAB953B18D8FE82E4DA277C19059BC2"
+  },
+  {
+    "file": "025_valley.jpg",
+    "url": "https://www.highestbridges.com/wiki/images/e/ef/ZhijingheRiverValley2.jpg",
+    "time": "2026-10-11T15:03:44.770576+08:00",
+    "status": 200,
+    "bytes": 900054,
+    "sha256": "871387978C4F8EA70043A730BD6D75721001C4BB72D6DE8CA627FEB6F17F28E8"
+  }
+]

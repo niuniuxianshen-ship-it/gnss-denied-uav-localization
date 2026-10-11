@@ -1,0 +1,306 @@
+{
+  "version": "v0.1",
+  "created_at": "2026-10-10T20:44:04.443471+08:00",
+  "scope": "本轮根目录标签核验表与标签核验证据目录；不包括清单本身、可变项目导航、旧候选包及旧规则",
+  "audited_count": 5,
+  "independent_province_support_count": 4,
+  "formal_locked_count": 0,
+  "locating_model_calls": 0,
+  "files": [
+    {
+      "path": "真实图片标签核验_v0.1/README.md",
+      "bytes": 790,
+      "sha256": "933D87DB168D2CFF3C95203EBEF13052723F48713736B8DA7B328933D779316E"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/外部证据访问索引_v0.1.json",
+      "bytes": 36622,
+      "sha256": "75F1B6EFFBF586FACEF443AC69E2B6C8BAD44B7B8CD22E2A22ED0795C808B630"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/标签核验总记录_v0.1.json",
+      "bytes": 26149,
+      "sha256": "801435560027A970525CD62C6C57794BAB343D36BDACFFEAAEC5E42FDE0F69A8"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/真实图片标签核验表_v0.1.csv",
+      "bytes": 16632,
+      "sha256": "E0A8617E8BFBEBF030312523F54DD270A944ED879827247E94D163A6BE77C020"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway.html",
+      "bytes": 82919,
+      "sha256": "EE4AFDE7061439E6CCEB4C1A396261C339606228996C69B707991AE52790CCC2"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway.json",
+      "bytes": 1332,
+      "sha256": "FEEF60A01619CFA29E67E3E25F3AC853A5CC5811B49827AB3ECCC262D490F0E6"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway_photo.jpg",
+      "bytes": 67336,
+      "sha256": "7A0B8195F9BB3FBE4F99B01DDA31581E963C1212A757C2FCE1C758F0423881E6"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway_photo.json",
+      "bytes": 534,
+      "sha256": "CEA5DEA6E908A84C401D98C190BAA60A752F2BF3EEA1F3B1E744B4DCBA8A9BBF"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_designer.json",
+      "bytes": 303,
+      "sha256": "A1BC3E1E8D1B38342B87749C7DF409413D8ABD57A6EDA94E02CDF9881FD06E8F"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_designer_alt.json",
+      "bytes": 331,
+      "sha256": "0279441209A79D643E401B7A9272764D7F3EAA3BF266FC19C724591019B39297"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway.html",
+      "bytes": 63083,
+      "sha256": "7A8FD9D9321DB738FDCD4C16A7C6A0942823713307CE1404B3A0439E8631535B"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway.json",
+      "bytes": 1271,
+      "sha256": "BB68117A1E56FEE311029D529AEFF547D6E5D49861100C238774CCB3FC01E84C"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway_index.html",
+      "bytes": 69186,
+      "sha256": "D124738C2BE946A924C01AB84892CB5919D94AB0964D5F6B462A0AC0238AF158"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway_index.json",
+      "bytes": 1257,
+      "sha256": "5EC6182F282A54905BD0600ECDC4826D3C726B25D20112BD2421035B2AA3FA60"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_report_photo.jpg",
+      "bytes": 205784,
+      "sha256": "028ADFCE0C2970CD917BE7258CC7D06662ECF1E290A17029D4BE35817314A828"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_report_photo.json",
+      "bytes": 523,
+      "sha256": "BC1E36844F5CE5994C9E329D153EF200E58CA440743E6D26A2087F873BF880E0"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_reporting.html",
+      "bytes": 57055,
+      "sha256": "019F3D548E2DC309897DC57B3627473D01FD3BF24CEB60F2A3A5085F60ADE33B"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_reporting.json",
+      "bytes": 1749,
+      "sha256": "B2DC93A25B85E665FFF7D1332B3CB850DE28E70D0D4CB5FE77DD34724895E7BC"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua.html",
+      "bytes": 66459,
+      "sha256": "A002D5A8E58BA9D40A79A56D959BF7DF0CAD0AD78CBE9ABF170A996DF0F2152C"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua.json",
+      "bytes": 2126,
+      "sha256": "DDF67374FE0810457C50DCCAE1D718B8C9887B1474DD5B49A63639FD5B7B90B2"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua_photo.jpg",
+      "bytes": 27847,
+      "sha256": "0607EF79432E09028AEC9A95D1CF30D84B7A1D0781145EF4B5271DB6DD698D3D"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua_photo.json",
+      "bytes": 534,
+      "sha256": "156B24ED453E4BBB1BF38BA6B21BDDCDBC34C1C51FC5BB200FCEE125B1114069"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_railway.html",
+      "bytes": 71808,
+      "sha256": "2376047A1F404C5C44C72C9765080682C79E0C632761E82265720B679CFF1539"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_railway.json",
+      "bytes": 1392,
+      "sha256": "52FBDF57623E5C278494B030FDC45D86CBC22B9411EFB2151A6AE024B99F4B11"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua.html",
+      "bytes": 12016,
+      "sha256": "3F1C9FC11C37D1844A9D3E1B566BBC27FFEA2A59A7738696B725D781EE128DF1"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua.json",
+      "bytes": 3152,
+      "sha256": "FF70CFBFD189FDD5483C83F40B0E5FD0E5D3788D6D71C2E6EDC6C75B3EB2E1B3"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua_photo.jpg",
+      "bytes": 488471,
+      "sha256": "35FE2A615093FBEA74C0FA8FA3F8B3ADA343F36D94EB38155C52424426E47D44"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua_photo.json",
+      "bytes": 509,
+      "sha256": "E43F1F3BBA4478A6FE02244AA9006ED82B120046454E231C4735AA9B32853D89"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_baq.json",
+      "bytes": 250,
+      "sha256": "B36AAD4D20A7FEF247D93C1A357B6ED424EA11DF8660C88C4CCF436A4480EAF9"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_baq_photo.json",
+      "bytes": 246,
+      "sha256": "D1BC5E4E8CF766F32BFA1C3BAB464097BE799EB1EEE5DDDD9DE530395A4199C4"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_huangshan.json",
+      "bytes": 321,
+      "sha256": "E64AC4A6BB476FA811B776B26A3EC8A158AECB49940F9AB50EF17FAC3955CBC0"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly.html",
+      "bytes": 154690,
+      "sha256": "A3CCFCBB7319E08BA6893B6CB1CB311CC01FA6301DF7AE1E06AA611EFF07D616"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly.json",
+      "bytes": 6304,
+      "sha256": "840DA966111B0B1CF75FE65D8ACAD80FB5B806EFA0E457C34983E11CAC6FB219"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly_photo.jpg",
+      "bytes": 112559,
+      "sha256": "8AB4B1447EFEDE6EACD8BE33397964D133D0AB5C33B31D68A3C793BB72DC8407"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly_photo.json",
+      "bytes": 469,
+      "sha256": "000FAF2A8E8C8D112ABFD6CF11F252A4066DEF02773B55E332F9BAE3F474937A"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_tourism.json",
+      "bytes": 191,
+      "sha256": "983E84184C65CF7657F77B7E342DEAE990A356B972CBBF1F04CF40E87D286839"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel.html",
+      "bytes": 41869,
+      "sha256": "BE7BA93C3E38AF805D65F820661476BA9B3964CEADC062EF2BE0C63D29B563F0"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel.json",
+      "bytes": 7993,
+      "sha256": "AE0D16331002E134D60E2EA6E54AE488760C3E1BF59CF86F2731381DF4CBB805"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel_photo.jpg",
+      "bytes": 130872,
+      "sha256": "991F1AD17C87366F84FF8BC584B75E537062F526D6E202A95689E3B25C698245"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel_photo.json",
+      "bytes": 541,
+      "sha256": "2A3D352A659C570618C296FD812BA47BE41084EC5E6501CCB18A9A9CB5A8CC9A"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_localgov.html",
+      "bytes": 111328,
+      "sha256": "D583CB097AACE07D88FB0D8C6DE7E0C1595BB8172AC3BC811CDAECC9A4552317"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_localgov.json",
+      "bytes": 662,
+      "sha256": "DB69D3914EF18AB34DCC5D5FAA1760D951F3EFA30C0AA106A1E152137FD02AAE"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_mct.json",
+      "bytes": 213,
+      "sha256": "01EE655ACF27B596DEB6D9A473CE2C0124899B69C40C809EBE17D20591EBC00C"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_mct_photo.json",
+      "bytes": 230,
+      "sha256": "16A41EB1DFC7B8D32DFBA282E5CC5FE916BEC1C877021CD5B2912C92D96B5EF5"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_province.html",
+      "bytes": 18239,
+      "sha256": "974C12EA0B3B044DF460EE0EE785C392AF18A49ECD11342D96CA90580B9CDB58"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_province.json",
+      "bytes": 765,
+      "sha256": "BEC93DDEA7AFD6034604E4EBF31489215134CC7C0FDB89449EEE762C4629F2D5"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/工具读取字段记录.json",
+      "bytes": 1103,
+      "sha256": "0927D2BA4AEF1BA4DF64DF96F3581D0480CB05C9C52C50AB51D8E87AADC7FB03"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/001.json",
+      "bytes": 5089,
+      "sha256": "0109B51FAFA416E227E9A4C1294A65FD7D2F35E54CAD1C6B02C1DFF44CBF522E"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/001.md",
+      "bytes": 3593,
+      "sha256": "4BFF5588078F3BB3AB88AC9A79DF2FD9DBA435471073D5D95B3231B1DB9AFC6C"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/002.json",
+      "bytes": 10616,
+      "sha256": "A2DBC7AEB56649A540C4641D88D4B4237B821560ECB98C7636E607A3E76E5962"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/002.md",
+      "bytes": 4841,
+      "sha256": "199B32612FD9D0C7FB10BB0FD412D57178516C927F03DBE8D0A67AD0F855D577"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/011.json",
+      "bytes": 8876,
+      "sha256": "641B8E412B0868D5FF9DEA3959F25F4C23D849C3E36B3617096645DEFED812D0"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/011.md",
+      "bytes": 4149,
+      "sha256": "A67F333D8DB0403A0C6AF6BFE4037A1E554E69D769842A425558E79536CEE4F1"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/012.json",
+      "bytes": 19293,
+      "sha256": "F34BF34248B910E5985CE4A66CBDDCA3D8C02B923E8DCC5606C69BF0071655F1"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/012.md",
+      "bytes": 4705,
+      "sha256": "3D747D330ECC1EACC9ED2D6A237E620DC32E519AE995C2CEF461709227CD6280"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/020.json",
+      "bytes": 5250,
+      "sha256": "142FC856BEB37C02C8EEF57A9844DB912ACAD837D1FA0B0FD79B4CB67BE72E13"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/020.md",
+      "bytes": 4167,
+      "sha256": "2D7FEF55E78D6921FFDF15C607EB7AF906306839C9867592FB5CBC84A98F47C9"
+    },
+    {
+      "path": "真实图片标签核验_v0.1/静态核对记录_v0.1.json",
+      "bytes": 1793,
+      "sha256": "310A93A1830EDF98C4B374884A782FD22E8535FAAACA720CFCB601D43A88E7AD"
+    },
+    {
+      "path": "真实图片标签核验表_v0.1.md",
+      "bytes": 10746,
+      "sha256": "8505289D303806CA4C172CB8F4662E75F065A75FB10A9C052BE422383C459F33"
+    }
+  ]
+}

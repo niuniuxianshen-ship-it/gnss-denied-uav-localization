@@ -1,0 +1,45 @@
+{
+  "record_type": "人工整理的工具调用记录，不是源网站HTTP原始响应",
+  "target_url": "https://www.flickr.com/photos/brostad/3928884953/in/album-72157622397833494",
+  "author_from_v02": "Bernt Rostad",
+  "photo_id": "3928884953",
+  "album_id": "72157622397833494",
+  "operations": [
+    {
+      "order": 1,
+      "operation": "cua.createBrowserTab iab visible=false",
+      "purpose": "原照片的公开动态说明与评论",
+      "wall_seconds": 38.4743,
+      "result": "js execution timed out; kernel reset, rerun your request",
+      "navigation_attempt": 1,
+      "individual_timestamp": "未单独记录"
+    },
+    {
+      "order": 2,
+      "operation": "cua.getState",
+      "purpose": "检查超时后是否留下目标页，不重新导航",
+      "wall_seconds": 21.7061,
+      "result": "库存列出 Codex In-app Browser tab 1，URL与目标一致，标题Elephant Trunk Hill；同时返回nodeRepl.fetch request failed。Edge库存另有失败，未用其推断目标网站内容",
+      "new_navigation": false,
+      "individual_timestamp": "未单独记录"
+    },
+    {
+      "order": 3,
+      "operation": "cua.getTab existing tab 1 browser 3",
+      "purpose": "同一页面一次读取重试",
+      "wall_seconds": 35.6756,
+      "result": "js execution timed out; kernel reset, rerun your request",
+      "new_navigation": false,
+      "retry": true,
+      "individual_timestamp": "未单独记录"
+    }
+  ],
+  "target_page_observable": "URL及标题库存可见；说明与评论正文未取得",
+  "comments_completeness": "未确认",
+  "station_quote": "未取得",
+  "qualification": "未确认",
+  "http_status": "未取得",
+  "underlying_browser_http_request_count": "未确认，浏览器内部资源请求不可逐项观察",
+  "stop_reason": "首次打开和一次读取重试均超时，停止动态界面检查",
+  "temporary_browser_tab": "创建了隐藏目标页tab 1；未成功取得可关闭的绑定，未声称已关闭"
+}

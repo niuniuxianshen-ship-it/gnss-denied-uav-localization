@@ -1,0 +1,11 @@
+{
+  "evidence_id": "012_travel_photo",
+  "url": "https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E585A5E3828AE58FA3-thumbnail2.jpg",
+  "accessed_at": "2026-10-10T20:30:57.463282+08:00",
+  "http_status": 200,
+  "returned_url": "https://jianwenlu.up.seesaa.net/image/E5AE8FE69D91E585A5E3828AE58FA3-thumbnail2.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 130872,
+  "sha256": "991F1AD17C87366F84FF8BC584B75E537062F526D6E202A95689E3B25C698245",
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\012_travel_photo.jpg"
+}

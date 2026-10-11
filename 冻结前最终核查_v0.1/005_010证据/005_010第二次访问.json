@@ -1,0 +1,97 @@
+[
+  {
+    "id": "005_unesco_image_page",
+    "url": "https://whc.unesco.org/include/tool_image_bootstrap.cfm?id=180644&gallery=site&id_site=1561",
+    "accessed_at": "2026-10-11T09:34:52.137099+08:00",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "005_gov_towers_photo",
+    "url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/W020151031465269137020.jpg",
+    "accessed_at": "2026-10-11T09:34:52.137099+08:00",
+    "status": 200,
+    "final_url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/W020151031465269137020.jpg",
+    "content_type": "image/jpeg",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\005_gov_towers_photo.jpg",
+    "sha256": "830494495949D19734B5BA0C3BDDE78F44CCF1B3AA4F7B27BF0350F6810D88AB",
+    "bytes": 186125
+  },
+  {
+    "id": "005_gov_rooftop_photo",
+    "url": "https://www.quanzhou.gov.cn/lyb/lyxw/202208/W020220830606778628880.jpg",
+    "accessed_at": "2026-10-11T09:34:52.138250+08:00",
+    "status": 200,
+    "final_url": "https://www.quanzhou.gov.cn/lyb/lyxw/202208/W020220830606778628880.jpg",
+    "content_type": "image/jpeg",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\005_gov_rooftop_photo.jpg",
+    "sha256": "9B594D8B77E347F3A2010CC42531B665796BF16D5107CDCCF048DB1E338E2FC5",
+    "bytes": 54048
+  },
+  {
+    "id": "010_lishui_release",
+    "url": "https://m.thepaper.cn/newsDetail_forward_26377247",
+    "accessed_at": "2026-10-11T09:34:52.138250+08:00",
+    "status": 200,
+    "final_url": "https://m.thepaper.cn/newsDetail_forward_26377247",
+    "content_type": "text/html; charset=utf-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\010_lishui_release.html",
+    "sha256": "AB19000922F5767FFE262FA70D06B71D3B967629E5D2D3867E375D0B9B41887A",
+    "bytes": 108312
+  },
+  {
+    "id": "010_womenfederation",
+    "url": "https://www.thepaper.cn/newsDetail_forward_7129821",
+    "accessed_at": "2026-10-11T09:34:52.139258+08:00",
+    "status": 200,
+    "final_url": "https://www.thepaper.cn/newsDetail_forward_7129821",
+    "content_type": "text/html; charset=utf-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\010_womenfederation.html",
+    "sha256": "67ACA9CB9614ADBFCCB9674E74E65B11B9A638E455478F79FF0103DF33BC10D9",
+    "bytes": 51287,
+    "image_links": [
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/500.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/605.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/642.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/669.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/701.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/727.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/765.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/801.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/847.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/880.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/48/974.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/4.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/10.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/13.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/24.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/41.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/69.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/104.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/142.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/171.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/214.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/260.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/384.jpg",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/431.gif",
+      "https://imagepphcloud.thepaper.cn/pph/image/64/49/459.jpg"
+    ],
+    "account_context": [
+      "<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><link rel=\"icon\" href=\"/favicon.ico\"/><title>妇联喊你享民宿⑱| 云谷山房和云端觅境与您相约_澎湃号·政务_澎湃新闻-The Paper</title><meta name=\"robots\" content=\"index,follow\"/><meta name=\"description\" content=\"今天，就让我们为大家推荐丽水巾帼精品民宿---- 云谷山房 和 云端觅境 云谷山房 云谷山房藏身于云和梯田白银谷景区的坑根古寨内，在这个有80",
+      "ts\" content=\"index,follow\"/><meta name=\"description\" content=\"今天，就让我们为大家推荐丽水巾帼精品民宿---- 云谷山房 和 云端觅境 云谷山房 云谷山房藏身于云和梯田白银谷景区的坑根古寨内，在这个有800年历史的古村落里\"/><meta property=\"og:title\" content=\"妇联喊你享民宿⑱| 云谷山房和云端觅境与您相约_澎湃号·政务_澎湃新闻-The Paper\"/><meta property=\"og:description\" content=\"今天，就让我们为大家推荐丽水巾帼精品民宿---- 云谷山房 和 云端觅境 云谷山房 云谷山房藏身于云和梯田白银谷景区的坑根古寨内，在这个有800年历史的古村落里\"/><meta property=\"keywords\" cont",
+      "normalContentWrap__i8VSb\"><div class=\"leftcontent__XcRTe leftClass__m4gYo\"><div class=\"wrap__hPMpF\" style=\"padding-right:80px\"><div class=\"wrapper__U7hc_\"><h1 class=\"title__FIwxD\">妇联喊你享民宿⑱| 云谷山房和云端觅境与您相约</h1><div class=\"headerContent__AS6Ux\"><div class=\"left__IlIiv\"><div><div class=\"ant-space ant-space-horizontal ant-space-align-center\"><div class=\"ant-space-item\" style=\"margin-r",
+      "971.jpg\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==\" height=\"440\" width=\"640\" alt=\"\"></div>入住享：<p></p><p>1、营养早餐两份。</p><p>2、关注公众号赠送免费啤酒。</p><p>原标题：《妇联喊你享民宿⑱| 云谷山房和云端觅境与您相约》</p></div><ul class=\"listWrap__kOJf4\"></ul><div><div class=\"wrapper__yoVat\"><div class=\"ant-divider ant-divider-horizontal ant-divider-with-text ant-divider-with-text-center ant-",
+      "div></main></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{\"contId\":\"7129821\",\"detailData\":{\"contType\":91,\"contentDetail\":{\"contId\":7129821,\"name\":\"妇联喊你享民宿⑱| 云谷山房和云端觅境与您相约\",\"summary\":\"今天，就让我们为大家推荐丽水巾帼精品民宿---- 云谷山房 和 云端觅境 云谷山房 云谷山房藏身于云和梯田白银谷景区的坑根古寨内，在这个有800年历史的古村落里\",\"originalFlag\":\"0\",\"author\":\"丽水妇联\",\"hideVideoFlag\":false,\"source\":\"澎湃新闻·澎湃号·政务\",\"con"
+    ]
+  },
+  {
+    "id": "010_lishui_lodge",
+    "url": "https://www.lsnews.com.cn/news/geo/e/wl-ms-016.html",
+    "accessed_at": "2026-10-11T09:34:52.139258+08:00",
+    "status": 200,
+    "final_url": "https://www.lsnews.com.cn/news/geo/e/wl-ms-016.html",
+    "content_type": "text/html; charset=utf-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\010_lishui_lodge.html",
+    "sha256": "862EC6522C994C3041C028EDCE0A2C1665227F87C151FCA43429974653569F71",
+    "bytes": 15958
+  }
+]

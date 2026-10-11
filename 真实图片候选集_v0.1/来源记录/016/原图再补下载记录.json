@@ -1,0 +1,15 @@
+{
+  "candidate_id": "016",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Longsheng_rice_terraces_87778-Longsheng_%2849040261403%29.jpg",
+  "started_at": "2026-10-10T20:04:51.465235+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Longsheng_rice_terraces_87778-Longsheng_%2849040261403%29.jpg",
+  "received_at": "2026-10-10T20:04:55.093858+08:00",
+  "status": "saved",
+  "sha256": "4C4AE1FC8C745DDE3A1F55D6E684FBBBA4D98D0523C1B27540B011011B07865E",
+  "sha1": "6A5B278BC1F531ABF6D2E78C82BEDFE4EC4EBA36",
+  "bytes": 1956076,
+  "width": 3000,
+  "height": 2084,
+  "GPS_present_in_original": true
+}

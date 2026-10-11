@@ -1,0 +1,60 @@
+{
+  "candidate_id": "017",
+  "candidate_image": "Ziquejie Rice Terraces 20160123076.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Ziquejie_Rice_Terraces_20160123076.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AZiquejie_Rice_Terraces_20160123076.jpg&oldid=1162542555",
+  "page_revision_id": 1162542555,
+  "page_snapshot": "来源记录/017/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "A residential house in Ziquejie Rice Terraces. Ziquejie Rice Terraces are located in Xinhua County, Hunan, China.",
+  "author": "Huangdan2060",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source_credit": "Own work",
+  "date_field": "2016-01-23 18:14:47",
+  "categories": [
+    "Category:CC-BY-3.0",
+    "Category:Self-published work",
+    "Category:Snow in Xinhua County",
+    "Category:Ziquejie Rice Terraces"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ziquejie_Rice_Terraces_20160123076.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/017.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "83E86124ABF1DBC40885A64FF238D57BA22EE83224F9DAC299AF58E78546193B",
+  "source_SHA1": "986FCDBA4A3F62346B4E75398B4ADFB06E300D9D",
+  "width": 1920,
+  "height": 1280,
+  "source_bytes": 967285,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    1920,
+    1280
+  ],
+  "display_size": [
+    1920,
+    1280
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "湖南省",
+  "label_evidence": "具体文件页 Summary/Description 明确称 A residential house in Ziquejie Rice Terraces，Xinhua County, Hunan, China；现场对应待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/植被/地貌",
+  "signal_strength": "弱",
+  "difficulty": "困难",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "木构民居、灰瓦顶、石阶、积雪、树木和山坡；画面不以大面积梯田为主，未辨认地点文字。",
+  "text_classification": "未辨认可读地名文字",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "；紫鹊界同地点关联，不同作者",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

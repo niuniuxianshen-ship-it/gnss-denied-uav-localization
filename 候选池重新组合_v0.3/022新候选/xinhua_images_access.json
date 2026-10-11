@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://english.news.cn/20240609/d209afd7cd874e499b36ea57090e4a00/20240609d209afd7cd874e499b36ea57090e4a00_202406092dac0bdd326b4320a88a99bac25e4bee.jpg",
+    "file": "xinhua_overview.jpg",
+    "url_array_index": 6,
+    "status": 200,
+    "bytes": 1580990,
+    "sha256": "CD7D09783C06297803484832CE6AE81504AE707C37853E8A5B4FEA41C79EDA27",
+    "dimensions": [
+      999,
+      744
+    ],
+    "accessed_at": "2026-10-11T13:27:09.466752+08:00"
+  },
+  {
+    "url": "https://english.news.cn/20240609/d209afd7cd874e499b36ea57090e4a00/20240609d209afd7cd874e499b36ea57090e4a00_202406099e4f7d2d1e5e4e79982466d0044d112b.jpg",
+    "file": "xinhua_front.jpg",
+    "url_array_index": 12,
+    "status": 200,
+    "bytes": 1281083,
+    "sha256": "0F5F3BB4E4C400B86315DB931E3AC5BA0D0AD1657AB134CE2282E5743E8647AE",
+    "dimensions": [
+      999,
+      644
+    ],
+    "accessed_at": "2026-10-11T13:27:15.285124+08:00"
+  }
+]

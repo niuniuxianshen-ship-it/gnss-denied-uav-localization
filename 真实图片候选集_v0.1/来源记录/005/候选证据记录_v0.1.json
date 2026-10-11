@@ -1,0 +1,63 @@
+{
+  "candidate_id": "005",
+  "candidate_image": "Xi Jie (West Street), Quanzhou Aug 2023.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Xi_Jie_(West_Street),_Quanzhou_Aug_2023.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AXi_Jie_%28West_Street%29%2C_Quanzhou_Aug_2023.jpg&oldid=865808076",
+  "page_revision_id": 865808076,
+  "page_snapshot": "来源记录/005/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "泉州西街和开元寺双塔",
+  "author": "HMGiovanniV",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2023-08-09 09:27:17",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Old City of Quanzhou",
+    "Category:Self-published work",
+    "Category:Views of Quanzhou"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Xi_Jie_%28West_Street%29%2C_Quanzhou_Aug_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/005.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "98BAB3B2466181EB670DC836F65763B37E3104250A02B284599F2257DE2ED301",
+  "source_SHA1": "DBCC5CF3F76F30A3E50568FC23CE1F2FC3F92575",
+  "width": 3961,
+  "height": 2228,
+  "source_bytes": 1418242,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    3961,
+    2228
+  ],
+  "display_size": [
+    3961,
+    2228
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "福建省",
+  "label_evidence": "具体文件页 Summary/Description 为“泉州西街和开元寺双塔”；Location模板提供坐标；泉州→福建省映射和机位待核验。",
+  "coordinate_templates": [
+    "{{Location|24.915644|118.583778|heading:296.7051390058972}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/植被",
+  "signal_strength": "中",
+  "difficulty": "中等",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "两座多层石塔、红瓦民居屋顶、树木和远处楼房；未辨认地名文字；视点较高。",
+  "text_classification": "未辨认可读文字",
+  "verification_priority": true,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "是否符合地面照片要求（高处视角）；原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

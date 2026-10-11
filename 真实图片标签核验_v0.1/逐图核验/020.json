@@ -1,0 +1,87 @@
+{
+  "candidate_id": "020",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Earth_building-chengqi.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AEarth_building-chengqi.jpg&oldid=1222189517",
+  "source_revision_id": 1222189517,
+  "source_author": "Bolobolo",
+  "original_place_description": "earth building chengqi lou",
+  "source_field": "Commons Summary/Description、Source、Author、Date；Location模板若存在",
+  "original_file": "真实图片候选集_v0.1/原图/020.jpg",
+  "original_sha256": "ADBC4CB6C3133217B7DF43F45FF1085751F978EDC6E5FC1FB773072AF00F8CFD",
+  "source_date": "2006-10-06",
+  "proposed_province": "福建省",
+  "verification_level": "存在冲突",
+  "province_label_gate_passed": false,
+  "formal_selected": false,
+  "checked_by": "Codex /root 本次静态来源与画面审查；非双人标签核验",
+  "checked_at": "2026-10-10T20:41:04.551298+08:00",
+  "scope": "省级标签；非精确机位或坐标真值确认",
+  "identity": "来源标注承启楼，福建省暂作候选标签；具体门面证据尚未闭合。",
+  "observations": [
+    "500×375原图可见承启楼门额、浅色门面、两侧竖联、内部拱形门洞以及右侧夯土墙及小窗。",
+    "右竖联可读的末段为勤和俭；左竖联末段为读与耕。照片小且局部文字不清，不补写其余小字。"
+  ],
+  "sources": [
+    {
+      "id": "020_localgov",
+      "field": "土楼景点正文：（八）承启楼；首句位置；末段楼门石刻楹联和厅堂楹联字段",
+      "excerpt": "坐落在高头乡高北村",
+      "role": "承启楼位置及出现差异的楹联部位描述"
+    },
+    {
+      "id": "020_province",
+      "field": "正文土楼之乡客家故里位置段、高北土楼群段及单体名楼承启楼段",
+      "excerpt": "永定县位于福建省西南部",
+      "role": "高北承启楼与福建省关系；不单独证明020在那里拍摄"
+    }
+  ],
+  "comparison": "政府文章将与照片长联接近的文字归在厅堂楹联，而楼门石刻楹联另列短联；政府长联使用勤与俭，照片右侧显示勤和俭。原图门额及夯土墙形态与承启楼来源描述相容，但现有阅读材料没有建立该张近景门面与具体现场的独立图像对应，不能把名称和土楼常见外观直接当成充分证据。",
+  "independence": "永定政府两篇文章支持承启楼在福建省这一地点事实，属于机构位置资料；两篇同站文章不自动算两条独立现场链。未取得可以核对该张门面全部特征的独立现场记录，搜索结果摘要或无法读取的图片不计作支持。",
+  "coordinate": "来源文件页未提供坐标；原图未发现 GPS 字段。不填写景区坐标替代相机位置。",
+  "conflicts": "冲突范围为楹联用字和楼门/厅堂部位对应，尚未查清是否系文章误述、门面变化或另一部位。现有资料没有互相指向不同省份，不据此宣称福建省标签已被证伪；按存在冲突暂缓入选。",
+  "pending": [
+    "取得可追溯的承启楼同一门面现场照片或拍摄记录，核对文字、门额边框、门洞和墙体位置。",
+    "核实楹联用字与部位差异；需要时联系原作者但本轮不发送消息。",
+    "低分辨率输入的文字可读性须在匿名副本制作后再次检查。"
+  ],
+  "evidence_records": [
+    {
+      "evidence_id": "020_localgov",
+      "url": "https://www.yongding.gov.cn/yxyd/ydtl/200804/t20080420_1145764.htm",
+      "accessed_at": "2026-10-10T20:25:00.864872+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.yongding.gov.cn/yxyd/ydtl/200804/t20080420_1145764.htm",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "D583CB097AACE07D88FB0D8C6DE7E0C1595BB8172AC3BC811CDAECC9A4552317",
+      "bytes": 111328,
+      "encoding": "utf-8",
+      "images": [
+        "<img src=\"../../../images/18yd_xl_icon2.png\" />",
+        "<img src=\"../../../images/18yd_xl_icon3.png\" />"
+      ],
+      "title": [
+        "土楼景点-龙岩市永定区人民政府"
+      ]
+    },
+    {
+      "evidence_id": "020_province",
+      "url": "https://www.yongding.gov.cn/yxyd/ydtl/201608/t20160801_1146189.htm",
+      "accessed_at": "2026-10-10T20:35:00.119764+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.yongding.gov.cn/yxyd/ydtl/201608/t20160801_1146189.htm",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 18239,
+      "sha256": "974C12EA0B3B044DF460EE0EE785C392AF18A49ECD11342D96CA90580B9CDB58",
+      "encoding": "utf-8",
+      "title": [
+        "永定：土楼之乡客家故里-龙岩市永定区人民政府"
+      ],
+      "images": [
+        "<img src=\"../../../images/18yd_xl_icon2.png\" />",
+        "<img src=\"../../../images/18yd_xl_icon3.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\020_province.html"
+    }
+  ],
+  "common_pending": "匿名输入尚未制作；来源、作者、坐标、证据和本表均留在管理侧。公开网络图片的既往预训练接触未确认。未运行定位模型。"
+}

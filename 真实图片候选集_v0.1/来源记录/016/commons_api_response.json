@@ -1,0 +1,159 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 138508841,
+        "ns": 6,
+        "title": "File:Longsheng rice terraces 87778-Longsheng (49040261403).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2023-10-05T12:08:34Z",
+            "size": 1956076,
+            "width": 3000,
+            "height": 2084,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Longsheng_rice_terraces_87778-Longsheng_%2849040261403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Longsheng_rice_terraces_87778-Longsheng_(49040261403).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138508841",
+            "sha1": "6a5b278bc1f531abf6d2e78c82bedfe4ec4eba36",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-10-05 12:08:34",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Longsheng rice terraces 87778-Longsheng (49040261403)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Longsheng rice terraces|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Xiquinho Silva",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "25.816502",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "110.150558",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<p>The Longsheng Rice Terraces, also called the Longji Rice Terraces, are located in Longsheng County, about 100 kilometres from Guilin, Guangxi, China.\n</p>\nThe terraced fields are built along the slope winding from the riverside up to the mountain top, between 600 to 800 metres above sea level.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-06-15 13:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/xiquinho/49040261403/\">87778-Longsheng</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7138083@N04\">xiquinhosilva</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-08-28T04:48:55Z",
+        "lastrevid": 990724861,
+        "length": 949,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Longsheng_rice_terraces_87778-Longsheng_(49040261403).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Longsheng_rice_terraces_87778-Longsheng_(49040261403).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Longsheng_rice_terraces_87778-Longsheng_(49040261403).jpg",
+        "revisions": [
+          {
+            "revid": 990724861,
+            "parentid": 920029930,
+            "timestamp": "2025-01-31T06:32:09Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "== {{int:filedesc}} ==\n{{Information\n| Description = The Longsheng Rice Terraces, also called the Longji Rice Terraces, are located in Longsheng County, about 100 kilometres from Guilin, Guangxi, China.\n\nThe terraced fields are built along the slope winding from the riverside up to the mountain top, between 600 to 800 metres above sea level.\n| Source      = [https://www.flickr.com/photos/xiquinho/49040261403/ 87778-Longsheng]\n| Date        = 2018-06-15 13:47\n| Author      = [https://www.flickr.com/people/7138083@N04 xiquinhosilva]\n| Permission  = \n| other_versions=\n}}\n{{Location dec|25.816502|110.150558|source:Flickr}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n{{FlickreviewR|status=passed|author=xiquinhosilva|sourceurl=https://flickr.com/photos/7138083@N04/49040261403|archive=|reviewdate=2023-10-05 12:09:43|reviewlicense=cc-by-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Longsheng rice terraces]]\n[[Category:Photographs by Xiquinho Silva]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-2.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Files with coordinates missing SDC location of creation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Flickr images reviewed by FlickreviewR 2"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Longsheng rice terraces"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Photographs by Xiquinho Silva"
+          }
+        ]
+      }
+    ]
+  }
+}

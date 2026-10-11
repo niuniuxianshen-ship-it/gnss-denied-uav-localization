@@ -1,0 +1,11 @@
+{
+  "evidence_id": "018_osm_reverse",
+  "requested_url": "https://nominatim.openstreetmap.org/reverse?lat=31.307574&lon=120.6347372&format=jsonv2&zoom=18&addressdetails=1&accept-language=zh-CN",
+  "accessed_at": "2026-10-11T08:50:43.564213+08:00",
+  "purpose": "仅核对来源坐标附近地图对象和行政区；不能证明相机实际机位",
+  "http_status": 200,
+  "url": "https://nominatim.openstreetmap.org/reverse?lat=31.307574&lon=120.6347372&format=jsonv2&zoom=18&addressdetails=1&accept-language=zh-CN",
+  "bytes": 761,
+  "sha256": "12E85E9D9D26274AACEFD85B0C8D7BD80A532CCC293E765D42022E4EED0DFF4F",
+  "response_file": "018_osm_reverse.response.json"
+}

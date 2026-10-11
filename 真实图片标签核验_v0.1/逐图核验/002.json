@@ -1,0 +1,171 @@
+{
+  "candidate_id": "002",
+  "source_page": "https://commons.wikimedia.org/wiki/File:New_Qingdao_railway_station.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3ANew_Qingdao_railway_station.jpg&oldid=454843824",
+  "source_revision_id": 454843824,
+  "source_author": "Djhobo9",
+  "original_place_description": "Taken after arriving at the recently-reopened Qingdao Railway Station in Qingdao, China (site of the 2008 Olympic sailing events).",
+  "source_field": "Commons Summary/Description、Source、Author、Date；Location模板若存在",
+  "original_file": "真实图片候选集_v0.1/原图/002.jpg",
+  "original_sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788",
+  "source_date": "2008-07-29",
+  "proposed_province": "山东省",
+  "verification_level": "有独立支持",
+  "province_label_gate_passed": true,
+  "formal_selected": false,
+  "checked_by": "Codex /root 本次静态来源与画面审查；非双人标签核验",
+  "checked_at": "2026-10-10T20:41:04.551298+08:00",
+  "scope": "省级标签；非精确机位或坐标真值确认",
+  "identity": "青岛站钟楼及相连站房；没有确认精确相机位置。",
+  "observations": [
+    "原图可见尖顶钟塔、红瓦坡屋顶、浅色墙体、连续拱门及屋面小窗。",
+    "画面有固定的青岛站名字样，以及奥运宣传布置；后者只能作为年代背景，不能单独当拍摄地点。"
+  ],
+  "sources": [
+    {
+      "id": "002_xinhua",
+      "field": "标题、稿源、正文现场图注及末尾摄影者署名",
+      "excerpt": "新华社记者 范长国摄",
+      "role": "独立现场照片的地点与作者"
+    },
+    {
+      "id": "002_xinhua_photo",
+      "field": "上述新闻正文唯一钟楼照片 img[src]",
+      "excerpt": "",
+      "role": "同一钟塔和相连站房对照"
+    },
+    {
+      "id": "002_reporting",
+      "field": "正文记者署名及青岛火车站全景图注",
+      "excerpt": "本报记者 梁旭日",
+      "role": "同期改造报道及布局辅助核对"
+    },
+    {
+      "id": "002_report_photo",
+      "field": "全景图注上方首幅站房图片；大众网水印",
+      "excerpt": "",
+      "role": "红瓦站房、拱门和屋面小窗布局辅助核对"
+    },
+    {
+      "id": "002_railway",
+      "field": "面包屑导航：车站引导 > 山东 > 青岛",
+      "excerpt": "",
+      "role": "青岛的省级归属；该页没有有效站房正文，不冒充站房说明"
+    }
+  ],
+  "comparison": "新华社2008年7月19日现场图与原图2008年7月29日来源日期分开记录。两图中钟塔尖顶、钟面所在的装饰山墙、塔身窗列、与钟塔相连的红瓦坡屋顶及沿街拱门吻合；拍摄视角、行人和车辆不同。大众网全景另外支持连片站房的屋面小窗及拱门布局，不以奥运广告或青岛文字单独定标签。",
+  "independence": "候选作者 Djhobo9 声明 Own work；对照照片明确署新华社记者范长国，并有独立拍摄日期及不同视角。新浪为新华社稿件转载平台，新浪和新华社不计作两条独立链。大众网/大众日报梁旭日报道另列辅助链，未把网页站点数量当独立证据数量。",
+  "coordinate": "来源文件页未提供坐标；原图未发现 GPS 字段。精确相机位置未确认。",
+  "conflicts": "未发现省级位置冲突。设计方两条访问链接发生证书验证失败，均保留失败记录，未用无法读取的设计方正文作为已核实证据。",
+  "pending": [
+    "精确机位未确认。",
+    "独立照片和候选照片的原始摄影文件未取得，保留来源链局限。"
+  ],
+  "evidence_records": [
+    {
+      "evidence_id": "002_xinhua",
+      "url": "https://2008.sina.com.cn/jz/other/p/2008-07-19/2152115115.shtml?from=wap",
+      "accessed_at": "2026-10-10T20:33:20.920221+08:00",
+      "http_status": 200,
+      "returned_url": "https://2008.sina.com.cn/jz/other/p/2008-07-19/2152115115.shtml?from=wap",
+      "content_type": "text/html",
+      "bytes": 66459,
+      "sha256": "A002D5A8E58BA9D40A79A56D959BF7DF0CAD0AD78CBE9ABF170A996DF0F2152C",
+      "encoding": "gb2312",
+      "title": [
+        "图文-青岛火车站全面竣工 火车站外钟楼一景_其他_2008奥运站_新浪网"
+      ],
+      "images": [
+        "<img src=\"图片\" onload=\"javascript:DrawImage(this)\">",
+        "<img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' />",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到路径导航栏\" />",
+        "<img src=\"http://i1.sinaimg.cn/2008/temp/jz/aq/2007-04-04/U814P461T49D1F1174DT20070405172832.jpg\" width=\"950\" height=\"60\" alt=\"2008年第29届奥运会\"/>",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到正文内容\" />",
+        "<img src=\"http://i3.sinaimg.cn/ty/deco/2007/0302/images/2008_i_ws_007.gif\" width=\"64\" height=\"30\" alt=\"\"/>",
+        "<img src=\"http://i3.sinaimg.cn/bb/article/con_ws_006.gif\" width=\"1\" height=\"34\" alt=\"\"/>",
+        "<img src=http://i0.sinaimg.cn/ty/images/media/U349P6T51D267F947DT20070122170551.gif border=0  onload=\"javascript:DrawImage(this)\"/>",
+        "<img src=\"http://i3.sinaimg.cn/ty/deco/2007/0302/images/2008_i_ws_007.gif\" width=\"64\" height=\"30\" alt=\"\"/>",
+        "<img src=\"http://i3.sinaimg.cn/bb/article/con_ws_006.gif\" width=\"1\" height=\"34\" alt=\"\"/>",
+        "<img src=http://i0.sinaimg.cn/ty/images/media/U349P6T51D267F947DT20070122170551.gif border=0  onload=\"javascript:DrawImage(this)\"/>",
+        "<img src=\"http://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg\" alt=\"图文-青岛火车站全面竣工 火车站外钟楼一景\"/>"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_xinhua.html"
+    },
+    {
+      "evidence_id": "002_xinhua_photo",
+      "url": "https://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg",
+      "accessed_at": "2026-10-10T20:34:55.182094+08:00",
+      "http_status": 200,
+      "returned_url": "https://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 27847,
+      "sha256": "0607EF79432E09028AEC9A95D1CF30D84B7A1D0781145EF4B5271DB6DD698D3D",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_xinhua_photo.jpg"
+    },
+    {
+      "evidence_id": "002_reporting",
+      "url": "https://news.sina.com.cn/o/2008-07-28/063814229746s.shtml",
+      "accessed_at": "2026-10-10T20:33:20.920221+08:00",
+      "http_status": 200,
+      "returned_url": "https://news.sina.com.cn/o/2008-07-28/063814229746s.shtml",
+      "content_type": "text/html",
+      "bytes": 57055,
+      "sha256": "019F3D548E2DC309897DC57B3627473D01FD3BF24CEB60F2A3A5085F60ADE33B",
+      "encoding": "gb2312",
+      "title": [
+        "青岛火车站“旧瓶”装“新酒”_新闻中心_新浪网"
+      ],
+      "images": [
+        "<img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' />",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到路径导航栏\" />",
+        "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到正文内容\" />",
+        "<img src=\"http://i3.sinaimg.cn/dy/deco/2008/0721/yocc080721img/con_logo_news_001.gif\" width=\"119\" height=\"27\" alt=\"新闻中心\" id=\"pagelogo_img\" />",
+        "<img src=\"http://i1.sinaimg.cn/dy/31/U868P1T31D49F479DT20051230062828_s.jpg\" border=\"0\" onload=\"javascript:DrawImage(this)\"/>",
+        "<img alt=青岛火车站“旧瓶”装“新酒” src=\"http://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg\" border=\"1\" width=\"450\">",
+        "<img alt=青岛火车站“旧瓶”装“新酒” src=\"http://i1.sinaimg.cn/dy/o/2008-07-28/784585e4b770f0438d08d5a483c107c7.jpg\" border=\"1\" width=\"450\">",
+        "<img border=\"0\" src=\"' + google_ads[0].image_url +\n\t\t\t  '\"width=\"' + google_ads[0].image_width +\n\t\t\t  '\"height=\"' + google_ads[0].image_height + '\">"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_reporting.html"
+    },
+    {
+      "evidence_id": "002_report_photo",
+      "url": "https://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg",
+      "accessed_at": "2026-10-10T20:34:55.181091+08:00",
+      "http_status": 200,
+      "returned_url": "https://i2.sinaimg.cn/dy/o/2008-07-28/abab5f266981acc97caba822164ab575.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 205784,
+      "sha256": "028ADFCE0C2970CD917BE7258CC7D06662ECF1E290A17029D4BE35817314A828",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_report_photo.jpg"
+    },
+    {
+      "evidence_id": "002_railway",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sd/qd/",
+      "accessed_at": "2026-10-10T20:34:55.183096+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sd/qd/",
+      "content_type": "text/html",
+      "bytes": 63083,
+      "sha256": "7A8FD9D9321DB738FDCD4C16A7C6A0942823713307CE1404B3A0439E8631535B",
+      "encoding": "utf-8",
+      "title": [
+        "中国铁路12306"
+      ],
+      "images": [
+        "<IMG height=\"31\" src=\"../../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src=\"../../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../../images/public.png\" />",
+        "<img src=\"../../../images/download.png\" />"
+      ],
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\002_railway.html"
+    }
+  ],
+  "common_pending": "匿名输入尚未制作；来源、作者、坐标、证据和本表均留在管理侧。公开网络图片的既往预训练接触未确认。未运行定位模型。"
+}

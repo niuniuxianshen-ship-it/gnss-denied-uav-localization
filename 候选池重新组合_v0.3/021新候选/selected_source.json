@@ -1,0 +1,120 @@
+{
+  "pageid": 22560548,
+  "ns": 6,
+  "title": "File:ElephantTrunkHill.jpg",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3632890,
+      "width": 3888,
+      "height": 2592,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ElephantTrunkHill.jpg/1280px-ElephantTrunkHill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1200,
+      "thumbheight": 800,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ElephantTrunkHill.jpg/3840px-ElephantTrunkHill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ElephantTrunkHill.jpg/1280px-ElephantTrunkHill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1200,
+        "height": 800,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/ElephantTrunkHill.jpg/3840px-ElephantTrunkHill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/ElephantTrunkHill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:ElephantTrunkHill.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22560548",
+      "sha1": "9d359b9e20823bca1bcc038652f6e1a5f72b7e2e",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2012-11-05 19:52:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ElephantTrunkHill",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 400D|Elephant Trunk Hill|Files from Wikivoyage wts|Flickr images reviewed by FlickreviewR|Files from Flickr uploaded by Wikivoyage users|Files from Bernt Rostad Flickr stream",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/Elephant_Trunk_Hill\" class=\"extiw\" title=\"en:Elephant Trunk Hill\">Elephant Trunk Hill</a>, Elephant Trunk Hill is located at the confluence of the Li River and Peach Blossom River in the south central area of Guilin City. It looks like a huge elephant stretching its trunk and drinking water, hence the name. Elephant Trunk Hill is the symbol of Guilin and its karst landscape.Location: <a href=\"https://en.wikipedia.org/wiki/Guilin\" class=\"extiw\" title=\"en:Guilin\">Guilin</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-07-19",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Flickr: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/brostad/3928884953/\">https://www.flickr.com/photos/brostad/3928884953/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<p>Flickr user:  Bernt Rostad\n</p>\n  <a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/brostad/\">https://www.flickr.com/photos/brostad/</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ],
+  "revisions": [
+    {
+      "revid": 1151786011,
+      "parentid": 1123908276,
+      "timestamp": "2026-01-23T13:11:30Z",
+      "slots": {
+        "main": {
+          "contentmodel": "wikitext",
+          "contentformat": "text/x-wiki",
+          "*": "== {{int:filedesc}} ==\n{{Information\n|description={{en|1=[[:en:Elephant Trunk Hill|Elephant Trunk Hill]], Elephant Trunk Hill is located at the confluence of the Li River and Peach Blossom River in the south central area of Guilin City. It looks like a huge elephant stretching its trunk and drinking water, hence the name. Elephant Trunk Hill is the symbol of Guilin and its karst landscape.Location: [[:en:Guilin|Guilin]].}}\n|date=2009-07-19\n|source=Flickr: https://www.flickr.com/photos/brostad/3928884953/\n|author=Flickr user:  Bernt Rostad\n  https://www.flickr.com/photos/brostad/\n|permission=\n|other_versions=\n}}\n\n== {{int:license-header}} ==\n{{cc-by-2.0}}\n{{User:FlickreviewR/reviewed-pass-change|Bernt Rostad|https://www.flickr.com/photos/67975030@N00/3928884953|2012-11-05 19:52:54|cc-by-2.0|cc-by-sa-3.0}}\n\n== {{Original upload log}} ==\n{{wikivoyage|wts}} {{original description page|wts.wikivoyage|ElephantTrunkHill.jpg}}\n* 2011-07-23 18:55 [http://wts.wikivoyage-old.org/wiki/User:(WT-shared)_ClausHansen (WT-shared) ClausHansen]{{Dead link|date=May 2023 |bot=InternetArchiveBot |fix-attempted=yes }} 1024×683 (390362 bytes) ''<nowiki>{{Flickr|title=Elephant Trunk Hill|description=Elephant Trunk Hill is located at the confluence of the Li River and Peach Blossom River in t (Import from wikitravel.org/shared)</nowiki>''\n\n[[Category:Files from Flickr uploaded by Wikivoyage users]]\n[[Category:Files from Bernt Rostad Flickr stream]]\n[[Category:Elephant Trunk Hill]]\n[[Category:Taken with Canon EOS 400D]]"
+        }
+      }
+    }
+  ]
+}

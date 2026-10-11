@@ -1,0 +1,112 @@
+{
+  "version": "v0.3",
+  "start_time": "2026-10-11T14:23:33+08:00",
+  "end_time": "2026-10-11T14:32:22.455755+08:00",
+  "elapsed_seconds": 529.5,
+  "route_A_final_cycle": "completed, stopped early for no new entry and dynamic read limitation",
+  "execution_order": [
+    "021",
+    "015",
+    "022"
+  ],
+  "qualification": [
+    {
+      "candidate_id": "021",
+      "status": "unconfirmed",
+      "reason": "dynamic browser content unavailable; no station quotation obtained"
+    },
+    {
+      "candidate_id": "015",
+      "status": "unconfirmed",
+      "reason": "targeted query returned original and derivative/reused descriptions without a new firsthand station record"
+    },
+    {
+      "candidate_id": "022",
+      "status": "unconfirmed",
+      "reason": "single restricted query returned no results; no new direct author entry in saved records"
+    }
+  ],
+  "primary_entry_checks": 3,
+  "search_service_calls": 2,
+  "browser_navigation_attempts": 1,
+  "same_page_read_retry_count": 1,
+  "browser_inventory_call_count": 1,
+  "physical_HTTP_request_count": "unconfirmed; browser resources and search-service internals not observable",
+  "physical_HTTP_limit_10_verified": false,
+  "request_count_scope": "observable application-level entries and one reading retry only, not a full HTTP trace",
+  "route_B_start_condition_met": true,
+  "route_B_preparation_started": true,
+  "replacement_selected_count": 0,
+  "new_candidate_images_count": 0,
+  "formal_locked_count": 0,
+  "anonymous_inputs_count": 0,
+  "locating_model_calls": 0,
+  "old_files_check": {
+    "checked_old_files": 1017,
+    "missing_old_files": [],
+    "allowed_navigation_changes": [
+      {
+        "path": "README.md",
+        "before": "2758038EB1149F17DF5B536A7F2B6EECDECD77666D0F3AFCF9A64ED819EE18FA",
+        "after": "38338D622A03CBC036B882A97FC599887007C99BB747799AB751117D61CEA0F6"
+      }
+    ],
+    "unexpected_changes": [],
+    "all_other_old_files_unchanged": true
+  },
+  "working_original_checks": [
+    {
+      "candidate_id": "001",
+      "path": "真实图片候选集_v0.1/原图/001.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "002",
+      "path": "真实图片候选集_v0.1/原图/002.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "011",
+      "path": "真实图片候选集_v0.1/原图/011.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "015",
+      "path": "真实图片候选集_v0.1/原图/015.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "021",
+      "path": "候选池重新组合_v0.3/021新候选/021.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "022",
+      "path": "候选池重新组合_v0.3/022新候选/022.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "007",
+      "path": "真实图片候选集_v0.1/原图/007.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "008",
+      "path": "真实图片候选集_v0.1/原图/008.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "014",
+      "path": "真实图片候选集_v0.1/原图/014.jpg",
+      "sha256_match": true
+    },
+    {
+      "candidate_id": "019",
+      "path": "真实图片候选集_v0.1/原图/019.jpg",
+      "sha256_match": true
+    }
+  ],
+  "remaining_UI_state": "hidden Flickr target tab was visible in inventory; successful close not confirmed",
+  "temporary_scripts_created": 0,
+  "temporary_media_created": 0
+}

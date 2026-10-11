@@ -1,0 +1,216 @@
+{
+  "created_at": "2026-10-11T01:42:27.115552+00:00",
+  "scope": "009_017 management evidence only",
+  "files": [
+    {
+      "path": "冻结前最终核查_v0.1/009_017来源复核.md",
+      "bytes": 10437,
+      "sha256": "CAAB95A8F07A6FD60BC76318BE7DD828021123BDECDFA526115A9E4E18D177F4"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_009_commons_live.html.access.json",
+      "bytes": 262,
+      "sha256": "3FAFE6541B78A7104B78890D6A4504BBC8B16EA68EF32BAB217744AB2CA7D3EE"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_009_commons_live.html.network.access.json",
+      "bytes": 253,
+      "sha256": "DE3C57CB86714C05C84308343CB51188AD28C47C9C375C2E9A9B97817410093E"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_commons_live.html.access.json",
+      "bytes": 275,
+      "sha256": "C7FC84D1E0FCB60E69FEE90B486D379FEDA5E97331E9626D8F635809B56D740C"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_commons_live.html.network.access.json",
+      "bytes": 266,
+      "sha256": "7D1DA29F41931A7D80EE369CFE3FED1CC2F430F4A97CE92B63E6B7E8F620415D"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.html",
+      "bytes": 42851,
+      "sha256": "D61FFD047B824F6355589E9957B7CFBF14F355FF382866B97DF557690B7215DC"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.html.access.json",
+      "bytes": 374,
+      "sha256": "592A6CAA3BAA34E67ECED8321199268DCDA6B6B378657123838DA212E60FD352"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.jpg",
+      "bytes": 34247,
+      "sha256": "DD474307ED53CF10AD41AFFF1CC2DE90BC1B109C7C819C79E05A87FF3E55448C"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.jpg.access.json",
+      "bytes": 389,
+      "sha256": "0FF5C1D4B8C4B498A693DD3AC8A3BB231FB803FC93C9C17737EFC9F351966668"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage10.jpg",
+      "bytes": 34934,
+      "sha256": "DA680D13860AA3DADCFABCB304909E2E919137B6A3B8D2F76069920F13CB22F4"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage10.jpg.access.json",
+      "bytes": 424,
+      "sha256": "C18966FD1E1180E07B03A0CB72A45630E0F2BEDF2F5F59F27CF231BC61289BD4"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage6.jpg",
+      "bytes": 40046,
+      "sha256": "CEFEE287375F358215DAE3CB83B159EFCF8922A5DE0B0480D4B66084C36601F9"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage6.jpg.access.json",
+      "bytes": 422,
+      "sha256": "B405645AB0955487E494E843698359A4057740A58E526EF44A6A62A7C499CEFB"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.html",
+      "bytes": 32486,
+      "sha256": "396B9C6CBA6D220334C9FC1E37540C99529E20A1C6F8D3C61238E42D3AA8037F"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.html.access.json",
+      "bytes": 365,
+      "sha256": "7CD6791DE0CB144F96688B60078170ADDDE09B86FAD3C169C75DC871B764B15C"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.jpg",
+      "bytes": 124846,
+      "sha256": "D3C5C64F7A8E78875FD0DAEC86F00A258079143EA618D8C6C4A2D45B5BBF8FB8"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.jpg.access.json",
+      "bytes": 381,
+      "sha256": "02140DCE3BA2AD163FFCBCB537D13DB500884F94C6DEA5FEC3D428C874219658"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow.html",
+      "bytes": 42953,
+      "sha256": "4892ED32FF3F253FEC8C7DF25BA3AC0180A594A8FF77781420A1ED67BD5CF3C6"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow.html.access.json",
+      "bytes": 248,
+      "sha256": "A1B762980AE589A1AE687D460F887B40B4B65AC2483962499B8FE2E64D58551B"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow.html.network.access.json",
+      "bytes": 367,
+      "sha256": "CA8647FC27D64BE3C6CDB0B05823EAD53AF52E5B9997408A44948D98C14BA5F6"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow1.jpg",
+      "bytes": 517647,
+      "sha256": "01DD07ADDDCE8D85C173025BAFDEA3AD2057B8D20BA63E6EA03A296A79634D6D"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow1.jpg.access.json",
+      "bytes": 403,
+      "sha256": "A19871E252506982BBD09BDD5BCE903685891EE79E45C6FB0764EA61CD8F0AD4"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow2.jpg",
+      "bytes": 581245,
+      "sha256": "2D59A4FFEA21793FE751ADE305EA12315791F1D09410C714E8FF49A577151CA5"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow2.jpg.access.json",
+      "bytes": 403,
+      "sha256": "FD115999FA5A54935B945F36035DE8A68FF8799174F92351EA759730D66F2B7D"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow3.jpg",
+      "bytes": 517334,
+      "sha256": "3F8DA67D7D448AF469BCA5D96009611D7389B7D781C3823CACDBF152F1F0C827"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow3.jpg.access.json",
+      "bytes": 403,
+      "sha256": "94EB22478C4020E4188F0479A21BC63CB2CFC4E2ED396BD9BA11996E6F3936E5"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.html",
+      "bytes": 17408,
+      "sha256": "B13E25569E1EF8D755F694B7212B8825C3FB25196F76D789C5902E1DE04C85D7"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.html.access.json",
+      "bytes": 368,
+      "sha256": "2F6573F96029A199EBE134A0DE1D3AA537346336A49AF1CC2B549E8E3EC1A54D"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.png",
+      "bytes": 587717,
+      "sha256": "70F1DF80D04BD3DE5D82F2392D965B1F9BA1D1AF6E0869A4AFBEFE0F2D501D37"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.png.access.json",
+      "bytes": 399,
+      "sha256": "EE5F3141EC975432845A4D4BCE758A0A305591274D1C2898DE7A3607821B3E2D"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing_front.png",
+      "bytes": 691952,
+      "sha256": "A8738882DE2B4029F3A265D709E09FBBA9B7A51188E34B0AAD4AACB8846D82B6"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing_front.png.access.json",
+      "bytes": 411,
+      "sha256": "2CF3E89943BEAE50E496E726CCAD731479B7C1297AA6FE5EFB6E4ABC0D5DB887"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.html",
+      "bytes": 34446,
+      "sha256": "80CD20283B3042A7255ED45DBB521EFAFCDFBBD72BBD1241CE9E320DB790D450"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.html.access.json",
+      "bytes": 263,
+      "sha256": "419D4C0F7402489BD689A5815257607D8BA41D4CBA8F266FC72DE3E62E6D7CB3"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.html.network.access.json",
+      "bytes": 338,
+      "sha256": "9C74420D60201868A6EDB8F8B1E5D83B32A53E483F9D3F7A7ADF72FD2E22213C"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.png",
+      "bytes": 466314,
+      "sha256": "C90A01DF3D9C2B0F112E80DEF7779705011720EB19346ED9F1FE713A4D64AF9B"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.png.access.json",
+      "bytes": 367,
+      "sha256": "2A6FB22A7103FE478B639D3B09EF3FB123886954C48FCD5FD530DF296D8D2A1F"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_original_metadata_read.json",
+      "bytes": 823,
+      "sha256": "984090ADAFF8D7C9F331E5DC0FA23A2339CC797D5F98A1E514CDC37979BFC523"
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_web_open_results.json",
+      "bytes": 26347,
+      "sha256": "7A8AAA83AC3BCE3E58C5CCD72230A7D982157CED34F642EA3FA2EF91B844537A"
+    }
+  ],
+  "status": {
+    "009": {
+      "evidence_level": "已检查内部一致性",
+      "province": "湖南省",
+      "independent_scene_support": false,
+      "label_gate_pass": false
+    },
+    "017": {
+      "evidence_level": "已检查内部一致性",
+      "province": "湖南省",
+      "independent_scene_support": false,
+      "label_gate_pass": false,
+      "gps_latitude_longitude_present": false
+    }
+  }
+}

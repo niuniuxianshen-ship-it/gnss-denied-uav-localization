@@ -1,0 +1,15 @@
+{
+  "candidate_id": "017",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ziquejie_Rice_Terraces_20160123076.jpg",
+  "started_at": "2026-10-10T20:05:25.112823+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ziquejie_Rice_Terraces_20160123076.jpg",
+  "received_at": "2026-10-10T20:05:27.443000+08:00",
+  "status": "saved",
+  "sha256": "83E86124ABF1DBC40885A64FF238D57BA22EE83224F9DAC299AF58E78546193B",
+  "sha1": "986FCDBA4A3F62346B4E75398B4ADFB06E300D9D",
+  "bytes": 967285,
+  "width": 1920,
+  "height": 1280,
+  "GPS_present_in_original": true
+}

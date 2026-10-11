@@ -1,0 +1,13 @@
+{
+  "object": "014",
+  "purpose": "exact file revision descriptions and upload comments; no EXIF requested",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions%7Cimageinfo&titles=File%3A1+fenghuang+2018.jpg&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=20&iiprop=timestamp%7Cuser%7Ccomment&iilimit=5",
+  "started_at": "2026-10-11T19:24:44.183482+08:00",
+  "attempts": 1,
+  "http_status": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=revisions%7Cimageinfo&titles=File%3A1+fenghuang+2018.jpg&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=20&iiprop=timestamp%7Cuser%7Ccomment&iilimit=5",
+  "response_has_api_error": false,
+  "continuation": null,
+  "ended_at": "2026-10-11T19:24:45.622070+08:00",
+  "elapsed_seconds": 1.438
+}

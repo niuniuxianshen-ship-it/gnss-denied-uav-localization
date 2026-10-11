@@ -1,0 +1,11 @@
+{
+  "url": "https://whhlyt.hunan.gov.cn/news/mtjj/201909/t20190910_5465785.html",
+  "read_time": "2026-10-11T08:57:18.357178+08:00",
+  "client": "curl 8.21.0 Schannel; default certificate checks; no insecure flags",
+  "exit_code": 0,
+  "response": "200\nhttps://whhlyt.hunan.gov.cn/news/mtjj/201909/t20190910_5465785.html\n",
+  "error": "",
+  "file": "标签核验补充_v0.2\\证据快照\\009_hunan_culture_schannel.html",
+  "bytes": 45258,
+  "sha256": "efec55fb6a41d0f777058f6af39ab7cd85e0aacdf0d7eda1d26cfbeb02506713"
+}

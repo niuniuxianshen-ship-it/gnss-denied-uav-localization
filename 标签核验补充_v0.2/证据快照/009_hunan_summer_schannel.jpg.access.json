@@ -1,0 +1,11 @@
+{
+  "url": "https://whhlyt.hunan.gov.cn/news/mtjj/201909/10320249/images/c029eba3ddb5438b99e9f30d545c5127.jpg",
+  "read_time": "2026-10-11T08:57:19.609012+08:00",
+  "client": "curl 8.21.0 Schannel; default certificate checks; no insecure flags",
+  "exit_code": 0,
+  "response": "200\nhttps://whhlyt.hunan.gov.cn/news/mtjj/201909/10320249/images/c029eba3ddb5438b99e9f30d545c5127.jpg\n",
+  "error": "",
+  "file": "标签核验补充_v0.2\\证据快照\\009_hunan_summer_schannel.jpg",
+  "bytes": 143771,
+  "sha256": "f4c1c0dc0fc358f3601b8b7d8f168c2c254c73c84a1a7a06d7b00a424e00ffe2"
+}

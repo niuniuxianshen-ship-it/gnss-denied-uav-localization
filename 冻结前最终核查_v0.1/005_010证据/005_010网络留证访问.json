@@ -1,0 +1,307 @@
+[
+  {
+    "id": "005_commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Xi_Jie_(West_Street),_Quanzhou_Aug_2023.jpg",
+    "accessed_at": "2026-10-11T09:32:52.009274+08:00",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Xi_Jie_(West_Street),_Quanzhou_Aug_2023.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\005_commons.html",
+    "sha256": "6F6B9B5A51BE16A7F33860DBD068787864DE6407F8EF218AFA8669374E6279B6",
+    "bytes": 110886,
+    "title": [
+      "File:Xi Jie (West Street), Quanzhou Aug 2023.jpg - Wikimedia Commons"
+    ]
+  },
+  {
+    "id": "005_unesco_gallery",
+    "url": "https://whc.unesco.org/en/list/1561/gallery/",
+    "accessed_at": "2026-10-11T09:32:52.010699+08:00",
+    "status": 200,
+    "final_url": "https://whc.unesco.org/en/list/1561/gallery/",
+    "content_type": "text/html;charset=UTF-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\005_unesco_gallery.html",
+    "sha256": "4078DF92A2D197FF469A2F62CE0DD7E97727931396CEDD3EC29939A8CB8F376A",
+    "bytes": 135553,
+    "title": [
+      "Quanzhou: Emporium of the World in Song-Yuan China - Gallery - UNESCO World Heritage Centre"
+    ],
+    "images": [
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0004-360-360-20210604101741.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou maritime Silk Road Worl Heritage Nomination Center / Luo Chunri ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0006-360-360-20210604101743.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou maritime Silk Road World heritage Nomination Center / Chen Yingjie ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0007-360-360-20221005173320.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou maritime Silk Road World heritage Nomination Center / Chen Yingjie ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0008-360-360-20210604101744.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World heritage Nomination Center / Chen Qituo ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0009-360-360-20210604101746.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World heritage Nomination Center / Chen Yingjie ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0010-360-360-20210604101748.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World heritage Nomination Center / Chen Yingjie ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0011-360-360-20210604101750.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World heritage Nomination Center / Chen Yingjie ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0012-360-360-20210604101751.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Cheng Dongdong",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0015-360-360-20210604101753.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World Heritage Nomination Center / Wu Zhicheng ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0016-360-360-20210604101755.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World Heritage Nomination Center / Chen Yingjie ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0019-360-360-20210604101759.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou Maritime Silk Road World Heritage Nomination Center / Zheng Wengui ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      },
+      {
+        "src": "https://whc.unesco.org/uploads/thumbs/site_1561_0020-360-360-20210604101801.webp",
+        "loading": "lazy",
+        "class": "icaption-img img-fluid w-100 border",
+        "data-toggle": "tooltip",
+        "title": "© Quanzhou maritime Silk Road World Heritage Nomination Center / Zheng Wengui ",
+        "width": "360",
+        "height": "360",
+        "style": ""
+      }
+    ],
+    "kaiyuan_context": [
+      "Silk Road World heritage  ...</div>\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"small\">Author: Chen Yingjie</div>\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t \r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\r\n\t\t\t<div class=\"image-gallery col mb-2\">\r\n\t\t\t\t<div class=\" card h-100\">\r\n\t\t\t\t\t<div class=\"card-body\" >\r\n\t\t\t\t\t\t<div class=\"icaption-gallery\" id=\"id_photo0008\">\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t<figure class=\" figure icaption w-100\" style=\"\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<a href=\"/include/tool_image_bootstrap.cfm?id=180644&gallery=site&id_site=1561\" class=\"lightbox\" property=\"image\"> <picture> <img src=\"https://whc.unesco.org/uploads/thumbs/site_1561_0008-360-360-20210604101744.webp\" loading=\"lazy\" class=\"icaption-img img-fluid w-100 border\" data-toggle=\"tooltip\" title=\"© Quanzhou&#x20;Maritime&#x20;Silk&#x20;Road&#x20;World&#x20;heritage&#x20;Nomination&#x20;Center / Chen&#x20;Qituo \" width=\"360\" height=\"360\" style=\"\"/> \r\n\t\t\t\t\t\t\t\t\t\t\t</picture>\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t</figure>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div class=\"text-muted small\">\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"mb-2 text-gray5\">Panorama of Kaiyuan Temple</div>\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"small\">© Quanzhou Maritime Silk Road World heritage  ...</div>\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"small\">Author: Chen Qituo</div>\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t \r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\r\n\t\t\t<div class=\"image-gallery col mb-2\">\r\n\t\t\t\t<div class=\" card h-100\">\r\n\t\t\t\t\t<div class=\"card-body\" >\r\n\t\t\t\t\t\t<div class=\"icaption-gallery\" id=\"id_photo0009\">\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t<figure class=\" figure icaption w-100\" style=\"\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<a href=\"/include/tool_image_bootstrap.cfm?id=180645&gallery=site&id_site=1561\""
+    ]
+  },
+  {
+    "id": "005_gov_towers",
+    "url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/t20040726_3125.htm",
+    "accessed_at": "2026-10-11T09:32:52.011699+08:00",
+    "status": 200,
+    "final_url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/t20040726_3125.htm",
+    "content_type": "text/html; charset=utf-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\005_gov_towers.html",
+    "sha256": "A31853FE824118EF71236170718924FDED54E39AF0211F5779E4A712D705E377",
+    "bytes": 48955,
+    "title": [
+      "我国现存最高的一对石塔-泉州之最-泉州旅游-泉州市人民政府"
+    ],
+    "images": [
+      {
+        "src": "/images/21qz_logo.png",
+        "title": "泉州市人民政府"
+      },
+      {
+        "src": "https://www.quanzhou.gov.cn/qt/mztApp/201910/W020191014392405221606.png"
+      },
+      {
+        "src": "/images/231012qz_qzs.png"
+      },
+      {
+        "src": "/images/231012qz_qzs.png"
+      },
+      {
+        "src": "./W020151031465269137020.jpg",
+        "style": "border-width: 0px;",
+        "alt": "",
+        "oldsrc": "W020151031465269137020.jpg"
+      },
+      {
+        "src": "/images/babs.png"
+      },
+      {
+        "src": "/images/wx_tu.jpg"
+      },
+      {
+        "src": "https://www.quanzhou.gov.cn/qt/mztApp/201910/W020191014392405221606.png"
+      },
+      {
+        "id": "imgConac",
+        "vspace": "0",
+        "hspace": "0",
+        "border": "0",
+        "src": "/images/red.png",
+        "title": "党政机关"
+      },
+      {
+        "src": "/images/close.png"
+      }
+    ]
+  },
+  {
+    "id": "005_gov_rooftops",
+    "url": "https://www.quanzhou.gov.cn/lyb/lyxw/202208/t20220830_2769899.htm",
+    "accessed_at": "2026-10-11T09:32:52.011699+08:00",
+    "status": 200,
+    "final_url": "https://www.quanzhou.gov.cn/lyb/lyxw/202208/t20220830_2769899.htm",
+    "content_type": "text/html; charset=utf-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\005_gov_rooftops.html",
+    "sha256": "396D6F8CCC22D903C16EC7C23CB708D1400F7CE53F7851E7F0CB4EA1CF44F0E8",
+    "bytes": 55292,
+    "title": [
+      "夜游泉州古城的6种方式-旅游新闻-泉州旅游-泉州市人民政府"
+    ],
+    "images": [
+      {
+        "src": "/images/21qz_logo.png",
+        "title": "泉州市人民政府"
+      },
+      {
+        "src": "https://www.quanzhou.gov.cn/qt/mztApp/201910/W020191014392405221606.png"
+      },
+      {
+        "src": "/images/231012qz_qzs.png"
+      },
+      {
+        "src": "/images/231012qz_qzs.png"
+      },
+      {
+        "src": "./W020220830606778445805.jpg",
+        "width": "600",
+        "style": "border-width: 0px;",
+        "alt": "",
+        "oldsrc": "W020220830606778445805.jpg"
+      },
+      {
+        "src": "./W020220830606778527785.jpg",
+        "width": "600",
+        "style": "border-width: 0px;",
+        "alt": "",
+        "oldsrc": "W020220830606778527785.jpg"
+      },
+      {
+        "src": "./W020220830606778580423.jpg",
+        "width": "600",
+        "style": "border-width: 0px;",
+        "alt": "",
+        "oldsrc": "W020220830606778580423.jpg"
+      },
+      {
+        "src": "./W020220830606778628880.jpg",
+        "width": "600",
+        "style": "border-width: 0px;",
+        "alt": "",
+        "oldsrc": "W020220830606778628880.jpg"
+      },
+      {
+        "src": "/images/babs.png"
+      },
+      {
+        "src": "/images/wx_tu.jpg"
+      },
+      {
+        "src": "https://www.quanzhou.gov.cn/qt/mztApp/201910/W020191014392405221606.png"
+      },
+      {
+        "id": "imgConac",
+        "vspace": "0",
+        "hspace": "0",
+        "border": "0",
+        "src": "/images/red.png",
+        "title": "党政机关"
+      },
+      {
+        "src": "/images/close.png"
+      }
+    ]
+  },
+  {
+    "id": "010_commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg",
+    "accessed_at": "2026-10-11T09:32:52.011699+08:00",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/File:Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg",
+    "content_type": "text/html; charset=UTF-8",
+    "local_file": "冻结前最终核查_v0.1\\005_010证据\\010_commons.html",
+    "sha256": "AD610E816ACE7BE04C6707A6D993CB417D9AB8C73B7B2EF9F73B3DA8ABECB7E7",
+    "bytes": 102340,
+    "title": [
+      "File:Yunhe Terraces Scenic Area in automn from the village.jpg - Wikimedia Commons"
+    ]
+  },
+  {
+    "id": "010_ciae",
+    "url": "https://www.ciae.com.cn/detail/zh/16187.html",
+    "accessed_at": "2026-10-11T09:32:52.012699+08:00",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  }
+]

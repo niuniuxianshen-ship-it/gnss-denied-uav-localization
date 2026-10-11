@@ -1,0 +1,11 @@
+{
+  "url": "https://dp.pconline.com.cn/photo/2316336.html",
+  "retrieved_at": "2026-10-11T09:00:45.130367+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 0,
+  "result": "200\nhttps://dp.pconline.com.cn/photo/2316336.html",
+  "stderr": "",
+  "bytes": 89091,
+  "sha256": "545c0e2b4c016df67c069ea4c27746bff8be897909fd0d7ce720b5a7f893bea2",
+  "file": "标签核验补充_v0.2\\证据快照\\007_pconline.html"
+}

@@ -1,0 +1,251 @@
+{
+  "checked_at": "2026-10-11T13:05:32.354937+08:00",
+  "archives": [
+    {
+      "manifest": "真实图片候选集_v0.1\\候选归档清单_v0.1.json",
+      "checked": 128,
+      "mismatches": [],
+      "manifest_unchanged": true
+    },
+    {
+      "manifest": "真实图片标签核验_v0.1\\核验归档清单_v0.1.json",
+      "checked": 59,
+      "mismatches": [],
+      "manifest_unchanged": true
+    },
+    {
+      "manifest": "标签核验补充_v0.2\\补充归档清单_v0.2.json",
+      "checked": 100,
+      "mismatches": [],
+      "manifest_unchanged": true
+    }
+  ],
+  "fixed_files": [
+    {
+      "path": "真实模型评价实验设计_v0.1.md",
+      "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+      "unchanged": true
+    },
+    {
+      "path": "候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "path": "正式测试集候选筛选_v0.1.md",
+      "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C",
+      "unchanged": true
+    },
+    {
+      "path": "标签核验补充记录_v0.2.md",
+      "sha256": "C846519CD46C7E74DB9ECA5B3AA543A65072539C38802D8240CE8AE1199FC603",
+      "unchanged": true
+    },
+    {
+      "path": "独立评分协议_v0.2/独立评分协议_v0.2.md",
+      "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "unchanged": true
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "unchanged": true
+    },
+    {
+      "path": "正式测试集冻结方案_v0.1.md",
+      "sha256": "1165A700576B91AEF2CD60233BFD7C0AC416D9667BD3FA913BDDA3F3EED4A9FF",
+      "unchanged": true
+    }
+  ],
+  "original_images": [
+    {
+      "path": "真实图片候选集_v0.1/原图/001.jpg",
+      "sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/002.jpg",
+      "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/003.jpg",
+      "sha256": "37150716F6AB3FC16B9FD706E64DED0FB89418222DA5A01F1B0C53041902B22F"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/004.jpg",
+      "sha256": "093D61CDEAE8D92DB632BDD899F5ED07EB55CD1D12AEF6BEC2C9B3659762BA02"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/005.jpg",
+      "sha256": "98BAB3B2466181EB670DC836F65763B37E3104250A02B284599F2257DE2ED301"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/006.jpg",
+      "sha256": "3398C6DD377C6088450EB9CB251BE87D95CF97208CC6624D28D2CA961DE934D9"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/007.jpg",
+      "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/008.jpg",
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/009.jpg",
+      "sha256": "F00B664F9659F5AC29CCBB3F3EA422FF789A565156150F3854FD27BCD71778B1"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/010.jpg",
+      "sha256": "7177BAD180AB6DC392DEDBA42F7E7F1488B43CE2D9DB8CED65732D0237228B9F"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/011.jpg",
+      "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/012.jpg",
+      "sha256": "B912BE455CDCABDF6BD9197F1D42CF1DF28F11E48ECFA3506099F1CDBBD74F5E"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/013.jpg",
+      "sha256": "AE5E5081BF26921D19C5634DCF5479227EAF78A70591EA4BD4F6263553CE0F40"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/014.jpg",
+      "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/015.jpg",
+      "sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/016.jpg",
+      "sha256": "4C4AE1FC8C745DDE3A1F55D6E684FBBBA4D98D0523C1B27540B011011B07865E"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/017.jpg",
+      "sha256": "83E86124ABF1DBC40885A64FF238D57BA22EE83224F9DAC299AF58E78546193B"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/018.jpg",
+      "sha256": "416BAF813216CD8D9978478A88A6BF65CF6B82123EC2FA3BB10909E311FB31BF"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/019.jpg",
+      "sha256": "1288C23F78BC92FF505C8084D844044453513D16D1227FD442A818B95234B8D1"
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/020.jpg",
+      "sha256": "ADBC4CB6C3133217B7DF43F45FF1085751F978EDC6E5FC1FB773072AF00F8CFD"
+    }
+  ],
+  "candidate_original_count": 20,
+  "formal_locked_count": 0,
+  "locating_model_calls": 0,
+  "anonymous_inputs_created": 0,
+  "original_metadata_modified": false,
+  "accuracy_computed": false,
+  "rules_modified": false,
+  "original_proposed_ten_supported_ids": [
+    "001",
+    "002",
+    "005",
+    "007",
+    "008",
+    "012",
+    "014"
+  ],
+  "pending_label_ids": [
+    "009",
+    "010",
+    "017"
+  ],
+  "005_capture_platform_confirmed": false,
+  "S02_confirmed": false,
+  "v02_named_positions": [
+    "001",
+    "002",
+    "005",
+    "007",
+    "008",
+    "012",
+    "017"
+  ],
+  "v02_vacant_positions": 3,
+  "native_region_bounds": [
+    {
+      "id": "005",
+      "encoded_size": [
+        3961,
+        2228
+      ],
+      "display_size": [
+        3961,
+        2228
+      ],
+      "rectangles": [
+        [
+          0,
+          1200,
+          500,
+          1650
+        ],
+        [
+          950,
+          1800,
+          1400,
+          2228
+        ]
+      ],
+      "valid": true
+    },
+    {
+      "id": "014",
+      "encoded_size": [
+        8256,
+        5504
+      ],
+      "display_size": [
+        8256,
+        5504
+      ],
+      "rectangles": [
+        [
+          5200,
+          1650,
+          5600,
+          2450
+        ],
+        [
+          3700,
+          2600,
+          4650,
+          3170
+        ]
+      ],
+      "valid": true
+    },
+    {
+      "id": "010",
+      "encoded_size": [
+        4096,
+        3072
+      ],
+      "display_size": [
+        3072,
+        4096
+      ],
+      "rectangles": [
+        [
+          2000,
+          1400,
+          3072,
+          2000
+        ]
+      ],
+      "valid": true
+    }
+  ],
+  "missing_local_links": [],
+  "integrity_checks_passed": true
+}

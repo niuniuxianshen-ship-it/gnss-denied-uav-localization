@@ -1,0 +1,20 @@
+=={{int:filedesc}}==
+{{Information
+ |description = {{en|Canals of [[Suzhou]], [[China]].}}
+{{zh|[[苏州]][[:zh:江南水乡|水乡]]。}}
+ |date = 2017-11-26 16:23
+ |source = {{own}}
+ |author = [[User:King of Hearts|King of Hearts]]
+ |permission = 
+ |other versions = 
+}}
+{{Location dec|31.307574|120.6347372}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Canals in Suzhou]]
+[[Category:Taken with Nikon D750]]
+[[Category:Uploaded with pattypan]]
+[[Category:Quality images by King of Hearts]]
+{{QualityImage}}

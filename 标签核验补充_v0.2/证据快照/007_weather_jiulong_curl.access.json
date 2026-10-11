@@ -1,0 +1,8 @@
+{
+  "url": "https://pic.weather.com.cn/images/guangxi/photo/2017/10/08/080930266DD0A6045D1FCCF2C18FFB696CA98ACE.jpg",
+  "retrieved_at": "2026-10-11T08:59:34.629417+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 22,
+  "result": "403\nhttps://pic.weather.com.cn/images/guangxi/photo/2017/10/08/080930266DD0A6045D1FCCF2C18FFB696CA98ACE.jpg",
+  "stderr": "curl: (22) The requested URL returned error: 403"
+}

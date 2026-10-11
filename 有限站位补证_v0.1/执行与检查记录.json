@@ -1,0 +1,137 @@
+{
+  "recorded_at": "2026-10-11T19:27:54.674032+08:00",
+  "active_request_objects": 3,
+  "tool_calls_for_network": 2,
+  "retries": 0,
+  "model_experiment_calls": 0,
+  "008": {
+    "query_objects": 2,
+    "new_station_entry_obtained": false,
+    "status": "未确认",
+    "stop": "无新照片专属入口",
+    "individual_query_times": "未单独记录"
+  },
+  "014": {
+    "query_objects": 1,
+    "pageid": 73606764,
+    "title": "File:1 fenghuang 2018.jpg",
+    "revision_count": 16,
+    "upload_records": [
+      {
+        "timestamp": "2018-10-14T16:14:23Z",
+        "user": "Chensiyuan",
+        "comment": "User created page with UploadWizard"
+      }
+    ],
+    "description_excerpts": [
+      {
+        "revid": 1259387368,
+        "user": "Soerirukz",
+        "comment": "/* wbsetclaim-update:2||1 */ [[d:Special:EntityPage/P31]]: [[d:Special:EntityPage/Q125191]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1259387323,
+        "user": "Soerirukz",
+        "comment": "/* wbsetclaim-update:2||1 */ [[d:Special:EntityPage/P7482]]: [[d:Special:EntityPage/Q66458942]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1259387306,
+        "user": "Soerirukz",
+        "comment": "/* wbsetclaim-update:2||1 */ [[d:Special:EntityPage/P571]]: 9 October 2018",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1259387296,
+        "user": "Soerirukz",
+        "comment": "/* wbsetclaim-update:2||1 */ [[d:Special:EntityPage/P275]]: [[d:Special:EntityPage/Q18199165]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1259387283,
+        "user": "Soerirukz",
+        "comment": "/* wbsetclaim-update:2||1 */ [[d:Special:EntityPage/P6216]]: [[d:Special:EntityPage/Q50423863]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1259387252,
+        "user": "Soerirukz",
+        "comment": "/* wbsetclaim-create:2||1 */ [[d:Special:EntityPage/P180]]: [[d:Special:EntityPage/Q10896175]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1259387144,
+        "user": "Soerirukz",
+        "comment": "/* wbsetlabel-add:1|en */ fenghuang in 2018",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 1019664960,
+        "user": "FreeePedia",
+        "comment": "Moving from [[Category:Fenghuang County]] to [[Category:Fenghuang Ancient Town]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 954687929,
+        "user": "SchlurcherBot",
+        "comment": "/* wbeditentity-update:0| */ automatically adding [[Commons:Structured data|structured data]] based on file information",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 896684624,
+        "user": "SchlurcherBot",
+        "comment": "/* wbeditentity-update:0| */ automatically adding [[Commons:Structured data|structured data]] based on file information",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 748531192,
+        "user": "SchlurcherBot",
+        "comment": "/* wbeditentity-update:0| */ automatically adding [[Commons:Structured data|structured data]] based on file information: meta",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 419068131,
+        "user": "SchlurcherBot",
+        "comment": "/* wbeditentity-update:0| */ automatically adding claims based on file information: date source creator copyright license",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 389961181,
+        "user": "RudolphousBot",
+        "comment": "Replace [[Category:October 2018 China photographs]] into [[Category:China photographs taken on 2018-10-09]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 381318988,
+        "user": "GT1976",
+        "comment": "Moving from [[Category:October 2018 in China]] to [[Category:October 2018 China photographs]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 344703785,
+        "user": "MNXANL",
+        "comment": "added [[Category:October 2018 in China]]",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      },
+      {
+        "revid": 323997097,
+        "user": "Chensiyuan",
+        "comment": "User created page with UploadWizard",
+        "description_line": "{{en|1=fenghuang ancient town river crossing 2018}}"
+      }
+    ],
+    "continuation": null,
+    "status": "未确认",
+    "stop": "无站位说明或新关联入口"
+  },
+  "integrity": {
+    "baseline_files": 1088,
+    "observed_prior_files": 1088,
+    "expected_digest": "2ba1eb1dd1fdf6011b9c31ab90e69eae2cf4927a78ce1ac26f1fbcf9e162aae2",
+    "observed_digest": "2ba1eb1dd1fdf6011b9c31ab90e69eae2cf4927a78ce1ac26f1fbcf9e162aae2",
+    "prior_files_unchanged": true
+  },
+  "broken_local_links": [],
+  "total_task_elapsed": "未完整记录，无法精确核验20分钟时限"
+}

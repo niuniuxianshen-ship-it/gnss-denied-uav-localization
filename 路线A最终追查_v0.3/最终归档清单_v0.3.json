@@ -1,0 +1,56 @@
+{
+  "version": "v0.3",
+  "created_at": "2026-10-11T14:32:22.455755+08:00",
+  "entries": [
+    {
+      "path": "README.md",
+      "sha256": "38338D622A03CBC036B882A97FC599887007C99BB747799AB751117D61CEA0F6",
+      "bytes": 4380
+    },
+    {
+      "path": "候选替换_v0.1/替换启动记录_v0.1.md",
+      "sha256": "82EA88767C13074F15A1FCCDC0BB53B43A46FC09BE07F1E88B1705296ABE0EED",
+      "bytes": 3122
+    },
+    {
+      "path": "路线A最终追查_v0.3/015证据/定向检索服务响应.json",
+      "sha256": "880BEE46FF47F5E0671A95B8714FB93EA9C2D30885E6213168EA316C249118BB",
+      "bytes": 26665
+    },
+    {
+      "path": "路线A最终追查_v0.3/021证据/浏览器读取记录.json",
+      "sha256": "1607DA36A71700E8F86FF29755DC373C9D29C7E51DF5ACF041F5F98AA9632E52",
+      "bytes": 1991
+    },
+    {
+      "path": "路线A最终追查_v0.3/022证据/定向检索服务响应.json",
+      "sha256": "7F713403DFED4398BCCDB6DB4E2A3CD962AC1629E4FF8E15C5F84C6001007985",
+      "bytes": 196
+    },
+    {
+      "path": "路线A最终追查_v0.3/执行状态_v0.3.json",
+      "sha256": "B7FC132EA4C70F17C8C1FD160A4006BD51121A4B596333F2B2CB11BDFF5E75E4",
+      "bytes": 3568
+    },
+    {
+      "path": "路线A最终追查_v0.3/旧档基线.json",
+      "sha256": "31556564E0AE7D75210EEB39E39377324C51858DC2A58DC76F7D7FB0B3058894",
+      "bytes": 202688
+    },
+    {
+      "path": "路线A最终追查_v0.3/旧档完整性检查_v0.3.json",
+      "sha256": "9A564C1F9636486333A23826C6CB597D29113A5912F1A9C81200190C70F0B00F",
+      "bytes": 383
+    },
+    {
+      "path": "路线A最终追查_v0.3/离线入口复核.json",
+      "sha256": "C6160391CEDC1736085644EE71BCE5D455B5077C2C1D77AAF3EF9B6ED7C3C8C0",
+      "bytes": 1649
+    },
+    {
+      "path": "路线A最终追查记录_v0.3.md",
+      "sha256": "3C78AA22E5B07759EC5B71F7DD62B7D726008EE1EDDD1AAD0D9D16F925932E6B",
+      "bytes": 7540
+    }
+  ]
+}

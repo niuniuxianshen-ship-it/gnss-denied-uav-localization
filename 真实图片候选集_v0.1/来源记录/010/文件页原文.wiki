@@ -1,0 +1,14 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Yunhe Terraces Scenic Area in automn from the village}}
+|date=2025-10-16 11:43:43
+|source={{own}}
+|author=[[User:Nico le terrible|Nico le terrible]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-4.0}}
+
+[[Category:Yunhe Terraces Scenic Area]]

@@ -1,0 +1,143 @@
+{
+  "checked_at": "2026-10-11T13:47:58.666731+08:00",
+  "archives": [
+    {
+      "manifest": "真实图片候选集_v0.1\\候选归档清单_v0.1.json",
+      "checked": 128,
+      "mismatches": [],
+      "manifest_sha256": "6637001FB6DA9117148D837090F29D915F0C777ABD4C781A12800894A4B6877F"
+    },
+    {
+      "manifest": "真实图片标签核验_v0.1\\核验归档清单_v0.1.json",
+      "checked": 59,
+      "mismatches": [],
+      "manifest_sha256": "2E2AD8D16DD0787F1E8EE367905048028E89C454A8EF456B9E84DFC611C152D0"
+    },
+    {
+      "manifest": "标签核验补充_v0.2\\补充归档清单_v0.2.json",
+      "checked": 100,
+      "mismatches": [],
+      "manifest_sha256": "AC1AA2BBE71776A1831DDD0FAA42CCC10D61743765E45775581E7A13AABEAC76"
+    },
+    {
+      "manifest": "冻结前最终核查_v0.1/核查归档清单_v0.1.json",
+      "checked": 77,
+      "mismatches": [],
+      "manifest_sha256": "BA172E2BB6F9D572C3BAC7408325EAA17ED30E0DD5FE94BF3B8EDA041D17FA7A"
+    },
+    {
+      "manifest": "候选池重新组合_v0.3/重组归档清单_v0.3.json",
+      "checked": 58,
+      "mismatches": [],
+      "manifest_sha256": "C0E3E05470A89850EB4CB5817EE4AF02F0E10549D8FA89CA17C7B0FA27025D0A"
+    }
+  ],
+  "archived_record_count": 422,
+  "fixed_files": [
+    {
+      "path": "真实模型评价实验设计_v0.1.md",
+      "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+      "unchanged": true
+    },
+    {
+      "path": "候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "unchanged": true
+    },
+    {
+      "path": "正式测试集候选筛选_v0.1.md",
+      "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C",
+      "unchanged": true
+    },
+    {
+      "path": "标签核验补充记录_v0.2.md",
+      "sha256": "C846519CD46C7E74DB9ECA5B3AA543A65072539C38802D8240CE8AE1199FC603",
+      "unchanged": true
+    },
+    {
+      "path": "独立评分协议_v0.2/独立评分协议_v0.2.md",
+      "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "unchanged": true
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "unchanged": true
+    },
+    {
+      "path": "正式测试集冻结方案_v0.1.md",
+      "sha256": "1165A700576B91AEF2CD60233BFD7C0AC416D9667BD3FA913BDDA3F3EED4A9FF",
+      "unchanged": true
+    }
+  ],
+  "working_originals": [
+    {
+      "candidate_id": "001",
+      "path": "真实图片候选集_v0.1/原图/001.jpg",
+      "sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "002",
+      "path": "真实图片候选集_v0.1/原图/002.jpg",
+      "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "011",
+      "path": "真实图片候选集_v0.1/原图/011.jpg",
+      "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "015",
+      "path": "真实图片候选集_v0.1/原图/015.jpg",
+      "sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "021",
+      "path": "候选池重新组合_v0.3/021新候选/021.jpg",
+      "sha256": "C4A0276906D59DB7179057F712D1640C0668868DE5574892AD1FB7CA82EDCBCB",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "022",
+      "path": "候选池重新组合_v0.3/022新候选/022.jpg",
+      "sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "007",
+      "path": "真实图片候选集_v0.1/原图/007.jpg",
+      "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "008",
+      "path": "真实图片候选集_v0.1/原图/008.jpg",
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "014",
+      "path": "真实图片候选集_v0.1/原图/014.jpg",
+      "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08",
+      "unchanged": true
+    },
+    {
+      "candidate_id": "019",
+      "path": "真实图片候选集_v0.1/原图/019.jpg",
+      "sha256": "1288C23F78BC92FF505C8084D844044453513D16D1227FD442A818B95234B8D1",
+      "unchanged": true
+    }
+  ],
+  "working_count": 10,
+  "distinct_sha256_count": 10,
+  "archive_unchanged": true,
+  "fixed_files_unchanged": true,
+  "working_originals_unchanged": true,
+  "anonymous_input_created": 0,
+  "locating_model_calls": 0,
+  "original_metadata_modified": false
+}

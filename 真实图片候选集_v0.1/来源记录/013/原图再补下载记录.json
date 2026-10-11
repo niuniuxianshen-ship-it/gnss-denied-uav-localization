@@ -1,0 +1,15 @@
+{
+  "candidate_id": "013",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2015-01-05_a_street_in_Pingyao.jpg",
+  "started_at": "2026-10-10T20:03:00.009557+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2015-01-05_a_street_in_Pingyao.jpg",
+  "received_at": "2026-10-10T20:03:06.012365+08:00",
+  "status": "saved",
+  "sha256": "AE5E5081BF26921D19C5634DCF5479227EAF78A70591EA4BD4F6263553CE0F40",
+  "sha1": "38B0C38B605C8578E6477E0CD488AE81C16D8325",
+  "bytes": 6884677,
+  "width": 6000,
+  "height": 4000,
+  "GPS_present_in_original": false
+}

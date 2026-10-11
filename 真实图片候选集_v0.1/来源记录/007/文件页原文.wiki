@@ -1,0 +1,18 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Water filled rice terraces in longsheng}}
+|date=2016-02-03 13:45:44
+|source={{own}}
+|author=[[User:Bernessaw|Bernessaw]]
+|permission=
+|other versions=
+}}
+{{Location|25.760767|110.125031|heading:235.17131474103584}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+{{Wiki Loves Earth 2017|cn}}
+
+[[Category:Uploaded via Campaign:wle-cn]]
+[[Category:Longsheng rice terraces]]

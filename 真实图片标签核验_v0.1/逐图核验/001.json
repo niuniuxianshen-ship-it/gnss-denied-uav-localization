@@ -1,0 +1,88 @@
+{
+  "candidate_id": "001",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Chengdu_station.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AChengdu_station.jpg&oldid=1121890830",
+  "source_revision_id": 1121890830,
+  "source_author": "Nihongarden",
+  "original_place_description": "chengdu station",
+  "source_field": "Commons Summary/Description、Source、Author、Date；Location模板若存在",
+  "original_file": "真实图片候选集_v0.1/原图/001.jpg",
+  "original_sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45",
+  "source_date": "2010-08-01 17:18:52",
+  "proposed_province": "四川省",
+  "verification_level": "有独立支持",
+  "province_label_gate_passed": true,
+  "formal_selected": false,
+  "checked_by": "Codex /root 本次静态来源与画面审查；非双人标签核验",
+  "checked_at": "2026-10-10T20:41:04.551298+08:00",
+  "scope": "省级标签；非精确机位或坐标真值确认",
+  "identity": "成都站原有站房外立面；没有确认精确相机位置。",
+  "observations": [
+    "原图屋顶的成都字样与下方英文站名固定在金属支架上。",
+    "长条站房、连续外檐、玻璃立面和中央方形时钟构成组合特征；前方为城市道路。"
+  ],
+  "sources": [
+    {
+      "id": "001_railway",
+      "field": "车站引导导航：四川 > 成都；正文 h1title：成都站；脚本 picDESC 的第一项",
+      "excerpt": "成都站外貌夜景",
+      "role": "站房身份、四川省归属"
+    },
+    {
+      "id": "001_railway_photo",
+      "field": "上述页面 picURL 第一项，页面图注与图片同序对应",
+      "excerpt": "",
+      "role": "独立现场图像对照"
+    }
+  ],
+  "comparison": "铁路夜景图与候选日景图不是同一幅：站名字样及下方英文、支架位置、长横屋檐、中央入口位置、玻璃立面分格和两侧建筑布局相符。夜景拍摄高度、光线及前景与原图不同；将对应对象识别为同一成都站原有站房，属于可复核的场景对应推断。",
+  "independence": "候选由 Nihongarden 声明 Own work；对照图由铁路站点在站房引导页面提供。已确认不是候选图片的直接转载；铁路图未列摄影者，无法独立确认其全部授权和原始摄影链。",
+  "coordinate": "来源文件页未提供坐标；原图未发现 GPS 字段。不以铁路图位置、车站建筑中心或名称反填拍摄坐标。",
+  "conflicts": "未发现省级位置冲突。未把客运成都站（俗称火车北站）与成都北编组站混为一处。",
+  "pending": [
+    "精确机位和拍摄日期的独立核实尚未完成。",
+    "与后续候选的同地点、同机位关系在最终选图时复查。"
+  ],
+  "evidence_records": [
+    {
+      "evidence_id": "001_railway",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/t20100122_1598.html",
+      "accessed_at": "2026-10-10T20:24:55.747226+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/t20100122_1598.html",
+      "content_type": "text/html",
+      "sha256": "EE4AFDE7061439E6CCEB4C1A396261C339606228996C69B707991AE52790CCC2",
+      "bytes": 82919,
+      "encoding": "utf-8",
+      "images": [
+        "<IMG height=\"31\" src=\"../../../../images/c_l.gif\" width=\"9\" />",
+        "<IMG height=\"31\" src=\"../../../../images/c_r.gif\" width=\"9\" />",
+        "<IMG height=\"13\" src=\"../../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+        "<img src='\"+picURLs[i]+\"' width='400px' border='0' />",
+        "<img src=\"../../../../images/link01.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link02.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link03.png\" alt=\"\" />",
+        "<img src=\"../../../../images/link04.png\" alt=\"\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+        "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+        "<img src=\"../../../../images/public.png\" />",
+        "<img src=\"../../../../images/download.png\" />"
+      ],
+      "title": [
+        "中国铁路12306"
+      ]
+    },
+    {
+      "evidence_id": "001_railway_photo",
+      "url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/W020121205753474094636.jpg",
+      "accessed_at": "2026-10-10T20:30:57.460103+08:00",
+      "http_status": 200,
+      "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/W020121205753474094636.jpg",
+      "content_type": "image/jpeg",
+      "bytes": 67336,
+      "sha256": "7A0B8195F9BB3FBE4F99B01DDA31581E963C1212A757C2FCE1C758F0423881E6",
+      "local_file": "真实图片标签核验_v0.1\\证据快照\\001_railway_photo.jpg"
+    }
+  ],
+  "common_pending": "匿名输入尚未制作；来源、作者、坐标、证据和本表均留在管理侧。公开网络图片的既往预训练接触未确认。未运行定位模型。"
+}

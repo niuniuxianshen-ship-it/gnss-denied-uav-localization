@@ -1,0 +1,11 @@
+{
+  "url": "https://www.hh.gov.cn/virtual_attach_file.vsb?afc=zM47liU4-PUNCDLr4T2nR6kU4G8MRUIaMlr7L8-DM4vPMmN0gihFp2hmCIa0LkhkMYy4MShkLR9sMmMfLR62L4nkLRNaUzLPnNLbnl74LRMFM8LaU8U4LmnFLzliozCDgjfJQ4hTuSbaptveo4Oeq2AEvtiEQ1hXptQ0g4NaLm70M4NiLzlYgtA8pU5cc",
+  "read_time": "2026-10-11T08:57:20.171416+08:00",
+  "client": "curl 8.21.0 Schannel; default certificate checks; no insecure flags",
+  "exit_code": 0,
+  "response": "200\nhttps://www.hh.gov.cn/virtual_attach_file.vsb?afc=zM47liU4-PUNCDLr4T2nR6kU4G8MRUIaMlr7L8-DM4vPMmN0gihFp2hmCIa0LkhkMYy4MShkLR9sMmMfLR62L4nkLRNaUzLPnNLbnl74LRMFM8LaU8U4LmnFLzliozCDgjfJQ4hTuSbaptveo4Oeq2AEvtiEQ1hXptQ0g4NaLm70M4NiLzlYgtA8pU5cc\n",
+  "error": "",
+  "file": "标签核验补充_v0.2\\证据快照\\008_honghe_hotel_ref0.jpg",
+  "bytes": 1399142,
+  "sha256": "c593745e70bb65964b4a91a5c5f16e20dc96b4340267520bf22d7b9bf1844cc5"
+}

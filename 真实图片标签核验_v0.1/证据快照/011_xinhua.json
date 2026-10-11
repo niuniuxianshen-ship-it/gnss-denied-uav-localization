@@ -1,0 +1,30 @@
+{
+  "evidence_id": "011_xinhua",
+  "url": "https://uav.xinhuanet.com/2021-01/25/c_1210993908.htm",
+  "accessed_at": "2026-10-10T20:24:55.751261+08:00",
+  "http_status": 200,
+  "returned_url": "https://uav.xinhuanet.com/2021-01/25/c_1210993908.htm",
+  "content_type": "text/html; charset=utf-8",
+  "sha256": "3F1C9FC11C37D1844A9D3E1B566BBC27FFEA2A59A7738696B725D781EE128DF1",
+  "bytes": 12016,
+  "encoding": "utf-8",
+  "images": [
+    "<img src=\"//uav.xinhuanet.com/20170906fyzg/images/20170830_fyzg_wrjlogo_v1.png\" />",
+    "<img src=\"//www.news.cn/res/xhwimg/xl2017/images/wx.png\" />",
+    "<img src=\"\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{A267068B-076E-4831-B201-41F2C7EC3515}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115451834801n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{C9587D31-B812-4A2B-A9D8-81C0B8E540D3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434113231n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{53863DC0-5D74-46DB-8B5D-3F47182D9FB3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434113881n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{01875DB5-FB17-432B-8F84-F43B5C6914EA}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434114551n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{825CA115-5788-47BF-A0A7-2F9C327BA917}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434115101n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{7F299A1F-E129-4F68-A994-ECFBB9DEEAF3}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434115701n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{AE2F0FED-4320-4EC4-9DCF-CBB35CF37812}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434116301n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img style=\"WIDTH: 1000px; HEIGHT: 563px\" id=\"{D9C2F2A5-8E72-4CA9-BD44-2A311515BFD9}\" title=\"\" border=\"0\" align=\"center\" src=\"1210993908_16115434117011n.jpg\" sourcename=\"本地文件\" sourcedescription=\"编辑提供的本地文件\" />",
+    "<img src=\"//www.xinhuanet.com/images/syicon/space.gif\" width=\"24\" height=\"24\" border=\"0\" />",
+    "<img class=\"share-img\" src=\"//www.news.cn/res/xhwimg/common/share/logo4share.jpg\" width=\"300\" height=\"300\" />",
+    "<img src=\"//webd.home.news.cn/1.gif?z=1&_wdxid=010030101450000000000000011100001210993908\" border=\"0\" />"
+  ],
+  "title": [
+    "\r\n走进武汉三站一基地 今年春运不一样-新华网\r\n"
+  ]
+}

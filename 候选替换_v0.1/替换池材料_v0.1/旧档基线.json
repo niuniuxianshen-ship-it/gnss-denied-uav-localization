@@ -1,0 +1,5155 @@
+{
+  "record_time": "2026-10-11T14:39:38.254169+08:00",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "38338D622A03CBC036B882A97FC599887007C99BB747799AB751117D61CEA0F6",
+      "bytes": 4380
+    },
+    {
+      "path": "候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "候选比较评分表_v0.2_版本修改说明.md",
+      "sha256": "DC71ED1E7F39ED94C8A125E1DF09CD4BA14BB7B2A108C59F62BBB10BD24D97D7",
+      "bytes": 2412
+    },
+    {
+      "path": "候选比较评分表草稿.md",
+      "sha256": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "bytes": 6145
+    },
+    {
+      "path": "候选池重新组合记录_v0.3.md",
+      "sha256": "D3392732A05B4B595830AA1E3FB2213C3DDF0FD5A22354EC9AB1531F79E6F58B",
+      "bytes": 9798
+    },
+    {
+      "path": "冻结前最终核查记录_v0.1.md",
+      "sha256": "59CE21883EFE22977F4108B4FAF69B7892ED9281736607EF84DC1509B9605364",
+      "bytes": 12280
+    },
+    {
+      "path": "冻结前最终核查记录_v0.1.sha256",
+      "sha256": "9C6FBDAE2AB037B6CDF3728F51629A1760779FEE0EAEA640C6464CD82230011F",
+      "bytes": 103
+    },
+    {
+      "path": "冻结方案静态检查_v0.1.json",
+      "sha256": "409BD31DBDEC02169DADF6E274F9397C018425961013D2758E7C06DF650B5D2D",
+      "bytes": 6048
+    },
+    {
+      "path": "备份日志.md",
+      "sha256": "43F91CAC7467CF3AC24E59996BE5CB8ED61059644ADB5155F3265261E4011B31",
+      "bytes": 2402
+    },
+    {
+      "path": "更新日志.md",
+      "sha256": "E1EE3949AF5E477096CA4B7AF508EE182D24B0D1C5D9FDC767E175AA44E01881",
+      "bytes": 7959
+    },
+    {
+      "path": "最终冻结前资格补证与核查_v0.1.md",
+      "sha256": "45F22FFD154B19C224E048183121671388DD399FCC23CC4C8DAB55630C743237",
+      "bytes": 9096
+    },
+    {
+      "path": "标签核验补充记录_v0.2.md",
+      "sha256": "C846519CD46C7E74DB9ECA5B3AA543A65072539C38802D8240CE8AE1199FC603",
+      "bytes": 20974
+    },
+    {
+      "path": "正式测试集候选筛选_v0.1.md",
+      "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C",
+      "bytes": 11899
+    },
+    {
+      "path": "正式测试集冻结方案_v0.1.md",
+      "sha256": "1165A700576B91AEF2CD60233BFD7C0AC416D9667BD3FA913BDDA3F3EED4A9FF",
+      "bytes": 15465
+    },
+    {
+      "path": "正式测试集冻结方案_v0.1.sha256",
+      "sha256": "60515B581DE1BB48636E897187B15E295E4FEA0C83F03693D1C8143D521468F0",
+      "bytes": 103
+    },
+    {
+      "path": "正式测试集冻结方案_v0.2.md",
+      "sha256": "4C7C93AD897823C365ED27CFACD5F70B9D9F6EF737814B35265EC591875FDD02",
+      "bytes": 4271
+    },
+    {
+      "path": "正式测试集冻结方案_v0.2.sha256",
+      "sha256": "E058CCAAEB9639BD47BEC09F4A3DE99F7D07B11A205E974B64736BA8C9CA0EEB",
+      "bytes": 103
+    },
+    {
+      "path": "测试集资格决策_v0.3.md",
+      "sha256": "36855183D84A082C3C6425CD7D338B3194D669C3E0126F2B905C1F18602CF53D",
+      "bytes": 8197
+    },
+    {
+      "path": "测试集资格决策_v0.3.sha256",
+      "sha256": "E9929ACB002488BBCEEBBE2978FEA890469ADF0810334CD2BDAECF449DEBC761",
+      "bytes": 96
+    },
+    {
+      "path": "版本索引.md",
+      "sha256": "2EAB5B13CFDD2C058484C10EFD31DEDE83C4278FECA31CDE89C8224CF98569C9",
+      "bytes": 5770
+    },
+    {
+      "path": "真实图片候选清单_v0.1.md",
+      "sha256": "BCDACCB90DD0F77FDD37144CFCA6C9E7D5EAE1C4D4472408F0979D704ABCE504",
+      "bytes": 15092
+    },
+    {
+      "path": "真实图片标签核验表_v0.1.md",
+      "sha256": "8505289D303806CA4C172CB8F4662E75F065A75FB10A9C052BE422383C459F33",
+      "bytes": 10746
+    },
+    {
+      "path": "真实模型评价实验设计_v0.1.md",
+      "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+      "bytes": 25098
+    },
+    {
+      "path": "统一参考附录草稿.md",
+      "sha256": "9AB50C0CC1B0A7F95AA0740CC17608F31CAF51BDC5455B0B011B6C09E60C3615",
+      "bytes": 8517
+    },
+    {
+      "path": "路线A最终追查记录_v0.3.md",
+      "sha256": "3C78AA22E5B07759EC5B71F7DD62B7D726008EE1EDDD1AAD0D9D16F925932E6B",
+      "bytes": 7540
+    },
+    {
+      "path": "路线A最终追查记录_v0.3.sha256",
+      "sha256": "C2E93FCFE1411A629A5CBF82AB9A63ACBD9EB059AF41E6C863EEFBCEF26722EA",
+      "bytes": 101
+    },
+    {
+      "path": "路线A资格追查记录_v0.2.md",
+      "sha256": "98A057F677A4D7BF9BF3C4301DC5466EE689D1BCFFB05A1D4A854F961DED446F",
+      "bytes": 6308
+    },
+    {
+      "path": "运行准备记录.md",
+      "sha256": "1C9504B58A0F146EE1810811DCB4EFE75FCBDB39242D6C9780A8694739A31B44",
+      "bytes": 3133
+    },
+    {
+      "path": "DeepSeek试跑/run_trial.py",
+      "sha256": "95561B88319B4DC28C163800E7A53B616188CB573413BA1A8A0E1F29DEE73CCC",
+      "bytes": 15344
+    },
+    {
+      "path": "DeepSeek试跑/使用说明.md",
+      "sha256": "F258D51E81875C2E5FE4983E9615A49269F88C77C78F0D9B964D749D744DACAF",
+      "bytes": 3673
+    },
+    {
+      "path": "DeepSeek试跑/离线检查.json",
+      "sha256": "D99E92D9D1C4D8012B9A1AB232DFE06176810E1C0DD8FACC66A499F5C2FACE33",
+      "bytes": 2023
+    },
+    {
+      "path": "DeepSeek试跑/首次试跑审查.md",
+      "sha256": "8BD849A28D9901660166B5741508AB47E585DA1FFE0EE6C9778BDE5D7167157C",
+      "bytes": 3822
+    },
+    {
+      "path": "DeepSeek试跑/首次输出复核.json",
+      "sha256": "00374EDEB297A02D9F96CD5700294750678ADC4FCC794D11575376D24081919F",
+      "bytes": 3963
+    },
+    {
+      "path": "DeepSeek试跑/inputs/001.png",
+      "sha256": "D6C75712367A7BCA76B176A9670ED5F7328A800FED063617AEEF4140F30F9288",
+      "bytes": 16542837
+    },
+    {
+      "path": "DeepSeek试跑/inputs/appendix.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "bytes": 5130
+    },
+    {
+      "path": "DeepSeek试跑/prompts/A.txt",
+      "sha256": "273B1BE3FF8EC2575CA58E2823EE56BB25E8A98714BFAC92E2F1709315811792",
+      "bytes": 723
+    },
+    {
+      "path": "DeepSeek试跑/prompts/B.txt",
+      "sha256": "498B4A195288E877E21A7BAF360C01E0CD4F00CA35D4E440BC2A44ACBF725E90",
+      "bytes": 1107
+    },
+    {
+      "path": "DeepSeek试跑/prompts/C.txt",
+      "sha256": "98E9B3C787708416EA29D4F2D5114B4E62BBFF657640C25918962A2F42E58DBF",
+      "bytes": 1650
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215748_965692/A_input.txt",
+      "sha256": "CF9E0C13FF0EC74F5F9DA0C988B88AE1149536BE55CD01E6CE6C9C1A3CB79E8F",
+      "bytes": 5931
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215748_965692/A_request_audit.json",
+      "sha256": "0CEC7BB3359B331073305BB2128719361DEF671DE9A4C0B34AF1EE9FDBD4000D",
+      "bytes": 6634
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215748_965692/manifest.json",
+      "sha256": "9B297740A47A315AF28F68344D2C69B57495963810CC87DA7E4CA1674041257D",
+      "bytes": 2222
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215748_965692/summary.json",
+      "sha256": "846B5D27D1FFBC4943C376ABAACB780D0EBA2D358E094E1373AD8BA28F3C1FD8",
+      "bytes": 204
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215748_965692/试跑记录.md",
+      "sha256": "A976AFA56B4B40A755F4D112BD7310DC2DCDFE2AF7C3917657D3F4F0269FD824",
+      "bytes": 778
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/A_input.txt",
+      "sha256": "D249F086A188881E7CA944325D40D5DF72AA6350DAD2FF7EEE85E89CB8B17DD3",
+      "bytes": 5846
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/A_output.txt",
+      "sha256": "4EFA3382BAAD3FE37F9D2A1BC0904828E2E9A6E574B67CA8F5DC215C8280F437",
+      "bytes": 57
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/A_reasoning.txt",
+      "sha256": "B2BF9B490E05EE0F9FDC0E1ABAE1C7D032F6BC8BC26CD88C9FE19B094E39ABB4",
+      "bytes": 5146
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/A_request_audit.json",
+      "sha256": "0CEC7BB3359B331073305BB2128719361DEF671DE9A4C0B34AF1EE9FDBD4000D",
+      "bytes": 6634
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/A_response.json",
+      "sha256": "A02C473EAEF3112A9636EF9D1DB3259BF7FF6334360ABF2A2BA83C1E7590F633",
+      "bytes": 5762
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/B_input.txt",
+      "sha256": "CE168AF6663E88C79FE8E7F1D76A4BB307465E386B07513C6ECF5C2AEEF58967",
+      "bytes": 6224
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/B_output.txt",
+      "sha256": "807B691A9ECFB205E090FB9C4180BF8B819215B897411898649608860A9A2108",
+      "bytes": 1247
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/B_reasoning.txt",
+      "sha256": "91E9F1BEF77F4CD2835777AE65F73079B859AA7C2A7EDA6A543E759E6D99B8A0",
+      "bytes": 9634
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/B_request_audit.json",
+      "sha256": "9CB7C96A41C496C29D6EB2E626A2EE8667ED062C2D391D2AE534BE10806E2C35",
+      "bytes": 7018
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/B_response.json",
+      "sha256": "7E6B14E6E123CF0790C570313672DE30460A8BD20AE60CFF48A69C87E8FB469C",
+      "bytes": 11474
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/C_input.txt",
+      "sha256": "FF84CC768C3A0B7186A2342ECA876715DE318C81B8A1DC2B140B453A482AB837",
+      "bytes": 6762
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/C_output.txt",
+      "sha256": "45A8CA3FD9167DF015503D084B555636D60BC279040CA6986F5975DB27AA5041",
+      "bytes": 1295
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/C_reasoning.txt",
+      "sha256": "E9728AED48D69C1C54BF2D322BCCD83998DD4591F91E94E5C89F1CEF5608BCAF",
+      "bytes": 13024
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/C_request_audit.json",
+      "sha256": "A9C1C6B328D14D1D73FF76C883D91B44F8AFE180B1D966BB145E0948FD1F88F7",
+      "bytes": 7561
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/C_response.json",
+      "sha256": "0E746C5F2B247C536BE9CDB21940D2A84DDCFD1C02930FED6B6103D39F0FDB6B",
+      "bytes": 14930
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/manifest.json",
+      "sha256": "3110329481C84DA3375F65E2D8B9FE46C8770D42679E8B54AE07B3243D60E55B",
+      "bytes": 2524
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/summary.json",
+      "sha256": "F5B2594F4FD1BD2B8B16E7B996686485D420E706597B2D6CDE501E87EF083F17",
+      "bytes": 2792
+    },
+    {
+      "path": "DeepSeek试跑/runs/20261009_215850_166018/试跑记录.md",
+      "sha256": "3A0C1A95FD3A9E773AA98D1C68BD32A4E431855EF14F3365BBEB72A586E3064E",
+      "bytes": 3573
+    },
+    {
+      "path": "人工CASE扩展_v0.2/CASE扩展设计说明.md",
+      "sha256": "AB4363BC9A2DBC72FEF0830662491CE93A0FF96680F8D38313F44D203782879D",
+      "bytes": 2946
+    },
+    {
+      "path": "人工CASE扩展_v0.2/CASE覆盖矩阵.csv",
+      "sha256": "EB7761EDC06B99BB296C64A02EB2D84FB84E09058A77E969E951C6285587B9F2",
+      "bytes": 688
+    },
+    {
+      "path": "人工CASE扩展_v0.2/input_hashes.json",
+      "sha256": "7CA335014CB1743B12BDBA61E58FE6D8BD1116004E09FB42807ED2664CF16475",
+      "bytes": 1153
+    },
+    {
+      "path": "人工CASE扩展_v0.2/README.md",
+      "sha256": "4DD9C0F25421CD3E20AF885F3A1C02B60C75BFBF3E8BA266711423D7C91D3DB5",
+      "bytes": 2525
+    },
+    {
+      "path": "人工CASE扩展_v0.2/run_rater.py",
+      "sha256": "B4CA961C579C74953B6647A96CFB813901DBEEAFE9AC9301B8B1253A5279DFAA",
+      "bytes": 7998
+    },
+    {
+      "path": "人工CASE扩展_v0.2/settings.json",
+      "sha256": "6D906ED2B86D2D862A5F59FEFB7FB162740FCB276C7A46622A6CA3D1BBECC397",
+      "bytes": 236
+    },
+    {
+      "path": "人工CASE扩展_v0.2/最终冻结判断.md",
+      "sha256": "AEED17C42A5B97752F80B65342DB9CEFAA2D718896E40BB29115CD8AE75BB6FA",
+      "bytes": 2705
+    },
+    {
+      "path": "人工CASE扩展_v0.2/本包归档清单.json",
+      "sha256": "4B933F765CA54C36F877A2EED99A7264C5F6CB69FF5CB1984DEAF486F30E44F6",
+      "bytes": 14006
+    },
+    {
+      "path": "人工CASE扩展_v0.2/本包归档清单.sha256",
+      "sha256": "E1D2A935B1408F116327ECDDA74CBBED33837E3A80CA74170620BD52647A541A",
+      "bytes": 91
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2.zip",
+      "sha256": "9E0B4BAD71A1A5E3809A71E8BC797F06CF1C11E9DD39D8B7FE036455561A31A9",
+      "bytes": 11138
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分规则问题清单.md",
+      "sha256": "FAFE6D55F7C52A686381516E60972A708EE44B411ED81E38BA6A5E119B5FC88F",
+      "bytes": 3673
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/分歧分析.csv",
+      "sha256": "4000AF976DAAE763EAE59D04B4E38CB58E62AAE3318704BAB843A09ED721880F",
+      "bytes": 1722
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/原始配对对照.csv",
+      "sha256": "42A53583A6786338E0FEDEB3B2B6A038E056107CA960428CB6AACE6FE3C7435E",
+      "bytes": 1084
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/同分理由静态复核.csv",
+      "sha256": "BC37D71587667DEB8923144830670C5F93C043C6D37E8CBBE48697F5A6554C27",
+      "bytes": 11143
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/完整性检查.json",
+      "sha256": "E0B2CE851FD07A50975DC2F314C4E7FA4D9A00D748C3DE394D987194D557786C",
+      "bytes": 4501
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/引文完整性问题.json",
+      "sha256": "D305D1A66E375BAF6862D301B0F5F7819B79A3FE1F7E7830A83544C906CC5F55",
+      "bytes": 3471
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/排除明细.csv",
+      "sha256": "58D731AC870F7DA72CC681D3C59F2CBB2A62B78155F51D3BBA5707216730B847",
+      "bytes": 642
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/状态配对矩阵.csv",
+      "sha256": "126E0F6C90E86EF911CA49F0BEA1B89AFB1867B0BEB54649EBD0AD7C8A41EA23",
+      "bytes": 99
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/统计结果.json",
+      "sha256": "742F305BFD37A2AAFAFC55F47CCA4F48293E0EC7B24A5E390D838EE9146F5EC5",
+      "bytes": 1464
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/逐案原句与解释复核.md",
+      "sha256": "54E3095D5BBA53901A68755FA6EECF6781570811B66A786F4C934E14184B9D75",
+      "bytes": 11608
+    },
+    {
+      "path": "人工CASE扩展_v0.2/提交后检查/首次评分检查与一致性报告.md",
+      "sha256": "1FE85C23086483B103FAAFD1536FCBD3AB48768F8C5A68F47526838AC861126B",
+      "bytes": 4180
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_012.txt",
+      "sha256": "28D3BB7FFC22C99D4A3693BC6A3034AD59F13BF509A0E904EEF1B39074BEBB32",
+      "bytes": 737
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_013.txt",
+      "sha256": "2A0044D150564EF6348393654C213760C8EEAF84FCBF4F33D22843EE56C52258",
+      "bytes": 722
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_014.txt",
+      "sha256": "75EBC353590285CB5DB1B4573763A12879FCD60A7E3B1B6F5CC85DF0A704AD99",
+      "bytes": 404
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_015.txt",
+      "sha256": "9E53DC593296B4E27D3B05B451C91BDCFB6AE16773A45B349E99AD20D373B373",
+      "bytes": 341
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_016.txt",
+      "sha256": "AE2B0F0F0E5298F6A903A9D8B7B251BA37B0D43BE9017E7B428A9E9527A0E40B",
+      "bytes": 494
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_017.txt",
+      "sha256": "B717BABECEDBB8DE5621605AC4C773E83506E24EAD7E41A940592CE01C5A266D",
+      "bytes": 569
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_018.txt",
+      "sha256": "67E9F474FC33E828539D1FC02E84E0FB93A59C471BA2FAD69F3A9EB4AFC55B6A",
+      "bytes": 386
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_019.txt",
+      "sha256": "2090F90AFCDF87D99CDC90F3FE2AF65A4EB422E6D6731624D3CA58313CA87B60",
+      "bytes": 345
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_020.txt",
+      "sha256": "67F280E64CEEE279257EBA1A6F95AD7026DBDC16FBB98ED23B09FE58FE057AB5",
+      "bytes": 184
+    },
+    {
+      "path": "人工CASE扩展_v0.2/案例/CASE_021.txt",
+      "sha256": "DF59CC1F6A3CF4F682E13C2C177262DE496A50268BBFE6F75060A5C5CA01450C",
+      "bytes": 453
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/CASE设计目的.md",
+      "sha256": "4C0AF78209B877CC7B45FC0AE15E7155394896CAE64A7EE461A8F73941A9BFAF",
+      "bytes": 1980
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/参考判分依据.md",
+      "sha256": "83254E54D232436A14E6F33B2F8F012E3247174AF5F7BECC442BF8C5E98957AD",
+      "bytes": 4450
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/接收统计实施说明.md",
+      "sha256": "2A2E27AC7E7F3A5B4974E2C0BDF0F2A74B50C1A762D786874DB56B9223CF4419",
+      "bytes": 3109
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/最终交付检查.json",
+      "sha256": "E2298693BBD0D2F315C75D654928B7FDC5A543FB3DC9FF2470BA610441FB2297",
+      "bytes": 1817
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/版本说明.md",
+      "sha256": "77C0761C51E13247296E0B8F8ED6DE5E517337207ADEE8DF4AD330D7AC508EF6",
+      "bytes": 958
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/评分前材料冻结.json",
+      "sha256": "35DAFD5370FDE8D7037F2D6644CF1908E9DF78BCFE7FA5CFDC4F89B9FC855148",
+      "bytes": 2295
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/阶段顺序记录.json",
+      "sha256": "B6D1814D097E190348BAEB38AA7D95C54446DBB4CC6DE12A8EB1BBDF5B87E462",
+      "bytes": 1617
+    },
+    {
+      "path": "人工CASE扩展_v0.2/管理/静态审查记录.md",
+      "sha256": "74ABD8FE31F09F4E34E0F96ED421A4715B8AF344D340CD979B30E737CCC74FE8",
+      "bytes": 1391
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_012.txt",
+      "sha256": "28D3BB7FFC22C99D4A3693BC6A3034AD59F13BF509A0E904EEF1B39074BEBB32",
+      "bytes": 737
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_013.txt",
+      "sha256": "2A0044D150564EF6348393654C213760C8EEAF84FCBF4F33D22843EE56C52258",
+      "bytes": 722
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_014.txt",
+      "sha256": "75EBC353590285CB5DB1B4573763A12879FCD60A7E3B1B6F5CC85DF0A704AD99",
+      "bytes": 404
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_015.txt",
+      "sha256": "9E53DC593296B4E27D3B05B451C91BDCFB6AE16773A45B349E99AD20D373B373",
+      "bytes": 341
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_016.txt",
+      "sha256": "AE2B0F0F0E5298F6A903A9D8B7B251BA37B0D43BE9017E7B428A9E9527A0E40B",
+      "bytes": 494
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_017.txt",
+      "sha256": "B717BABECEDBB8DE5621605AC4C773E83506E24EAD7E41A940592CE01C5A266D",
+      "bytes": 569
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_018.txt",
+      "sha256": "67E9F474FC33E828539D1FC02E84E0FB93A59C471BA2FAD69F3A9EB4AFC55B6A",
+      "bytes": 386
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_019.txt",
+      "sha256": "2090F90AFCDF87D99CDC90F3FE2AF65A4EB422E6D6731624D3CA58313CA87B60",
+      "bytes": 345
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_020.txt",
+      "sha256": "67F280E64CEEE279257EBA1A6F95AD7026DBDC16FBB98ED23B09FE58FE057AB5",
+      "bytes": 184
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/CASE_021.txt",
+      "sha256": "DF59CC1F6A3CF4F682E13C2C177262DE496A50268BBFE6F75060A5C5CA01450C",
+      "bytes": 453
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分包_v0.2/阅读说明.md",
+      "sha256": "406BBD91FDECC4B959EBD3D7B3677DCFFA213602028BA320DE2CC9BA1F5AC98F",
+      "bytes": 4826
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/first_output.txt",
+      "sha256": "2EC6189CE80FD7BFABFADD8CCFC1881BA52BA050B08C609DD3AA331C760BD8A5",
+      "bytes": 10398
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/first_reasoning.txt",
+      "sha256": "B7565A5435FA046633B1EF4FC718241EF5733CCB832C80380CEAD53365E79117",
+      "bytes": 57779
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/first_response.json",
+      "sha256": "2F5CE187F07B6933B2E5134BB54EDBB42BF09DB9C0D4597F315FFE0E0F773A46",
+      "bytes": 69152
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/metadata.json",
+      "sha256": "63458FB28C5CFDA6520F6E965FC1473FDCC5B2BDCD794C7BD58F469651514173",
+      "bytes": 2890
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/original_submission.json",
+      "sha256": "1B4356E15DAA0473FF3ADD9C1B1D2DCC6C1B868C3FEE9ECD66A4E7A0D79B2C47",
+      "bytes": 10410
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/request.json",
+      "sha256": "FB032EF2B1A34BCBB52D994DEABC54BC9142FD3DCF5D4787EE8753E31D08644A",
+      "bytes": 20529
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/submission_lock.json",
+      "sha256": "035D1797504AB016DADB044CA7C05533C23EC98572309ED1175F38B9194D7DC9",
+      "bytes": 1123
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/A/submitted.csv",
+      "sha256": "1DFDDC2D06417283394CB7CF9B60DDFE2754CE3C748DEB814DD3B1E301CCF71F",
+      "bytes": 9845
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/first_output.txt",
+      "sha256": "0E000E32A85A40DC1C89EA383C61DD1CE53E14465FFF38FFF08F9183F874DC45",
+      "bytes": 10321
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/first_reasoning.txt",
+      "sha256": "2ACF6C0CDB79CB3F0626F6A85B5B2BB315D33E14B59C6402F6CC978FF648AB4B",
+      "bytes": 64688
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/first_response.json",
+      "sha256": "075EA3BB86D3CFC822065AF20442A5DC71F392152E898934B626B81B001C3B23",
+      "bytes": 77933
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/metadata.json",
+      "sha256": "27BCB85C9C987B46A9ADBEF67FDA03CB7E0751F14948584657F2708D0BC34DDB",
+      "bytes": 2892
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/original_submission.json",
+      "sha256": "EA6FFC34AF34EC387E1753C4F614C7DB76292F4E5FFBBE0D6E350475B1874B4C",
+      "bytes": 10333
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/request.json",
+      "sha256": "2058B568E7C1C2DA0459EB171B558BF8E86C64AF25CDE324B963DFEC190ADE82",
+      "bytes": 20529
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/submission_lock.json",
+      "sha256": "C0325B33D835DC95DDCFCABE783B350B2300AE7EBD925D48F9CCA745DD807067",
+      "bytes": 1123
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分结果/B/submitted.csv",
+      "sha256": "34BB05F1B2E198065295DE078996EE2E52E3E89644B7D614DACD761CD9B30DF5",
+      "bytes": 9660
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_012.txt",
+      "sha256": "28D3BB7FFC22C99D4A3693BC6A3034AD59F13BF509A0E904EEF1B39074BEBB32",
+      "bytes": 737
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_013.txt",
+      "sha256": "2A0044D150564EF6348393654C213760C8EEAF84FCBF4F33D22843EE56C52258",
+      "bytes": 722
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_014.txt",
+      "sha256": "75EBC353590285CB5DB1B4573763A12879FCD60A7E3B1B6F5CC85DF0A704AD99",
+      "bytes": 404
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_015.txt",
+      "sha256": "9E53DC593296B4E27D3B05B451C91BDCFB6AE16773A45B349E99AD20D373B373",
+      "bytes": 341
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_016.txt",
+      "sha256": "AE2B0F0F0E5298F6A903A9D8B7B251BA37B0D43BE9017E7B428A9E9527A0E40B",
+      "bytes": 494
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_017.txt",
+      "sha256": "B717BABECEDBB8DE5621605AC4C773E83506E24EAD7E41A940592CE01C5A266D",
+      "bytes": 569
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_018.txt",
+      "sha256": "67E9F474FC33E828539D1FC02E84E0FB93A59C471BA2FAD69F3A9EB4AFC55B6A",
+      "bytes": 386
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_019.txt",
+      "sha256": "2090F90AFCDF87D99CDC90F3FE2AF65A4EB422E6D6731624D3CA58313CA87B60",
+      "bytes": 345
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_020.txt",
+      "sha256": "67F280E64CEEE279257EBA1A6F95AD7026DBDC16FBB98ED23B09FE58FE057AB5",
+      "bytes": 184
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/CASE_021.txt",
+      "sha256": "DF59CC1F6A3CF4F682E13C2C177262DE496A50268BBFE6F75060A5C5CA01450C",
+      "bytes": 453
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/A/阅读说明.md",
+      "sha256": "406BBD91FDECC4B959EBD3D7B3677DCFFA213602028BA320DE2CC9BA1F5AC98F",
+      "bytes": 4826
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_012.txt",
+      "sha256": "28D3BB7FFC22C99D4A3693BC6A3034AD59F13BF509A0E904EEF1B39074BEBB32",
+      "bytes": 737
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_013.txt",
+      "sha256": "2A0044D150564EF6348393654C213760C8EEAF84FCBF4F33D22843EE56C52258",
+      "bytes": 722
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_014.txt",
+      "sha256": "75EBC353590285CB5DB1B4573763A12879FCD60A7E3B1B6F5CC85DF0A704AD99",
+      "bytes": 404
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_015.txt",
+      "sha256": "9E53DC593296B4E27D3B05B451C91BDCFB6AE16773A45B349E99AD20D373B373",
+      "bytes": 341
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_016.txt",
+      "sha256": "AE2B0F0F0E5298F6A903A9D8B7B251BA37B0D43BE9017E7B428A9E9527A0E40B",
+      "bytes": 494
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_017.txt",
+      "sha256": "B717BABECEDBB8DE5621605AC4C773E83506E24EAD7E41A940592CE01C5A266D",
+      "bytes": 569
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_018.txt",
+      "sha256": "67E9F474FC33E828539D1FC02E84E0FB93A59C471BA2FAD69F3A9EB4AFC55B6A",
+      "bytes": 386
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_019.txt",
+      "sha256": "2090F90AFCDF87D99CDC90F3FE2AF65A4EB422E6D6731624D3CA58313CA87B60",
+      "bytes": 345
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_020.txt",
+      "sha256": "67F280E64CEEE279257EBA1A6F95AD7026DBDC16FBB98ED23B09FE58FE057AB5",
+      "bytes": 184
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/CASE_021.txt",
+      "sha256": "DF59CC1F6A3CF4F682E13C2C177262DE496A50268BBFE6F75060A5C5CA01450C",
+      "bytes": 453
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "人工CASE扩展_v0.2/评分输入/B/阅读说明.md",
+      "sha256": "406BBD91FDECC4B959EBD3D7B3677DCFFA213602028BA320DE2CC9BA1F5AC98F",
+      "bytes": 4826
+    },
+    {
+      "path": "候选替换_v0.1/替换启动记录_v0.1.md",
+      "sha256": "82EA88767C13074F15A1FCCDC0BB53B43A46FC09BE07F1E88B1705296ABE0EED",
+      "bytes": 3122
+    },
+    {
+      "path": "候选替换_v0.1/替换目标表_v0.1.md",
+      "sha256": "6E1BA0E41AD7C405D37C506BF52470635F09032D6EF002250E3F0CDF441BF785",
+      "bytes": 1670
+    },
+    {
+      "path": "候选池重新组合_v0.3/005拍摄资格补证.md",
+      "sha256": "6BC554F014FC2F49A79C274156C70D3254E8C5AB841C5CB6E8D8077ADA51B822",
+      "bytes": 5576
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签补证.md",
+      "sha256": "4F4DA23B27618E8DE1109295C905E2D71B12878DC89B3155AFC06011F4153BF8",
+      "bytes": 9486
+    },
+    {
+      "path": "候选池重新组合_v0.3/021候选补证.md",
+      "sha256": "551731B40593A7A89D6D77641AAD0DC9AEB4490F3994F02AF16BF0405ECC7B56",
+      "bytes": 8733
+    },
+    {
+      "path": "候选池重新组合_v0.3/022标签与分类记录.md",
+      "sha256": "AA925DE776286BE0B6EB5904DF2D2E4246D094B77E475446D2ACA1A2123C6FF7",
+      "bytes": 5346
+    },
+    {
+      "path": "候选池重新组合_v0.3/完整性检查_v0.3.json",
+      "sha256": "8DAB62C6C11F569646970D9F0E3DF55C999DF8E38FB80716857B3365534EA7CB",
+      "bytes": 7050
+    },
+    {
+      "path": "候选池重新组合_v0.3/第二组景观配对复核.md",
+      "sha256": "B74A4C4EC735E18A0A9828001F62D92946BA6D82E7C2CE944496C967774F80F3",
+      "bytes": 4810
+    },
+    {
+      "path": "候选池重新组合_v0.3/重组归档清单_v0.3.json",
+      "sha256": "C0E3E05470A89850EB4CB5817EE4AF02F0E10549D8FA89CA17C7B0FA27025D0A",
+      "bytes": 11876
+    },
+    {
+      "path": "候选池重新组合_v0.3/重组归档清单_v0.3.sha256",
+      "sha256": "B8846905944B1B5DC4337265D2E06C46D3EAB3D79058F63D3E8275C35719BC43",
+      "bytes": 7350
+    },
+    {
+      "path": "候选池重新组合_v0.3/重组状态_v0.3.json",
+      "sha256": "2D3FC978EB3FAB616B8C30CAD9454E4ED2E36ED8A98A22644A776D73C51C02B2",
+      "bytes": 6343
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/005_latest_revision.json",
+      "sha256": "97CE230171AD306E5606CD3B18F183A64462FE3000E34813C75E2624B19056B8",
+      "bytes": 833
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/005_talk.json",
+      "sha256": "42969B025F87602B6B1D0422F7935B0B344E80CF88A8EE8F178A5030C8689396",
+      "bytes": 131
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/author_quanzhou_search.json",
+      "sha256": "177CC184BCB1BB6AB1BFD33605FD9E5B234557FC3187A2DE1995EA39CACE77AF",
+      "bytes": 1025
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/author_uploads_2023.json",
+      "sha256": "F33F0333987FA69F31ECCF46000ECE2B52AEDF3FA5D0508916247DD61604CABE",
+      "bytes": 38189
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/author_userpage.json",
+      "sha256": "724E2C1FEB969960306E884B608AC1CD1805AF9FC69B14F6A9009221FDA5ED3B",
+      "bytes": 308
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/commons_access_log.json",
+      "sha256": "FE73BCA6F5D340CD7C74B697E98D4BB54653C33DFD0BFA22EBA2758E9D24D3F2",
+      "bytes": 1347
+    },
+    {
+      "path": "候选池重新组合_v0.3/005资格证据/commons_access_log_2.json",
+      "sha256": "362F1128A87750FBA531F968D51F9531B812BBDCE6A577B6D65027FC364643DD",
+      "bytes": 848
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/access.json",
+      "sha256": "AA5E3041393A5F4D64A81305347EEF30D14F3E57B9E4092F97DAF2885A90BF19",
+      "bytes": 3257
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/access_2.json",
+      "sha256": "2C92151BAE852BB1CD077F2668B72A89DC157C63DF0F0D785236AFE69BFC5F94",
+      "bytes": 1225
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/cphoto.html",
+      "sha256": "3C8FD0FF39ACE369D6D093E00795F49C65F7B74D7FE2826DAFA1ED4B327E0408",
+      "bytes": 20986
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/ctrip.html",
+      "sha256": "BDE29B65D2C3F1325808C4F782C86EBC55184EBC5A05715D75210E0E2CD40AB4",
+      "bytes": 327397
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/ctrip_pao_1.jpg",
+      "sha256": "CC6FED38347073E568DB0D3FE78645B06F0028BF9F2E0CA7433956426BAE8846",
+      "bytes": 56694
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/ctrip_pao_2.jpg",
+      "sha256": "50A02EBAE86449AA1F5A02BD3B56CD47F5981CFA667BF8EBD7B65F47BD8F9A5C",
+      "bytes": 92380
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/label_result.json",
+      "sha256": "79330DE3B3F9FAC1AF18299142587452F65ED985368ECCD4C4F6E056BE5ECADB",
+      "bytes": 1324
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/official_county.html",
+      "sha256": "F2CD6E915A42EF8214DF03004E7DA2ECB0972D8C9EA1C7618F4B199A1061FFF7",
+      "bytes": 36725
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/official_school.html",
+      "sha256": "3A0B8DE429E373A64CFAACCB0A843DEACC4B95AB44B2A0091020C35CB3ABE90E",
+      "bytes": 89237
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/sohu.html",
+      "sha256": "A835DF69B7B6A5D355E9E1505DC7ADEE06BF951491EE88B4EEE0B5C0C16AF975",
+      "bytes": 29639
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/sohu_12.jpeg",
+      "sha256": "2AC6303AFC869AEAEBFEEA868BF327FDFA02FA4C68DD0AC5DF4EA88EEABFBBA4",
+      "bytes": 352874
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/sohu_13.jpeg",
+      "sha256": "153B94FC3BA886C2586B30A86B4ABC55B478A4135295544BD96088CCCF4A05E4",
+      "bytes": 299529
+    },
+    {
+      "path": "候选池重新组合_v0.3/015标签证据/sohu_14.jpeg",
+      "sha256": "248F8A0A9986E5B3A68ACE9264EAA081909BBAF72FB31E126F1AB909BDBE2B16",
+      "bytes": 346873
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/021.jpg",
+      "sha256": "C4A0276906D59DB7179057F712D1640C0668868DE5574892AD1FB7CA82EDCBCB",
+      "bytes": 3632890
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/021_candidate_record_v0.3.json",
+      "sha256": "329D42697E9A69F993C147441DA097FC793A0B77BBD1F52BADC4AE11A3DDFD34",
+      "bytes": 2398
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/021初选排除记录.md",
+      "sha256": "5E34824DBA9594445D73B1785B52DEE6B6C276B92E57B10F2CF25CE14E0124D1",
+      "bytes": 6438
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/candidate_search_access.json",
+      "sha256": "456B451EFAD84B5CBF662A5E01A396286F6029A336D7B3856E3095B249E094EC",
+      "bytes": 515
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/candidate_search_api.json",
+      "sha256": "860C01BAFE2C63C6EE2BC15460E67EC141114FE8B2D597FA95CBB6751F432E7A",
+      "bytes": 14046
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/flickr_original_page.html",
+      "sha256": "A9D419C375FF97D18D8A5DA86136EFB6E7B7035B2DB01AD6A1E3C3F27D085731",
+      "bytes": 526206
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/gx_natural_resources.html",
+      "sha256": "25718A4FC3A9263BA865FDFABC9C36462434F6336B2A4615A07E0FAE9722CD7E",
+      "bytes": 29920
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/park_notice.html",
+      "sha256": "F19A317E7BD342B2F0D2652A2EFF75A61D459AAAFB70BE41DD9D28D6D2FAE9BB",
+      "bytes": 61361
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/replacement_access_log.json",
+      "sha256": "85D1D102C8D98E12884F359F0AB61C3075EA4194D70C42E5F645412C3F69E77A",
+      "bytes": 758
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/scene_photo_log.json",
+      "sha256": "B5EA530011B465BAB3345A8E13DCB8B298211F0B61DCF1F0F24481836B1D9B5A",
+      "bytes": 955
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/selected_source.json",
+      "sha256": "CEE97384CD4B25E4FE278CCABABBE672C1B060FA299224FB6337ADA8FEB8F860",
+      "bytes": 6647
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/source_access_log.json",
+      "sha256": "B91E0A0FAC1CB1EA9892B81930FD690D3760F162D3CAA67A8C0172741B23A74D",
+      "bytes": 1368
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/source_access_log_2.json",
+      "sha256": "5D52F130327F95EC48829184B96EBF19F9F9DD2AA815CFFEA5674FB88489E2CF",
+      "bytes": 937
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/xinhuanet_scene_alternate.html",
+      "sha256": "59B5401798C669304DC09972143EF59A93F8980C974C7FCB6734F7366DE9CEE3",
+      "bytes": 24229
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/xinhua_elephant_1.jpg",
+      "sha256": "686EF87DAD0A450CFA7C8E2DD96731A9FBC65D6F31EBD13289F8922294F4B190",
+      "bytes": 92827
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/xinhua_elephant_2.jpg",
+      "sha256": "690571CCC2713DB58709D67E111EB7A2717343B41B2D1EEEB8602D72A05BE321",
+      "bytes": 68468
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/xinhua_jp_scene.html",
+      "sha256": "276E7C3A4533B35C931D007AF76E99ED9C7156942E4ECB43B118E474D64BE200",
+      "bytes": 59920
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/初选排除_S5A0043.jpg",
+      "sha256": "FEF9830AEC2DD1EFB65A1C45931B33112566148BDB225F896910E2195A82ED0D",
+      "bytes": 5092200
+    },
+    {
+      "path": "候选池重新组合_v0.3/021新候选/初选排除_source.json",
+      "sha256": "66A5BE4008A171BFD6B70C1B38BE5C83E4D605972B602AEBC8310410CC943A2A",
+      "bytes": 5115
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/022.jpg",
+      "sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C",
+      "bytes": 2292716
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/022_candidate_record_v0.3.json",
+      "sha256": "C0CA78B75A37B1660B2A8D8AD6A214C7AEB61D46A03D8BED9DC83630E1795A57",
+      "bytes": 1197
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/access_log.json",
+      "sha256": "D5BB149C254AAD3DD3C26E7F8ABDF48E3EFDF5158DD99BF9785DB8B015527C39",
+      "bytes": 1910
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/commons_api.json",
+      "sha256": "BCB581972FF73C678791F3F51B25CF8A7E3169C07C71465339A3582AF06561BD",
+      "bytes": 3447
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/source.wiki",
+      "sha256": "05AEA0490932E94B30EDA0FFAF2814C283E4B75EEF56B06BAD8CBB6DFD18156D",
+      "bytes": 630
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/source_metadata.json",
+      "sha256": "E10AD83E10E382440AAE4947FF69E9A6C2A26D66FA50B442D8DE97E52B7831D6",
+      "bytes": 3545
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/xinhua.html",
+      "sha256": "ED026F033429D0695780DC29CAE1F15E3E09F427D63524DF44215081CD0F4AAE",
+      "bytes": 16692
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/xinhua_front.jpg",
+      "sha256": "0F5F3BB4E4C400B86315DB931E3AC5BA0D0AD1657AB134CE2282E5743E8647AE",
+      "bytes": 1281083
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/xinhua_images_access.json",
+      "sha256": "C00662E5908AD5AA2F1EBC9B7A085E74DF96197C8EF19DBA4BB4E34F4C922793",
+      "bytes": 951
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/xinhua_image_urls.json",
+      "sha256": "F0915F281C640DF5D294EF5DC947512429D965386D970FA0311C5781CD5B7022",
+      "bytes": 2341
+    },
+    {
+      "path": "候选池重新组合_v0.3/022新候选/xinhua_overview.jpg",
+      "sha256": "CD7D09783C06297803484832CE6AE81504AE707C37853E8A5B4FEA41C79EDA27",
+      "bytes": 1580990
+    },
+    {
+      "path": "六张照片/P01.jpg",
+      "sha256": "6AC30FCE7864284883C679E82E9C956FC82135CE9FCFE7CBC15FA940CB2A8E29",
+      "bytes": 2720170
+    },
+    {
+      "path": "六张照片/P02.jpg",
+      "sha256": "E3869949D4CE28519C76EB3E825D2B71FB430274E23554814B921FC5DA633F3C",
+      "bytes": 2849000
+    },
+    {
+      "path": "六张照片/P03.jpg",
+      "sha256": "96FE646BC21B2DBD0E3CA8A1940F97EE764D0576255BCFBF0A3993A961C1C62A",
+      "bytes": 810472
+    },
+    {
+      "path": "六张照片/P04.jpg",
+      "sha256": "47C42E17FF365D744BB50CFBFF5F1975A0EFD95965031D9B7F58FA2BB800F07B",
+      "bytes": 160907
+    },
+    {
+      "path": "六张照片/P05.jpg",
+      "sha256": "3AB22135D712310A4210AEFA6493AC5D55EE97021F3E4ECCDE70F0649FD8711B",
+      "bytes": 2984180
+    },
+    {
+      "path": "六张照片/P06.jpg",
+      "sha256": "EC05A7485A2B7E1C06AFB3959A99D008477A757836F6B38924B81516628F6FB7",
+      "bytes": 2105243
+    },
+    {
+      "path": "六张照片/照片清单.md",
+      "sha256": "B05DA936625D2F6A01D6CC00C218A36A9222F02CD27D508B2220A2DD5A2B90C6",
+      "bytes": 11749
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017来源复核.md",
+      "sha256": "CAAB95A8F07A6FD60BC76318BE7DD828021123BDECDFA526115A9E4E18D177F4",
+      "bytes": 10437
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据清单.json",
+      "sha256": "C5E77FA1D435BEF945981C9D1129967A0AE76C9FAB89DB9683AD4EDD5C9F821E",
+      "bytes": 8942
+    },
+    {
+      "path": "冻结前最终核查_v0.1/完整性检查_v0.1.json",
+      "sha256": "2E37A73C5DC7BD99C49C7AFF1F59768A040B10762270A135EB3A5918417CEE92",
+      "bytes": 6940
+    },
+    {
+      "path": "冻结前最终核查_v0.1/核查归档清单_v0.1.json",
+      "sha256": "BA172E2BB6F9D572C3BAC7408325EAA17ED30E0DD5FE94BF3B8EDA041D17FA7A",
+      "bytes": 16236
+    },
+    {
+      "path": "冻结前最终核查_v0.1/核查归档清单_v0.1.sha256",
+      "sha256": "6BA2A525CB2FAFE0F42EC3EEDD270C79F802BECF20DBC5FA3C38B6CE1734CB23",
+      "bytes": 96
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_010对照图访问.json",
+      "sha256": "C4D7D20F760465C4C903717A7861A2A35479CB5C1F96331530C17F0E1F470E82",
+      "bytes": 3015
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_010第三次访问.json",
+      "sha256": "E14F3484F12CAEC957C307A83AADFC855AD6E805EC58DDCF1AFAC81C2F1AA18B",
+      "bytes": 10281
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_010第二次访问.json",
+      "sha256": "4AF01DE507455BC51D66ECD1774C8A5C2C207CCED25050DEC670A84E6075CD16",
+      "bytes": 7487
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_010网络留证访问.json",
+      "sha256": "178CA1652687FEEDA13BE28FE21D9AF486477F0CDDB9F3BCAA7DFF058312AB1B",
+      "bytes": 13223
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_010首次访问.json",
+      "sha256": "E02430E22B7D82F9411D399754A13CA2C6E623DA86705C3C25E3263DC2348541",
+      "bytes": 1894
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_commons.html",
+      "sha256": "6F6B9B5A51BE16A7F33860DBD068787864DE6407F8EF218AFA8669374E6279B6",
+      "bytes": 110886
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_fujian_province.html",
+      "sha256": "49AB581AA9D2C6C58B87563D7C53D26C93DB6EABCFEE1842BCB4D7870E779EBB",
+      "bytes": 306187
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_gov_rooftops.html",
+      "sha256": "396D6F8CCC22D903C16EC7C23CB708D1400F7CE53F7851E7F0CB4EA1CF44F0E8",
+      "bytes": 55292
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_gov_rooftop_photo.jpg",
+      "sha256": "9B594D8B77E347F3A2010CC42531B665796BF16D5107CDCCF048DB1E338E2FC5",
+      "bytes": 54048
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_gov_towers.html",
+      "sha256": "A31853FE824118EF71236170718924FDED54E39AF0211F5779E4A712D705E377",
+      "bytes": 48955
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_gov_towers_photo.jpg",
+      "sha256": "830494495949D19734B5BA0C3BDDE78F44CCF1B3AA4F7B27BF0350F6810D88AB",
+      "bytes": 186125
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_unesco_gallery.html",
+      "sha256": "4078DF92A2D197FF469A2F62CE0DD7E97727931396CEDD3EC29939A8CB8F376A",
+      "bytes": 135553
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_unesco_panorama.webp",
+      "sha256": "60EB11F9835CC492ABF22A3DE0B258B719CE7B9240ED3EF685EC4C028DB26C89",
+      "bytes": 407962
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/005_UNESCO图片字段阅读记录.md",
+      "sha256": "5C2D798B68ADD86B3400AAF2A693AC839175ED53742D4EB02968960EECDE3273",
+      "bytes": 911
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_commons.html",
+      "sha256": "AD610E816ACE7BE04C6707A6D993CB417D9AB8C73B7B2EF9F73B3DA8ABECB7E7",
+      "bytes": 102340
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_ctrip_facility.webp",
+      "sha256": "8779DA329FED5E1C5977299D9B524686BA5377D3A67771695783E1B9498C2C3D",
+      "bytes": 45418
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_ctrip_hotel.html",
+      "sha256": "8AF04E27ADE18E6AA8665C3193BC2D53CF5ED7FFD4BA495F6A3AAA33F9E2CE2C",
+      "bytes": 746455
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_lishui_lodge.html",
+      "sha256": "862EC6522C994C3041C028EDCE0A2C1665227F87C151FCA43429974653569F71",
+      "bytes": 15958
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_lishui_release.html",
+      "sha256": "AB19000922F5767FFE262FA70D06B71D3B967629E5D2D3867E375D0B9B41887A",
+      "bytes": 108312
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_lodge_front_a.jpg",
+      "sha256": "C24682198FD37AB70FB14F124041F027DBF894E36BC0E6359AF18B9A520CA2EE",
+      "bytes": 5524
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_lodge_front_b.jpg",
+      "sha256": "1126544E0925E32DB30E9C5C3AF860746DF951367559FB9143898F528C9E84ED",
+      "bytes": 59224
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_restaurant_gallery_1.jpg",
+      "sha256": "898A6B5114CD5FE93A1B5E43932EEF682FC62720296541838D7DE50D1F5FD1CA",
+      "bytes": 138032
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_restaurant_gallery_2.jpg",
+      "sha256": "C204B314F3D030BB286DB6DE38F855F9670C6AE82936917714B31BD8AAF780FE",
+      "bytes": 186185
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_restaurant_gallery_3.jpg",
+      "sha256": "CB122B41F3EFE27A7A8DE64858D6422FB8299160AB8133C0CF686759FF4FFC34",
+      "bytes": 127278
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_restaurant_gallery_4.jpg",
+      "sha256": "A63EF5B27C586DE749554C0097A2A5FA2010F085617549D9D6408A1CA732D706",
+      "bytes": 192483
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_restaurant_gallery_5.jpg",
+      "sha256": "100E692A6FA2C2383F37DF20F59B8B013D8DD5D064D65F364020FE641FEEAD9C",
+      "bytes": 148406
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_trip_restaurant.html",
+      "sha256": "2C8C6B3774A5E52CB69837776FEA1B6E9DB628FCA7556C05A9B0401ED0E17116",
+      "bytes": 310907
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_village_a.jpg",
+      "sha256": "7EA132EC40423AC11315ECC4D543EBBFDA7B890B46F1258082D816B6762821B9",
+      "bytes": 6578
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_village_b.jpg",
+      "sha256": "FAF7D77ACF212EDB29C0020D49633A17348F8A4B59C18FD7B198A32553E53AA7",
+      "bytes": 7023
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_village_c.jpg",
+      "sha256": "961DB9F24BB49268E8BF8990AB6A2057DDF18E5326E81BAA318D6201BE86EA91",
+      "bytes": 8100
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010_womenfederation.html",
+      "sha256": "67ACA9CB9614ADBFCCB9674E74E65B11B9A638E455478F79FF0103DF33BC10D9",
+      "bytes": 51287
+    },
+    {
+      "path": "冻结前最终核查_v0.1/005_010证据/010餐厅图库访问.json",
+      "sha256": "49283C3D37203298C18D17B7DF24687BD04BC4BB319985C346546F6E2B8E6F7B",
+      "bytes": 3391
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_009_commons_live.html.access.json",
+      "sha256": "3FAFE6541B78A7104B78890D6A4504BBC8B16EA68EF32BAB217744AB2CA7D3EE",
+      "bytes": 262
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_009_commons_live.html.network.access.json",
+      "sha256": "DE3C57CB86714C05C84308343CB51188AD28C47C9C375C2E9A9B97817410093E",
+      "bytes": 253
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_commons_live.html.access.json",
+      "sha256": "C7FC84D1E0FCB60E69FEE90B486D379FEDA5E97331E9626D8F635809B56D740C",
+      "bytes": 275
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_commons_live.html.network.access.json",
+      "sha256": "7D1DA29F41931A7D80EE369CFE3FED1CC2F430F4A97CE92B63E6B7E8F620415D",
+      "bytes": 266
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.html",
+      "sha256": "D61FFD047B824F6355589E9957B7CFBF14F355FF382866B97DF557690B7215DC",
+      "bytes": 42851
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.html.access.json",
+      "sha256": "592A6CAA3BAA34E67ECED8321199268DCDA6B6B378657123838DA212E60FD352",
+      "bytes": 374
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.jpg",
+      "sha256": "DD474307ED53CF10AD41AFFF1CC2DE90BC1B109C7C819C79E05A87FF3E55448C",
+      "bytes": 34247
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage.jpg.access.json",
+      "sha256": "0FF5C1D4B8C4B498A693DD3AC8A3BB231FB803FC93C9C17737EFC9F351966668",
+      "bytes": 389
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage10.jpg",
+      "sha256": "DA680D13860AA3DADCFABCB304909E2E919137B6A3B8D2F76069920F13CB22F4",
+      "bytes": 34934
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage10.jpg.access.json",
+      "sha256": "C18966FD1E1180E07B03A0CB72A45630E0F2BEDF2F5F59F27CF231BC61289BD4",
+      "bytes": 424
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage6.jpg",
+      "sha256": "CEFEE287375F358215DAE3CB83B159EFCF8922A5DE0B0480D4B66084C36601F9",
+      "bytes": 40046
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_ctrip_stage6.jpg.access.json",
+      "sha256": "B405645AB0955487E494E843698359A4057740A58E526EF44A6A62A7C499CEFB",
+      "bytes": 422
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.html",
+      "sha256": "396B9C6CBA6D220334C9FC1E37540C99529E20A1C6F8D3C61238E42D3AA8037F",
+      "bytes": 32486
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.html.access.json",
+      "sha256": "7CD6791DE0CB144F96688B60078170ADDDE09B86FAD3C169C75DC871B764B15C",
+      "bytes": 365
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.jpg",
+      "sha256": "D3C5C64F7A8E78875FD0DAEC86F00A258079143EA618D8C6C4A2D45B5BBF8FB8",
+      "bytes": 124846
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_rednet_house.jpg.access.json",
+      "sha256": "02140DCE3BA2AD163FFCBCB537D13DB500884F94C6DEA5FEC3D428C874219658",
+      "bytes": 381
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow.html",
+      "sha256": "4892ED32FF3F253FEC8C7DF25BA3AC0180A594A8FF77781420A1ED67BD5CF3C6",
+      "bytes": 42953
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow.html.access.json",
+      "sha256": "A1B762980AE589A1AE687D460F887B40B4B65AC2483962499B8FE2E64D58551B",
+      "bytes": 248
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow.html.network.access.json",
+      "sha256": "CA8647FC27D64BE3C6CDB0B05823EAD53AF52E5B9997408A44948D98C14BA5F6",
+      "bytes": 367
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow1.jpg",
+      "sha256": "01DD07ADDDCE8D85C173025BAFDEA3AD2057B8D20BA63E6EA03A296A79634D6D",
+      "bytes": 517647
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow1.jpg.access.json",
+      "sha256": "A19871E252506982BBD09BDD5BCE903685891EE79E45C6FB0764EA61CD8F0AD4",
+      "bytes": 403
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow2.jpg",
+      "sha256": "2D59A4FFEA21793FE751ADE305EA12315791F1D09410C714E8FF49A577151CA5",
+      "bytes": 581245
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow2.jpg.access.json",
+      "sha256": "FD115999FA5A54935B945F36035DE8A68FF8799174F92351EA759730D66F2B7D",
+      "bytes": 403
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow3.jpg",
+      "sha256": "3F8DA67D7D448AF469BCA5D96009611D7389B7D781C3823CACDBF152F1F0C827",
+      "bytes": 517334
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_xhn_snow3.jpg.access.json",
+      "sha256": "94EB22478C4020E4188F0479A21BC63CB2CFC4E2ED396BD9BA11996E6F3936E5",
+      "bytes": 403
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.html",
+      "sha256": "B13E25569E1EF8D755F694B7212B8825C3FB25196F76D789C5902E1DE04C85D7",
+      "bytes": 17408
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.html.access.json",
+      "sha256": "2F6573F96029A199EBE134A0DE1D3AA537346336A49AF1CC2B549E8E3EC1A54D",
+      "bytes": 368
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.png",
+      "sha256": "70F1DF80D04BD3DE5D82F2392D965B1F9BA1D1AF6E0869A4AFBEFE0F2D501D37",
+      "bytes": 587717
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing.png.access.json",
+      "sha256": "EE5F3141EC975432845A4D4BCE758A0A305591274D1C2898DE7A3607821B3E2D",
+      "bytes": 399
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing_front.png",
+      "sha256": "A8738882DE2B4029F3A265D709E09FBBA9B7A51188E34B0AAD4AACB8846D82B6",
+      "bytes": 691952
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_017_yongxing_front.png.access.json",
+      "sha256": "2CF3E89943BEAE50E496E726CCAD731479B7C1297AA6FE5EFB6E4ABC0D5DB887",
+      "bytes": 411
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.html",
+      "sha256": "80CD20283B3042A7255ED45DBB521EFAFCDFBBD72BBD1241CE9E320DB790D450",
+      "bytes": 34446
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.html.access.json",
+      "sha256": "419D4C0F7402489BD689A5815257607D8BA41D4CBA8F266FC72DE3E62E6D7CB3",
+      "bytes": 263
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.html.network.access.json",
+      "sha256": "9C74420D60201868A6EDB8F8B1E5D83B32A53E483F9D3F7A7ADF72FD2E22213C",
+      "bytes": 338
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.png",
+      "sha256": "C90A01DF3D9C2B0F112E80DEF7779705011720EB19346ED9F1FE713A4D64AF9B",
+      "bytes": 466314
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_hunan_forestry.png.access.json",
+      "sha256": "2A6FB22A7103FE478B639D3B09EF3FB123886954C48FCD5FD530DF296D8D2A1F",
+      "bytes": 367
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_original_metadata_read.json",
+      "sha256": "984090ADAFF8D7C9F331E5DC0FA23A2339CC797D5F98A1E514CDC37979BFC523",
+      "bytes": 823
+    },
+    {
+      "path": "冻结前最终核查_v0.1/009_017证据/009_017_web_open_results.json",
+      "sha256": "7A8AAA83AC3BCE3E58C5CCD72230A7D982157CED34F642EA3FA2EF91B844537A",
+      "bytes": 26347
+    },
+    {
+      "path": "参考案例_v0.1/README.md",
+      "sha256": "B308A9BDF61F8D558C11D3985734E8F66D140018E316D8FB94F21B943B1231B1",
+      "bytes": 1607
+    },
+    {
+      "path": "参考案例_v0.1/管理文件清单.json",
+      "sha256": "A36CA1FC81F34EAAFCEEC862C68250EF4FF3E69A8FA0AB06E6848EC6134EE181",
+      "bytes": 2633
+    },
+    {
+      "path": "参考案例_v0.1/静态审查说明.md",
+      "sha256": "B504640DA389860340F1CE0429E6ED762D5BAA3C831448997FBDCFA4C95255D3",
+      "bytes": 2252
+    },
+    {
+      "path": "参考案例_v0.1/参考答案_不发评分者/参考判分依据.md",
+      "sha256": "E610C64DC4BEE92FF1813218292D70637EEFACDB3707230B360A130F958BF5E0",
+      "bytes": 7935
+    },
+    {
+      "path": "参考案例_v0.1/参考答案_不发评分者/参考答案_v0.1.json",
+      "sha256": "DD87E18A368C6186AF92A12D8C5AFCD178122EE43A264A5D35C0719242139A58",
+      "bytes": 9677
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/run_rater.py",
+      "sha256": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+      "bytes": 9858
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/提交后核对.json",
+      "sha256": "A0569B8C0219C7C7B5AD06CA32611996BC1BCB37BA08052F83B3F38360BA6C91",
+      "bytes": 1098
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/配置与执行说明.md",
+      "sha256": "40363A96FEF7F2066EF1F5EE9138AF7D66DD58B78791EC63620EFDB209FCA98B",
+      "bytes": 3464
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/首次提交记录.md",
+      "sha256": "006FB0D4C55B5FF8D02213EC4D322AA9F6A03A9A95BA1A0F9C9A587974AFA726",
+      "bytes": 1758
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_output.txt",
+      "sha256": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "bytes": 4888
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_reasoning.txt",
+      "sha256": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "bytes": 4485
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_response.json",
+      "sha256": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "bytes": 10168
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/metadata.json",
+      "sha256": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "bytes": 2077
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "sha256": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "bytes": 5638
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/request.json",
+      "sha256": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "bytes": 18498
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/submission_lock.json",
+      "sha256": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "bytes": 971
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_便读.md",
+      "sha256": "7923407D1A38C5BB3ABD1B8E482F6B099655DB3CCCA23D0EF07E393F3C3F9176",
+      "bytes": 5381
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_导出.csv",
+      "sha256": "242EB6C1F567E0376E6180ABC8F5720E6BFBA04E8A81F59D7EF1EA489082B191",
+      "bytes": 4029
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_output.txt",
+      "sha256": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "bytes": 5222
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_reasoning.txt",
+      "sha256": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "bytes": 25203
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_response.json",
+      "sha256": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "bytes": 31718
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/metadata.json",
+      "sha256": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "bytes": 2082
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "sha256": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "bytes": 5222
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/request.json",
+      "sha256": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "bytes": 18498
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/submission_lock.json",
+      "sha256": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "bytes": 971
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_便读.md",
+      "sha256": "0D6F8F6CE2E0C52119FC5C8D0F4F9651CFDF8168A28418F4A9B2EF4912EE6A59",
+      "bytes": 5123
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_导出.csv",
+      "sha256": "6B4795A5CDE678C384E7560DD92968A9A55260E69F8DFFC9C8B244CF4C7E9BA9",
+      "bytes": 3757
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/文件完整性核对.json",
+      "sha256": "F0323C8C02EB96331A667F6619E74F0A455E1FBF92501E2AB3A343102DE7B308",
+      "bytes": 15744
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/评分结果解释与协议补充建议.md",
+      "sha256": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137",
+      "bytes": 10359
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/共同材料.md",
+      "sha256": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "bytes": 1247
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/分歧处理方法.md",
+      "sha256": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "bytes": 3036
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "bytes": 484
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/材料清单.json",
+      "sha256": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "bytes": 2103
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/阅读说明.md",
+      "sha256": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "bytes": 2228
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/案例/CASE_001.txt",
+      "sha256": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "bytes": 359
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/案例/CASE_002.txt",
+      "sha256": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "bytes": 245
+    },
+    {
+      "path": "参考案例_v0.1/评分者测试材料/案例/CASE_003.txt",
+      "sha256": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "bytes": 641
+    },
+    {
+      "path": "参考案例_v0.2/README.md",
+      "sha256": "6060F110C529C31B796533D3AE70BAFE507F9A98016C6CFB6B1C0A03B7C07037",
+      "bytes": 1857
+    },
+    {
+      "path": "参考案例_v0.2/原材料完整性核对.json",
+      "sha256": "29FDC56AFF5C32707F71F100EFAE79FA4F68FCB914117EE5B634A8D593BD5DE6",
+      "bytes": 36285
+    },
+    {
+      "path": "参考案例_v0.2/管理文件清单.json",
+      "sha256": "8AF3558BCECCD5FF3F896EE73C641DF8DAA7A7F3A055305BEA5591E7C96B0F63",
+      "bytes": 3329
+    },
+    {
+      "path": "参考案例_v0.2/静态审查记录.json",
+      "sha256": "A6631FB6DF7C7BE3AE2CF59395DD20C36A75341EE08D4021E8DE6CBB6D2731E6",
+      "bytes": 801
+    },
+    {
+      "path": "参考案例_v0.2/静态审查说明.md",
+      "sha256": "983FC49458E401DEAE81FDC20B58DE8E49F218E5D3F8FE1AF760495877B3FCE3",
+      "bytes": 831
+    },
+    {
+      "path": "参考案例_v0.2/参考答案_不发评分者/参考判分依据.md",
+      "sha256": "C43B121225D9EBCEF3B366887F449FCD49A1A4001564AA5B2BA28144DE61BACF",
+      "bytes": 17030
+    },
+    {
+      "path": "参考案例_v0.2/参考答案_不发评分者/参考答案_v0.2.json",
+      "sha256": "FD92B25146E2C3D9DA4B6C2F18C0E592362840DBC4B7177403188F5DC651083C",
+      "bytes": 25642
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/共同材料说明.md",
+      "sha256": "A103ECFCEFCCB8E906204265008DB9870F611EB856EB6A557ED81465C5374434",
+      "bytes": 1135
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "bytes": 484
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/材料清单.json",
+      "sha256": "93937A92558C2B9B1F08254DE6D1D70DFD3E4A20490E8F44E5CEE7001C44CAB0",
+      "bytes": 2307
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/阅读说明.md",
+      "sha256": "0F46A2F3015809A3EA6AFFBA58AED2763915BC62DED59FF6647961B8E78D1B8A",
+      "bytes": 2308
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "参考案例_v0.2/评分者测试材料/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "参考案例_v0.3/README.md",
+      "sha256": "A5146B6E5A109502A12456646E724D001B97D63E8B8F15CCB144FA48401C1256",
+      "bytes": 2592
+    },
+    {
+      "path": "参考案例_v0.3/最终发放文件哈希.json",
+      "sha256": "595FB4935757ABE159144AE7F0632EE6A6613C0790068AE6D1EDCAAC35ABA830",
+      "bytes": 3748
+    },
+    {
+      "path": "参考案例_v0.3/最终发放文件哈希.sha256",
+      "sha256": "62AC6578FE44BD6C6A7B5B4330D3F8552632ECB907C263187D5C2AD149F0AC84",
+      "bytes": 189
+    },
+    {
+      "path": "参考案例_v0.3/本包归档清单.json",
+      "sha256": "DDD064C399461F4362CFF229CE8CDDA16C6F5BECD82938D4CF6D240598D7E0C1",
+      "bytes": 3828
+    },
+    {
+      "path": "参考案例_v0.3/本包归档清单.sha256",
+      "sha256": "ACA76B5F65ABECCCD3ED719902A5589D04FAC0FD597330E6820BAE69848EB9D3",
+      "bytes": 91
+    },
+    {
+      "path": "参考案例_v0.3/评分发放包_v0.3.zip",
+      "sha256": "4FFFD98ED8005E300B20B9BED04D4FB97178963F18CA9B7380F84ADAF8C200F2",
+      "bytes": 14340
+    },
+    {
+      "path": "参考案例_v0.3/静态审查记录.json",
+      "sha256": "53B642874E01FF3BF1A1855A2014BCC7B8F253831351A16411DCEF0F44CFBE79",
+      "bytes": 2561
+    },
+    {
+      "path": "参考案例_v0.3/静态审查说明.md",
+      "sha256": "551E0503E1B43219C5BF38206D0E92A58E56790BF8500B66557B96A6E45E87A6",
+      "bytes": 1718
+    },
+    {
+      "path": "参考案例_v0.3/参考答案_不发评分者/参考判分依据.md",
+      "sha256": "B817368D8492E329083255D13407568EB1768E2BCEE3820DE3A054C56DD673BF",
+      "bytes": 22048
+    },
+    {
+      "path": "参考案例_v0.3/参考答案_不发评分者/参考答案_v0.3.json",
+      "sha256": "4C3672F4F0078CBA3EE9B0E950D630F293328B4E7F7D33AA539952E8C3BC2592",
+      "bytes": 30789
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/阅读说明.md",
+      "sha256": "AF5C168565083DFC708C22C30EABA5CA6A6F3AC6F0BBA0F28048BB55DE004C1B",
+      "bytes": 6051
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_012.txt",
+      "sha256": "84AF1D8D0F00269F3604AFA7D888383E489739089E3BCAFCE088B0296948144B",
+      "bytes": 616
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_013.txt",
+      "sha256": "B7591246512788E2C6146847A6034EE4D5A91F925112B190D157C40D1133E47C",
+      "bytes": 934
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_014.txt",
+      "sha256": "AEEFEF52919F24510EA294133974B079CFE06A071CE701CAA5DE2848AAB53C89",
+      "bytes": 772
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_015.txt",
+      "sha256": "C51FAD84E44C8221EEF8D17161465EDAE0367F70BDD1FDE7AE1A68028BDF6DB6",
+      "bytes": 731
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_016.txt",
+      "sha256": "AC849349BAE7B27BB4ED0AF34691731362BAC6914A82899B897308DE7A360FC7",
+      "bytes": 1139
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_017.txt",
+      "sha256": "71F0791515DC0426508FA55D95FFE362178589D674B148A3821EA48B3F7C7284",
+      "bytes": 1003
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_018.txt",
+      "sha256": "616F4066980EE75793A2FA2C2E44398985272AB3039CD56725108D3AE8F2218D",
+      "bytes": 571
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_019.txt",
+      "sha256": "8C48032E60A8D3018B614EDB0B61D6F3A4B1970D2A13BA252D98DC63F99FC286",
+      "bytes": 622
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_020.txt",
+      "sha256": "B8ADB323164863002910EB4D60A543D4C40D8CE94AE6563A18D9E9A859C5D0CE",
+      "bytes": 1070
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_021.txt",
+      "sha256": "DF1DA4C9BECD7156D733AA2E3A0ADF9CCE563CE2E3C088A037CC2CB1F8E5890D",
+      "bytes": 692
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_022.txt",
+      "sha256": "6E29DA7D56B90BE142A06305B6EB202E5F429574D200BC263B7DE77F0AD572FE",
+      "bytes": 585
+    },
+    {
+      "path": "参考案例_v0.3/评分者测试材料/案例/CASE_023.txt",
+      "sha256": "214AC39994EA25F1D6AF44A9458E45F526E9123E22253378810E742300E71056",
+      "bytes": 1160
+    },
+    {
+      "path": "开发输入/001.png",
+      "sha256": "D6C75712367A7BCA76B176A9670ED5F7328A800FED063617AEEF4140F30F9288",
+      "bytes": 16542837
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "bytes": 5130
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005资格复核.md",
+      "sha256": "B7EA8536ED0E8BCAA0DEBB507D52C268A1BFDE7B4C40E3967E4389BD3D73C48D",
+      "bytes": 3864
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015资格复核.md",
+      "sha256": "B9FE9700901B5B4814A23D013764B6FDA694D0F26525BDAE31BF2A30F29D45CD",
+      "bytes": 7141
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022资格复核.md",
+      "sha256": "A591E257995138D7132078879B2706C23C5A7A5F1B13262384A87610764A1806",
+      "bytes": 8777
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/关联影响与最终限制.md",
+      "sha256": "0333249AE0B3B13A5F196993E71CF9316327D652ECC6C896A995179EF72E8511",
+      "bytes": 4820
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/旧档与原图完整性检查.json",
+      "sha256": "BC4F04E0509CC817E8CF8ACA40281E3B96D8570F86E7F4D582733F7FAF7795FC",
+      "bytes": 5025
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/核查状态_v0.1.json",
+      "sha256": "78D84C134474A8F5DB4DB52F85CAC2D840E214F82CC7DFDD5496BB7B2E849376",
+      "bytes": 5104
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/补证归档清单_v0.1.json",
+      "sha256": "16CEE2F4F385D6C85D2275360EE9656640DE8B8D22A02486ADD423CD38D26BA2",
+      "bytes": 7204
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/补证归档清单_v0.1.sha256",
+      "sha256": "458E91C8FEE7CC9DB3C0FBD9C9379F1D4361851FDD736E97F864F3CA3E6750A9",
+      "bytes": 4504
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/005_description_history.json",
+      "sha256": "E9745F5E9D592BD03240ED87C1953E9FB853094F4D8FB93355E5ED97E976BD04",
+      "bytes": 2165
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/005_file_history.json",
+      "sha256": "52557978D9FBA8AA0557EEB1B97EB5D55044B7849809B7268E68894D513B2516",
+      "bytes": 657
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/access_log.json",
+      "sha256": "4A4ABA919620AB0BE8647643AA8BE8E08DAA1BB9ECA37D3867EFBF0525E63029",
+      "bytes": 1291
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/access_log_2.json",
+      "sha256": "AABB76BC578C138126D1C86AA06FC64379B362C9292000F3D90A460998DCD479",
+      "bytes": 405
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/chinese_author_actual_page.json",
+      "sha256": "D15653FA5D9DB5CAE88B51E4813446FAB54C33E06A4F852475414A95F78BAE8A",
+      "bytes": 37679
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/chinese_author_page.json",
+      "sha256": "247CA60F3FE9F11655D17485443F4029C85FCF9CDE5D160D73ACB1B75FC30E68",
+      "bytes": 375
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/userpage_targeted_checks.json",
+      "sha256": "0825CDC51A5E9A01DB7EAB4B93F77254359A0E6D62659A5596350BB9AFC96A93",
+      "bytes": 254
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/005证据/web_access_summary.json",
+      "sha256": "4E7D38DAD62F16373768002438B307D645DE45203FE09F3594A7A1E96AC7E217",
+      "bytes": 884
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/01_file_history.json",
+      "sha256": "50829DF0CA2DB655AF28006A7D4FA0F75877655E8EE2B7FE0E811C9839D5BD12",
+      "bytes": 7543
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/02_author_userpage.json",
+      "sha256": "5D30940EA4831FB763A08A7255591908AA14B191BBD1DFFF03000C3F3F28F074",
+      "bytes": 481
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/03_file_talk.json",
+      "sha256": "57710817BD35978943EEC4FD98690934FEBD40B9EB4608F1064FAADE041CC3B5",
+      "bytes": 130
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/04_en_author_userpage.json",
+      "sha256": "891177DA8B45A3A1A6A280366542DAB2796613BFAF370690D9ABBB922A906A93",
+      "bytes": 16315
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/05_file_history_continuation.json",
+      "sha256": "7B5AEE22E72170CB48038F660F1F745AEE872D2814CD89D5A2865B807C479383",
+      "bytes": 1684
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/06_author_gallery.json",
+      "sha256": "CE3AE21040A916CE721A18CAD63B334439011A1194D9FEB08A28E7AB522B0F50",
+      "bytes": 77286
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/access_01_03.json",
+      "sha256": "59D3387A7ABB4CA30AB2159B29BBB53FA45A8E100F3FE4E56906D77018CD96AE",
+      "bytes": 2229
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/access_04_05.json",
+      "sha256": "4A10F5186EFD2CB8A53E0CD6313DA8CB2B4360E3FD8398B574E8FF5388836411",
+      "bytes": 1591
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/015证据/access_06.json",
+      "sha256": "A809505E08D7DD4943116DA3519AAD834C7408FDFD0D88D14EDF509F16FA10B3",
+      "bytes": 658
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/021_commons_history.json",
+      "sha256": "A196FABBEC86EE1AD41E690BD45D3128022676DBFA484591E7E6D682332857D6",
+      "bytes": 2322
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/021_flickr_albums.html",
+      "sha256": "67C52695EE2B341CA2CE6A3512690A1E1FEB9270DAB00A3FDA103F2A71586D0B",
+      "bytes": 582891
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/021_flickr_albums_page3.html",
+      "sha256": "5CEA6C907BE045EFE1227CFA07CF17B423D9C1DCC4294A80572DBABA419525B0",
+      "bytes": 588861
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/021_flickr_photo.html",
+      "sha256": "5FADC1227267D176FB63297DF643B36D8B031AB88BC1D1C16A0F676EB1762F00",
+      "bytes": 526206
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/021_flickr_profile.html",
+      "sha256": "41739BE53A1E3C15BF9D97460C2313D7185B6FD636EBC2FCA36E73476D72337B",
+      "bytes": 651960
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/022_alias_and_talk.json",
+      "sha256": "5F08A85B9335EAABFC228D1A4D81D74523617D1B9B4C5071558C4C9027EA5751",
+      "bytes": 409
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/022_commons_author_album.json",
+      "sha256": "ABC4B254F760A0249738467B9DC0EAFED73EDFB68656D3DFD03B5682050D0219",
+      "bytes": 9606
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/access_log_1.json",
+      "sha256": "D807A24BFA24C1DFBF3CEC4FE694CD2D781F535F7CC30B49ED765206C69356E3",
+      "bytes": 1890
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/access_log_2.json",
+      "sha256": "CA1D8D6C1E4228715D2918D57505765E8238B88D679C74F9E8EFA856DED5085F",
+      "bytes": 735
+    },
+    {
+      "path": "最终冻结前资格补证_v0.1/021_022证据/web_access_summary.json",
+      "sha256": "9A4A74B1DC996D4548440CAD32A716880F92DD72C42BBF8AF4DAE8BFDB09ACAD",
+      "bytes": 1372
+    },
+    {
+      "path": "来源材料/原始技能/SKILL.md",
+      "sha256": "C9E8C2A4EF049B0A3322358B394B4E9566B44E5E6E1940EF6233F3195D492FC4",
+      "bytes": 26565
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/run_trial.py",
+      "sha256": "57BC19FB61D6FC5E51015B11BCC924533989F0099116406594F85504F330C7C4",
+      "bytes": 11291
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/使用说明.md",
+      "sha256": "329ECED0322CE65BFB04FCE859535926E33CB6832DA4C41CDA5266E156E11919",
+      "bytes": 4313
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/验证记录.md",
+      "sha256": "A34A1D813452B7323009D4FC3965A296E17C5CE831E081DAC4037AB4AF2EBDC3",
+      "bytes": 1363
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/inputs/001.png",
+      "sha256": "D6C75712367A7BCA76B176A9670ED5F7328A800FED063617AEEF4140F30F9288",
+      "bytes": 16542837
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/inputs/appendix.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "bytes": 5130
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/prompts/A.txt",
+      "sha256": "2E730FCCCEDA2510CF2CCD067C3AAEEC3109C3A3D7777B640A8E9A327CD003D5",
+      "bytes": 528
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/prompts/B.txt",
+      "sha256": "53343B6296215D6A5A5E6D036CE98DEE513591D298F9EBE90B71BAB1498D2D4E",
+      "bytes": 906
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/prompts/C.txt",
+      "sha256": "DEC6056C1284796FB4E7B9B68E47B57C00E6585BF3421B3801C099EFCA42985E",
+      "bytes": 1444
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/run_trial.py",
+      "sha256": "A04A86CD4BDC40F95F0CDE586D1667DC6485DEDDE30460B183A21AE3839525E3",
+      "bytes": 8240
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/使用说明.md",
+      "sha256": "4AD1B9C1C669CB3B12D820AF430A1A056C0034C01A1CC58A0D94652217F61A48",
+      "bytes": 3791
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/首次试跑审查.md",
+      "sha256": "6C6EAFADD4FDAF6CEFE3B92E8838FBFBA31F9B1D8C4606CFE2D81FBC5FEEA446",
+      "bytes": 1635
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/验证记录.md",
+      "sha256": "AA55BBC4887B7A9D8EAC927D65ED123C5EAC8513E6A296E1D654AC96D78306C4",
+      "bytes": 1128
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/inputs/001.png",
+      "sha256": "D6C75712367A7BCA76B176A9670ED5F7328A800FED063617AEEF4140F30F9288",
+      "bytes": 16542837
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/inputs/appendix.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "bytes": 5130
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/prompts/A.txt",
+      "sha256": "2E730FCCCEDA2510CF2CCD067C3AAEEC3109C3A3D7777B640A8E9A327CD003D5",
+      "bytes": 528
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/prompts/B.txt",
+      "sha256": "53343B6296215D6A5A5E6D036CE98DEE513591D298F9EBE90B71BAB1498D2D4E",
+      "bytes": 906
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/prompts/C.txt",
+      "sha256": "DEC6056C1284796FB4E7B9B68E47B57C00E6585BF3421B3801C099EFCA42985E",
+      "bytes": 1444
+    },
+    {
+      "path": "标签核验补充_v0.2/008_009原始来源研究.md",
+      "sha256": "21693A60F7CF5566344A795CBCE169A93A3A4E96CA79093B6101EABA0D641CC9",
+      "bytes": 12751
+    },
+    {
+      "path": "标签核验补充_v0.2/README.md",
+      "sha256": "52B1CAE00E06D325D8786DE0C978333A97646F91C6A51D1B88257C7836B8AF83",
+      "bytes": 1408
+    },
+    {
+      "path": "标签核验补充_v0.2/保存与完整性检查_v0.2.json",
+      "sha256": "5525FF1D4EB0D67CF92DB86022BFCC4D113084947DBDF0E9AD682ABBA7C3AB48",
+      "bytes": 4390
+    },
+    {
+      "path": "标签核验补充_v0.2/六图补证状态_v0.2.json",
+      "sha256": "96CCE6821D169240802892D8E93A90202FB55673E2EEA1CA69E15F27A23BFDB8",
+      "bytes": 2339
+    },
+    {
+      "path": "标签核验补充_v0.2/外部证据访问索引_v0.2.json",
+      "sha256": "1C95BAD21114191A4A59B0EED735F6C9652056A93BE77F28A26AC92B7F4B1C76",
+      "bytes": 36257
+    },
+    {
+      "path": "标签核验补充_v0.2/旧文件核对基线.json",
+      "sha256": "C92C1837DA6E83F32386DBEA6DB9B9D00BC887D842C6BC4388577750FD9DC460",
+      "bytes": 699
+    },
+    {
+      "path": "标签核验补充_v0.2/补充归档清单_v0.2.json",
+      "sha256": "AC1AA2BBE71776A1831DDD0FAA42CCC10D61743765E45775581E7A13AABEAC76",
+      "bytes": 20583
+    },
+    {
+      "path": "标签核验补充_v0.2/补充归档清单_v0.2.sha256",
+      "sha256": "17C80AF3D55FB7AC6845FE3CE23B8D9647E5202262D137AF60B871FC40CC5E70",
+      "bytes": 12989
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline.access.json",
+      "sha256": "1121C15519F0310EFDDAC4C31A286748C86D7BE82378E41D41C1D360DAD781C0",
+      "bytes": 441
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline.html",
+      "sha256": "545C0E2B4C016DF67C069EA4C27746BFF8BE897909FD0D7CE720B5A7F893BEA2",
+      "bytes": 89091
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline_ref.access.json",
+      "sha256": "488F7467C0687A8CD9394E004E6CE519211F3BCB37F334733824BB6F9004CDC9",
+      "bytes": 371
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline_ref.jpg",
+      "sha256": "9CF59F8BE0A83359CF7E9AD2EF29A3FF58672C72A9A57860F43548CB1D53BAC7",
+      "bytes": 254656
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_people_gx.access.json",
+      "sha256": "8001E2011847434578FDFA8D327329FC085A703009B6AB6BBFFA1AE128D014E5",
+      "bytes": 688
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather.access.json",
+      "sha256": "064878B76624A5902D415AAF08E182EBBB277D90E43FD9E1B2D91951950F5E25",
+      "bytes": 168
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_curl.access.json",
+      "sha256": "48405AFF075BE91FDD27A3030CA646ECA126AAD067E752C2911DBAF6F3F08729",
+      "bytes": 465
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_curl.html",
+      "sha256": "4B3C5254FF0E24F46641A4133EED62C295952A319EEC0D5BEC6EB063FAAD0C34",
+      "bytes": 21088
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_https.access.json",
+      "sha256": "1B91998D1EBD68F9CA046DAA6BB3AF2B192E459540E584E44E7BA70B3D273AF7",
+      "bytes": 168
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong.access.json",
+      "sha256": "0856DA82FB5C1A173AF5DC95EE15C2F3074313B4B04A3C7DB74E7C9EBC97BD85",
+      "bytes": 216
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong_curl.access.json",
+      "sha256": "37E7AF4F9C8C95A68B9EBD03DDFC56B7F0376D0469822F55EC57648DE3D0138F",
+      "bytes": 435
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong_referer.access.json",
+      "sha256": "5061592D6E34E4D95B25CC60A75F1BE3515214D29B83D73C95FC041F754083F5",
+      "bytes": 572
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong_referer.jpg",
+      "sha256": "385EACB3DE8F8DEE269D82790C7EA417553815E2EA8D57024724951E1FA81515",
+      "bytes": 107336
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_ping_an.access.json",
+      "sha256": "3816B64DC313DC49964910FD6B2B73155F388E7E8F2D18A9C6D5E72B1434E49E",
+      "bytes": 216
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_ping_an_curl.access.json",
+      "sha256": "DEC3909C9ADEA289D5500764568AC6C42025FFBBFD4BD246AC57511C36C9B8CF",
+      "bytes": 435
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_embedded_model.json",
+      "sha256": "A9997CD23495725515B06A5CF01EB0331BFC0631943ED3B3B20F17AA349F8E84",
+      "bytes": 20255
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_oembed.json",
+      "sha256": "A517496D848D864C69E2293A04F35545F16AB1B56E018D7A32430D4ACC0FFD2C",
+      "bytes": 1321
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_oembed_access.json",
+      "sha256": "8F45BC51EC42D0309A4771B8A320D6323FB4D3F50C0C0D0D0E26CEB2B053B8DD",
+      "bytes": 606
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_original.jpg.access.json",
+      "sha256": "7531BF271B0C9A09BF89EFE27A75E5438EFFACFC34E2CF611D76BA206C85E2BE",
+      "bytes": 181
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_original_schannel.jpg",
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833",
+      "bytes": 1647155
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_original_schannel.jpg.access.json",
+      "sha256": "DDB49EF89A3B07CED19ACD8779C8CD77D448B7752159D51766D84A57ECB3E33A",
+      "bytes": 638
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_page.html",
+      "sha256": "432610D04DDCB7AC4A20815EEFDC990F2C11CCAADD142DF40A59E226685D2F9B",
+      "bytes": 523921
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_page_access.json",
+      "sha256": "47DD7E47C034DDCE3364322377546063734C7BB15C38D70E2F5B75AC974243DE",
+      "bytes": 742
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel.html",
+      "sha256": "49D666D800EAD1B5FB10EFD8ABE3FC76F25469294C1D0BFC5DE655FE4D4829C3",
+      "bytes": 73268
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel.html.access.json",
+      "sha256": "F4172D626E407B243A04E368FFAADC39FB7AF92672099F7A8EA498C510D33AE7",
+      "bytes": 398
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref0.jpg",
+      "sha256": "C593745E70BB65964B4A91A5C5F16E20DC96B4340267520BF22D7B9BF1844CC5",
+      "bytes": 1399142
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref0.jpg.access.json",
+      "sha256": "DE1A14D11721CE086246328E550397C066882B221A1FEF2826FC3ECF9A969046",
+      "bytes": 873
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref1.jpg",
+      "sha256": "5CD29D42EE0C7AD20A7AA1650BDA71CD1FE2A7E7186F850B133A8AE22D37D00C",
+      "bytes": 5614163
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref1.jpg.access.json",
+      "sha256": "C5374F88560F0A1BA36B87315F5DD44F138329561804BA772ABD188E7840C094",
+      "bytes": 873
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_article.html",
+      "sha256": "B4DA29CFB8113334EEFCEAE7B4EACCCCB601209E81A4DEEE5ABC6775A260B197",
+      "bytes": 137040
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_article.html.access.json",
+      "sha256": "241011F3561E5F08340B358468073A7057222A38B740121E5B4A8E8835E7ADAF",
+      "bytes": 582
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5.jpg",
+      "sha256": "91C707D708B039FE10DE45FEED3C74990211DA518C002F56B75DD1F6E8940197",
+      "bytes": 91290
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5.jpg.access.json",
+      "sha256": "744F753A1D337689E98103A706A5B0BB4FD045D0E33E13ADB8822EDA226D1848",
+      "bytes": 485
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_flickr_embedded_model.json",
+      "sha256": "7A523321389E2EFA6B88B0B7EE45359F1899AAF6CD2D49BA09AC724281290E3F",
+      "bytes": 17328
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_flickr_page.html",
+      "sha256": "D94EE688321107DAF9C3626D933DC863E01A264B49E88BFDB39ECAC4FA48D363",
+      "bytes": 520487
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_flickr_page.html.access.json",
+      "sha256": "84DE3FAEAFACD90433A2FD2132E384789731EF8CEE0EF121AF9C0BC4D51FD313",
+      "bytes": 574
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_oembed.json.access.json",
+      "sha256": "D301774519C63CE214E04C1ACBC03ECE766F299AABEB00D4D661ADD06B1997CB",
+      "bytes": 514
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_unesco.html",
+      "sha256": "118CB6497CBC5870D6F5D6B1E2C8FA23E2A1E10CB298F23320B6AD145DB63444",
+      "bytes": 171995
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_unesco_access.json",
+      "sha256": "BC8E986EB93DDC8C44C800F57BDAAC5245E029B672C1A9BCE30BB1BE83C7CB24",
+      "bytes": 2059
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_unesco_gallery.html.access.json",
+      "sha256": "4204408C9167F480763DE76533FF265EF1DA2202A98AC9DC421C6317D5C24C85",
+      "bytes": 154
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_culture_access.json",
+      "sha256": "0954A34439D65EA49F606085FD7880B9C83D7B1B319084E845352222F1099F03",
+      "bytes": 211
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_culture_schannel.html",
+      "sha256": "EFEC55FB6A41D0F777058F6AF39AB7CD85E0AACDF0D7EDA1D26CFBEB02506713",
+      "bytes": 45258
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_culture_schannel.html.access.json",
+      "sha256": "B0FB7A0667120AB2724C88F201EEE3D44A8CD7D9BA5CC26A7D4CDFECC09D813E",
+      "bytes": 533
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_photo_access.json",
+      "sha256": "8D7CBA711F1DF87A9A8307A7ECD08A4AE5F58CBEB6955185D8CE9EFD2E145F4E",
+      "bytes": 215
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_summer.jpg.access.json",
+      "sha256": "BCD2D340A65DBE66B063AA0CC22695EA3BBB5DFFAA86A435A1B8CC943CD5E18F",
+      "bytes": 241
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_summer_schannel.jpg",
+      "sha256": "F4C1C0DC0FC358F3601B8B7D8F168C2C254C73C84A1A7A06D7B00A424E00FFE2",
+      "bytes": 143771
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_summer_schannel.jpg.access.json",
+      "sha256": "7BD788DD6D04E35208DE52B701989E11CE165A8CEB5FAB1744912C7457719196",
+      "bytes": 592
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily.html",
+      "sha256": "2ECBF6BBB14D9409D51F3030B6E357EBC27223617A9F8C48C022712D07D61995",
+      "bytes": 33089
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily.html.access.json",
+      "sha256": "EA93163DCA839AD2358D96F68E46F0FE876F191D521358895937DC19DA277AC7",
+      "bytes": 511
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily_ref.jpg",
+      "sha256": "54443E645EFE71FC4DA38280FF335659D5B99B6DD9F9913E3DBD02BC03FDDFF0",
+      "bytes": 66417
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily_ref.jpg.access.json",
+      "sha256": "1DA9C706CB965C13B17BC9DCBFCC42D00B70AFA97190C868677092AA43D7AD0D",
+      "bytes": 532
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_gate.access.json",
+      "sha256": "C09FB7D1BA93E223A3E8AB1B38A36413F7FC2C9B58FB10C1C251D4BEFBC9AA1D",
+      "bytes": 451
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_gate.jpg",
+      "sha256": "9F875C65E9CC1DEEE18CC4C357FF73EC3ECF731A4934855C5135F384CE71E73C",
+      "bytes": 111786
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_photo.access.json",
+      "sha256": "DF510239A4460D0B5FB8E02371F27F311BE117F9FCC1C3652AB5F78AB2A05B82",
+      "bytes": 427
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_photo.html",
+      "sha256": "A74A244A2867271266D12E777EBECB14DB045AE5C8BDD010631DD87D9EAD3F96",
+      "bytes": 11049
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_hunan_landmark.access.json",
+      "sha256": "467E3BB1D23FEE8470A386BB18FD118671C5FE2F84228BB02638BC5CFF5AA345",
+      "bytes": 221
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_hunan_landmark_curl.access.json",
+      "sha256": "1FBB73AC96141D760B2FB2BD09A70FA9A20A37925CA922C197D880B4834B99E7",
+      "bytes": 510
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_hunan_landmark_curl.html",
+      "sha256": "0D1700DFDDC9BD7E78DD7EB3BEE61296F532CB5202F808905214822E1066DD0C",
+      "bytes": 36010
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_commons.access.json",
+      "sha256": "12DAFB8D998080745263DE08B7802B774C3A6D8D1114662B6CA19F0ED911A827",
+      "bytes": 1002
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_commons.json",
+      "sha256": "A9DFDF86F008F81994B134B06A5AECCF806920F17F396DA7D260E767FAD9D30E",
+      "bytes": 3270
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_river.access.json",
+      "sha256": "2219B0275FC32AE87F35B9802CFEFFB9EA72F595D2BEA3C3F5242C73E8B8B9B4",
+      "bytes": 930
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_river.jpg",
+      "sha256": "588EC374523ED5CFDCA3DDB19FA28B9EAB705B0A1A1F811F22A0ECE19BAFD79A",
+      "bytes": 5087316
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_osm_reverse.access.json",
+      "sha256": "AE5891712637440CCB0B1A5C0EBFC0CEC7A0E5DD8695877B06C30D68716C1076",
+      "bytes": 676
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_osm_reverse.response.json",
+      "sha256": "12E85E9D9D26274AACEFD85B0C8D7BD80A532CCC293E765D42022E4EED0DFF4F",
+      "bytes": 761
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_gallery.access.json",
+      "sha256": "3AAD6453EA4B318CA0C4EDB6EBF64E8C46326E4C6D727998F455D81CCC31A122",
+      "bytes": 385
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_gallery.html",
+      "sha256": "4904E4C9EC96F61451618A7085127FCACF0EC5A44DDCD51C5E3E82580252173C",
+      "bytes": 22776
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_zunshi.access.json",
+      "sha256": "A0079FEAC8346639B462A367228D83816345F95971AFDF123E67D5904B2CC915",
+      "bytes": 409
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_zunshi.jpg",
+      "sha256": "36FCE8C96F1A696D05E1BFFB99A26AC6B750460B3CE9A14C5FF66D34BCE5D86C",
+      "bytes": 1274026
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2.access.json",
+      "sha256": "DC4E9FACFB56FDBE7C75149F23DE61E8C19BA090A5D944F68C41C726A81B8E12",
+      "bytes": 433
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2.jpg",
+      "sha256": "11F49FF528C9CD99709F9CFE9574B3CAC3010CAC81D2BA6E09B009DA8E742D07",
+      "bytes": 2585819
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2_api.access.json",
+      "sha256": "52D65202C5ABEB29002A01A3112599BCCB8CC5045DA647E9657D191198117453",
+      "bytes": 441
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2_api.json",
+      "sha256": "5A1CCE1FFC6C364822908C76CFD8229B8FC041FFA00AB421CA615308816136DA",
+      "bytes": 2241
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq.access.json",
+      "sha256": "2EA154DEC854C782B1652A9E4F6D4EF979051D8E6D4BFF91AEBFA6AB2212E6E2",
+      "bytes": 408
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq.jpg",
+      "sha256": "4D35743D2BB24467B2EC2730C06FE00F9127C099E48AE63BD4661406D3823492",
+      "bytes": 3451298
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq_wide.access.json",
+      "sha256": "8B7C32B7D5DF233ECD36955A0C405AA823828C7A1577E39EF431EDE449884E9A",
+      "bytes": 422
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq_wide.jpg",
+      "sha256": "5B8D5DD51C2C23F3249545787EAED5BC82A9D81B1FCDB3AB53A2D12233D7FA7F",
+      "bytes": 3230397
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_refs_api.access.json",
+      "sha256": "3FEE62A84D45BADD2E0021E7282319D2563F0FC25C413D5F29326792B83B1574",
+      "bytes": 479
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_refs_api.json",
+      "sha256": "55C587F2B8FE8D4D49A399F74FA4A9953FDF9541260FFDEFFCF9F2EF12960B87",
+      "bytes": 4473
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_unesco1002.access.json",
+      "sha256": "14803E2B5A705EE96E29FCCBDEFBB1A4723E721EBD88059B868A659B509820F7",
+      "bytes": 694
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua.access.json",
+      "sha256": "DE67C600B6597A930866C9D44B493641939F1067F430C11C2C8C37A66B60A7FE",
+      "bytes": 447
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua.html",
+      "sha256": "CDCF8BB30E1A9C914FA795415BF5250BD8E8AD9E367AAE53A3F6B9647E363E3F",
+      "bytes": 20108
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_2019.access.json",
+      "sha256": "1F54D3BD211F2A2B2DEDDF009B05AF1CFDFD57CA9E8356452C9A4BFBC5CA600C",
+      "bytes": 405
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_2019.html",
+      "sha256": "58016F36C72E1070C3B132879ACEC5E8BE877D1ECFE362A6C2D0D1E8AA52F39D",
+      "bytes": 8389
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_ground.access.json",
+      "sha256": "152F67346DBFB75E50F8FEAC2CAEFFC398285E33369A30FD4FE19E5F33C4312B",
+      "bytes": 611
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_ground.jpg",
+      "sha256": "73681C9E28C10356DDECDC953886DD21575D05A8AA97FAA989C8277679374341",
+      "bytes": 61682
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_yuezhao.access.json",
+      "sha256": "C95D14D4A62379F8B8FFCE73C330C6F6D40649328982A3243C938C42BF35C571",
+      "bytes": 433
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_yuezhao.jpg",
+      "sha256": "B2B9714E12C80D5FE5ED757032914258EE87C1F7E4FD30A916A9F622EE3BFF61",
+      "bytes": 125920
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/007.md",
+      "sha256": "DF0C51CDBE144FA5C68B6C5F270FEBA878B0996ABE10FFE6E564497A719F122A",
+      "bytes": 3051
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/008.md",
+      "sha256": "D95BD7041766F25A55964E58EBCAE436E7A3D640000040833DC7EB517DDFA8E9",
+      "bytes": 3370
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/009.md",
+      "sha256": "3A227E4441328041ABA145543F3D98D10407FBA38A7DB4D33664FD55F24B3141",
+      "bytes": 2414
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/014.md",
+      "sha256": "D9F57C01EFC0FA96FE9848CDD2A306C378B0FE49F070A8E76A5C05A3CF805A74",
+      "bytes": 2482
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/018.md",
+      "sha256": "615C0490B50608F38130F864A5EA981C7ABD50CED3830C6A7775FA39F87E5ACD",
+      "bytes": 3062
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/019.md",
+      "sha256": "756453B4C675DB746DA07975A8F2161A7980E5066873336D4DD132CFA7523E26",
+      "bytes": 3039
+    },
+    {
+      "path": "独立评分准备_v0.1/评分发放包_v0.1.zip",
+      "sha256": "48B733CCED4F8B50DF8CA6B6796CB9292566A8768C300057AB2275D2F8439450",
+      "bytes": 11792
+    },
+    {
+      "path": "独立评分准备_v0.1/资格与发放范围确认.md",
+      "sha256": "292BDEC0023FDB5104F0640ED6B788152355C4BD4816A489E6321934A8274D8E",
+      "bytes": 3541
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "bytes": 5484
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包_v0.1/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包检查_v0.1/发放包整理检查说明.md",
+      "sha256": "2AC43F8B041C20A4263FE9AE4D8E0F1BDDE7A52EF975EDDE5B56429A0724115C",
+      "bytes": 2888
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包检查_v0.1/最终发放文件哈希.json",
+      "sha256": "9E9D30888FAA10287C46D18E4CC940745EDF8D6F4B424801B3E8429691EBA77D",
+      "bytes": 8474
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包检查_v0.1/最终发放文件哈希_表.csv",
+      "sha256": "B9E705946D90CE80F0C0CF49FBB72C35325ED1A9C0AA38C3EF339E9FB47AE38B",
+      "bytes": 1018
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包检查_v0.1/最终检查记录.json",
+      "sha256": "7A677860C236E3E0AA6185BC7EB335B7B8F877B589D95DD4981F4E553B7EE03C",
+      "bytes": 6991
+    },
+    {
+      "path": "独立评分准备_v0.1/发放包检查_v0.1/清单与压缩包.sha256",
+      "sha256": "FDE68A8427AA4DE2AB54B8CE4DF581AFAC24BB8F205DB28DC78960C7D0894938",
+      "bytes": 161
+    },
+    {
+      "path": "独立评分协议_v0.1/材料版本清单.json",
+      "sha256": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "bytes": 2209
+    },
+    {
+      "path": "独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "sha256": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "bytes": 10818
+    },
+    {
+      "path": "独立评分协议_v0.1/静态审查说明.md",
+      "sha256": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "bytes": 2558
+    },
+    {
+      "path": "独立评分协议_v0.1/材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分协议_v0.1/模板/分歧及裁定记录_空白.csv",
+      "sha256": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "bytes": 619
+    },
+    {
+      "path": "独立评分协议_v0.1/模板/原始记录锁定_空白.csv",
+      "sha256": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "bytes": 191
+    },
+    {
+      "path": "独立评分协议_v0.1/模板/原始评分记录_空白.csv",
+      "sha256": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "bytes": 417
+    },
+    {
+      "path": "独立评分协议_v0.1/模板/批次冻结登记_空白.csv",
+      "sha256": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "bytes": 336
+    },
+    {
+      "path": "独立评分协议_v0.1/模板/案例材料登记_空白.csv",
+      "sha256": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "bytes": 473
+    },
+    {
+      "path": "独立评分协议_v0.1/模板/统计报告_空白.md",
+      "sha256": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "bytes": 2979
+    },
+    {
+      "path": "独立评分协议_v0.2/材料版本清单.json",
+      "sha256": "7266B23D45E442A63A07D5DCC1AFC4E7C454835040940129F2D023286B1B3604",
+      "bytes": 2944
+    },
+    {
+      "path": "独立评分协议_v0.2/版本修改说明.md",
+      "sha256": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D",
+      "bytes": 1333
+    },
+    {
+      "path": "独立评分协议_v0.2/独立评分协议_v0.2.md",
+      "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "bytes": 5080
+    },
+    {
+      "path": "独立评分协议_v0.2/材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分协议_v0.2/模板/同分理由复核记录_空白.csv",
+      "sha256": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F",
+      "bytes": 622
+    },
+    {
+      "path": "独立评分协议_v0.2/模板/阶段归档登记_空白.csv",
+      "sha256": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E",
+      "bytes": 245
+    },
+    {
+      "path": "独立评分执行_v0.1/input_hashes.json",
+      "sha256": "2AD76DA937FFBAEC165CC7074CB7175E0E88588D558F8932A81D5EF3B2ABA1C3",
+      "bytes": 1035
+    },
+    {
+      "path": "独立评分执行_v0.1/run_rater.py",
+      "sha256": "BB52B79376034C9B9AF85FD72368D8C7C942F30DA4751D7D76C089986B533036",
+      "bytes": 7535
+    },
+    {
+      "path": "独立评分执行_v0.1/settings.json",
+      "sha256": "FAC3A5FFB2944036802F951C8C2231EF9295B4E98F15B2A1F9FB1B41F24572CD",
+      "bytes": 236
+    },
+    {
+      "path": "独立评分执行_v0.1/执行说明.md",
+      "sha256": "4AC7ACC9580FD2310CD89418D1EB17448EF788200C2C646AEB5BD5FC9939063C",
+      "bytes": 3257
+    },
+    {
+      "path": "独立评分执行_v0.1/本轮归档清单.json",
+      "sha256": "099AB6B82450C655C11300414BFA96F51CE7A36C3551E47B18946A69B5A90684",
+      "bytes": 7939
+    },
+    {
+      "path": "独立评分执行_v0.1/本轮归档清单.sha256",
+      "sha256": "912A2833213F0EEE9B22C1593E816614DF5DF6276C5A107D39A2434710EE309D",
+      "bytes": 91
+    },
+    {
+      "path": "独立评分执行_v0.1/离线检查.json",
+      "sha256": "703016ED6DF01D197A67799AF1897109BBCA3D164AE1D6AC2FF58D3326700A4C",
+      "bytes": 571
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "bytes": 5484
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "独立评分执行_v0.1/A/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/first_output.txt",
+      "sha256": "3D9825DA0F3DB2C32C3AAD17FCB024CA46512ED1F7E22F4AE25B5F7985186A5B",
+      "bytes": 9717
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/first_reasoning.txt",
+      "sha256": "D41ED6F8B17E30190B907E4DF299DBBC1971AAC46AE6BE40CDA5E5650C0B8F3D",
+      "bytes": 35996
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/first_response.json",
+      "sha256": "6AC780DE76E04F594A0E7A29673824686CCCBAF2F18E167C3E443E04C436962C",
+      "bytes": 46600
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/metadata.json",
+      "sha256": "58770CA0E003A90651AB13C28E5A80DEFC80FF16B192FAD0F86C841086E04437",
+      "bytes": 2619
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/original_submission.json",
+      "sha256": "2656722E3E05A5665CD7031AD538F00629A4835EFDC0EF0317F5FF9E687869FE",
+      "bytes": 9729
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/request.json",
+      "sha256": "F537A465A2E0B00064D848184ED18CF74222C2FAD1E9833D5F9587CE3746A10B",
+      "bytes": 22816
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/submission_lock.json",
+      "sha256": "FE4FD88D24A0921A4606A74AB74DC3805F0524893AD70060132F028A2BAEFB38",
+      "bytes": 1123
+    },
+    {
+      "path": "独立评分执行_v0.1/A/submission/submitted.csv",
+      "sha256": "33C8C96203A906E186C9C7CF9CE50F885AE08B71D3873AA4B78F2DF9779302EB",
+      "bytes": 9227
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "bytes": 5484
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "独立评分执行_v0.1/B/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "独立评分执行_v0.1/B/submission/first_output.txt",
+      "sha256": "D73B4C814F2F103E3EF23CE945D95B1A347F1550ADED0223CA2D133CB319FD8A",
+      "bytes": 9610
+    },
+    {
+      "path": "独立评分执行_v0.1/B/submission/first_reasoning.txt",
+      "sha256": "5108AB11405017EAA9767009F873D72BDF6D34C743EB20BAFB2EF89F12F73931",
+      "bytes": 54176
+    },
+    {
+      "path": "独立评分执行_v0.1/B/submission/first_response.json",
+      "sha256": "BA7485781D5D5C27D56792BCACC87468457A296D33E4A5FBE468B34A1112222A",
+      "bytes": 64718
+    },
+    {
+      "path": "独立评分执行_v0.1/B/submission/metadata.json",
+      "sha256": "5485743DD9F47CEEAE82E10185A853AE1D8C1C3A0564428B566E427D51963D79",
+      "bytes": 2720
+    },
+    {
+      "path": "独立评分执行_v0.1/B/submission/request.json",
+      "sha256": "F5327012104D600E0C090DF35D68907A583ADD64211EFC8CE9FD98812487F9F4",
+      "bytes": 22816
+    },
+    {
+      "path": "独立评分执行_v0.1/B/submission/submission_lock.json",
+      "sha256": "29466F2429E9D87FD04305EFF83132209D3A6ABEA935BB82CE27DC3A581024B0",
+      "bytes": 850
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/A引文来源核对.json",
+      "sha256": "244910D2DB4DBEA305BD05569892FB246D644E2CA7A515EA3637E593F22FB28B",
+      "bytes": 2275
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/分歧分类.csv",
+      "sha256": "DD6E86BA32FD0F170D74989994C75D94E3121E53B307BE9874734736FFE08261",
+      "bytes": 2346
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/处理状态配对矩阵.csv",
+      "sha256": "DB920D8C753633FDBD2426CEA2977BF85C7A7497B5750906E1151AFFB0DECCA2",
+      "bytes": 93
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/执行与接触声明.json",
+      "sha256": "9F3DB08F35496582E6C772D49D66A5F59275564A5B4D9FA809BE5324362107C8",
+      "bytes": 9147
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/数字一致率排除明细.csv",
+      "sha256": "AF8B7C26DDBF4736FFDD67C8B4CA996413C2124C60FC0588BD49522704B9D5FE",
+      "bytes": 1823
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/结构完整性检查.csv",
+      "sha256": "BD0B5ED841FCCD65CA3C91DC8B0DB0DE9665A2BB728E60FA310A65953359F199",
+      "bytes": 3020
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/结构完整性检查.json",
+      "sha256": "594264B1A6C89CA4D6C45412BE32907EF1B24FEA0C5B68D8D40E3BF6FACD200A",
+      "bytes": 5835
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/统计结果.json",
+      "sha256": "2E5276F6F997D33D0761A409FE0259D49C4753F7A35B726BC811E3C5D68AF3EC",
+      "bytes": 1386
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/适用判断待确认.csv",
+      "sha256": "D66004E28DD22925B0B6A87BBF9DA31F6BE7E903900F1CB41A04B6FB7813B501",
+      "bytes": 32
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/逐案配对结果.csv",
+      "sha256": "F2D2DD6EBC6637510195A21459D5A938F935934A0FF88135B9CB7C20D53FBEFB",
+      "bytes": 758
+    },
+    {
+      "path": "独立评分执行_v0.1/提交后检查/首次提交检查报告.md",
+      "sha256": "84C9EE8443279737C44B6627C7C62D55009DD34181CD2BA0281AC5344D005D38",
+      "bytes": 4066
+    },
+    {
+      "path": "独立评分状态复核_v0.1/B原始响应核查.json",
+      "sha256": "49391196D67596C2C558ED695BC4B0289FF99357D3B2CBBFD0F65291C55D2E9E",
+      "bytes": 2002
+    },
+    {
+      "path": "独立评分状态复核_v0.1/B提交状态复核说明.md",
+      "sha256": "5394EFCAAEA28A8561466557802D8913D558041DC6B566D36B08F48AC3F244BB",
+      "bytes": 2541
+    },
+    {
+      "path": "独立评分状态复核_v0.1/B补交引文偏差与提交状态补充.md",
+      "sha256": "BEBED6B62221689CECAD219BBDFE1CD06FE015042BE9D3E4C49EBDCFE133AB6A",
+      "bytes": 1244
+    },
+    {
+      "path": "独立评分状态复核_v0.1/B补交引文偏差登记.json",
+      "sha256": "9535A4EA5BCBAE781C9B83E6B093FE92DDD4CD24EC8042393E3C1DE74D3B6449",
+      "bytes": 1036
+    },
+    {
+      "path": "独立评分状态复核_v0.1/B补交引文来源核对.json",
+      "sha256": "BFC26BEC9EA13DA3C9234023C795DED3C6EA77EAC78B88C90C88B972B4EAE7B9",
+      "bytes": 1415
+    },
+    {
+      "path": "独立评分状态复核_v0.1/B补交状态核对.json",
+      "sha256": "1ACC4ADFFD4155298FE3374AC53A292182C7FB6439890B6B3A767896A11244ED",
+      "bytes": 5348
+    },
+    {
+      "path": "独立评分状态复核_v0.1/原批次状态登记.json",
+      "sha256": "8F11ABFF27F22AD744ACBE342D89C0FF807287E47DC0E58CC4F6BFAD64EB2888",
+      "bytes": 343
+    },
+    {
+      "path": "独立评分状态复核_v0.1/复核文件清单.json",
+      "sha256": "9E4CD4003D21960D2918647B1EA2D187C18E7200471B092C36E391B6EC48BA6F",
+      "bytes": 799
+    },
+    {
+      "path": "独立评分状态复核_v0.1/复核文件清单.sha256",
+      "sha256": "DE9C15954CDA445ED97F08AFC540B3F261453CC19842846E722CE98F827ECDB5",
+      "bytes": 91
+    },
+    {
+      "path": "独立评分状态复核_v0.1/复核补充清单.json",
+      "sha256": "1684829B0A89A33567D0A80EF8C6E91DB5C85C28AA648531387492848D5B04AE",
+      "bytes": 397
+    },
+    {
+      "path": "独立评分状态复核_v0.1/复核补充清单.sha256",
+      "sha256": "6457F965EDB3616E13B08669A9299A7BB0F2311BD7388E6AE7CBF61AFAE40AE0",
+      "bytes": 91
+    },
+    {
+      "path": "独立评分补交_v0.1/input_hashes.json",
+      "sha256": "2AD76DA937FFBAEC165CC7074CB7175E0E88588D558F8932A81D5EF3B2ABA1C3",
+      "bytes": 1035
+    },
+    {
+      "path": "独立评分补交_v0.1/run_rater.py",
+      "sha256": "BB52B79376034C9B9AF85FD72368D8C7C942F30DA4751D7D76C089986B533036",
+      "bytes": 7535
+    },
+    {
+      "path": "独立评分补交_v0.1/settings.json",
+      "sha256": "6D906ED2B86D2D862A5F59FEFB7FB162740FCB276C7A46622A6CA3D1BBECC397",
+      "bytes": 236
+    },
+    {
+      "path": "独立评分补交_v0.1/补交归档清单.json",
+      "sha256": "34FE15CA550A361D7999E0BEF49504F74A0C632616B59FF7DCBCA2C5E243F453",
+      "bytes": 3525
+    },
+    {
+      "path": "独立评分补交_v0.1/补交归档清单.sha256",
+      "sha256": "E88ADA8198E74AAE22B6533A025AF0347BDCD3FDF585A6852DB4CCF9A81C1DF3",
+      "bytes": 91
+    },
+    {
+      "path": "独立评分补交_v0.1/补交批次准备记录.json",
+      "sha256": "5B49D9F6C07497250E8BB4DB593E46D4811D35E4850F66976C260B662901109A",
+      "bytes": 2171
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "bytes": 5484
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "独立评分补交_v0.1/B/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/first_output.txt",
+      "sha256": "EDC56C7363E05B7D4F54A9C2B39407393D6B724B6A43E70B83E21D4C729AE205",
+      "bytes": 8085
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/first_reasoning.txt",
+      "sha256": "559717C95A6D22240A7F0E068E797AA594F9A5EDC1DAE9B63F63ED160F83BE97",
+      "bytes": 46234
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/first_response.json",
+      "sha256": "5F09F2806FE423FC658BC232715890CBA9B26E78A25702837A2B4B1270F45005",
+      "bytes": 55306
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/metadata.json",
+      "sha256": "AD54ACC8C12DA5F6CEA42F7BC7BE557CF26D3355D308F406AB86E823B7B1A1E8",
+      "bytes": 2624
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/original_submission.json",
+      "sha256": "2ECC30C9D873A4D52F5032CD0BA7C4FF8EE7563EE5D8444BFDDBA878388C85A2",
+      "bytes": 8097
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/request.json",
+      "sha256": "AFD4D40EC5CBEDB1D892B9B65F9EE2FDC348DA994F498E9008D5C075F25AE233",
+      "bytes": 22816
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/submission_lock.json",
+      "sha256": "5C6499F36B9C5F8FB65F708DB12913861935CE2C77FD130853DDE039CAAAAC91",
+      "bytes": 1123
+    },
+    {
+      "path": "独立评分补交_v0.1/B/submission/submitted.csv",
+      "sha256": "61D06D3C2780579A748704A2B19F26DC4ACE562307220B7A4366354FF16DEC34",
+      "bytes": 7799
+    },
+    {
+      "path": "独立评分补交_v0.2/input_hashes.json",
+      "sha256": "2AD76DA937FFBAEC165CC7074CB7175E0E88588D558F8932A81D5EF3B2ABA1C3",
+      "bytes": 1035
+    },
+    {
+      "path": "独立评分补交_v0.2/run_rater.py",
+      "sha256": "0FA7AFE512B7532A825F6AB6E0A63FB278DE62536534ABCC6F27AD5682A8A808",
+      "bytes": 7848
+    },
+    {
+      "path": "独立评分补交_v0.2/settings.json",
+      "sha256": "6D906ED2B86D2D862A5F59FEFB7FB162740FCB276C7A46622A6CA3D1BBECC397",
+      "bytes": 236
+    },
+    {
+      "path": "独立评分补交_v0.2/执行说明.md",
+      "sha256": "76C043BFB351075CA83FA634F8FB64CF994DE52545763D72C8FF63060B197D9D",
+      "bytes": 2747
+    },
+    {
+      "path": "独立评分补交_v0.2/批次冻结记录.json",
+      "sha256": "687449D6B2AE8F46C1ED4ABEFC013D23E6D9540B159469A9F2CA798B664CDEFD",
+      "bytes": 3682
+    },
+    {
+      "path": "独立评分补交_v0.2/批次冻结记录.sha256",
+      "sha256": "40A94265E4F1B6854179D9ABA8F39A52D6D8447DCAF0F46E4F6BDA6AB76AB84C",
+      "bytes": 91
+    },
+    {
+      "path": "独立评分补交_v0.2/本批次归档清单.json",
+      "sha256": "C3FA6B5713E34903DF44261B1E9B55FFDFC0F9EFE7D73D05A0A10E80B2CDD0DD",
+      "bytes": 8733
+    },
+    {
+      "path": "独立评分补交_v0.2/本批次归档清单.sha256",
+      "sha256": "EDB857D453F6BC1719A3D11FC0E654B640DFBD670DD87FBC6ED1E03FCB3F2C23",
+      "bytes": 94
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "bytes": 5484
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/first_output.txt",
+      "sha256": "AD6D32731A1250151D49D275439A60143CF5C2EF6CB8686E8E206CB59C68E243",
+      "bytes": 9346
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/first_reasoning.txt",
+      "sha256": "2A39383B3E680E77DBFC9DF7746043296B6BA3418F26B8B8318B41A596F404B6",
+      "bytes": 58262
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/first_response.json",
+      "sha256": "8D872608A7FBB456085BD582101076F056DFCDF0D06BC93319A467D5CA36F335",
+      "bytes": 68571
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/metadata.json",
+      "sha256": "27CA912F958A6687875846D9DB3FB86A8AB132F9E502A22EFE86CCBDDF0AC753",
+      "bytes": 2624
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/original_submission.json",
+      "sha256": "8D32A36DAFED44E3300373BDF3BEFE13B19F3483FF1BC5EE8020DBC1BA731D6F",
+      "bytes": 9358
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/request.json",
+      "sha256": "C8448623C395B6B057B426D8AD3114DF947E61675F7C2B35A5F2B10E6E1683E6",
+      "bytes": 23010
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/submission_lock.json",
+      "sha256": "5337C48092F6477FB162066D057DB9049BEEA8CAEB04F0B545360EA330276281",
+      "bytes": 1123
+    },
+    {
+      "path": "独立评分补交_v0.2/A/submission/submitted.csv",
+      "sha256": "EDFA1B896DCAFE4D33B1D2E65C35271C7C16BADD0975B310F6F3A5C376A67A48",
+      "bytes": 8838
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/阅读说明.md",
+      "sha256": "E026A36A9B3B7F20ADA47AD05035F517CB5123CC19E5E1F347B0BB0C9040A49D",
+      "bytes": 5484
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_004.txt",
+      "sha256": "58D70A544EBEA410A2A0BB78BAD24D68FCCDB0B3D29FA5C60C66734245F64837",
+      "bytes": 1015
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_005.txt",
+      "sha256": "12A288226A90823BD707535B1D713460BC21BC5CEF2D059A887DAA6F010A6B20",
+      "bytes": 866
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_006.txt",
+      "sha256": "51308694C8F83CA2E616E0C85FA45E0F2001D14ABA29128183775E9600BD819E",
+      "bytes": 647
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_007.txt",
+      "sha256": "A23D7C05C73A5DFC5F66F8ABE3BF5448600558401FBE3714E6B677885D7FC088",
+      "bytes": 962
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_008.txt",
+      "sha256": "F8E39B9B68C9E33F190BCE3470D5CE42EF3DEBEEE885069911E984B1D78B7FAF",
+      "bytes": 974
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_009.txt",
+      "sha256": "DD70656F47BFD2016274AE87688E30B2267E73EFD4A4657E604B5237017F7296",
+      "bytes": 526
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_010.txt",
+      "sha256": "25A8C2CFB48FD7B8EC3FF1B920333C59824549C85A2665F411C2AA9FDE7175C7",
+      "bytes": 696
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_011.txt",
+      "sha256": "36705AA78792A190442D34E498B7B3940E5BAC3FACD61FC333521372AFE6670F",
+      "bytes": 772
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/first_output.txt",
+      "sha256": "C9CB81368BEB1D588BF26822501858321374FAB88CA937B537091F3CDE46BC63",
+      "bytes": 10923
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/first_reasoning.txt",
+      "sha256": "3B3E786E58CCE9A3FC1A9DB8E75B88DEDA032F5AE4E902C966CB0710D9F95F1C",
+      "bytes": 46227
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/first_response.json",
+      "sha256": "C1222080D66AB194B0C5858DB268E14F33BE559EB92E72F6DC3A991EDE7AAF1E",
+      "bytes": 58062
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/metadata.json",
+      "sha256": "26C5505F582CC20ABB936B18341F2943048958D1968760C24028DEFE4D23FD03",
+      "bytes": 2624
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/original_submission.json",
+      "sha256": "3E90E5D4785391C3FE42DBE0022D48DD44083B9EC2A2D2AAC30B935D7E01B68F",
+      "bytes": 10935
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/request.json",
+      "sha256": "81CF7DBA76ABE54A9EEA470B0874F7CE4ABE24FA8F50923EED878FB1B82E7DA9",
+      "bytes": 23010
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/submission_lock.json",
+      "sha256": "1EDE4753E92920922981613D106ED0619C7473FA19691B110CEC86FB340AF6B2",
+      "bytes": 1123
+    },
+    {
+      "path": "独立评分补交_v0.2/B/submission/submitted.csv",
+      "sha256": "CCA299F60DC38DF5B0B5F59C6EEFAA1277A59EFE31641121FC92AD42DE3F3018",
+      "bytes": 10529
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/CASE_006引文偏差说明.json",
+      "sha256": "B601316EBB5C1513468367A0882C4B2CFA97B9B292FFC5C11848898B171DA8DA",
+      "bytes": 815
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/分歧分类.csv",
+      "sha256": "B7F3DEC0BFCD048DAB1DC39C912F0B5FA94AEBDA60F51014540AD9E89EA48AC6",
+      "bytes": 744
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/处理状态配对矩阵.csv",
+      "sha256": "40791B3681115FBF3D9867D72DD63A6F6151F465526DE0501A42561E834E05A6",
+      "bytes": 93
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/完整性检查.csv",
+      "sha256": "09A1A0BB3D7504A6D2802E07CCF4420AF91D49585FA40C920C7187A7F6F331DA",
+      "bytes": 2190
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/完整性检查.json",
+      "sha256": "79C3007353A3687136A64D49F3ED998007532C38049E2B0C2DE99E87DA0F26A6",
+      "bytes": 4960
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/引文来源核对.json",
+      "sha256": "84F067BF0D2E0023A1CF3FEF087EAB29B82282F7313E48B8B52CB049914F51A4",
+      "bytes": 18918
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/执行与接触声明.json",
+      "sha256": "6BBD8AAC08E658B2857BF5B81C14A45D8F0C040DB8C06363F7467341682D4E09",
+      "bytes": 9324
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/排除明细.csv",
+      "sha256": "2287D5CACB0A4CDCE969B38CC04048CD23564A9117167D74D52CBD42238A63DB",
+      "bytes": 1712
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/统计结果.json",
+      "sha256": "0DBFBC260AE1E913C3CE9AC506F1587591933D8CFB4D79AD146A5B7AA8E0316A",
+      "bytes": 1293
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/适用判断待确认.csv",
+      "sha256": "CC18E5EF6FC135BFB66D2DC9DA578148E9B9ECA9FCBAF1A70FAFC2DB8BB82A24",
+      "bytes": 383
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/逐案配对结果.csv",
+      "sha256": "761613EE452D9ABEF157AEB756DC00C1C9291D094760928D7038AA9CE358AA8C",
+      "bytes": 761
+    },
+    {
+      "path": "独立评分补交_v0.2/提交后检查/首次补交结果与一致性报告.md",
+      "sha256": "94461C8377A91F8AA60D443F6399F150A5D7A58445FC924963AE4F14B7F0F053",
+      "bytes": 5902
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/冻结清单.json",
+      "sha256": "5D581CABEB8F73E992172BA2CA950836B22D074E73F623AD0357DD5AACA6BF2F",
+      "bytes": 37110
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/冻结清单.sha256",
+      "sha256": "5BCA8C574CC4E1E1C25B594DCCBFAF6F2EA5C7E091043F72B7AA0A8E7738FACE",
+      "bytes": 81
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/同分理由复核_登记.csv",
+      "sha256": "CE51B07AF06B0A1792093BC638927C3097E28AE353752896884D7EB4231DD3C9",
+      "bytes": 6885
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/阶段总结与冻结说明.md",
+      "sha256": "1DD22E9498D06702EDC178CE077E9E4EDD637C64225DF645F3726D03272BFEDC",
+      "bytes": 4829
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/首次评分结果_冻结.csv",
+      "sha256": "E40210FD663350409549D4C6F9161BA705145DE60DAB23B6202DA0FA5DBD57A7",
+      "bytes": 11050
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/候选比较评分表草稿.md",
+      "sha256": "72AF8C0503451194448BD883B35D17ADD3C8944226B047811C55076A093ACE55",
+      "bytes": 6145
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/run_rater.py",
+      "sha256": "B778C61DF82F3B30A862906960657BE9ACE6A7506659BD6D73DCDC429389EC49",
+      "bytes": 9858
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/提交后核对.json",
+      "sha256": "A0569B8C0219C7C7B5AD06CA32611996BC1BCB37BA08052F83B3F38360BA6C91",
+      "bytes": 1098
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/配置与执行说明.md",
+      "sha256": "40363A96FEF7F2066EF1F5EE9138AF7D66DD58B78791EC63620EFDB209FCA98B",
+      "bytes": 3464
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/首次提交记录.md",
+      "sha256": "006FB0D4C55B5FF8D02213EC4D322AA9F6A03A9A95BA1A0F9C9A587974AFA726",
+      "bytes": 1758
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_output.txt",
+      "sha256": "DE07FB778441E7AB50D6C7F8FD3C7D64AF987195D2ECB340AD07ED19FDD884E9",
+      "bytes": 4888
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_reasoning.txt",
+      "sha256": "CF64225CB0D2AD87B136EE3D15D83022A9B9D45D964858D87B3B5D374F39C94A",
+      "bytes": 4485
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/first_response.json",
+      "sha256": "102C3DAC3047E0C153F398D44F256743E10F91EC4F6A464C9FAF36DE9FFB3559",
+      "bytes": 10168
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/metadata.json",
+      "sha256": "88C3D6ABCE1985AE9AE3C1491AFE534EF2C0228834ACB07345EB3AB67B166E86",
+      "bytes": 2077
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/original_records.json",
+      "sha256": "859E31085CA4163FCCAA61F509E203AAC64ED41718DF7A6B805917A59E6060F1",
+      "bytes": 5638
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/request.json",
+      "sha256": "BFC4F3029CB86555E5DF90E6E202F38BF2C8BD28950AD9448FDDF31E4447596A",
+      "bytes": 18498
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/submission_lock.json",
+      "sha256": "21D748FD8BF700E5D35407BB5BC7E8088F4B0BFC5C3AFD22629B99FE74852EB3",
+      "bytes": 971
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_便读.md",
+      "sha256": "7923407D1A38C5BB3ABD1B8E482F6B099655DB3CCCA23D0EF07E393F3C3F9176",
+      "bytes": 5381
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R01/首次评分_导出.csv",
+      "sha256": "242EB6C1F567E0376E6180ABC8F5720E6BFBA04E8A81F59D7EF1EA489082B191",
+      "bytes": 4029
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_output.txt",
+      "sha256": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "bytes": 5222
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_reasoning.txt",
+      "sha256": "966AB0B013234492AEEE9450D5F8A53E1CFA27039B0631803F8F14F50E517D3B",
+      "bytes": 25203
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/first_response.json",
+      "sha256": "49D229641DD7CD5E3D0107F7CADC80D117B0CAE54A6F664F8C1D10417F75A6EC",
+      "bytes": 31718
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/metadata.json",
+      "sha256": "8BC8CB3F04E37D1C037E5270C426761E7967EC4C10B4F4467C3C790F2E7C377F",
+      "bytes": 2082
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/original_records.json",
+      "sha256": "A761A8FAEC95C2CE1C097C8E89A2F3FBD6EB6018408EEF0AA684F344D8B22A46",
+      "bytes": 5222
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/request.json",
+      "sha256": "D87244076CC564B576E167D7C6E93D6E182E6DDFA8116D86AB5DBCB0ED2A1632",
+      "bytes": 18498
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/submission_lock.json",
+      "sha256": "735A2E345244BD699DBDDBDB587C6FCF40B7CBA73AF1672AAABC9CCE4E692AFF",
+      "bytes": 971
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_便读.md",
+      "sha256": "0D6F8F6CE2E0C52119FC5C8D0F4F9651CFDF8168A28418F4A9B2EF4912EE6A59",
+      "bytes": 5123
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/R02/首次评分_导出.csv",
+      "sha256": "6B4795A5CDE678C384E7560DD92968A9A55260E69F8DFFC9C8B244CF4C7E9BA9",
+      "bytes": 3757
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/文件完整性核对.json",
+      "sha256": "F0323C8C02EB96331A667F6619E74F0A455E1FBF92501E2AB3A343102DE7B308",
+      "bytes": 15744
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/静态复核_v0.1/评分结果解释与协议补充建议.md",
+      "sha256": "0E4322190F8895EA237645E6DEE87EEB38C49CFFBF93F3C556F811FAC3FFF137",
+      "bytes": 10359
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/共同材料.md",
+      "sha256": "150CDC4F0EB08BB59EFF28BF906167974B41F2CA1C2323F1B098C9066DE13877",
+      "bytes": 1247
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/分歧处理方法.md",
+      "sha256": "8EF129F12D9C8900C7FC58C6F1A92B468BE7F624EDD3EBA2FF31531ED26D79E7",
+      "bytes": 3036
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/分歧裁定记录_空白.csv",
+      "sha256": "34055F73670CCEAA201CA36D982AA60A12E16A612295511A968B9140E935B064",
+      "bytes": 484
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/材料清单.json",
+      "sha256": "C70C09EEC75A31B665AECD12A6785FE7E1C86E29F830F5AD7ADBA7DA0B63416E",
+      "bytes": 2103
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/评分记录_空白.csv",
+      "sha256": "D6870E0F43C3F8DCE5A7185ED757574DB80C3B7A2521C10C03C94CD857925D70",
+      "bytes": 261
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/阅读说明.md",
+      "sha256": "9B7280254A455F71A4FAD3DBA7C6EE688A2081DF63DF2514C719DE8F41709C2F",
+      "bytes": 2228
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/案例/CASE_001.txt",
+      "sha256": "A3C92053E0D665E8E538D0743FA9C296C6E8ED373122F989C1C5EB7D3476F122",
+      "bytes": 359
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/案例/CASE_002.txt",
+      "sha256": "98C7FA6270C2554B02B79A83B08A200895E7E5708D512A0FB8889AB4EE517AD0",
+      "bytes": 245
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/评分者测试材料/案例/CASE_003.txt",
+      "sha256": "53CAC28B208D6EA21CE37D8A259E10635227EC655669ECBCE8184A9556871A89",
+      "bytes": 641
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/材料版本清单.json",
+      "sha256": "986EF5342FF9978649B2C3E3462ECEE7ABB7D82B1A6DE9F2A245B358D2864616",
+      "bytes": 2209
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/独立评分协议_v0.1.md",
+      "sha256": "BF4F3AAC770713194E80C596E049D7ABF9EE8421184EAF91EC803A41D8C08D77",
+      "bytes": 10818
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/静态审查说明.md",
+      "sha256": "027F8A29F24D010EE0ED7C101FB4C44ABC8F42D94433F1ADD707FE0C975FE5DB",
+      "bytes": 2558
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/分歧及裁定记录_空白.csv",
+      "sha256": "BC1B099A84496260B3857AEB28E160E990EA2659EA0D70EAE246BA8C1CD97BA1",
+      "bytes": 619
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/原始记录锁定_空白.csv",
+      "sha256": "F7FD4D944CD1BDE648E2372E017EC79E9C546D440777D6BDE499675BE4FA9D19",
+      "bytes": 191
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/原始评分记录_空白.csv",
+      "sha256": "EDABBF5938C86B95192E36B9B5752B72040FD4606523608D4357D10E6A341B92",
+      "bytes": 417
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/批次冻结登记_空白.csv",
+      "sha256": "0934E6FB372574C20F0405772961E290386D0DCAC709370C091149F523A3D152",
+      "bytes": 336
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/案例材料登记_空白.csv",
+      "sha256": "A4150C5EE360BDB61BE75221D61346810AAF18CFE28054DE17A6F18D99B58D06",
+      "bytes": 473
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.1/模板/统计报告_空白.md",
+      "sha256": "A694708DA23E28D67B7E0A578F35BD6F9E9EB25A0B452111C3A149D224A64819",
+      "bytes": 2979
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/材料版本清单.json",
+      "sha256": "7266B23D45E442A63A07D5DCC1AFC4E7C454835040940129F2D023286B1B3604",
+      "bytes": 2944
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/版本修改说明.md",
+      "sha256": "F298D6FB80AFD9405E81293742191EA776FB274F31BCFEAEBE4631F9182A9A5D",
+      "bytes": 1333
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/独立评分协议_v0.2.md",
+      "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+      "bytes": 5080
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/材料/候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "bytes": 8175
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/模板/同分理由复核记录_空白.csv",
+      "sha256": "C06B53C0793C85291657266831F6DA7C291CC99D8DC33E47493ABEA721D7029F",
+      "bytes": 622
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/独立评分协议_v0.2/模板/阶段归档登记_空白.csv",
+      "sha256": "00195EF192A355B57500008C9E8B72BA686B66FE4BD92E64C7A5EC536ECBE72E",
+      "bytes": 245
+    },
+    {
+      "path": "真实图片候选集_v0.1/下载检查记录.json",
+      "sha256": "3E0AA3463974144B4806FD884CAD65676E8B2CD529EDFA44A265E942BB7FD5E0",
+      "bytes": 3774
+    },
+    {
+      "path": "真实图片候选集_v0.1/候选图册_v0.1.html",
+      "sha256": "580E5C16988EA577C6B2FF95F76D62480328A631B122DAA19B58E10B3349E806",
+      "bytes": 9293
+    },
+    {
+      "path": "真实图片候选集_v0.1/候选完整记录_v0.1.json",
+      "sha256": "426C626284D36197DBFB700C1CAB961805E8A1A976DD29CB50655779AD69008A",
+      "bytes": 62707
+    },
+    {
+      "path": "真实图片候选集_v0.1/候选归档清单_v0.1.json",
+      "sha256": "6637001FB6DA9117148D837090F29D915F0C777ABD4C781A12800894A4B6877F",
+      "bytes": 26237
+    },
+    {
+      "path": "真实图片候选集_v0.1/候选归档清单_v0.1.sha256",
+      "sha256": "D568B407F60BB1D1C8DB88254EEB27414024695BDC8C466B1FA3498A2A4E4B90",
+      "bytes": 16734
+    },
+    {
+      "path": "真实图片候选集_v0.1/候选最终检索登记.json",
+      "sha256": "DAD44B5C00CC2C612B459BB6E6725ABF648469F9388402CBBC1BA9813589AFA5",
+      "bytes": 2688
+    },
+    {
+      "path": "真实图片候选集_v0.1/候选来源记录.json",
+      "sha256": "F7D4CCB9A61617002C873FDBAF09FE598F6EFD7504D564702E4A4E33AF292A3E",
+      "bytes": 5293
+    },
+    {
+      "path": "真实图片候选集_v0.1/初始候选检索登记.json",
+      "sha256": "91B65ABC3ABAC1117A97CD71B1FC5CA84B485DD52DDE1776BF22E3CA784A584C",
+      "bytes": 2480
+    },
+    {
+      "path": "真实图片候选集_v0.1/版本与取得说明_v0.1.md",
+      "sha256": "DE94F35C16CC3C7080AE19462091F4A4C27DC83AF51C0A217ABA8CEE67C042F3",
+      "bytes": 2073
+    },
+    {
+      "path": "真实图片候选集_v0.1/画面检查与优先筛选.json",
+      "sha256": "64AA48BDABAFCFAFEE7F16D7D69380BAC9962FAAD475DDAA79455507B2BAC523",
+      "bytes": 15200
+    },
+    {
+      "path": "真实图片候选集_v0.1/真实图片候选清单_v0.1.csv",
+      "sha256": "8DC95C10267E178893C69E8211D489D05C2CB500929BDF06B58BEA2A772D94A2",
+      "bytes": 22385
+    },
+    {
+      "path": "真实图片候选集_v0.1/第二轮顺序补下载记录.json",
+      "sha256": "1F64B791F137DE4B1147F2F810F85EAAF2B6567E7B8AB041C5FC457911220AA6",
+      "bytes": 5706
+    },
+    {
+      "path": "真实图片候选集_v0.1/筛选过程说明.json",
+      "sha256": "3B0A032E361BA02CB24C37A5DB8F2156FED3230D7E83F04E9B0DCB767A819FF1",
+      "bytes": 1102
+    },
+    {
+      "path": "真实图片候选集_v0.1/补充来源批量响应.json",
+      "sha256": "35CF3780019D6D0629DA8CACEA8E927E92920DB828D575FFDEE41E91F40E283B",
+      "bytes": 10152
+    },
+    {
+      "path": "真实图片候选集_v0.1/静态检查记录_v0.1.json",
+      "sha256": "DA37A872D0ED86B8E320EA5D020D99D7F3238477819FD83F4E76FA6245B72D3E",
+      "bytes": 1314
+    },
+    {
+      "path": "真实图片候选集_v0.1/顺序补下载记录.json",
+      "sha256": "0B7804E19FA3A3048FF11776F4148A6A77780819E87CC8D96418B6991877D1F5",
+      "bytes": 7581
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/001.jpg",
+      "sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45",
+      "bytes": 571474
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/002.jpg",
+      "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788",
+      "bytes": 915277
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/003.jpg",
+      "sha256": "37150716F6AB3FC16B9FD706E64DED0FB89418222DA5A01F1B0C53041902B22F",
+      "bytes": 3698668
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/004.jpg",
+      "sha256": "093D61CDEAE8D92DB632BDD899F5ED07EB55CD1D12AEF6BEC2C9B3659762BA02",
+      "bytes": 3702120
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/005.jpg",
+      "sha256": "98BAB3B2466181EB670DC836F65763B37E3104250A02B284599F2257DE2ED301",
+      "bytes": 1418242
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/006.jpg",
+      "sha256": "3398C6DD377C6088450EB9CB251BE87D95CF97208CC6624D28D2CA961DE934D9",
+      "bytes": 8789026
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/007.jpg",
+      "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786",
+      "bytes": 1171916
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/008.jpg",
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833",
+      "bytes": 1647155
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/009.jpg",
+      "sha256": "F00B664F9659F5AC29CCBB3F3EA422FF789A565156150F3854FD27BCD71778B1",
+      "bytes": 101508
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/010.jpg",
+      "sha256": "7177BAD180AB6DC392DEDBA42F7E7F1488B43CE2D9DB8CED65732D0237228B9F",
+      "bytes": 5549595
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/011.jpg",
+      "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324",
+      "bytes": 1131819
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/012.jpg",
+      "sha256": "B912BE455CDCABDF6BD9197F1D42CF1DF28F11E48ECFA3506099F1CDBBD74F5E",
+      "bytes": 2309065
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/013.jpg",
+      "sha256": "AE5E5081BF26921D19C5634DCF5479227EAF78A70591EA4BD4F6263553CE0F40",
+      "bytes": 6884677
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/014.jpg",
+      "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08",
+      "bytes": 38439293
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/015.jpg",
+      "sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D",
+      "bytes": 24152287
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/016.jpg",
+      "sha256": "4C4AE1FC8C745DDE3A1F55D6E684FBBBA4D98D0523C1B27540B011011B07865E",
+      "bytes": 1956076
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/017.jpg",
+      "sha256": "83E86124ABF1DBC40885A64FF238D57BA22EE83224F9DAC299AF58E78546193B",
+      "bytes": 967285
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/018.jpg",
+      "sha256": "416BAF813216CD8D9978478A88A6BF65CF6B82123EC2FA3BB10909E311FB31BF",
+      "bytes": 9581665
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/019.jpg",
+      "sha256": "1288C23F78BC92FF505C8084D844044453513D16D1227FD442A818B95234B8D1",
+      "bytes": 2083860
+    },
+    {
+      "path": "真实图片候选集_v0.1/原图/020.jpg",
+      "sha256": "ADBC4CB6C3133217B7DF43F45FF1085751F978EDC6E5FC1FB773072AF00F8CFD",
+      "bytes": 74981
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/001/API读取元数据.json",
+      "sha256": "6617F9C20330BE2995A36D5FC8DFE0FFD0C69CEDD221C1E8EB336E7DB02744B8",
+      "bytes": 775
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/001/commons_api_response.json",
+      "sha256": "EC98242FDE0D89A7D71DF97A23F6E98A16AD314875E4DF9B37F3CB158D2E666A",
+      "bytes": 3261
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/001/候选证据记录_v0.1.json",
+      "sha256": "8F526E9B90BCFE72C1240C9AEF8D3AA878E85EB1E5289B6ECC5136E2B33720B6",
+      "bytes": 2726
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/001/文件页原文.wiki",
+      "sha256": "34708FD8B885968D091C513BB4F299EF03A9385C5A137AF850F8940091EE8DC4",
+      "bytes": 342
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/001/来源与原图记录.json",
+      "sha256": "8AF113A58CEF753936D54B7F8420CEB85F26B7AF9E7B1FA98D59B548B9E433FD",
+      "bytes": 2528
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/002/API读取元数据.json",
+      "sha256": "4DFBD82821AD803E19636C18F909FB6B68A2C84649B38C3A6BEEE5BBD0CF07D4",
+      "bytes": 799
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/002/commons_api_response.json",
+      "sha256": "2316423B7604D32157D6D8425F24C3723D363999C8C558CAEA9D991511D32309",
+      "bytes": 3521
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/002/候选证据记录_v0.1.json",
+      "sha256": "AB447FA32FFBE1FE7F02365743CDFC93795BCEF8D53BC7D5844928B1819FC104",
+      "bytes": 2800
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/002/原图补下载记录.json",
+      "sha256": "EF9D6E8A83CC9BE17787EB4C4E52ACA6E9809C3EADCD84ED49BE996B99DB75A7",
+      "bytes": 624
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/002/文件页原文.wiki",
+      "sha256": "09041567C0235704E43DA2C594BE1235335029BF0D04418628B7813209FA1E9A",
+      "bytes": 421
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/003/API读取元数据.json",
+      "sha256": "6780B79332F762D7DB5DB8E509B22F97742E7529A6FF6EBF720DCD58369A9BBA",
+      "bytes": 915
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/003/commons_api_response.json",
+      "sha256": "A66FD553402942222C25915012B7A993E605CCF333140679EA83B49AEAB04CB1",
+      "bytes": 4586
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/003/候选证据记录_v0.1.json",
+      "sha256": "CCF361A421C4BA7E457323F2FEED4B25893AF04192D54A522AE2044D7901A275",
+      "bytes": 3331
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/003/原图补下载记录.json",
+      "sha256": "108C735341841E7E1A68067E4204111FD505C28C88EC8E1AE41494F2DAE24087",
+      "bytes": 740
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/003/文件页原文.wiki",
+      "sha256": "A383940CDFA83FEF60A377E1E568DBF0F1132A552BC29951E6261F309ACF6537",
+      "bytes": 532
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/004/API读取元数据.json",
+      "sha256": "8019A2F63483AFBF851F9F1BBCEE0FADC4D7CB953CA46039678BE9BA1B5FF6EF",
+      "bytes": 797
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/004/commons_api_response.json",
+      "sha256": "15C3868694616A0D1E1A8DF27AB70D3125EA3080B60D48C474166B156885CD3E",
+      "bytes": 3279
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/004/候选证据记录_v0.1.json",
+      "sha256": "3F770D3733A9E8FF0C371F3F62ABCC8FC22C5F94A219D6AE5F45B39199F36860",
+      "bytes": 2738
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/004/文件页原文.wiki",
+      "sha256": "AF99628DD5A6092FBB26B0F2AB7A68DA56E8B90A472305C1898D20EB765B1792",
+      "bytes": 317
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/004/来源与原图记录.json",
+      "sha256": "524828A5B77E9A8379CE4205563EF983BFDC9FE29408E49532BDCF1C1674C557",
+      "bytes": 2556
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/005/API读取元数据.json",
+      "sha256": "7B975C4A9643183A6CC6BC2C4C3FA9F145F5DB49AABEB917754A22C5C6EA5C18",
+      "bytes": 835
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/005/commons_api_response.json",
+      "sha256": "203A19EFE302202594236DC54CFD48AD47E9754B107A339E579A4434135E855F",
+      "bytes": 3808
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/005/候选证据记录_v0.1.json",
+      "sha256": "57E4569088032A134A16B4E19696AA76E406087DC96832C7D7815876A61062B2",
+      "bytes": 3047
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/005/原图补下载记录.json",
+      "sha256": "60FF28527D449634458250168AE7C3DBE87E1D02D5241A4F8461899B1660275A",
+      "bytes": 660
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/005/文件页原文.wiki",
+      "sha256": "5B59E1655BFDEB6A698326217D649E9B65FD16559C73D796142D8C0351264CAF",
+      "bytes": 399
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/006/API读取元数据.json",
+      "sha256": "3D064D8EDEFAB320E08E938BC723D0C1413F358E67E78A7A45C4F677531B14A2",
+      "bytes": 807
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/006/commons_api_response.json",
+      "sha256": "C6BBBC1FE656423F4BAD726FD48BABFA0801ABA20ECB6BB6F03A4E3BA976FC92",
+      "bytes": 3349
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/006/候选证据记录_v0.1.json",
+      "sha256": "A35A20B2FA1DBECDC663BD51405FA204FEB9441CDFEFAD9900478B9706F7041E",
+      "bytes": 2852
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/006/原图补下载记录.json",
+      "sha256": "C177C3FFBE909221BAAA1A0B069F0D7FAB5D11780A297264A670106AB76BC95A",
+      "bytes": 632
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/006/文件页原文.wiki",
+      "sha256": "87790E16DA38EEC4721CB3633909E32A663E8F2E33345B0521B8ECD12245BF8F",
+      "bytes": 335
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/007/API读取元数据.json",
+      "sha256": "66E3094F9BDCD2B4D4CAF502AD6FCB6CCE95D3B0AF3DB552FA4FC06C4616ED40",
+      "bytes": 785
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/007/commons_api_response.json",
+      "sha256": "1404DABF7A7D2810DC3F969CD7A4F1466F45FB47D89AB76F49864B12CA710295",
+      "bytes": 4315
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/007/候选证据记录_v0.1.json",
+      "sha256": "B017EAE1B6C07B84D664E1C466613E80F4E38D3E6C837FBAAEC9BE3D7F85ABDB",
+      "bytes": 3308
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/007/原图补下载记录.json",
+      "sha256": "AF3A46DF5C5FADF1C27226F317B15F385D0CFD8F660B573D362C4B4A97D836E1",
+      "bytes": 610
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/007/文件页原文.wiki",
+      "sha256": "41A2FCB8118146B21BFB5DD53AC1174029DF5A3FD4664B290E3045A5B0C5D227",
+      "bytes": 446
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/008/API读取元数据.json",
+      "sha256": "8DFE0B44A861675285CDFF4EE51A23FB8F4AAAB0FACDAB875A6CCBE4B957BE1D",
+      "bytes": 821
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/008/commons_api_response.json",
+      "sha256": "A6B94CBBD08F2865FB93D59857FEBC7818C8C49B6A59ED40EB3C2F3FA57EEBB2",
+      "bytes": 4103
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/008/候选证据记录_v0.1.json",
+      "sha256": "A7C26D05554A99C58610BA45DAD5CD103F363D91345728DFB5B2FB92F3A6935A",
+      "bytes": 3177
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/008/原图补下载记录.json",
+      "sha256": "59F31E5BDD1CEF3C72B59375471E7CDA34C0088E90532E8917D0507B4149AD7A",
+      "bytes": 647
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/008/文件页原文.wiki",
+      "sha256": "FC6608FB21CB7E706801FE011F2C923C8AEB88E29A285D2DA286FAB96778A8ED",
+      "bytes": 612
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/009/API读取元数据.json",
+      "sha256": "02D3723B6C036DF4E7D7E4B12C0C9C50540F1DAFD4788C3326C49BC644CC1D93",
+      "bytes": 787
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/009/commons_api_response.json",
+      "sha256": "9661F979E3EE9C97F1036E3DD5692F5B047410AFD4BD17E7E5AE687F4B50EA9E",
+      "bytes": 3554
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/009/候选证据记录_v0.1.json",
+      "sha256": "DAABFB4D7F3DDC4929F06FEDAFBFA0DF94150E4B5F650DEC3CC63B2F63A2CA72",
+      "bytes": 2940
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/009/原图补下载记录.json",
+      "sha256": "6CC243AEBCA4A784F06D557499BCDD7D205D12E55265AD0709E3B08A58177F7C",
+      "bytes": 610
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/009/文件页原文.wiki",
+      "sha256": "D7087F61792EEDFE1224C391BBCFF8462C956A30F03FBD67F77E63F8F30DF105",
+      "bytes": 451
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/010/API读取元数据.json",
+      "sha256": "2A7E2A95951FFAC727A12E71B14E8FB1EB690AC4557B2D7B8C8BF5051D265FE1",
+      "bytes": 851
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/010/commons_api_response.json",
+      "sha256": "4AF1C45FED9947565A7EE00A4D4EC74455510CE481D2A956D4F2CDD7BC5DFF9A",
+      "bytes": 3531
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/010/候选证据记录_v0.1.json",
+      "sha256": "023A2E66C0833A0DF51A96DDADE93C5E76412C2F3A26EA1B547E3313880FDE2D",
+      "bytes": 3003
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/010/原图校验补充.json",
+      "sha256": "1CCD5BAC5B58189781FD3119F1A3B7C4E93A685D2628BD72D1BDDF8723E40A4B",
+      "bytes": 539
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/010/原图补下载记录.json",
+      "sha256": "B1C094CC4C49390FD3EC2238D68DAB2668276D77CE13CCECC026D9AC5871F0D2",
+      "bytes": 479
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/010/文件页原文.wiki",
+      "sha256": "B45C1E08038E61B83B82616E907C649166087535874451DDAA7069D58BE81B26",
+      "bytes": 337
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/011/commons_api_response.json",
+      "sha256": "453758EDEBA03ECC7B4AD23DD717E26D9BC83843653B6BAEE6982031301358A9",
+      "bytes": 6026
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/011/候选证据记录_v0.1.json",
+      "sha256": "D9BE7351EFBC1C2D219625125FDE4E5F3074B85B08FEB30E2179F55F96DA2C6C",
+      "bytes": 2922
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/011/原图补下载记录.json",
+      "sha256": "BE0968547ADE33BEDB8A020CF2AFC72EE91A756C0BE1039FF782339D4DCD1143",
+      "bytes": 644
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/011/文件页原文.wiki",
+      "sha256": "991287085CCBBF4F7A2B2BBC62A6FAFFA06F52FA5407F2129A9527C5995FAD24",
+      "bytes": 373
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/012/commons_api_response.json",
+      "sha256": "D013C08FA80615956D0A9B7C1AB384AD726CB43CC051317498B294A11B7C7881",
+      "bytes": 5453
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/012/候选证据记录_v0.1.json",
+      "sha256": "35C0AF68A2A14E97C9BEE0D3503603CC15E5814187772213A2322CB444249C36",
+      "bytes": 2779
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/012/原图补下载记录.json",
+      "sha256": "39B9A44B52ED1FC8E191ECFC20AC3BDB111ADA64FC8CC5F67952036ADB0A156E",
+      "bytes": 665
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/012/文件页原文.wiki",
+      "sha256": "952291ABDD7CE303320CF3B412468C8223339F445B2632257E05FE4BAB9B9992",
+      "bytes": 329
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/013/commons_api_response.json",
+      "sha256": "8B0CDE6F565A6D17CEB17E51D1FF072F3701DADD6DBB990B29039CF5F01F7AC8",
+      "bytes": 5538
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/013/候选证据记录_v0.1.json",
+      "sha256": "11147BEA5701569A5DC100A7C47F80BEE57B5E3D3960371EC1D664F2DCE8E153",
+      "bytes": 2965
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/013/原图再补下载记录.json",
+      "sha256": "206E7B22D703359EE167D3138152455843856E449ADCE09A5D851D05DFAD4D72",
+      "bytes": 631
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/013/原图补下载记录.json",
+      "sha256": "B36CF5059E83DE76EA2668181DFCE6830605E8F2E10F83D51F690CE8FB37DC29",
+      "bytes": 518
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/013/文件页原文.wiki",
+      "sha256": "F79E07AC0E580F087BD8E4E7075A9A582F97F73857B50541253D95B5FF8AE697",
+      "bytes": 511
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/014/commons_api_response.json",
+      "sha256": "16026C2AE6D2AEC5B70CC978C76A7767D6DB62AF7F5FA5D1D8814816735A9F67",
+      "bytes": 5419
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/014/候选证据记录_v0.1.json",
+      "sha256": "55DDC52D7C248C4BDC4088BDFDC0BF53D377FD8B881CC7DE6A16A6F0EEFB3220",
+      "bytes": 2866
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/014/原图再补下载记录.json",
+      "sha256": "1D0E8F19E4DBDD402A8995A2938997F094CF33A2551D8916A09C357E0B9FF8A2",
+      "bytes": 604
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/014/已排除_横幅裁剪版来源.json",
+      "sha256": "861BAF346B7873304939355C73193F095A81A247736500F3CDDBF3DFF69C828F",
+      "bytes": 5550
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/014/文件页原文.wiki",
+      "sha256": "2847E5E8D94780FA2BAC0463A0EAC937784942568476912DA14ED79EBDA907A2",
+      "bytes": 365
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/015/commons_api_response.json",
+      "sha256": "1004C94260BDC62D28E6B5507BC7C4AFC0179C9DFFE5886E0C728CEA91D7C317",
+      "bytes": 5927
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/015/候选证据记录_v0.1.json",
+      "sha256": "77032CF1C6F20D6F5966E81BFA785609379DD4DA282DF429755453B097E221A1",
+      "bytes": 3122
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/015/原图再补下载记录.json",
+      "sha256": "C2C3569693AE24CA66C0EC6ADA80E79639740686CA061E849A9909292DFD031C",
+      "bytes": 650
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/015/文件页原文.wiki",
+      "sha256": "17B2BF81646A299CC1E694CCC3C30D0EDE425844019132CEFFE3AA412EF19B2D",
+      "bytes": 475
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/016/commons_api_response.json",
+      "sha256": "49375A3EA8812224D322A0E7E534CA957DEE57289BB9E6BFF60E990A2AD24BF7",
+      "bytes": 7256
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/016/候选证据记录_v0.1.json",
+      "sha256": "F9D166E5CC248AB3B569D4B11A408E9BE1C3D89807C7DD733FDB48E58E644242",
+      "bytes": 3808
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/016/原图再补下载记录.json",
+      "sha256": "7831D50795C739A1C42A62974FD67D4B1B7B3C41A1B4A3B5707407E4F316E8CF",
+      "bytes": 684
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/016/文件页原文.wiki",
+      "sha256": "01C976BAC2C32755F30C63A53BEC85D77684C2078958180C091F2003A7F25280",
+      "bytes": 967
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/017/commons_api_response.json",
+      "sha256": "C816EBFC85EA606E7E624B552B6ABFFB5E8C9DFFD3B1C9DE3FCCBC1C5B094D0D",
+      "bytes": 5751
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/017/候选证据记录_v0.1.json",
+      "sha256": "2CBB48363C025EEC9287F4159AD2F926E7B7BAB531C3E7878135441E08CE5FA7",
+      "bytes": 2918
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/017/原图再补下载记录.json",
+      "sha256": "565225CA0D2A8459CA5083DF80121A5C05EF878E7C70D98CEAF9D11E30E2ED27",
+      "bytes": 637
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/017/文件页原文.wiki",
+      "sha256": "7EB4B667D83831541AE3693FE9F287774750DC2CB987CC4CBA0E005439FB54D7",
+      "bytes": 551
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/018/commons_api_response.json",
+      "sha256": "8A1EA0E6CFB43E1A8FFC4A41C4402B06296C1201A6F3784F917D7F179E4133B7",
+      "bytes": 6906
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/018/候选证据记录_v0.1.json",
+      "sha256": "B768CB9934BD3E0A71A268915A4AB80D7466BD1DC05D1FB8DC41CC9066B84A6D",
+      "bytes": 3177
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/018/原图再补下载记录.json",
+      "sha256": "41C69D23EB95E2AAB640B99A0AD64CBE0EBC0946FD05DA8F2894ED8A0B43FEFF",
+      "bytes": 633
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/018/文件页原文.wiki",
+      "sha256": "413CD864E5387226A10A44B6884E2EAD903CE7196E44B3EF317FFE217F6AA201",
+      "bytes": 545
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/019/commons_api_response.json",
+      "sha256": "D7D4D0850CEB20EB7EC9766E31BBD7857B1352FEA6C1BA8C4AD7746F85270861",
+      "bytes": 6047
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/019/候选证据记录_v0.1.json",
+      "sha256": "CB0E8E2DE157CF2756A7456EA1A955F2B40C2B32DEA4410B462BE7364953F702",
+      "bytes": 2913
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/019/原图再补下载记录.json",
+      "sha256": "2A4F1E7D8EA29F8E6441C212BA7C6FB6E414EE5F6773D26FB81BD7D026A88E0A",
+      "bytes": 653
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/019/文件页原文.wiki",
+      "sha256": "C629D4A5DBE67B8113C91030490DDF30903DAB92D1884C83E0B8E6568C972B2E",
+      "bytes": 352
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/020/commons_api_response.json",
+      "sha256": "EF95B0FAF89EDF0451235951220D07346EEA5E0FB722D71F0003125F4BCE9660",
+      "bytes": 5416
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/020/候选证据记录_v0.1.json",
+      "sha256": "72DEF6D65BEBE5B6404B27390D6AD8390C237166ECECC90377E0F7C7A322E6DD",
+      "bytes": 2782
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/020/原图再补下载记录.json",
+      "sha256": "6AD0C7C6C1CADDBDE9088588EB8C81C8877A92EBF211842F6D3CC8DEF80EC5F5",
+      "bytes": 611
+    },
+    {
+      "path": "真实图片候选集_v0.1/来源记录/020/文件页原文.wiki",
+      "sha256": "0C48288EA31AD76B8F3BF767A23DE08FF119EC551DF165B8407344F770BFED07",
+      "bytes": 331
+    },
+    {
+      "path": "真实图片标签核验_v0.1/README.md",
+      "sha256": "933D87DB168D2CFF3C95203EBEF13052723F48713736B8DA7B328933D779316E",
+      "bytes": 790
+    },
+    {
+      "path": "真实图片标签核验_v0.1/外部证据访问索引_v0.1.json",
+      "sha256": "75F1B6EFFBF586FACEF443AC69E2B6C8BAD44B7B8CD22E2A22ED0795C808B630",
+      "bytes": 36622
+    },
+    {
+      "path": "真实图片标签核验_v0.1/标签核验总记录_v0.1.json",
+      "sha256": "801435560027A970525CD62C6C57794BAB343D36BDACFFEAAEC5E42FDE0F69A8",
+      "bytes": 26149
+    },
+    {
+      "path": "真实图片标签核验_v0.1/核验归档清单_v0.1.json",
+      "sha256": "2E2AD8D16DD0787F1E8EE367905048028E89C454A8EF456B9E84DFC611C152D0",
+      "bytes": 12069
+    },
+    {
+      "path": "真实图片标签核验_v0.1/核验归档清单_v0.1.sha256",
+      "sha256": "24032682DF6DC94099B3436D56B25E797761FE14B5B8475D51FE4B121850FF4E",
+      "bytes": 7441
+    },
+    {
+      "path": "真实图片标签核验_v0.1/真实图片标签核验表_v0.1.csv",
+      "sha256": "E0A8617E8BFBEBF030312523F54DD270A944ED879827247E94D163A6BE77C020",
+      "bytes": 16632
+    },
+    {
+      "path": "真实图片标签核验_v0.1/静态核对记录_v0.1.json",
+      "sha256": "310A93A1830EDF98C4B374884A782FD22E8535FAAACA720CFCB601D43A88E7AD",
+      "bytes": 1793
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway.html",
+      "sha256": "EE4AFDE7061439E6CCEB4C1A396261C339606228996C69B707991AE52790CCC2",
+      "bytes": 82919
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway.json",
+      "sha256": "FEEF60A01619CFA29E67E3E25F3AC853A5CC5811B49827AB3ECCC262D490F0E6",
+      "bytes": 1332
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway_photo.jpg",
+      "sha256": "7A0B8195F9BB3FBE4F99B01DDA31581E963C1212A757C2FCE1C758F0423881E6",
+      "bytes": 67336
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/001_railway_photo.json",
+      "sha256": "CEA5DEA6E908A84C401D98C190BAA60A752F2BF3EEA1F3B1E744B4DCBA8A9BBF",
+      "bytes": 534
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_designer.json",
+      "sha256": "A1BC3E1E8D1B38342B87749C7DF409413D8ABD57A6EDA94E02CDF9881FD06E8F",
+      "bytes": 303
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_designer_alt.json",
+      "sha256": "0279441209A79D643E401B7A9272764D7F3EAA3BF266FC19C724591019B39297",
+      "bytes": 331
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway.html",
+      "sha256": "7A8FD9D9321DB738FDCD4C16A7C6A0942823713307CE1404B3A0439E8631535B",
+      "bytes": 63083
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway.json",
+      "sha256": "BB68117A1E56FEE311029D529AEFF547D6E5D49861100C238774CCB3FC01E84C",
+      "bytes": 1271
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway_index.html",
+      "sha256": "D124738C2BE946A924C01AB84892CB5919D94AB0964D5F6B462A0AC0238AF158",
+      "bytes": 69186
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_railway_index.json",
+      "sha256": "5EC6182F282A54905BD0600ECDC4826D3C726B25D20112BD2421035B2AA3FA60",
+      "bytes": 1257
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_reporting.html",
+      "sha256": "019F3D548E2DC309897DC57B3627473D01FD3BF24CEB60F2A3A5085F60ADE33B",
+      "bytes": 57055
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_reporting.json",
+      "sha256": "B2DC93A25B85E665FFF7D1332B3CB850DE28E70D0D4CB5FE77DD34724895E7BC",
+      "bytes": 1749
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_report_photo.jpg",
+      "sha256": "028ADFCE0C2970CD917BE7258CC7D06662ECF1E290A17029D4BE35817314A828",
+      "bytes": 205784
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_report_photo.json",
+      "sha256": "BC1E36844F5CE5994C9E329D153EF200E58CA440743E6D26A2087F873BF880E0",
+      "bytes": 523
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua.html",
+      "sha256": "A002D5A8E58BA9D40A79A56D959BF7DF0CAD0AD78CBE9ABF170A996DF0F2152C",
+      "bytes": 66459
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua.json",
+      "sha256": "DDF67374FE0810457C50DCCAE1D718B8C9887B1474DD5B49A63639FD5B7B90B2",
+      "bytes": 2126
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua_photo.jpg",
+      "sha256": "0607EF79432E09028AEC9A95D1CF30D84B7A1D0781145EF4B5271DB6DD698D3D",
+      "bytes": 27847
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/002_xinhua_photo.json",
+      "sha256": "156B24ED453E4BBB1BF38BA6B21BDDCDBC34C1C51FC5BB200FCEE125B1114069",
+      "bytes": 534
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_railway.html",
+      "sha256": "2376047A1F404C5C44C72C9765080682C79E0C632761E82265720B679CFF1539",
+      "bytes": 71808
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_railway.json",
+      "sha256": "52FBDF57623E5C278494B030FDC45D86CBC22B9411EFB2151A6AE024B99F4B11",
+      "bytes": 1392
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua.html",
+      "sha256": "3F1C9FC11C37D1844A9D3E1B566BBC27FFEA2A59A7738696B725D781EE128DF1",
+      "bytes": 12016
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua.json",
+      "sha256": "FF70CFBFD189FDD5483C83F40B0E5FD0E5D3788D6D71C2E6EDC6C75B3EB2E1B3",
+      "bytes": 3152
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua_photo.jpg",
+      "sha256": "35FE2A615093FBEA74C0FA8FA3F8B3ADA343F36D94EB38155C52424426E47D44",
+      "bytes": 488471
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/011_xinhua_photo.json",
+      "sha256": "E43F1F3BBA4478A6FE02244AA9006ED82B120046454E231C4735AA9B32853D89",
+      "bytes": 509
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_baq.json",
+      "sha256": "B36AAD4D20A7FEF247D93C1A357B6ED424EA11DF8660C88C4CCF436A4480EAF9",
+      "bytes": 250
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_baq_photo.json",
+      "sha256": "D1BC5E4E8CF766F32BFA1C3BAB464097BE799EB1EEE5DDDD9DE530395A4199C4",
+      "bytes": 246
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_huangshan.json",
+      "sha256": "E64AC4A6BB476FA811B776B26A3EC8A158AECB49940F9AB50EF17FAC3955CBC0",
+      "bytes": 321
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly.html",
+      "sha256": "A3CCFCBB7319E08BA6893B6CB1CB311CC01FA6301DF7AE1E06AA611EFF07D616",
+      "bytes": 154690
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly.json",
+      "sha256": "840DA966111B0B1CF75FE65D8ACAD80FB5B806EFA0E457C34983E11CAC6FB219",
+      "bytes": 6304
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly_photo.jpg",
+      "sha256": "8AB4B1447EFEDE6EACD8BE33397964D133D0AB5C33B31D68A3C793BB72DC8407",
+      "bytes": 112559
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_ly_photo.json",
+      "sha256": "000FAF2A8E8C8D112ABFD6CF11F252A4066DEF02773B55E332F9BAE3F474937A",
+      "bytes": 469
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_tourism.json",
+      "sha256": "983E84184C65CF7657F77B7E342DEAE990A356B972CBBF1F04CF40E87D286839",
+      "bytes": 191
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel.html",
+      "sha256": "BE7BA93C3E38AF805D65F820661476BA9B3964CEADC062EF2BE0C63D29B563F0",
+      "bytes": 41869
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel.json",
+      "sha256": "AE0D16331002E134D60E2EA6E54AE488760C3E1BF59CF86F2731381DF4CBB805",
+      "bytes": 7993
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel_photo.jpg",
+      "sha256": "991F1AD17C87366F84FF8BC584B75E537062F526D6E202A95689E3B25C698245",
+      "bytes": 130872
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/012_travel_photo.json",
+      "sha256": "2A3D352A659C570618C296FD812BA47BE41084EC5E6501CCB18A9A9CB5A8CC9A",
+      "bytes": 541
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_localgov.html",
+      "sha256": "D583CB097AACE07D88FB0D8C6DE7E0C1595BB8172AC3BC811CDAECC9A4552317",
+      "bytes": 111328
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_localgov.json",
+      "sha256": "DB69D3914EF18AB34DCC5D5FAA1760D951F3EFA30C0AA106A1E152137FD02AAE",
+      "bytes": 662
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_mct.json",
+      "sha256": "01EE655ACF27B596DEB6D9A473CE2C0124899B69C40C809EBE17D20591EBC00C",
+      "bytes": 213
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_mct_photo.json",
+      "sha256": "16A41EB1DFC7B8D32DFBA282E5CC5FE916BEC1C877021CD5B2912C92D96B5EF5",
+      "bytes": 230
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_province.html",
+      "sha256": "974C12EA0B3B044DF460EE0EE785C392AF18A49ECD11342D96CA90580B9CDB58",
+      "bytes": 18239
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/020_province.json",
+      "sha256": "BEC93DDEA7AFD6034604E4EBF31489215134CC7C0FDB89449EEE762C4629F2D5",
+      "bytes": 765
+    },
+    {
+      "path": "真实图片标签核验_v0.1/证据快照/工具读取字段记录.json",
+      "sha256": "0927D2BA4AEF1BA4DF64DF96F3581D0480CB05C9C52C50AB51D8E87AADC7FB03",
+      "bytes": 1103
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/001.json",
+      "sha256": "0109B51FAFA416E227E9A4C1294A65FD7D2F35E54CAD1C6B02C1DFF44CBF522E",
+      "bytes": 5089
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/001.md",
+      "sha256": "4BFF5588078F3BB3AB88AC9A79DF2FD9DBA435471073D5D95B3231B1DB9AFC6C",
+      "bytes": 3593
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/002.json",
+      "sha256": "A2DBC7AEB56649A540C4641D88D4B4237B821560ECB98C7636E607A3E76E5962",
+      "bytes": 10616
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/002.md",
+      "sha256": "199B32612FD9D0C7FB10BB0FD412D57178516C927F03DBE8D0A67AD0F855D577",
+      "bytes": 4841
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/011.json",
+      "sha256": "641B8E412B0868D5FF9DEA3959F25F4C23D849C3E36B3617096645DEFED812D0",
+      "bytes": 8876
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/011.md",
+      "sha256": "A67F333D8DB0403A0C6AF6BFE4037A1E554E69D769842A425558E79536CEE4F1",
+      "bytes": 4149
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/012.json",
+      "sha256": "F34BF34248B910E5985CE4A66CBDDCA3D8C02B923E8DCC5606C69BF0071655F1",
+      "bytes": 19293
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/012.md",
+      "sha256": "3D747D330ECC1EACC9ED2D6A237E620DC32E519AE995C2CEF461709227CD6280",
+      "bytes": 4705
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/020.json",
+      "sha256": "142FC856BEB37C02C8EEF57A9844DB912ACAD837D1FA0B0FD79B4CB67BE72E13",
+      "bytes": 5250
+    },
+    {
+      "path": "真实图片标签核验_v0.1/逐图核验/020.md",
+      "sha256": "2D7FEF55E78D6921FFDF15C607EB7AF906306839C9867592FB5CBC84A98F47C9",
+      "bytes": 4167
+    },
+    {
+      "path": "订阅试跑/BC逐句标注.md",
+      "sha256": "33E1C4468EBE789FD9106478663E5E079B13D1AA08BFC207EF63A89E332D0D7E",
+      "bytes": 9619
+    },
+    {
+      "path": "订阅试跑/run_trial.py",
+      "sha256": "70B690C4B22B6C590311056FBA319D4BB475556E2BE368868EA110CD9FC102BE",
+      "bytes": 7948
+    },
+    {
+      "path": "订阅试跑/试跑记录.md",
+      "sha256": "9558E67FC544ADBF796D030D33B2AD0848ED4CD4029821C6845202080E23B36D",
+      "bytes": 5715
+    },
+    {
+      "path": "订阅试跑/首次日志复核.json",
+      "sha256": "453CF74EEF6571FC5B4C67DDD5C92F515209846D844837D15953629FE31B53E4",
+      "bytes": 6877
+    },
+    {
+      "path": "订阅试跑/inputs/001.png",
+      "sha256": "D6C75712367A7BCA76B176A9670ED5F7328A800FED063617AEEF4140F30F9288",
+      "bytes": 16542837
+    },
+    {
+      "path": "订阅试跑/inputs/appendix.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "bytes": 5130
+    },
+    {
+      "path": "订阅试跑/prompts/A.txt",
+      "sha256": "2E730FCCCEDA2510CF2CCD067C3AAEEC3109C3A3D7777B640A8E9A327CD003D5",
+      "bytes": 528
+    },
+    {
+      "path": "订阅试跑/prompts/B.txt",
+      "sha256": "53343B6296215D6A5A5E6D036CE98DEE513591D298F9EBE90B71BAB1498D2D4E",
+      "bytes": 906
+    },
+    {
+      "path": "订阅试跑/prompts/C.txt",
+      "sha256": "DEC6056C1284796FB4E7B9B68E47B57C00E6585BF3421B3801C099EFCA42985E",
+      "bytes": 1444
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/appendix.md",
+      "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+      "bytes": 5130
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/A_command.json",
+      "sha256": "A9C533DA748BC94A1C3467A3DF9700358D2CE950E3C89F05AE42162528B0DAD4",
+      "bytes": 28306
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/A_events.jsonl",
+      "sha256": "8A8144C6FD4698B79E5E9FF85A272EA1D0D9310A5B35DA16403F468022D55301",
+      "bytes": 1260
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/A_input.txt",
+      "sha256": "6B8A7974780540971CC7C5852998B59C986E5413E1433CC3EFBF19B349603602",
+      "bytes": 5745
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/A_output.txt",
+      "sha256": "48CF94F9B9D9F245B42ACBAD890E45ED1166431DAB7A7413F61F29F6C0BC86B2",
+      "bytes": 57
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/A_stderr.txt",
+      "sha256": "F1E8BB91D07115C3A9BBBF34A27601D963D9DB8AA774B16EC3CACDF94E94AE60",
+      "bytes": 1390
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/B_command.json",
+      "sha256": "BC2B89188D866F2A2910717D03CA6922FB0E002FA950675D85988585810A50B2",
+      "bytes": 28306
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/B_events.jsonl",
+      "sha256": "D984BDE4C48BAC9645D06DD018032CF0ACA4D1CAE48A9027D9FF731C4B0B1EB8",
+      "bytes": 1890
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/B_input.txt",
+      "sha256": "3AFEC8D4971922100DD95BC76BE9640AB133B829A9404971D019ED933FD22922",
+      "bytes": 6129
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/B_output.txt",
+      "sha256": "30E8E04A7BC022C9F14189DE1B7E373BC897AA1DAC6D1B4BF6B1E26BAF68048C",
+      "bytes": 682
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/B_stderr.txt",
+      "sha256": "A1D574A68227F36704EDCDAE2BF1D0D8C3A789728C1EFFCD2218954424EDBEFB",
+      "bytes": 1390
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/C_command.json",
+      "sha256": "E17C497E1B9AE83B3EB7E83243FACB148FD22FFDF308BBF0FE75E5313FA30CC8",
+      "bytes": 28306
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/C_events.jsonl",
+      "sha256": "E3EE6D16FCBA2AF2B9EFFF8D2051DCE9BD638E3645333F4F06C0A6A5064BA04B",
+      "bytes": 2052
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/C_input.txt",
+      "sha256": "3789AEAD7E6CC232CD1977D749561AC794663A2096E0A62CE16989F70ED747B2",
+      "bytes": 6672
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/C_output.txt",
+      "sha256": "3C75E6B1F9BE644FE12810FE57FE90E902B86B3383F637E1C5C758A1CB4A675F",
+      "bytes": 840
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/C_stderr.txt",
+      "sha256": "EBD9FE990B21889E6A598E36DBCADA44514A9C79E0D40D34B9C81F33799204C9",
+      "bytes": 1628
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/manifest.json",
+      "sha256": "E3A02575B52F0DA970D33F778EE35C8827ECD17D5BF419306B712C4CD3E3ABD0",
+      "bytes": 936
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/protocol_review.json",
+      "sha256": "F698A90D3A10984C8F72C74AFDA53BEAF9833355D177E37A6231F54DF81D01D0",
+      "bytes": 4496
+    },
+    {
+      "path": "订阅试跑/runs/20261009_205434_047958/summary.json",
+      "sha256": "2EB13D5A4DC9C10CC7D07AA6EE37129C70DE4781A83083B93B4BA2489ED37ED3",
+      "bytes": 3644
+    },
+    {
+      "path": "路线A最终追查_v0.3/执行状态_v0.3.json",
+      "sha256": "B7FC132EA4C70F17C8C1FD160A4006BD51121A4B596333F2B2CB11BDFF5E75E4",
+      "bytes": 3568
+    },
+    {
+      "path": "路线A最终追查_v0.3/旧档基线.json",
+      "sha256": "31556564E0AE7D75210EEB39E39377324C51858DC2A58DC76F7D7FB0B3058894",
+      "bytes": 202688
+    },
+    {
+      "path": "路线A最终追查_v0.3/旧档完整性检查_v0.3.json",
+      "sha256": "9A564C1F9636486333A23826C6CB597D29113A5912F1A9C81200190C70F0B00F",
+      "bytes": 383
+    },
+    {
+      "path": "路线A最终追查_v0.3/最终归档清单_v0.3.json",
+      "sha256": "4AE9644D9ADC3B3E85E0E594F588EAEA015243F052FE464F381082841CFBBF41",
+      "bytes": 1968
+    },
+    {
+      "path": "路线A最终追查_v0.3/最终归档清单_v0.3.sha256",
+      "sha256": "9F066FB67D0EDCC0E9574DE113C8D4AF160EFDF416C1CD0A680A8C3E1EDF4DFE",
+      "bytes": 96
+    },
+    {
+      "path": "路线A最终追查_v0.3/离线入口复核.json",
+      "sha256": "C6160391CEDC1736085644EE71BCE5D455B5077C2C1D77AAF3EF9B6ED7C3C8C0",
+      "bytes": 1649
+    },
+    {
+      "path": "路线A最终追查_v0.3/015证据/定向检索服务响应.json",
+      "sha256": "880BEE46FF47F5E0671A95B8714FB93EA9C2D30885E6213168EA316C249118BB",
+      "bytes": 26665
+    },
+    {
+      "path": "路线A最终追查_v0.3/021证据/浏览器读取记录.json",
+      "sha256": "1607DA36A71700E8F86FF29755DC373C9D29C7E51DF5ACF041F5F98AA9632E52",
+      "bytes": 1991
+    },
+    {
+      "path": "路线A最终追查_v0.3/022证据/定向检索服务响应.json",
+      "sha256": "7F713403DFED4398BCCDB6DB4E2A3CD962AC1629E4FF8E15C5F84C6001007985",
+      "bytes": 196
+    },
+    {
+      "path": "路线A资格追查_v0.2/015原始记录增量追查.md",
+      "sha256": "C3017AAE5533783237C190388792EF6C7B3E45C34665D0F3B1DFB07191CFFF66",
+      "bytes": 6526
+    },
+    {
+      "path": "路线A资格追查_v0.2/021相册与站位追查.md",
+      "sha256": "B113CE8B07513F57B6AC5F473B8B98BEAE0D0937A58A57A8314DCBA31DAB5424",
+      "bytes": 6764
+    },
+    {
+      "path": "路线A资格追查_v0.2/022早期记录追查.md",
+      "sha256": "96D0E3A1E5FC00D3F3D9EA9072F476C029D8AFEF01857FCDF3819E56ED1F6D65",
+      "bytes": 4630
+    },
+    {
+      "path": "路线A资格追查_v0.2/旧档完整性检查_v0.2.json",
+      "sha256": "178D69CE501DF84A2A53EADA9D156C90651AA7B93A41B745D90B75598A977709",
+      "bytes": 5093
+    },
+    {
+      "path": "路线A资格追查_v0.2/追查归档清单_v0.2.json",
+      "sha256": "EAE1EBC1B72D2D64FE7D91358D06250EC960B290E5F65134BF887F06AAA00D9A",
+      "bytes": 5155
+    },
+    {
+      "path": "路线A资格追查_v0.2/追查归档清单_v0.2.sha256",
+      "sha256": "25A4E684CE579F40A2F45F3C952D98AAA988F70A0D9E264971DB9D50C0C3AE65",
+      "bytes": 3120
+    },
+    {
+      "path": "路线A资格追查_v0.2/追查状态_v0.2.json",
+      "sha256": "99456B8F947B371202650C8E5F2F304806C21D15099203DF67F4FFFCF1211065",
+      "bytes": 1949
+    },
+    {
+      "path": "路线A资格追查_v0.2/015证据/01_author_about.json",
+      "sha256": "D107305A5005710A913C90727EF8C2609E632D733E38E310F5D684F6FA48985C",
+      "bytes": 77098
+    },
+    {
+      "path": "路线A资格追查_v0.2/015证据/02_gallery_2013_history.json",
+      "sha256": "04F57E0DAB797110B81370666101CCB4A1C13D59204F3E14CD9E1B7552AE05DC",
+      "bytes": 2327
+    },
+    {
+      "path": "路线A资格追查_v0.2/015证据/03_gallery_early_contents.json",
+      "sha256": "6C1FCEAF8DDACBBB9F09750EAD355CDB0BF4995AB91CEB8AD0D5A1E3C9DFD97B",
+      "bytes": 693724
+    },
+    {
+      "path": "路线A资格追查_v0.2/015证据/access_01_02.json",
+      "sha256": "D8362F02A64EA4E2D7EC6D40513394B2C88B28BE6FEA28AF25351041B3515D2A",
+      "bytes": 1486
+    },
+    {
+      "path": "路线A资格追查_v0.2/015证据/access_03.json",
+      "sha256": "22CC8450318C68CCED2F4C75A301555F10BA0E41E832CBE0A4CB2517BE409293",
+      "bytes": 943
+    },
+    {
+      "path": "路线A资格追查_v0.2/015证据/early_gallery_target_extract.json",
+      "sha256": "3633A1976FC81AB9193F09CE817780BA2EC18F21B62F0D5551C033CA5FDE28B2",
+      "bytes": 7801
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/021_albums_page4.html",
+      "sha256": "18F52049E2217333BE8A2C6FD9BB7562ADF8BD6DD9C81E527242DA3E0B75E89C",
+      "bytes": 584428
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/021_albums_page5.html",
+      "sha256": "C5D7FC1A6AC460D91788D695767F1D9384028251A70C5BDA9C9D5D4DE78179F4",
+      "bytes": 582811
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/021_album_72157622277632409.html",
+      "sha256": "DCE6A61710D41B24FA56D8B8B69D3199D8D8E04BA7295336B7308B0FB618D5B2",
+      "bytes": 644613
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/021_album_72157622397833494.html",
+      "sha256": "F6BA87E6B83420011BCFBD9E70AA3E383B5A93B2E5F56A6DB26B7D1FB9C54F68",
+      "bytes": 622947
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/021_album_membership_fields.json",
+      "sha256": "4CB0452CBDEE297F8A41B46F16B3EBFAB9E23678E6D7A70714E0443E07946F81",
+      "bytes": 1053
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/021_photo_in_album8.html",
+      "sha256": "6A4D5C12E1E4A5F84FE9747BE39B1BB9A6E6AE7D6DE6BAB147D1A62D2EF625A0",
+      "bytes": 527200
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/access_log.json",
+      "sha256": "726E7AEC60FEFDCFD7D68A031480308E21D04036B2CF81045FD3E11CDDE4418B",
+      "bytes": 2511
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/offline_album_index.json",
+      "sha256": "48597CCADE79217575240FFB65761A64422227742C889F4577D5A7A9B3FFF5B0",
+      "bytes": 19959
+    },
+    {
+      "path": "路线A资格追查_v0.2/021证据/offline_photo_structure.json",
+      "sha256": "AAD3EA9983CC3042F5FA064CFF7AB5F8359577AA06C254F5B2D70089D791F062",
+      "bytes": 476
+    },
+    {
+      "path": "路线A资格追查_v0.2/022证据/022_description_full_history.json",
+      "sha256": "16847620155DF811C0D242CD39A1EE85399334B6200406FDAF9F02726F985343",
+      "bytes": 13447
+    },
+    {
+      "path": "路线A资格追查_v0.2/022证据/022_old_name_history.json",
+      "sha256": "FCCA9E3B22093C9E9E095F1103671D2BDE29C0FBEB7C4618783500B987558D4B",
+      "bytes": 472
+    },
+    {
+      "path": "路线A资格追查_v0.2/022证据/access_log.json",
+      "sha256": "60786061FC902BB5B6E1E07AF9D379F47E7474ED390417776FB66A3A0133EECE",
+      "bytes": 914
+    },
+    {
+      "path": "路线A资格追查_v0.2/022证据/search_summary.json",
+      "sha256": "355C2593FE391C8BBA3B3203BB9443ECE048B2A711A20E2826CF5FA31EF5E297",
+      "bytes": 1107
+    }
+  ]
+}

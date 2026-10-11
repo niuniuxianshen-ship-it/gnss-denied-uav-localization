@@ -1,0 +1,20 @@
+{
+  "candidate_id": "010",
+  "encoded_size": [
+    4096,
+    3072
+  ],
+  "exif_orientation": 6,
+  "display_size": [
+    3072,
+    4096
+  ],
+  "source_size": [
+    3072,
+    4096
+  ],
+  "bytes_match": true,
+  "SHA1_match": true,
+  "SHA256": "7177BAD180AB6DC392DEDBA42F7E7F1488B43CE2D9DB8CED65732D0237228B9F",
+  "explanation": "下载文件完整；初次尺寸断言使用JPEG编码尺寸，未处理EXIF旋转。按原图方向显示后尺寸与来源一致；保留首次失败日志并补记核对，不改原图。"
+}

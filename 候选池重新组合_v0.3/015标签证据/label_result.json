@@ -1,0 +1,42 @@
+{
+  "candidate_id": "015",
+  "record_time": "2026-10-11T13:20:18.823963+08:00",
+  "proposed_province": "云南省",
+  "evidence_level": "有独立支持",
+  "scope": "province label only; camera qualification unconfirmed",
+  "original_sha256": "a802d32149ab3a16fa8c4aa1cb894536e129313d170a650cf3f282f171d11d2d",
+  "sources": [
+    {
+      "author": "chensiyuan",
+      "source": "Commons",
+      "description_field": "yuanyang rice terrace yunnan china 2012 paozhuzhai sea of clouds"
+    },
+    {
+      "author": "风的印迹 / @kwan",
+      "source": "Sohu",
+      "field": "first paozhuzhai subsection and adjacent 3 images; viewed all"
+    },
+    {
+      "author": "FotoSky",
+      "user_id": 77001,
+      "source": "Ctrip",
+      "field": "h5#catalog_node_7 adjacent image 1 and 2; viewed both"
+    },
+    {
+      "source": "Yuanyang County Government",
+      "author": "县志办",
+      "field": "地理位置"
+    }
+  ],
+  "do_not_merge": [
+    "泡竹寨",
+    "抛竹寨"
+  ],
+  "photo_qualification": "未确认",
+  "coordinates": "not assigned",
+  "date": "source Date blank; filename and description 2012; upload 2013 not capture",
+  "original_modified": false,
+  "locator_model_called": false,
+  "candidate_added": false,
+  "school_name_confirmed_in_saved_body": true
+}

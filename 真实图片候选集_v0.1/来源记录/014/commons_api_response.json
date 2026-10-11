@@ -1,0 +1,142 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 73606764,
+        "ns": 6,
+        "title": "File:1 fenghuang 2018.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2018-10-14T16:14:23Z",
+            "size": 38439293,
+            "width": 8256,
+            "height": 5504,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1_fenghuang_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73606764",
+            "sha1": "c061addda744e573e62d85a6d274c140c44d0f27",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2018-10-14 16:14:23",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1 fenghuang 2018",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "China photographs taken on 2018-10-09|Self-published work|Fenghuang Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "fenghuang ancient town river crossing 2018",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10-09 17:21:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-08-10T17:15:01Z",
+        "lastrevid": 1259387368,
+        "length": 351,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:1_fenghuang_2018.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg",
+        "revisions": [
+          {
+            "revid": 1259387368,
+            "parentid": 1259387323,
+            "timestamp": "2026-08-10T17:15:01Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=fenghuang ancient town river crossing 2018}}\n|date=2018-10-09 17:21:41\n|source={{own}}\n|author=[[User:Chensiyuan|Chensiyuan]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Fenghuang Ancient Town]]\n[[Category:China photographs taken on 2018-10-09]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:China photographs taken on 2018-10-09"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Fenghuang Ancient Town"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "recorded_at": "2026-10-11T19:05:47.655299+08:00",
+  "candidate_count": 17,
+  "scope_state_counts": {
+    "未确认": 13,
+    "符合": 2,
+    "不符合": 2
+  },
+  "label_state_counts": {
+    "有独立支持": 13,
+    "已检查内部一致性": 2,
+    "仅来源标注": 2
+  },
+  "original_files_hashed": 17,
+  "existing_files_unchanged": 1079,
+  "existing_files_set_digest": "cc79700bfe641588b901bdd0e79711883482e58101172a0d19fc65f4a50d0aae",
+  "hash_method": "sorted relative paths UTF-8 + null + per-file SHA256 raw digest; excludes .git and this deliverable set",
+  "new_source_investigation": false,
+  "new_image_inspection": false,
+  "network_requests": 0,
+  "model_calls": 0,
+  "anonymization": false,
+  "formally_frozen_images": 0,
+  "artifacts": {
+    "候选统一范围复核_v0.1.md": "e7f4d45df58f92b3c624f332d82160f3bfc7451cd3bdc7b5885773b34bb80649",
+    "候选统一范围复核_v0.1/逐图复核.csv": "0c73f4c46701c57ec8889d1033a24cfcf809f795458aaf36c2d58aeb8f706b17",
+    "候选统一范围复核_v0.1.sha256": "9a78c873e3e315681f272cc177652d95edf07d9f548a0d305f26a31ec274844a"
+  },
+  "links_check": {
+    "checked": 45,
+    "missing": 0
+  }
+}

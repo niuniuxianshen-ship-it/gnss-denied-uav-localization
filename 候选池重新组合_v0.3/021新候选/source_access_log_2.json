@@ -1,0 +1,26 @@
+[
+  {
+    "file": "xinhuanet_scene_alternate.html",
+    "url": "https://www.news.cn/politics/20250327/a056d6504aaf48ddb585c2f3d26677f7/c.html",
+    "time": "2026-10-11T13:22:06.926714+08:00",
+    "status": 200,
+    "sha256": "59b5401798c669304dc09972143ef59a93f8980c974c7fcb6734f7366de9cee3",
+    "bytes": 24229
+  },
+  {
+    "file": "xinhua_jp_scene.html",
+    "url": "https://jp.news.cn/20250412/3c716c4c2802443fa57158932207b85d/c.html",
+    "time": "2026-10-11T13:22:11.850247+08:00",
+    "status": 200,
+    "sha256": "276e7c3a4533b35c931d007af76e99ed9c7156942e4ecb43b118e474d64be200",
+    "bytes": 59920
+  },
+  {
+    "file": "gx_natural_resources.html",
+    "url": "https://dnr.gxzf.gov.cn/zfxxgk/fdzdgknr/xxgk/jytadf/t20719314.shtml",
+    "time": "2026-10-11T13:22:17.088329+08:00",
+    "status": 200,
+    "sha256": "25718a4fc3a9263ba865fdfabc9c36462434f6336b2a4615a07e0fae9722cd7e",
+    "bytes": 29920
+  }
+]

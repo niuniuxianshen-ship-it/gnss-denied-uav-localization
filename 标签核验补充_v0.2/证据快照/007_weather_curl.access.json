@@ -1,0 +1,11 @@
+{
+  "url": "https://www.weather.com.cn/guangxi/gxgqtp/2782978.shtml",
+  "retrieved_at": "2026-10-11T08:59:33.495345+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 0,
+  "result": "200\nhttps://www.weather.com.cn/guangxi/gxgqtp/2782978.shtml",
+  "stderr": "",
+  "bytes": 21088,
+  "sha256": "4b3c5254ff0e24f46641a4133eed62c295952a319eec0d5bec6eb063faad0c34",
+  "file": "标签核验补充_v0.2\\证据快照\\007_weather_curl.html"
+}

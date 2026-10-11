@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{zh-hans|1=宏村的街道}}
+|date=2014-11-10 11:43:30
+|source={{own}}
+|author=[[User:颐园新居|颐园新居]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Hongcun]]
+[[Category:Taken with Nikon D7000]]

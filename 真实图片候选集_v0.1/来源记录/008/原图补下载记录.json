@@ -1,0 +1,15 @@
+{
+  "candidate_id": "008",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yuanyang_Hani_Rice_Terraces_at_Sunrise.jpg",
+  "started_at": "2026-10-10T19:51:25.469486+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yuanyang_Hani_Rice_Terraces_at_Sunrise.jpg",
+  "received_at": "2026-10-10T19:51:28.371147+08:00",
+  "status": "saved",
+  "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833",
+  "sha1": "675D2964379492B61EF4AE129F00EF3BE73A86C0",
+  "bytes": 1647155,
+  "width": 4896,
+  "height": 2752,
+  "GPS_present_in_original": false
+}

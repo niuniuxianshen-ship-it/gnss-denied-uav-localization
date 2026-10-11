@@ -1,0 +1,28 @@
+{
+  "type": "manual_summary_of_web_search_results",
+  "recorded_at": "2026-10-11T14:01:59.100848+08:00",
+  "exact_search_times": "未记录，不补写",
+  "queries": [
+    "\"Ondřej Žváček\" \"Leshan\" boat",
+    "\"Dafo.jpg\" \"loď\""
+  ],
+  "accepted_new_station_evidence": [],
+  "excluded_hits": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:The_giant_Buddha_statue_in_Leshan.jpg",
+      "reason": "原始文件已由API保存，公开说明仍无站位"
+    },
+    {
+      "url": "https://chinatripcare.com/chengdu/leshan-giant-buddha",
+      "reason": "检索返回为Commons署名转载和一般陆路船游说明，不是原作者照片专属拍摄记录；未下载照片或核验整页"
+    },
+    {
+      "url": "https://worldlore.app/stories/china-attractions-and-natural-wonders",
+      "reason": "检索返回为聚合地标介绍，未取得原作者站位叙述"
+    },
+    {
+      "url": "https://geoquizz.app/explore/china",
+      "reason": "检索返回为地标题材测验，不用于资格、难度或预训练接触结论"
+    }
+  ]
+}

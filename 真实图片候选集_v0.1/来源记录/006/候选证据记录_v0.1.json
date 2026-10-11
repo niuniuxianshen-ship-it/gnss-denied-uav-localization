@@ -1,0 +1,60 @@
+{
+  "candidate_id": "006",
+  "candidate_image": "201907 Harbin Central Street 01.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:201907_Harbin_Central_Street_01.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3A201907_Harbin_Central_Street_01.jpg&oldid=1249314239",
+  "page_revision_id": 1249314239,
+  "page_snapshot": "来源记录/006/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "Harbin Central Street",
+  "author": "Jonashtand",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2019-07-06 15:18:19",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Central Street, Harbin",
+    "Category:Files uploaded by Jonashtand",
+    "Category:Self-published work"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/201907_Harbin_Central_Street_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/006.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "3398C6DD377C6088450EB9CB251BE87D95CF97208CC6624D28D2CA961DE934D9",
+  "source_SHA1": "0A281E7FAFBB4D74E047A069EB59A114C1E4F02A",
+  "width": 6000,
+  "height": 4000,
+  "source_bytes": 8789026,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    6000,
+    4000
+  ],
+  "display_size": [
+    6000,
+    4000
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "黑龙江省",
+  "label_evidence": "具体文件页 Summary/Description 为 Harbin Central Street；分类中央大街/哈尔滨；哈尔滨→黑龙江省映射待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/建筑/道路/植被",
+  "signal_strength": "中",
+  "difficulty": "中等",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "前景为暗部文字说明牌，后有街道、树木和建筑；部分细字未辨认，不补写整块牌文。",
+  "text_classification": "文字存在，部分模糊；不纳入缺失组",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

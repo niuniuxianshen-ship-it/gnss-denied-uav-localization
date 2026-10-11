@@ -1,0 +1,15 @@
+{
+  "candidate_id": "018",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Suzhou_canals_November_2017_004.jpg",
+  "started_at": "2026-10-10T20:05:57.458189+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Suzhou_canals_November_2017_004.jpg",
+  "received_at": "2026-10-10T20:06:02.185633+08:00",
+  "status": "saved",
+  "sha256": "416BAF813216CD8D9978478A88A6BF65CF6B82123EC2FA3BB10909E311FB31BF",
+  "sha1": "817F55E2BA5FB1B84A37023CE140A21AE204EC73",
+  "bytes": 9581665,
+  "width": 5940,
+  "height": 3960,
+  "GPS_present_in_original": false
+}

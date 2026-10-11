@@ -1,0 +1,11 @@
+{
+  "evidence_id": "001_railway_photo",
+  "url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/W020121205753474094636.jpg",
+  "accessed_at": "2026-10-10T20:30:57.460103+08:00",
+  "http_status": 200,
+  "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/W020121205753474094636.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 67336,
+  "sha256": "7A0B8195F9BB3FBE4F99B01DDA31581E963C1212A757C2FCE1C758F0423881E6",
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\001_railway_photo.jpg"
+}

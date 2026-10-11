@@ -1,0 +1,11 @@
+{
+  "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/wlyw/201804/t20180418_5372568.html",
+  "retrieved_at": "2026-10-11T08:59:32.998127+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 0,
+  "result": "200\nhttps://whhlyt.hunan.gov.cn/whhlyt/news/wlyw/201804/t20180418_5372568.html",
+  "stderr": "",
+  "bytes": 36010,
+  "sha256": "0d1700dfddc9bd7e78dd7eb3bee61296f532cb5202f808905214822e1066dd0c",
+  "file": "标签核验补充_v0.2\\证据快照\\014_hunan_landmark_curl.html"
+}

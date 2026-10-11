@@ -1,0 +1,208 @@
+{
+  "version": "v0.1",
+  "created_at": "2026-10-11T09:24:48.530584+08:00",
+  "scope": "Static proposed composition only; no formal image freeze",
+  "plan_file": "正式测试集冻结方案_v0.1.md",
+  "plan_sha256": "1165A700576B91AEF2CD60233BFD7C0AC416D9667BD3FA913BDDA3F3EED4A9FF",
+  "proposed_ids": [
+    "001",
+    "002",
+    "005",
+    "007",
+    "008",
+    "009",
+    "010",
+    "012",
+    "014",
+    "017"
+  ],
+  "proposed_primary_classes": {
+    "clear_text": [
+      "001",
+      "002",
+      "012"
+    ],
+    "missing_or_blurred_text": [
+      "005",
+      "014",
+      "017"
+    ],
+    "similar_landscape": [
+      "007",
+      "008",
+      "009",
+      "010"
+    ]
+  },
+  "classification_actual_compliance_confirmed": false,
+  "independent_province_support_ids": [
+    "001",
+    "002",
+    "012",
+    "007",
+    "008",
+    "014"
+  ],
+  "pending_label_ids": [
+    "005",
+    "009",
+    "010",
+    "017"
+  ],
+  "similarity_pairs": [
+    {
+      "id": "S01",
+      "ids": [
+        "007",
+        "008"
+      ],
+      "province_support_both": true
+    },
+    {
+      "id": "S02",
+      "ids": [
+        "009",
+        "010"
+      ],
+      "province_support_both": false
+    }
+  ],
+  "same_site_association": [
+    {
+      "id": "L01",
+      "ids": [
+        "009",
+        "017"
+      ],
+      "site_verification_pending": true
+    }
+  ],
+  "formal_locked_count": 0,
+  "anonymous_images_created": 0,
+  "original_metadata_modified": false,
+  "locating_model_calls_this_task": 0,
+  "network_access_this_task": false,
+  "accuracy_computed": false,
+  "distinct_original_sha256_count": 10,
+  "distinct_locations_count": "unconfirmed",
+  "original_hash_table_matches_candidate_archive": true,
+  "before": {
+    "checked_at": "2026-10-11T09:22:00.646128+08:00",
+    "archives": [
+      {
+        "manifest": "真实图片候选集_v0.1\\候选归档清单_v0.1.json",
+        "checked": 128,
+        "mismatches": [],
+        "manifest_sha256": "6637001FB6DA9117148D837090F29D915F0C777ABD4C781A12800894A4B6877F"
+      },
+      {
+        "manifest": "真实图片标签核验_v0.1\\核验归档清单_v0.1.json",
+        "checked": 59,
+        "mismatches": [],
+        "manifest_sha256": "2E2AD8D16DD0787F1E8EE367905048028E89C454A8EF456B9E84DFC611C152D0"
+      },
+      {
+        "manifest": "标签核验补充_v0.2\\补充归档清单_v0.2.json",
+        "checked": 100,
+        "mismatches": [],
+        "manifest_sha256": "AC1AA2BBE71776A1831DDD0FAA42CCC10D61743765E45775581E7A13AABEAC76"
+      }
+    ],
+    "fixed_files": [
+      {
+        "path": "真实模型评价实验设计_v0.1.md",
+        "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+        "bytes": 25098
+      },
+      {
+        "path": "候选比较评分表_v0.2.md",
+        "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+        "bytes": 8175
+      },
+      {
+        "path": "正式测试集候选筛选_v0.1.md",
+        "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C",
+        "bytes": 11899
+      },
+      {
+        "path": "标签核验补充记录_v0.2.md",
+        "sha256": "C846519CD46C7E74DB9ECA5B3AA543A65072539C38802D8240CE8AE1199FC603",
+        "bytes": 20974
+      },
+      {
+        "path": "独立评分协议_v0.2/独立评分协议_v0.2.md",
+        "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+        "bytes": 5080
+      },
+      {
+        "path": "开发输入/参考附录正文.md",
+        "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+        "bytes": 5130
+      }
+    ]
+  },
+  "after": {
+    "checked_at": "2026-10-11T09:24:48.530584+08:00",
+    "archives": [
+      {
+        "manifest": "真实图片候选集_v0.1\\候选归档清单_v0.1.json",
+        "checked": 128,
+        "mismatches": [],
+        "manifest_sha256": "6637001FB6DA9117148D837090F29D915F0C777ABD4C781A12800894A4B6877F",
+        "manifest_unchanged": true
+      },
+      {
+        "manifest": "真实图片标签核验_v0.1\\核验归档清单_v0.1.json",
+        "checked": 59,
+        "mismatches": [],
+        "manifest_sha256": "2E2AD8D16DD0787F1E8EE367905048028E89C454A8EF456B9E84DFC611C152D0",
+        "manifest_unchanged": true
+      },
+      {
+        "manifest": "标签核验补充_v0.2\\补充归档清单_v0.2.json",
+        "checked": 100,
+        "mismatches": [],
+        "manifest_sha256": "AC1AA2BBE71776A1831DDD0FAA42CCC10D61743765E45775581E7A13AABEAC76",
+        "manifest_unchanged": true
+      }
+    ],
+    "fixed_files": [
+      {
+        "path": "真实模型评价实验设计_v0.1.md",
+        "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+        "bytes": 25098,
+        "unchanged": true
+      },
+      {
+        "path": "候选比较评分表_v0.2.md",
+        "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+        "bytes": 8175,
+        "unchanged": true
+      },
+      {
+        "path": "正式测试集候选筛选_v0.1.md",
+        "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C",
+        "bytes": 11899,
+        "unchanged": true
+      },
+      {
+        "path": "标签核验补充记录_v0.2.md",
+        "sha256": "C846519CD46C7E74DB9ECA5B3AA543A65072539C38802D8240CE8AE1199FC603",
+        "bytes": 20974,
+        "unchanged": true
+      },
+      {
+        "path": "独立评分协议_v0.2/独立评分协议_v0.2.md",
+        "sha256": "D36E864D07945F2B8188C7D7270AF18A67B5DF41864E2BA60B55455D68FE6809",
+        "bytes": 5080,
+        "unchanged": true
+      },
+      {
+        "path": "开发输入/参考附录正文.md",
+        "sha256": "8DCFC001DDE496A16DD15335CEBC67846252DF68DF2AA864D35274542A287D37",
+        "bytes": 5130,
+        "unchanged": true
+      }
+    ]
+  }
+}

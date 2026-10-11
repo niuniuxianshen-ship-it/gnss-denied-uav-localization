@@ -1,0 +1,15 @@
+{
+  "candidate_id": "019",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Yuezhao_Lake%2C_Hongcun%2C_Anhui%2C_China.jpg",
+  "started_at": "2026-10-10T20:06:32.199250+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Yuezhao_Lake%2C_Hongcun%2C_Anhui%2C_China.jpg",
+  "received_at": "2026-10-10T20:06:35.372776+08:00",
+  "status": "saved",
+  "sha256": "1288C23F78BC92FF505C8084D844044453513D16D1227FD442A818B95234B8D1",
+  "sha1": "CD9ACD74DDA6C2349C75E465DB7F3FEBBF3E3C39",
+  "bytes": 2083860,
+  "width": 4624,
+  "height": 3472,
+  "GPS_present_in_original": false
+}

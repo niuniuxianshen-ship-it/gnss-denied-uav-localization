@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=A residential house in Ziquejie Rice Terraces. Ziquejie Rice Terraces are located in Xinhua County, Hunan, China.}}
+{{zh-hans|1=紫鹊界梯田的民居。紫鹊界梯田坐落在中国湖南省娄底市新化县西部水车镇和奉家镇。}}
+|date=2016-01-23 18:14:47
+|source={{own}}
+|author=[[User:Huangdan2060|Huangdan2060]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-3.0}}
+
+[[Category:Ziquejie Rice Terraces]]
+[[Category:Snow in Xinhua County]]

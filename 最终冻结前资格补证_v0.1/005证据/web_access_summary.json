@@ -1,0 +1,28 @@
+{
+  "record_type": "manual_summary_of_web_tool_results",
+  "recorded_at": "2026-10-11T13:54:16.873876+08:00",
+  "exact_request_times": "未记录，不补写",
+  "items": [
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Xi_Jie_(West_Street),_Quanzhou_Aug_2023.jpg",
+      "result": "read_success",
+      "fields_used": [
+        "Summary/Description",
+        "Source",
+        "Author",
+        "File history/Comment"
+      ],
+      "metadata_used_for_station": false
+    },
+    {
+      "url": "https://zh.wikipedia.org/wiki/User:HMGiovanniV",
+      "result": "read_failed_cache_miss",
+      "subsequent_raw_response": "chinese_author_actual_page.json"
+    },
+    {
+      "url": "https://zh.wikipedia.org/wiki/User:Y814756748",
+      "result": "read_failed_cache_miss",
+      "subsequent_raw_response": "chinese_author_page.json"
+    }
+  ]
+}

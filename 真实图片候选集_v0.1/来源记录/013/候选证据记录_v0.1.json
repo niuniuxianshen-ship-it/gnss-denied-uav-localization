@@ -1,0 +1,59 @@
+{
+  "candidate_id": "013",
+  "candidate_image": "2015-01-05 a street in Pingyao.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:2015-01-05_a_street_in_Pingyao.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3A2015-01-05_a_street_in_Pingyao.jpg&oldid=887930735",
+  "page_revision_id": 887930735,
+  "page_snapshot": "来源记录/013/commons_api_response.json",
+  "original_source_field": [
+    "|source=https://www.flickr.com/photos/janbockaert/16316690396/"
+  ],
+  "description": "a street in Pingyao",
+  "author": "Jan Bockaert",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source_credit": "https://www.flickr.com/photos/janbockaert/16316690396/",
+  "date_field": "2015-01-05 11:23:17",
+  "categories": [
+    "Category:CC-BY-SA-2.0",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Streets in Pingyao"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2015-01-05_a_street_in_Pingyao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/013.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "AE5E5081BF26921D19C5634DCF5479227EAF78A70591EA4BD4F6263553CE0F40",
+  "source_SHA1": "38B0C38B605C8578E6477E0CD488AE81C16D8325",
+  "width": 6000,
+  "height": 4000,
+  "source_bytes": 6884677,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    6000,
+    4000
+  ],
+  "display_size": [
+    6000,
+    4000
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "山西省",
+  "label_evidence": "具体文件页 Summary/Description 称 a street in Pingyao；Summary/Source 链接 Flickr 16316690396；平遥→山西省映射及原始出处待核验。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/道路/文字",
+  "signal_strength": "中",
+  "difficulty": "中等",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "高处俯视传统街道，灰瓦屋顶、红灯笼、石板路、店牌；远处及暗部文字未完整辨认，部分近处标牌文字可见。",
+  "text_classification": "文字存在，部分未辨认；分类待正式筛选确认",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

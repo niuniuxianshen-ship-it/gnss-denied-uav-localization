@@ -1,0 +1,8 @@
+{
+  "url": "https://lyj.hunan.gov.cn/ztzl/lshn_77586/202004/t20200416_11953856.html",
+  "time": "2026-10-11T01:32:11.143806+00:00",
+  "http_status": "000",
+  "returncode": 6,
+  "error": "curl: (6) Could not resolve host: lyj.hunan.gov.cn",
+  "file": null
+}

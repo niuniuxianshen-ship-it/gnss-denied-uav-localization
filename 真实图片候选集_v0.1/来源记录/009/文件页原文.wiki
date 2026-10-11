@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Ziquejie Rice Terrace, in Xinhua County, Loudi City, Hunan Province of China, is a beautiful terraced field dating back to 2000 years ago.}}
+|date=2013-04-27 12:14:18
+|source={{own}}
+|author=[[User:Katelulu|Katelulu]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+[[Category:Green in nature]]
+[[Category:Ziquejie Rice Terraces]]

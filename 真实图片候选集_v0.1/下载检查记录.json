@@ -1,0 +1,88 @@
+{
+  "finished_at": "2026-10-10T19:38:53.084331+08:00",
+  "saved": 2,
+  "failed": [
+    {
+      "candidate_id": "002",
+      "title": "New Qingdao railway station.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidate_id": "003",
+      "title": "中国国道G322温州段路牌.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests (f061ab2)"
+    },
+    {
+      "candidate_id": "005",
+      "title": "Xi Jie (West Street), Quanzhou Aug 2023.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "006",
+      "title": "201907 Harbin Central Street 01.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "007",
+      "title": "Rice terraces longji.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "008",
+      "title": "Yuanyang Hani Rice Terraces at Sunrise.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "011",
+      "title": "Wuhan Railway Station (July 2023).jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "012",
+      "title": "Gate of Hongcun Scenario Area, Anhui, China.jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "010",
+      "title": "Yunhe Terraces Scenic Area in automn from the village.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "009",
+      "title": "Ziquejie Rice Terrace.jpg",
+      "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "candidate_id": "013",
+      "title": "2015-01-05 a street in Pingyao.jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "014",
+      "title": "Fenghuang banner Ancient Town river crossing.jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "015",
+      "title": "1 yuanyang rice terrace paozhuzhai 2012.jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "016",
+      "title": "Longsheng rice terraces 87778-Longsheng (49040261403).jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "017",
+      "title": "Ziquejie Rice Terraces 20160123076.jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "candidate_id": "018",
+      "title": "Suzhou canals November 2017 004.jpg",
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "model_calls": 0,
+  "originals_modified": false
+}

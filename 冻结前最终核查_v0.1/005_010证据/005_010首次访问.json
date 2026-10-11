@@ -1,0 +1,38 @@
+[
+  {
+    "id": "005_commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Xi_Jie_(West_Street),_Quanzhou_Aug_2023.jpg",
+    "accessed_at": "2026-10-11T09:32:05.098007+08:00",
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "005_unesco_gallery",
+    "url": "https://whc.unesco.org/en/list/1561/gallery/",
+    "accessed_at": "2026-10-11T09:32:05.098007+08:00",
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "005_gov_towers",
+    "url": "https://www.quanzhou.gov.cn/lyb/qzzz/200407/t20040726_3125.htm",
+    "accessed_at": "2026-10-11T09:32:05.099088+08:00",
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "005_gov_rooftops",
+    "url": "https://www.quanzhou.gov.cn/lyb/lyxw/202208/t20220830_2769899.htm",
+    "accessed_at": "2026-10-11T09:32:05.099088+08:00",
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "010_commons",
+    "url": "https://commons.wikimedia.org/wiki/File:Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg",
+    "accessed_at": "2026-10-11T09:32:05.100088+08:00",
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  },
+  {
+    "id": "010_ciae",
+    "url": "https://www.ciae.com.cn/detail/zh/16187.html",
+    "accessed_at": "2026-10-11T09:32:05.100088+08:00",
+    "error": "URLError: <urlopen error [WinError 10013] 以一种访问权限不允许的方式做了一个访问套接字的尝试。>"
+  }
+]

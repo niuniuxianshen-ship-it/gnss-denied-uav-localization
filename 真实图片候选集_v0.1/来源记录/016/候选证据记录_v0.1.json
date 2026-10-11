@@ -1,0 +1,63 @@
+{
+  "candidate_id": "016",
+  "candidate_image": "Longsheng rice terraces 87778-Longsheng (49040261403).jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Longsheng_rice_terraces_87778-Longsheng_(49040261403).jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3ALongsheng_rice_terraces_87778-Longsheng_%2849040261403%29.jpg&oldid=990724861",
+  "page_revision_id": 990724861,
+  "page_snapshot": "来源记录/016/commons_api_response.json",
+  "original_source_field": [
+    "| Source      = [https://www.flickr.com/photos/xiquinho/49040261403/ 87778-Longsheng]"
+  ],
+  "description": "The Longsheng Rice Terraces, also called the Longji Rice Terraces, are located in Longsheng County, about 100 kilometres from Guilin, Guangxi, China. The terraced fields are built along the slope winding from the riverside up to the mountain top, between 600 to 800 metres above sea level.",
+  "author": "xiquinhosilva",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_credit": "87778-Longsheng",
+  "date_field": "2018-06-15 13:47",
+  "categories": [
+    "Category:CC-BY-2.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Flickr images reviewed by FlickreviewR 2",
+    "Category:Longsheng rice terraces",
+    "Category:Photographs by Xiquinho Silva"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Longsheng_rice_terraces_87778-Longsheng_%2849040261403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/016.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "4C4AE1FC8C745DDE3A1F55D6E684FBBBA4D98D0523C1B27540B011011B07865E",
+  "source_SHA1": "6A5B278BC1F531ABF6D2E78C82BEDFE4EC4EBA36",
+  "width": 3000,
+  "height": 2084,
+  "source_bytes": 1956076,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    3000,
+    2084
+  ],
+  "display_size": [
+    3000,
+    2084
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "广西壮族自治区",
+  "label_evidence": "具体文件页 Summary/Description 明确称 Longsheng、Guilin、Guangxi；Summary/Source 链接 Flickr 49040261403，Location dec模板含source:Flickr；现场和来源关联待核验。",
+  "coordinate_templates": [
+    "{{Location dec|25.816502|110.150558|source:Flickr}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/地貌/植被",
+  "signal_strength": "弱",
+  "difficulty": "困难",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "人物和银色饰物、蓝色刺绣服饰占据前景；木亭、栏杆、背景山地与梯田；不按外观判断人物民族或拍摄省份。",
+  "text_classification": "未见明确地名文字；非纯景观图",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "；龙胜同地点关联；016与旧P05同作者且来源页坐标相同；真实机位待核验",
+  "pending_checks": "画面以人物为主，不优先作为纯景观相似对；原始Flickr页及相册地理标注；来源页与旧P05的坐标相同是否属批量赋值；原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。与旧P05作者相同、页面坐标相同，真实机位待核验；旧P05曾试跑。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

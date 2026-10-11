@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|Description    ={{en|1=yuanyang rice terrace yunnan china 2012 paozhuzhai sea of clouds}}
+|Source         =chensiyuan
+|Author         =chensiyuan
+|Date           =
+|Permission     =
+|other_versions =
+}}
+
+== {{int:license-header}} ==
+{{self|GFDL|cc-by-sa-all|migration=redundant}}
+
+[[Category:Hani Terraces]]
+[[Category:Sea of clouds in Yunnan]]
+[[Category:Clouds and blue sky in China]]
+[[Category:Taken with Nikon D800]]

@@ -1,0 +1,216 @@
+{
+  "001": {
+    "evidence": "具体文件页 Summary/Description（API ImageDescription）为 chengdu station；分类 Chengdu Railway Station；成都→四川省映射待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/建筑/道路",
+    "level": "强",
+    "difficulty": "简单",
+    "observation": "站房上“成都”和英文站名可读；前景有车辆及城市道路。",
+    "text_class": "文字清楚"
+  },
+  "002": {
+    "evidence": "具体文件页 Summary/Description 明确称 Qingdao Railway Station in Qingdao；Summary/Source 为 Own work；青岛→山东省映射待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/建筑/道路",
+    "level": "强",
+    "difficulty": "简单",
+    "observation": "钟楼、红色坡屋顶、拱门；原始分辨率可读“青岛”和QINGDAO，不能归入文字缺失组。",
+    "text_class": "文字清楚"
+  },
+  "003": {
+    "evidence": "具体文件页 Summary/Description 为“位于G322温州瑞安段”；Location模板给出机位坐标；温州瑞安→浙江省映射和机位待核验。牌面目的地不充当标签。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/道路/地貌",
+    "level": "强",
+    "difficulty": "简单",
+    "observation": "路牌G322和“温州方向”可读；道路、山体与护栏；文字表示目的地，未证明拍摄地。",
+    "text_class": "文字清楚（目的地）"
+  },
+  "004": {
+    "evidence": "具体文件页 Summary/Description 为“宏村的街道”；分类 Hongcun；宏村→安徽省映射待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "建筑/道路/文字",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "白墙、深色瓦顶、马头墙、窄石板路；商铺文字可见，不能直接记文字缺失。",
+    "text_class": "可见文字；不归入缺失组",
+    "related": "；宏村同地点关联；012/019同作者"
+  },
+  "005": {
+    "evidence": "具体文件页 Summary/Description 为“泉州西街和开元寺双塔”；Location模板提供坐标；泉州→福建省映射和机位待核验。",
+    "priority": true,
+    "pending": "是否符合地面照片要求（高处视角）；原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "建筑/植被",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "两座多层石塔、红瓦民居屋顶、树木和远处楼房；未辨认地名文字；视点较高。",
+    "text_class": "未辨认可读文字"
+  },
+  "006": {
+    "evidence": "具体文件页 Summary/Description 为 Harbin Central Street；分类中央大街/哈尔滨；哈尔滨→黑龙江省映射待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/建筑/道路/植被",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "前景为暗部文字说明牌，后有街道、树木和建筑；部分细字未辨认，不补写整块牌文。",
+    "text_class": "文字存在，部分模糊；不纳入缺失组"
+  },
+  "007": {
+    "evidence": "具体文件页 Summary/Description 称 Water filled rice terraces in longsheng；Location模板提供坐标；Longsheng→广西壮族自治区映射待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "地貌/植被/建筑",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "蓄水梯田沿山坡弯曲分布，远处村屋与植被；未见可读文字。",
+    "text_class": "景观相似；无可读文字",
+    "pair": "S01：007/008；蓄水山坡梯田；日照和暗部差异明显",
+    "related": "；龙胜同地点关联；016与旧P05同作者且来源页坐标相同；真实机位待核验"
+  },
+  "008": {
+    "evidence": "具体文件页 Summary/Description 称 Yuanyang Hani Rice Terraces at Sunrise；Summary/Source 链接 Flickr 12424132044；Location模板坐标及元阳→云南省映射待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "地貌/植被",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "暮色或晨光中的蓄水梯田、山体轮廓与雾气；暗部细节不足，未见可读文字。",
+    "text_class": "景观相似；无可读文字",
+    "pair": "S01：007/008；蓄水山坡梯田；日照和暗部差异明显",
+    "related": "；元阳同地点关联，不同作者"
+  },
+  "009": {
+    "evidence": "具体文件页 Summary/Description 明确称 Xinhua County, Loudi City, Hunan Province；Summary/Source 为 Own work；地点和照片对应待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "地貌/植被/建筑",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "绿色梯田、山坡植被和散落村屋；未见可读文字；原始尺寸仅600×441。",
+    "text_class": "景观相似；无可读文字",
+    "pair": "S02：009/010；绿色梯田、山地和村屋；前景与清晰度差异明显",
+    "related": "；紫鹊界同地点关联，不同作者"
+  },
+  "010": {
+    "evidence": "具体文件页 Summary/Description 称 Yunhe Terraces Scenic Area，分类同名景区；云和→浙江省映射待核验；未提供页面坐标。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "地貌/建筑/植被",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "前景瓦屋顶、竹盘晾晒物，背景绿色山坡和梯田；远处小标牌未辨认；与009的前景差异明显。",
+    "text_class": "景观相似；小文字未辨认",
+    "pair": "S02：009/010；绿色梯田、山地和村屋；前景与清晰度差异明显"
+  },
+  "011": {
+    "evidence": "具体文件页 Summary/Description 称 Exterior of Wuhan Railway Station；Location模板坐标；武汉→湖北省映射和机位待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/建筑/道路",
+    "level": "强",
+    "difficulty": "简单",
+    "observation": "站房上“武汉站”和英文站名清楚；大跨度曲线屋顶、广场与树木。",
+    "text_class": "文字清楚"
+  },
+  "012": {
+    "evidence": "具体文件页 Summary/Description 明确称 Gate of Hongcun Scenario Area, Anhui, China；Summary/Source 为 Own work；现场对应待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/建筑",
+    "level": "强",
+    "difficulty": "简单",
+    "observation": "入口牌匾“宏村”清楚；木构多层屋顶、红灯笼、游客和山体背景。",
+    "text_class": "文字清楚",
+    "related": "；宏村同地点关联；012/019同作者"
+  },
+  "013": {
+    "evidence": "具体文件页 Summary/Description 称 a street in Pingyao；Summary/Source 链接 Flickr 16316690396；平遥→山西省映射及原始出处待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "建筑/道路/文字",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "高处俯视传统街道，灰瓦屋顶、红灯笼、石板路、店牌；远处及暗部文字未完整辨认，部分近处标牌文字可见。",
+    "text_class": "文字存在，部分未辨认；分类待正式筛选确认"
+  },
+  "014": {
+    "evidence": "原始照片文件页 Summary/Description 称 fenghuang ancient town river crossing 2018；Source 为 Own work；凤凰古城→湖南省映射待核验。横幅版已排除。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "related": "；同作者chensiyuan，不同拟议地点",
+    "cue_type": "建筑/道路/植被/地貌",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "河岸木构楼房、城门式建筑、灰瓦屋顶、石墩步道、船与山坡植被；远处招牌、竖旗未完整辨认。",
+    "text_class": "有小字，部分未辨认；不补写旗帜文字"
+  },
+  "015": {
+    "evidence": "具体文件页 Summary/Description 明确称 yuanyang rice terrace yunnan china 和 paozhuzhai；Summary/Source 署 chensiyuan；现场对应待核验。",
+    "priority": false,
+    "pending": "地面拍摄机位及高处视角确认；原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "related": "；元阳同地点关联，不同作者；同作者chensiyuan，不同拟议地点",
+    "cue_type": "地貌/建筑/植被",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "云海、山体、村落、坡上梯田和树木；未见可读文字，视点高，真实地面机位待核验。",
+    "text_class": "无可读文字"
+  },
+  "016": {
+    "evidence": "具体文件页 Summary/Description 明确称 Longsheng、Guilin、Guangxi；Summary/Source 链接 Flickr 49040261403，Location dec模板含source:Flickr；现场和来源关联待核验。",
+    "priority": false,
+    "pending": "画面以人物为主，不优先作为纯景观相似对；原始Flickr页及相册地理标注；来源页与旧P05的坐标相同是否属批量赋值；原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "related": "；龙胜同地点关联；016与旧P05同作者且来源页坐标相同；真实机位待核验",
+    "cue_type": "建筑/地貌/植被",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "人物和银色饰物、蓝色刺绣服饰占据前景；木亭、栏杆、背景山地与梯田；不按外观判断人物民族或拍摄省份。",
+    "text_class": "未见明确地名文字；非纯景观图"
+  },
+  "017": {
+    "evidence": "具体文件页 Summary/Description 明确称 A residential house in Ziquejie Rice Terraces，Xinhua County, Hunan, China；现场对应待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "related": "；紫鹊界同地点关联，不同作者",
+    "cue_type": "建筑/植被/地貌",
+    "level": "弱",
+    "difficulty": "困难",
+    "observation": "木构民居、灰瓦顶、石阶、积雪、树木和山坡；画面不以大面积梯田为主，未辨认地点文字。",
+    "text_class": "未辨认可读地名文字"
+  },
+  "018": {
+    "evidence": "具体文件页 Summary/Description 称 Canals of Suzhou, China；Location dec模板提供坐标；苏州→江苏省映射和机位待核验。",
+    "priority": true,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "建筑/道路/植被/地貌",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "窄水道、白墙灰瓦、石岸栏杆、树木、电线与空调；空调HITACHI品牌可读，未见可读地点名。",
+    "text_class": "主体无地点文字；品牌字样可读，不记为文字完全缺失"
+  },
+  "019": {
+    "evidence": "具体文件页 Summary/Description 明确称 Yuezhao Lake, Hongcun, Anhui, China；Location模板提供坐标；现场对应待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "related": "；宏村同地点关联；012/019同作者",
+    "cue_type": "建筑/地貌/文字",
+    "level": "中",
+    "difficulty": "中等",
+    "observation": "水面、白墙灰瓦和马头墙、红灯笼、远山；“月沼书局”可读，其他小牌未完整辨认。",
+    "text_class": "可读店名，不归入文字完全缺失"
+  },
+  "020": {
+    "evidence": "具体文件页 Summary/Description 称 earth building chengqi lou；分类 Chengqi Lou；承启楼→福建省映射和具体现场待核验。",
+    "priority": false,
+    "pending": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+    "cue_type": "文字/建筑",
+    "level": "强",
+    "difficulty": "简单",
+    "observation": "建筑入口和高墙、门匾“承启楼”及竖向对联可见；来源原图仅500×375，仍有可读建筑名称。",
+    "text_class": "文字清楚（建筑名称）"
+  }
+}

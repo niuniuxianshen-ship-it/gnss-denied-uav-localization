@@ -1,0 +1,36 @@
+{
+  "candidate_id": "022",
+  "record_time": "2026-10-11T13:35:25.412262+08:00",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_giant_Buddha_statue_in_Leshan.jpg",
+  "page_revision_id": 1256909856,
+  "author": "Ondřej Žváček",
+  "date_field": "2004-08-26",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5/",
+  "original_file": "022.jpg",
+  "sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C",
+  "source_sha1": "b3875f7a4f858646e1048c4fce38bb6e05dc5bce",
+  "source_sha1_match": true,
+  "province": "四川省",
+  "label_state": "有独立支持",
+  "text_observation": "局部碑文小牌存在但不可可靠读取，明显非文字地标不自动算困难",
+  "original_pixel_review_boxes": [
+    [
+      100,
+      1250,
+      650,
+      1950
+    ],
+    [
+      550,
+      1700,
+      1450,
+      2200
+    ]
+  ],
+  "capture_eligibility": "未确认",
+  "precise_coordinates": "未独立核实，不以元数据证明站位",
+  "primary_support": "Xinhua/Jiang Hongjing; xinhua_front.jpg; 2024-06-04; caption Sichuan Province",
+  "formal_locked": false,
+  "model_run": false
+}

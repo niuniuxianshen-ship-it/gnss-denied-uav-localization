@@ -1,0 +1,20 @@
+{
+  "time": "2026-10-11T14:51:50.205258+08:00",
+  "baseline_count": 1030,
+  "missing_old_files": [],
+  "changed_old_files": [
+    "README.md"
+  ],
+  "allowed_change": "README.md navigation only",
+  "original_hashes_verified": 5,
+  "broken_local_links": [],
+  "temporary_inspection_images_deleted": [
+    "inspection_023.png",
+    "inspection_024.png",
+    "inspection_025.png",
+    "inspection_027.png"
+  ],
+  "frozen_count": 0,
+  "anonymous_inputs_created": 0,
+  "geolocation_model_calls": 0
+}

@@ -1,0 +1,154 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 23707705,
+        "ns": 6,
+        "title": "File:1 yuanyang rice terrace paozhuzhai 2012.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2013-01-09T02:35:11Z",
+            "size": 24152287,
+            "width": 4744,
+            "height": 7120,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/1_yuanyang_rice_terrace_paozhuzhai_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:1_yuanyang_rice_terrace_paozhuzhai_2012.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23707705",
+            "sha1": "2858bff02a0f5a772049cc4309993d0fdd6e0602",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2013-01-09 02:35:11",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "1 yuanyang rice terrace paozhuzhai 2012",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Clouds and blue sky in China|GFDL|Taken with Nikon D800|Hani Terraces|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|Self-published work|Sea of clouds in Yunnan",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "yuanyang rice terrace yunnan china 2012 paozhuzhai sea of clouds",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "chensiyuan",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "chensiyuan",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-04-27T08:18:12Z",
+        "lastrevid": 1204410610,
+        "length": 459,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:1_yuanyang_rice_terrace_paozhuzhai_2012.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:1_yuanyang_rice_terrace_paozhuzhai_2012.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:1_yuanyang_rice_terrace_paozhuzhai_2012.jpg",
+        "revisions": [
+          {
+            "revid": 1204410610,
+            "parentid": 1154261665,
+            "timestamp": "2026-04-27T08:18:12Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "== {{int:filedesc}} ==\n{{Information\n|Description    ={{en|1=yuanyang rice terrace yunnan china 2012 paozhuzhai sea of clouds}}\n|Source         =chensiyuan\n|Author         =chensiyuan\n|Date           =\n|Permission     =\n|other_versions =\n}}\n\n== {{int:license-header}} ==\n{{self|GFDL|cc-by-sa-all|migration=redundant}}\n\n[[Category:Hani Terraces]]\n[[Category:Sea of clouds in Yunnan]]\n[[Category:Clouds and blue sky in China]]\n[[Category:Taken with Nikon D800]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0,3.0,2.5,2.0,1.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Clouds and blue sky in China"
+          },
+          {
+            "ns": 14,
+            "title": "Category:GFDL"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Hani Terraces"
+          },
+          {
+            "ns": 14,
+            "title": "Category:License migration redundant"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Sea of clouds in Yunnan"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Taken with Nikon D800"
+          }
+        ]
+      }
+    ]
+  }
+}

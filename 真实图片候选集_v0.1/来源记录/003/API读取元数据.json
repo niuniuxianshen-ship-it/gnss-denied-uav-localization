@@ -1,0 +1,8 @@
+{
+  "url_requested": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&titles=File%3A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg&prop=imageinfo%7Cinfo%7Crevisions%7Ccategories&inprop=url&iiprop=url%7Csize%7Csha1%7Cmime%7Ctimestamp%7Cextmetadata&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&cllimit=max",
+  "url_returned": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&titles=File%3A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg&prop=imageinfo%7Cinfo%7Crevisions%7Ccategories&inprop=url&iiprop=url%7Csize%7Csha1%7Cmime%7Ctimestamp%7Cextmetadata&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&cllimit=max",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "attempts": 1,
+  "received_at": "2026-10-10T19:38:36.774468+08:00"
+}

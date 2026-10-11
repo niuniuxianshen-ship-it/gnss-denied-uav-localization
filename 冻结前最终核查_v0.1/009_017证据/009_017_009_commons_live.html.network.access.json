@@ -1,0 +1,8 @@
+{
+  "url": "https://commons.wikimedia.org/wiki/File:Ziquejie_Rice_Terrace.jpg",
+  "time": "2026-10-11T01:33:28.937863+00:00",
+  "http_status": "000",
+  "returncode": 35,
+  "error": "curl: (35) Recv failure: Connection was reset",
+  "file": null
+}

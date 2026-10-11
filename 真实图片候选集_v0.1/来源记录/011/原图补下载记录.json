@@ -1,0 +1,15 @@
+{
+  "candidate_id": "011",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Wuhan_Railway_Station_%28July_2023%29.jpg",
+  "started_at": "2026-10-10T19:52:14.789083+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Wuhan_Railway_Station_%28July_2023%29.jpg",
+  "received_at": "2026-10-10T19:52:17.338349+08:00",
+  "status": "saved",
+  "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324",
+  "sha1": "C96C75141E26F5CC4FFBA53F48502ABF02474ABB",
+  "bytes": 1131819,
+  "width": 3573,
+  "height": 1588,
+  "GPS_present_in_original": true
+}

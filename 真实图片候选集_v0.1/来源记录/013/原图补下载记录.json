@@ -1,0 +1,10 @@
+{
+  "candidate_id": "013",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2015-01-05_a_street_in_Pingyao.jpg",
+  "started_at": "2026-10-10T19:52:43.600850+08:00",
+  "status": "failed",
+  "http_status": 429,
+  "retry_after": "600",
+  "server_date": "Sat, 10 Oct 2026 11:52:43 GMT",
+  "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+}

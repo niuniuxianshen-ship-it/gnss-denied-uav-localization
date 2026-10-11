@@ -1,0 +1,11 @@
+{
+  "evidence_id": "012_ly_photo",
+  "url": "https://pic5.40017.cn/i/ori/1qfBwdyQFkA_750x_02.jpg",
+  "accessed_at": "2026-10-10T20:36:43.460493+08:00",
+  "http_status": 200,
+  "returned_url": "https://pic5.40017.cn/i/ori/1qfBwdyQFkA_750x_02.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 112559,
+  "sha256": "8AB4B1447EFEDE6EACD8BE33397964D133D0AB5C33B31D68A3C793BB72DC8407",
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\012_ly_photo.jpg"
+}

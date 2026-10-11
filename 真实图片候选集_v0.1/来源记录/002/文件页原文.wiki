@@ -1,0 +1,14 @@
+== {{int:filedesc}} ==
+{{Information
+|Description={{en|1=Taken after arriving at the recently-reopened Qingdao Railway Station in Qingdao, China (site of the 2008 Olympic sailing events).}}
+|Source={{own}}
+|Author=[[User:Djhobo9|Djhobo9]]
+|Date=2008-07-29
+|Permission=I release this work for free public use.
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self}}
+
+[[Category:Qingdao Railway Station]]

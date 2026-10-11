@@ -1,0 +1,67 @@
+{
+  "candidate_id": "018",
+  "candidate_image": "Suzhou canals November 2017 004.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Suzhou_canals_November_2017_004.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3ASuzhou_canals_November_2017_004.jpg&oldid=976773969",
+  "page_revision_id": 976773969,
+  "page_snapshot": "来源记录/018/commons_api_response.json",
+  "original_source_field": [
+    "|source = {{own}}"
+  ],
+  "description": "Canals of Suzhou , China .",
+  "author": "King of Hearts",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2017-11-26 16:23",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Canals in Suzhou",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Quality images",
+    "Category:Quality images by King of Hearts",
+    "Category:Quality images missing SDC depicts",
+    "Category:Self-published work",
+    "Category:Taken with Nikon D750",
+    "Category:Uploaded with pattypan"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Suzhou_canals_November_2017_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/018.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "416BAF813216CD8D9978478A88A6BF65CF6B82123EC2FA3BB10909E311FB31BF",
+  "source_SHA1": "817F55E2BA5FB1B84A37023CE140A21AE204EC73",
+  "width": 5940,
+  "height": 3960,
+  "source_bytes": 9581665,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    5940,
+    3960
+  ],
+  "display_size": [
+    5940,
+    3960
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "江苏省",
+  "label_evidence": "具体文件页 Summary/Description 称 Canals of Suzhou, China；Location dec模板提供坐标；苏州→江苏省映射和机位待核验。",
+  "coordinate_templates": [
+    "{{Location dec|31.307574|120.6347372}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/道路/植被/地貌",
+  "signal_strength": "中",
+  "difficulty": "中等",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "窄水道、白墙灰瓦、石岸栏杆、树木、电线与空调；空调HITACHI品牌可读，未见可读地点名。",
+  "text_classification": "主体无地点文字；品牌字样可读，不记为文字完全缺失",
+  "verification_priority": true,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

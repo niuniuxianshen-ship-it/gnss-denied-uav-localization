@@ -1,0 +1,62 @@
+{
+  "candidate_id": "011",
+  "candidate_image": "Wuhan Railway Station (July 2023).jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(July_2023).jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AWuhan_Railway_Station_%28July_2023%29.jpg&oldid=1015387463",
+  "page_revision_id": 1015387463,
+  "page_snapshot": "来源记录/011/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "Exterior of Wuhan Railway Station in July 2023",
+  "author": "Zheng Zhou",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2023-07-23 13:20:02",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Self-published work",
+    "Category:Wuhan Railway Station"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Wuhan_Railway_Station_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/011.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324",
+  "source_SHA1": "C96C75141E26F5CC4FFBA53F48502ABF02474ABB",
+  "width": 3573,
+  "height": 1588,
+  "source_bytes": 1131819,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    3573,
+    1588
+  ],
+  "display_size": [
+    3573,
+    1588
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "湖北省",
+  "label_evidence": "具体文件页 Summary/Description 称 Exterior of Wuhan Railway Station；Location模板坐标；武汉→湖北省映射和机位待核验。",
+  "coordinate_templates": [
+    "{{Location|30.608767|114.415742|heading:70.9287109375}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/建筑/道路",
+  "signal_strength": "强",
+  "difficulty": "简单",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "站房上“武汉站”和英文站名清楚；大跨度曲线屋顶、广场与树木。",
+  "text_classification": "文字清楚",
+  "verification_priority": true,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&titles=File%3AMoon+Pond+2.jpg&iiprop=url%7Cextmetadata&rvprop=ids%7Ccontent&rvslots=main",
+  "retrieved_at": "2026-10-11T09:04:45.820430+08:00",
+  "status": 200,
+  "file": "标签核验补充_v0.2\\证据快照\\019_moon2_api.json",
+  "bytes": 2241,
+  "sha256": "5a1cce1ffc6c364822908c76cfd8229b8fc041ffa00ab421ca615308816136da"
+}

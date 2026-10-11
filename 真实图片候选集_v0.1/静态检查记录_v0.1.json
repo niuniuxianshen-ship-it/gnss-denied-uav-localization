@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-10T20:09:05.020771+08:00",
+  "candidate_count": 20,
+  "original_saved_count": 20,
+  "priority_count": 10,
+  "priority_signal_counts": {
+    "强": 3,
+    "中": 3,
+    "弱": 4
+  },
+  "all_source_size_SHA1_matched": true,
+  "sha256_unique_count": 20,
+  "old_six_exact_duplicate_ids": [],
+  "formal_locked_count": 0,
+  "independent_location_support_count": 0,
+  "model_calls": 0,
+  "rule_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "design_sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+  "csv_complete_count": 20,
+  "visual_inspection_count": 20,
+  "source_and_original_local_links_checked": true,
+  "original_design_text_quota_state": "尚未确认满足；018品牌可读，014有小字；强中弱不替代原分类",
+  "ground_viewpoint_pending_ids": [
+    "005",
+    "013",
+    "015"
+  ],
+  "prior_records_untouched": true,
+  "temporary_files_removed": [
+    "_collect_real_candidates.py",
+    "_resume_real_candidates.py",
+    "_finalize_real_candidates.py",
+    "真实图片候选集_v0.1\\下载中静态核对记录.json",
+    "真实图片候选集_v0.1\\_contact_1.jpg",
+    "真实图片候选集_v0.1\\_review_1.jpg",
+    "真实图片候选集_v0.1\\_review_2.jpg"
+  ]
+}

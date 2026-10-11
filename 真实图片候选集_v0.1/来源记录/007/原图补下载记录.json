@@ -1,0 +1,15 @@
+{
+  "candidate_id": "007",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rice_terraces_longji.jpg",
+  "started_at": "2026-10-10T19:51:09.993489+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rice_terraces_longji.jpg",
+  "received_at": "2026-10-10T19:51:13.457018+08:00",
+  "status": "saved",
+  "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786",
+  "sha1": "2F9FBB9ECD2EFCA425D76E33211EE2F57143F510",
+  "bytes": 1171916,
+  "width": 2048,
+  "height": 1536,
+  "GPS_present_in_original": true
+}

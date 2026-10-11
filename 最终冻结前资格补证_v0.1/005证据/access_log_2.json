@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://zh.wikipedia.org/w/api.php?action=query&format=json&prop=revisions&titles=User%3AHMGiovanniV&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main",
+    "file": "chinese_author_actual_page.json",
+    "accessed_at": "2026-10-11T13:43:48.533407+08:00",
+    "status": 200,
+    "sha256": "D15653FA5D9DB5CAE88B51E4813446FAB54C33E06A4F852475414A95F78BAE8A",
+    "bytes": 37679
+  }
+]

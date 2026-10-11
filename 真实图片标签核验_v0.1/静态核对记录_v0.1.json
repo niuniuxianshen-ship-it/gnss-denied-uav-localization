@@ -1,0 +1,56 @@
+{
+  "checked_at": "2026-10-10T20:42:09.608227+08:00",
+  "csv_rows": 20,
+  "requested_first_eight_fields": [
+    "编号",
+    "来源页面",
+    "来源作者",
+    "原始地点描述",
+    "坐标",
+    "省级标签",
+    "证据等级",
+    "是否入选"
+  ],
+  "audited_ids": [
+    "001",
+    "002",
+    "011",
+    "012",
+    "020"
+  ],
+  "independent_province_support_ids": [
+    "001",
+    "002",
+    "011",
+    "012"
+  ],
+  "conflict_pending_ids": [
+    "020"
+  ],
+  "not_audited_this_round_count": 15,
+  "formal_locked_count": 0,
+  "locating_model_calls": 0,
+  "original_count_unchanged": 20,
+  "old_archive_files_checked": 128,
+  "old_archive_mismatches": [],
+  "http_evidence_success_count": 17,
+  "http_evidence_failure_count": 8,
+  "evidence_byte_hash_mismatches": [],
+  "all_positive_evidence_files_present_and_hash_matched": true,
+  "source_author_page_and_original_hash_matched": true,
+  "rule_sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+  "rule_unchanged": true,
+  "design_sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+  "design_unchanged": true,
+  "coordinate_independently_verified_ids": [],
+  "anonymous_model_input_created_count": 0,
+  "temporary_script_files_created": 0,
+  "temporary_media_files_created": 0,
+  "method_limitations": [
+    "仅一名管理侧审核者，非独立双人标签核验",
+    "省级现场证据支持与精确机位/坐标核验分开",
+    "无法确认公开图片既往预训练接触",
+    "浏览器自动化桥接超时，未用其确认画面或关闭所建页；采用实际读取的页面/图片归档和web正文",
+    "证书失败/403/其他失败保留，不绕过证书验证或冒充已获取资料"
+  ]
+}

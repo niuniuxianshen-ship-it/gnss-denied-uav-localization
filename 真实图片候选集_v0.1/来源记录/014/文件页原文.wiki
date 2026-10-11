@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=fenghuang ancient town river crossing 2018}}
+|date=2018-10-09 17:21:41
+|source={{own}}
+|author=[[User:Chensiyuan|Chensiyuan]]
+|permission=
+|other versions=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Fenghuang Ancient Town]]
+[[Category:China photographs taken on 2018-10-09]]

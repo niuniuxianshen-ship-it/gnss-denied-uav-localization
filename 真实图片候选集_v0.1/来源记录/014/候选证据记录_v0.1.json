@@ -1,0 +1,60 @@
+{
+  "candidate_id": "014",
+  "candidate_image": "1 fenghuang 2018.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3A1_fenghuang_2018.jpg&oldid=1259387368",
+  "page_revision_id": 1259387368,
+  "page_snapshot": "来源记录/014/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "fenghuang ancient town river crossing 2018",
+  "author": "Chensiyuan",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2018-10-09 17:21:41",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:China photographs taken on 2018-10-09",
+    "Category:Fenghuang Ancient Town",
+    "Category:Self-published work"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/1_fenghuang_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/014.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08",
+  "source_SHA1": "C061ADDDA744E573E62D85A6D274C140C44D0F27",
+  "width": 8256,
+  "height": 5504,
+  "source_bytes": 38439293,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    8256,
+    5504
+  ],
+  "display_size": [
+    8256,
+    5504
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "湖南省",
+  "label_evidence": "原始照片文件页 Summary/Description 称 fenghuang ancient town river crossing 2018；Source 为 Own work；凤凰古城→湖南省映射待核验。横幅版已排除。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "建筑/道路/植被/地貌",
+  "signal_strength": "中",
+  "difficulty": "中等",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "河岸木构楼房、城门式建筑、灰瓦屋顶、石墩步道、船与山坡植被；远处招牌、竖旗未完整辨认。",
+  "text_classification": "有小字，部分未辨认；不补写旗帜文字",
+  "verification_priority": true,
+  "similarity_pair": "",
+  "related_group": "；同作者chensiyuan，不同拟议地点",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

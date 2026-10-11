@@ -1,0 +1,183 @@
+{
+  "recorded_at": "2026-10-11T20:05:24.490582+08:00",
+  "baseline_file_count": 1098,
+  "missing_original_files": [],
+  "changed_original_files": [
+    "README.md"
+  ],
+  "original_materials_unchanged_except_README": true,
+  "python_version": "3.10.0",
+  "ast_syntax_checks": [
+    {
+      "path": "DeepSeek试跑/run_trial.py",
+      "pass": true
+    },
+    {
+      "path": "人工CASE扩展_v0.2/run_rater.py",
+      "pass": true
+    },
+    {
+      "path": "参考案例_v0.1/独立评分_DeepSeek_v0.1/run_rater.py",
+      "pass": true
+    },
+    {
+      "path": "来源材料/官方API运行器原稿/run_trial.py",
+      "pass": true
+    },
+    {
+      "path": "来源材料/订阅运行器原稿/run_trial.py",
+      "pass": true
+    },
+    {
+      "path": "独立评分执行_v0.1/run_rater.py",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.1/run_rater.py",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/run_rater.py",
+      "pass": true
+    },
+    {
+      "path": "独立评分阶段冻结_v0.1/快照/参考案例_v0.1/独立评分_DeepSeek_v0.1/run_rater.py",
+      "pass": true
+    },
+    {
+      "path": "订阅试跑/run_trial.py",
+      "pass": true
+    }
+  ],
+  "frozen_inputs": [
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_004.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_005.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_006.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_007.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_008.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_009.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_010.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/案例/CASE_011.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/评分表_v0.2.md",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/评分记录_空白.csv",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/A/input/阅读说明.md",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_004.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_005.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_006.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_007.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_008.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_009.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_010.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/案例/CASE_011.txt",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/评分表_v0.2.md",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/评分记录_空白.csv",
+      "pass": true
+    },
+    {
+      "path": "独立评分补交_v0.2/B/input/阅读说明.md",
+      "pass": true
+    }
+  ],
+  "statistics_arithmetic": [
+    {
+      "batch": "独立评分补交_v0.2",
+      "N": 8,
+      "V": 7,
+      "D": 6,
+      "E": 6,
+      "numeric_bounds_pass": true,
+      "exclusions_pass": true,
+      "state_matrix_sum_pass": true,
+      "scope": "existing JSON arithmetic only; not independent CSV recomputation"
+    },
+    {
+      "batch": "人工CASE扩展_v0.2",
+      "N": 10,
+      "V": 6,
+      "D": 6,
+      "E": 6,
+      "numeric_bounds_pass": true,
+      "exclusions_pass": true,
+      "state_matrix_sum_pass": true,
+      "scope": "existing JSON arithmetic only; not independent CSV recomputation"
+    }
+  ],
+  "missing_local_links": [
+    {
+      "file": "README.md",
+      "target": "项目整理记录_v0.1/20261011_2000/整理说明.md"
+    },
+    {
+      "file": "复现说明.md",
+      "target": "项目整理记录_v0.1/20261011_2000/检查结果.json"
+    }
+  ],
+  "network_requests": 0,
+  "model_calls": 0,
+  "credential_scan_files": 878,
+  "credential_scan_limit_bytes": 2000000,
+  "credential_risk_locations": [],
+  "privacy_and_redistribution_full_audit": "not performed",
+  "moves": []
+}

@@ -1,0 +1,20 @@
+{
+  "candidate_id": "024",
+  "title": "File:A view from Su causeway (6070105940).jpg",
+  "requested_at": "2026-10-11T14:42:35.944836+08:00",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_view_from_Su_causeway_%286070105940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_view_from_Su_causeway_%286070105940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "http_status": 200,
+  "bytes": 4051017,
+  "source_bytes": 4051017,
+  "sha256": "A27C8496277C60D0B17B3E5FFF27804123B95CC0542AF40A1C19C0BC5001076C",
+  "sha1": "5e1cb7a822afdb9fcf6fff0d01492ec3fc6c5dfc",
+  "source_sha1": "5e1cb7a822afdb9fcf6fff0d01492ec3fc6c5dfc",
+  "source_size_and_sha1_match": true,
+  "dimensions": [
+    3510,
+    2570
+  ],
+  "page_revision": 1003904714,
+  "original_image_unmodified": true
+}

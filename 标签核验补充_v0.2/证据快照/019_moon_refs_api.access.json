@@ -1,0 +1,8 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&titles=File%3AMoon+Pond+1.jpg%7CFile%3AMoon+Pond%2C+Hongcun.jpg&iiprop=url%7Cextmetadata&rvprop=ids%7Ccontent&rvslots=main",
+  "retrieved_at": "2026-10-11T09:01:39.735076+08:00",
+  "status": 200,
+  "file": "标签核验补充_v0.2\\证据快照\\019_moon_refs_api.json",
+  "sha256": "55c587f2b8fe8d4d49a399f74fa4a9953fdf9541260ffdeffcf9f2ef12960b87",
+  "bytes": 4473
+}

@@ -1,0 +1,17 @@
+== {{int:filedesc}} ==
+{{Information
+|description=位于G322温州瑞安段
+|source={{own}}
+|author=[[User:Damingsama|Damingsama]]
+|date={{According to EXIF data|2018-06-20|location=China}}
+}}
+{{Location|27.782840999999998|120.22417}}
+== {{int:license-header}} ==
+{{self|cc-by-sa-3.0}}
+
+{{Uploaded from Mobile|platform=Android|version=2.6.7}}
+
+[[Category:China National Highway 322]]
+[[Category:Rui'an]]
+[[Category:China photographs taken on 2018-06-20]]
+[[Category:Uploaded with Mobile/Android (Nov 2017-Aug 2019)]]

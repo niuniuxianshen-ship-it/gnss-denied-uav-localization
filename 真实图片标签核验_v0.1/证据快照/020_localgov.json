@@ -1,0 +1,18 @@
+{
+  "evidence_id": "020_localgov",
+  "url": "https://www.yongding.gov.cn/yxyd/ydtl/200804/t20080420_1145764.htm",
+  "accessed_at": "2026-10-10T20:25:00.864872+08:00",
+  "http_status": 200,
+  "returned_url": "https://www.yongding.gov.cn/yxyd/ydtl/200804/t20080420_1145764.htm",
+  "content_type": "text/html; charset=utf-8",
+  "sha256": "D583CB097AACE07D88FB0D8C6DE7E0C1595BB8172AC3BC811CDAECC9A4552317",
+  "bytes": 111328,
+  "encoding": "utf-8",
+  "images": [
+    "<img src=\"../../../images/18yd_xl_icon2.png\" />",
+    "<img src=\"../../../images/18yd_xl_icon3.png\" />"
+  ],
+  "title": [
+    "土楼景点-龙岩市永定区人民政府"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "evidence_id": "001_railway",
+  "url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/t20100122_1598.html",
+  "accessed_at": "2026-10-10T20:24:55.747226+08:00",
+  "http_status": 200,
+  "returned_url": "https://www.12306.cn/mormhweb/czyd_2143/sc/cd/201001/t20100122_1598.html",
+  "content_type": "text/html",
+  "sha256": "EE4AFDE7061439E6CCEB4C1A396261C339606228996C69B707991AE52790CCC2",
+  "bytes": 82919,
+  "encoding": "utf-8",
+  "images": [
+    "<IMG height=\"31\" src=\"../../../../images/c_l.gif\" width=\"9\" />",
+    "<IMG height=\"31\" src=\"../../../../images/c_r.gif\" width=\"9\" />",
+    "<IMG height=\"13\" src=\"../../../../images/c_d.gif\" width=\"5\" align=absMiddle />",
+    "<img src='\"+picURLs[i]+\"' width='400px' border='0' />",
+    "<img src=\"../../../../images/link01.png\" alt=\"\" />",
+    "<img src=\"../../../../images/link02.png\" alt=\"\" />",
+    "<img src=\"../../../../images/link03.png\" alt=\"\" />",
+    "<img src=\"../../../../images/link04.png\" alt=\"\" />",
+    "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwb.png\" />",
+    "<img src=\"https://www.12306.cn/mormhweb/images/zgtlwx.png\" />",
+    "<img src=\"../../../../images/public.png\" />",
+    "<img src=\"../../../../images/download.png\" />"
+  ],
+  "title": [
+    "中国铁路12306"
+  ]
+}

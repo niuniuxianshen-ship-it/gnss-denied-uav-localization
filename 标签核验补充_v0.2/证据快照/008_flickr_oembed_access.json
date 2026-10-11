@@ -1,0 +1,12 @@
+{
+  "url": "https://www.flickr.com/services/oembed/?format=json&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Filoveboeing%2F12424132044%2F",
+  "read_time": "2026-10-11T08:53:36.220091+08:00",
+  "status": 200,
+  "final_url": "https://www.flickr.com/services/oembed/?format=json&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Filoveboeing%2F12424132044%2F",
+  "content_type": "application/json",
+  "file": "标签核验补充_v0.2\\证据快照\\008_flickr_oembed.json",
+  "bytes": 1321,
+  "sha256": "a517496d848d864c69e2293a04f35545f16ab1b56e018d7a32430d4acc0ffd2c",
+  "image_urls": [],
+  "title": []
+}

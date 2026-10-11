@@ -1,0 +1,15 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Exterior of Wuhan Railway Station in July 2023}}
+|date=2023-07-23 13:20:02
+|source={{own}}
+|author=[[User:Zheng Zhou|Zheng Zhou]]
+|permission=
+|other versions=
+}}
+{{Location|30.608767|114.415742|heading:70.9287109375}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-4.0}}
+
+[[Category:Wuhan Railway Station]]

@@ -1,0 +1,12 @@
+[
+  {
+    "ordinal": 3,
+    "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=532081838%7C532092672%7C532141503%7C532300421%7C532526428%7C532526483%7C532529158%7C532658739%7C532874898%7C533327204%7C534334155%7C534654528%7C535140730%7C535299203&prop=revisions&rvprop=ids%7Cuser%7Ctimestamp%7Ccomment%7Ccontent&rvslots=main",
+    "file": "03_gallery_early_contents.json",
+    "time": "2026-10-11T14:01:47.144220+08:00",
+    "status": 200,
+    "final_url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&revids=532081838%7C532092672%7C532141503%7C532300421%7C532526428%7C532526483%7C532529158%7C532658739%7C532874898%7C533327204%7C534334155%7C534654528%7C535140730%7C535299203&prop=revisions&rvprop=ids%7Cuser%7Ctimestamp%7Ccomment%7Ccontent&rvslots=main",
+    "bytes": 693724,
+    "sha256": "6c1fceaf8ddacbbb9f09750ead355cdb0bf4995ab91ceb8ad0d5a1e3c9dfd97b"
+  }
+]

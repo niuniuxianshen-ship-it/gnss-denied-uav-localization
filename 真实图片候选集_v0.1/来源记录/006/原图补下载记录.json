@@ -1,0 +1,15 @@
+{
+  "candidate_id": "006",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/201907_Harbin_Central_Street_01.jpg",
+  "started_at": "2026-10-10T19:50:53.997606+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/201907_Harbin_Central_Street_01.jpg",
+  "received_at": "2026-10-10T19:50:57.966726+08:00",
+  "status": "saved",
+  "sha256": "3398C6DD377C6088450EB9CB251BE87D95CF97208CC6624D28D2CA961DE934D9",
+  "sha1": "0A281E7FAFBB4D74E047A069EB59A114C1E4F02A",
+  "bytes": 8789026,
+  "width": 6000,
+  "height": 4000,
+  "GPS_present_in_original": true
+}

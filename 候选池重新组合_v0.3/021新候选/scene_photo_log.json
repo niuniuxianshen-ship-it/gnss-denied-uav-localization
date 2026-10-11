@@ -1,0 +1,18 @@
+[
+  {
+    "file": "xinhua_elephant_1.jpg",
+    "url": "https://www.news.cn/politics/20250327/a056d6504aaf48ddb585c2f3d26677f7/20250327a056d6504aaf48ddb585c2f3d26677f7_c7018dcf0a244c5f8b242b3359828dde.JPG",
+    "caption": "2024年10月25日，游客在广西桂林市象鼻山景区乘船游玩。新华社记者 马宁 摄",
+    "time": "2026-10-11T13:23:57.435100+08:00",
+    "status": 200,
+    "sha256": "686ef87dad0a450cfa7c8e2dd96731a9fbc65d6f31ebd13289f8922294f4b190"
+  },
+  {
+    "file": "xinhua_elephant_2.jpg",
+    "url": "https://www.news.cn/politics/20250327/a056d6504aaf48ddb585c2f3d26677f7/20250327a056d6504aaf48ddb585c2f3d26677f7_f37ebde0b76047c79a8805d495435f83.JPG",
+    "caption": "这是2013年3月12日拍摄的桂林象鼻山夜色。新华社记者 陆波岸 摄",
+    "time": "2026-10-11T13:24:02.712999+08:00",
+    "status": 200,
+    "sha256": "690571ccc2713db58709d67e111eb7a2717343b41b2d1eeeb8602d72a05be321"
+  }
+]

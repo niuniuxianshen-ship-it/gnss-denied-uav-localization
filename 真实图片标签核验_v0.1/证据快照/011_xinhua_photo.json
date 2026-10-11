@@ -1,0 +1,11 @@
+{
+  "evidence_id": "011_xinhua_photo",
+  "url": "https://uav.xinhuanet.com/2021-01/25/1210993908_16115434113231n.jpg",
+  "accessed_at": "2026-10-10T20:30:57.462233+08:00",
+  "http_status": 200,
+  "returned_url": "https://uav.xinhuanet.com/2021-01/25/1210993908_16115434113231n.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 488471,
+  "sha256": "35FE2A615093FBEA74C0FA8FA3F8B3ADA343F36D94EB38155C52424426E47D44",
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\011_xinhua_photo.jpg"
+}

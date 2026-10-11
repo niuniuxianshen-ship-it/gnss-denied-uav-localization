@@ -1,0 +1,11 @@
+{
+  "evidence_id": "002_xinhua_photo",
+  "url": "https://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg",
+  "accessed_at": "2026-10-10T20:34:55.182094+08:00",
+  "http_status": 200,
+  "returned_url": "https://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 27847,
+  "sha256": "0607EF79432E09028AEC9A95D1CF30D84B7A1D0781145EF4B5271DB6DD698D3D",
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\002_xinhua_photo.jpg"
+}

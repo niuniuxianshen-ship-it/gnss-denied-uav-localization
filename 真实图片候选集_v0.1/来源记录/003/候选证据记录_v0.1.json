@@ -1,0 +1,66 @@
+{
+  "candidate_id": "003",
+  "candidate_image": "中国国道G322温州段路牌.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg&oldid=753626055",
+  "page_revision_id": 753626055,
+  "page_snapshot": "来源记录/003/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "位于G322温州瑞安段",
+  "author": "Damingsama",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_credit": "Own work",
+  "date_field": "20 June 2018 (according to Exif data)",
+  "categories": [
+    "Category:CC-BY-SA-3.0",
+    "Category:China National Highway 322",
+    "Category:China photographs taken on 2018-06-20",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Rui'an",
+    "Category:Self-published work",
+    "Category:Uploaded with Mobile/Android",
+    "Category:Uploaded with Mobile/Android (Nov 2017-Aug 2019)"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%81%93G322%E6%B8%A9%E5%B7%9E%E6%AE%B5%E8%B7%AF%E7%89%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/003.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "37150716F6AB3FC16B9FD706E64DED0FB89418222DA5A01F1B0C53041902B22F",
+  "source_SHA1": "59AADA9589C64F8CFF473D63D396E4B30D4A5047",
+  "width": 3120,
+  "height": 4160,
+  "source_bytes": 3698668,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    3120,
+    4160
+  ],
+  "display_size": [
+    3120,
+    4160
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "浙江省",
+  "label_evidence": "具体文件页 Summary/Description 为“位于G322温州瑞安段”；Location模板给出机位坐标；温州瑞安→浙江省映射和机位待核验。牌面目的地不充当标签。",
+  "coordinate_templates": [
+    "{{Location|27.782840999999998|120.22417}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "文字/道路/地貌",
+  "signal_strength": "强",
+  "difficulty": "简单",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "路牌G322和“温州方向”可读；道路、山体与护栏；文字表示目的地，未证明拍摄地。",
+  "text_classification": "文字清楚（目的地）",
+  "verification_priority": false,
+  "similarity_pair": "",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

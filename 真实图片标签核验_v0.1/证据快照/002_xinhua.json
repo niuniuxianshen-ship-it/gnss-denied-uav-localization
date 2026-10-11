@@ -1,0 +1,29 @@
+{
+  "evidence_id": "002_xinhua",
+  "url": "https://2008.sina.com.cn/jz/other/p/2008-07-19/2152115115.shtml?from=wap",
+  "accessed_at": "2026-10-10T20:33:20.920221+08:00",
+  "http_status": 200,
+  "returned_url": "https://2008.sina.com.cn/jz/other/p/2008-07-19/2152115115.shtml?from=wap",
+  "content_type": "text/html",
+  "bytes": 66459,
+  "sha256": "A002D5A8E58BA9D40A79A56D959BF7DF0CAD0AD78CBE9ABF170A996DF0F2152C",
+  "encoding": "gb2312",
+  "title": [
+    "图文-青岛火车站全面竣工 火车站外钟楼一景_其他_2008奥运站_新浪网"
+  ],
+  "images": [
+    "<img src=\"图片\" onload=\"javascript:DrawImage(this)\">",
+    "<img width=0 height=0 src='//beacon.sina.com.cn/a.gif?noScript' border='0' alt='' />",
+    "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到路径导航栏\" />",
+    "<img src=\"http://i1.sinaimg.cn/2008/temp/jz/aq/2007-04-04/U814P461T49D1F1174DT20070405172832.jpg\" width=\"950\" height=\"60\" alt=\"2008年第29届奥运会\"/>",
+    "<img src=\"http://i2.sinaimg.cn/c.gif\" width=\"1\" height=\"1\" alt=\"跳转到正文内容\" />",
+    "<img src=\"http://i3.sinaimg.cn/ty/deco/2007/0302/images/2008_i_ws_007.gif\" width=\"64\" height=\"30\" alt=\"\"/>",
+    "<img src=\"http://i3.sinaimg.cn/bb/article/con_ws_006.gif\" width=\"1\" height=\"34\" alt=\"\"/>",
+    "<img src=http://i0.sinaimg.cn/ty/images/media/U349P6T51D267F947DT20070122170551.gif border=0  onload=\"javascript:DrawImage(this)\"/>",
+    "<img src=\"http://i3.sinaimg.cn/ty/deco/2007/0302/images/2008_i_ws_007.gif\" width=\"64\" height=\"30\" alt=\"\"/>",
+    "<img src=\"http://i3.sinaimg.cn/bb/article/con_ws_006.gif\" width=\"1\" height=\"34\" alt=\"\"/>",
+    "<img src=http://i0.sinaimg.cn/ty/images/media/U349P6T51D267F947DT20070122170551.gif border=0  onload=\"javascript:DrawImage(this)\"/>",
+    "<img src=\"http://i0.sinaimg.cn/ty/o/p/2008-07-19/U397P6T12D3794490F44DT20080719214606.jpg\" alt=\"图文-青岛火车站全面竣工 火车站外钟楼一景\"/>"
+  ],
+  "local_file": "真实图片标签核验_v0.1\\证据快照\\002_xinhua.html"
+}

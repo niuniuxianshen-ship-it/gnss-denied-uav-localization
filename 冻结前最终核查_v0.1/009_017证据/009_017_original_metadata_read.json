@@ -1,0 +1,30 @@
+[
+  {
+    "candidate_id": "009",
+    "original_file": "真实图片候选集_v0.1\\原图\\009.jpg",
+    "sha256": "F00B664F9659F5AC29CCBB3F3EA422FF789A565156150F3854FD27BCD71778B1",
+    "pixels": [
+      600,
+      441
+    ],
+    "source_modified": false,
+    "gps_ifd": {},
+    "gps_latitude_longitude_present": false,
+    "read_time": "2026-10-11T01:40:23.029331+00:00"
+  },
+  {
+    "candidate_id": "017",
+    "original_file": "真实图片候选集_v0.1\\原图\\017.jpg",
+    "sha256": "83E86124ABF1DBC40885A64FF238D57BA22EE83224F9DAC299AF58E78546193B",
+    "pixels": [
+      1920,
+      1280
+    ],
+    "source_modified": false,
+    "gps_ifd": {
+      "GPSVersionID": "02030000"
+    },
+    "gps_latitude_longitude_present": false,
+    "read_time": "2026-10-11T01:40:23.030907+00:00"
+  }
+]

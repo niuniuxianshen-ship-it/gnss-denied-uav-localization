@@ -1,0 +1,518 @@
+{
+  "version": "v0.2",
+  "created_at": "2026-10-11T09:10:54.363178+08:00",
+  "scope": "Root supplement report and all files in supplement folder; excludes manifest pair and mutable root README",
+  "new_independent_support_ids": [
+    "007",
+    "008",
+    "014",
+    "019"
+  ],
+  "pending_ids": [
+    "018",
+    "009"
+  ],
+  "formal_locked_count": 0,
+  "files": [
+    {
+      "path": "标签核验补充_v0.2/008_009原始来源研究.md",
+      "bytes": 12751,
+      "sha256": "21693A60F7CF5566344A795CBCE169A93A3A4E96CA79093B6101EABA0D641CC9"
+    },
+    {
+      "path": "标签核验补充_v0.2/README.md",
+      "bytes": 1408,
+      "sha256": "52B1CAE00E06D325D8786DE0C978333A97646F91C6A51D1B88257C7836B8AF83"
+    },
+    {
+      "path": "标签核验补充_v0.2/保存与完整性检查_v0.2.json",
+      "bytes": 4390,
+      "sha256": "5525FF1D4EB0D67CF92DB86022BFCC4D113084947DBDF0E9AD682ABBA7C3AB48"
+    },
+    {
+      "path": "标签核验补充_v0.2/六图补证状态_v0.2.json",
+      "bytes": 2339,
+      "sha256": "96CCE6821D169240802892D8E93A90202FB55673E2EEA1CA69E15F27A23BFDB8"
+    },
+    {
+      "path": "标签核验补充_v0.2/外部证据访问索引_v0.2.json",
+      "bytes": 36257,
+      "sha256": "1C95BAD21114191A4A59B0EED735F6C9652056A93BE77F28A26AC92B7F4B1C76"
+    },
+    {
+      "path": "标签核验补充_v0.2/旧文件核对基线.json",
+      "bytes": 699,
+      "sha256": "C92C1837DA6E83F32386DBEA6DB9B9D00BC887D842C6BC4388577750FD9DC460"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline.access.json",
+      "bytes": 441,
+      "sha256": "1121C15519F0310EFDDAC4C31A286748C86D7BE82378E41D41C1D360DAD781C0"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline.html",
+      "bytes": 89091,
+      "sha256": "545C0E2B4C016DF67C069EA4C27746BFF8BE897909FD0D7CE720B5A7F893BEA2"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline_ref.access.json",
+      "bytes": 371,
+      "sha256": "488F7467C0687A8CD9394E004E6CE519211F3BCB37F334733824BB6F9004CDC9"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_pconline_ref.jpg",
+      "bytes": 254656,
+      "sha256": "9CF59F8BE0A83359CF7E9AD2EF29A3FF58672C72A9A57860F43548CB1D53BAC7"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_people_gx.access.json",
+      "bytes": 688,
+      "sha256": "8001E2011847434578FDFA8D327329FC085A703009B6AB6BBFFA1AE128D014E5"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather.access.json",
+      "bytes": 168,
+      "sha256": "064878B76624A5902D415AAF08E182EBBB277D90E43FD9E1B2D91951950F5E25"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_curl.access.json",
+      "bytes": 465,
+      "sha256": "48405AFF075BE91FDD27A3030CA646ECA126AAD067E752C2911DBAF6F3F08729"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_curl.html",
+      "bytes": 21088,
+      "sha256": "4B3C5254FF0E24F46641A4133EED62C295952A319EEC0D5BEC6EB063FAAD0C34"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_https.access.json",
+      "bytes": 168,
+      "sha256": "1B91998D1EBD68F9CA046DAA6BB3AF2B192E459540E584E44E7BA70B3D273AF7"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong.access.json",
+      "bytes": 216,
+      "sha256": "0856DA82FB5C1A173AF5DC95EE15C2F3074313B4B04A3C7DB74E7C9EBC97BD85"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong_curl.access.json",
+      "bytes": 435,
+      "sha256": "37E7AF4F9C8C95A68B9EBD03DDFC56B7F0376D0469822F55EC57648DE3D0138F"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong_referer.access.json",
+      "bytes": 572,
+      "sha256": "5061592D6E34E4D95B25CC60A75F1BE3515214D29B83D73C95FC041F754083F5"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_jiulong_referer.jpg",
+      "bytes": 107336,
+      "sha256": "385EACB3DE8F8DEE269D82790C7EA417553815E2EA8D57024724951E1FA81515"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_ping_an.access.json",
+      "bytes": 216,
+      "sha256": "3816B64DC313DC49964910FD6B2B73155F388E7E8F2D18A9C6D5E72B1434E49E"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/007_weather_ping_an_curl.access.json",
+      "bytes": 435,
+      "sha256": "DEC3909C9ADEA289D5500764568AC6C42025FFBBFD4BD246AC57511C36C9B8CF"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_embedded_model.json",
+      "bytes": 20255,
+      "sha256": "A9997CD23495725515B06A5CF01EB0331BFC0631943ED3B3B20F17AA349F8E84"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_oembed.json",
+      "bytes": 1321,
+      "sha256": "A517496D848D864C69E2293A04F35545F16AB1B56E018D7A32430D4ACC0FFD2C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_oembed_access.json",
+      "bytes": 606,
+      "sha256": "8F45BC51EC42D0309A4771B8A320D6323FB4D3F50C0C0D0D0E26CEB2B053B8DD"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_original.jpg.access.json",
+      "bytes": 181,
+      "sha256": "7531BF271B0C9A09BF89EFE27A75E5438EFFACFC34E2CF611D76BA206C85E2BE"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_original_schannel.jpg",
+      "bytes": 1647155,
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_original_schannel.jpg.access.json",
+      "bytes": 638,
+      "sha256": "DDB49EF89A3B07CED19ACD8779C8CD77D448B7752159D51766D84A57ECB3E33A"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_page.html",
+      "bytes": 523921,
+      "sha256": "432610D04DDCB7AC4A20815EEFDC990F2C11CCAADD142DF40A59E226685D2F9B"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_flickr_page_access.json",
+      "bytes": 742,
+      "sha256": "47DD7E47C034DDCE3364322377546063734C7BB15C38D70E2F5B75AC974243DE"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel.html",
+      "bytes": 73268,
+      "sha256": "49D666D800EAD1B5FB10EFD8ABE3FC76F25469294C1D0BFC5DE655FE4D4829C3"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel.html.access.json",
+      "bytes": 398,
+      "sha256": "F4172D626E407B243A04E368FFAADC39FB7AF92672099F7A8EA498C510D33AE7"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref0.jpg",
+      "bytes": 1399142,
+      "sha256": "C593745E70BB65964B4A91A5C5F16E20DC96B4340267520BF22D7B9BF1844CC5"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref0.jpg.access.json",
+      "bytes": 873,
+      "sha256": "DE1A14D11721CE086246328E550397C066882B221A1FEF2826FC3ECF9A969046"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref1.jpg",
+      "bytes": 5614163,
+      "sha256": "5CD29D42EE0C7AD20A7AA1650BDA71CD1FE2A7E7186F850B133A8AE22D37D00C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_honghe_hotel_ref1.jpg.access.json",
+      "bytes": 873,
+      "sha256": "C5374F88560F0A1BA36B87315F5DD44F138329561804BA772ABD188E7840C094"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_article.html",
+      "bytes": 137040,
+      "sha256": "B4DA29CFB8113334EEFCEAE7B4EACCCCB601209E81A4DEEE5ABC6775A260B197"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_article.html.access.json",
+      "bytes": 582,
+      "sha256": "241011F3561E5F08340B358468073A7057222A38B740121E5B4A8E8835E7ADAF"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5.jpg",
+      "bytes": 91290,
+      "sha256": "91C707D708B039FE10DE45FEED3C74990211DA518C002F56B75DD1F6E8940197"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5.jpg.access.json",
+      "bytes": 485,
+      "sha256": "744F753A1D337689E98103A706A5B0BB4FD045D0E33E13ADB8822EDA226D1848"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_flickr_embedded_model.json",
+      "bytes": 17328,
+      "sha256": "7A523321389E2EFA6B88B0B7EE45359F1899AAF6CD2D49BA09AC724281290E3F"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_flickr_page.html",
+      "bytes": 520487,
+      "sha256": "D94EE688321107DAF9C3626D933DC863E01A264B49E88BFDB39ECAC4FA48D363"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_flickr_page.html.access.json",
+      "bytes": 574,
+      "sha256": "84DE3FAEAFACD90433A2FD2132E384789731EF8CEE0EF121AF9C0BC4D51FD313"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_julia_P5_oembed.json.access.json",
+      "bytes": 514,
+      "sha256": "D301774519C63CE214E04C1ACBC03ECE766F299AABEB00D4D661ADD06B1997CB"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_unesco.html",
+      "bytes": 171995,
+      "sha256": "118CB6497CBC5870D6F5D6B1E2C8FA23E2A1E10CB298F23320B6AD145DB63444"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_unesco_access.json",
+      "bytes": 2059,
+      "sha256": "BC8E986EB93DDC8C44C800F57BDAAC5245E029B672C1A9BCE30BB1BE83C7CB24"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/008_unesco_gallery.html.access.json",
+      "bytes": 154,
+      "sha256": "4204408C9167F480763DE76533FF265EF1DA2202A98AC9DC421C6317D5C24C85"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_culture_access.json",
+      "bytes": 211,
+      "sha256": "0954A34439D65EA49F606085FD7880B9C83D7B1B319084E845352222F1099F03"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_culture_schannel.html",
+      "bytes": 45258,
+      "sha256": "EFEC55FB6A41D0F777058F6AF39AB7CD85E0AACDF0D7EDA1D26CFBEB02506713"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_culture_schannel.html.access.json",
+      "bytes": 533,
+      "sha256": "B0FB7A0667120AB2724C88F201EEE3D44A8CD7D9BA5CC26A7D4CDFECC09D813E"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_photo_access.json",
+      "bytes": 215,
+      "sha256": "8D7CBA711F1DF87A9A8307A7ECD08A4AE5F58CBEB6955185D8CE9EFD2E145F4E"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_summer.jpg.access.json",
+      "bytes": 241,
+      "sha256": "BCD2D340A65DBE66B063AA0CC22695EA3BBB5DFFAA86A435A1B8CC943CD5E18F"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_summer_schannel.jpg",
+      "bytes": 143771,
+      "sha256": "F4C1C0DC0FC358F3601B8B7D8F168C2C254C73C84A1A7A06D7B00A424E00FFE2"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_hunan_summer_schannel.jpg.access.json",
+      "bytes": 592,
+      "sha256": "7BD788DD6D04E35208DE52B701989E11CE165A8CEB5FAB1744912C7457719196"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily.html",
+      "bytes": 33089,
+      "sha256": "2ECBF6BBB14D9409D51F3030B6E357EBC27223617A9F8C48C022712D07D61995"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily.html.access.json",
+      "bytes": 511,
+      "sha256": "EA93163DCA839AD2358D96F68E46F0FE876F191D521358895937DC19DA277AC7"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily_ref.jpg",
+      "bytes": 66417,
+      "sha256": "54443E645EFE71FC4DA38280FF335659D5B99B6DD9F9913E3DBD02BC03FDDFF0"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/009_peoples_daily_ref.jpg.access.json",
+      "bytes": 532,
+      "sha256": "1DA9C706CB965C13B17BC9DCBFCC42D00B70AFA97190C868677092AA43D7AD0D"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_gate.access.json",
+      "bytes": 451,
+      "sha256": "C09FB7D1BA93E223A3E8AB1B38A36413F7FC2C9B58FB10C1C251D4BEFBC9AA1D"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_gate.jpg",
+      "bytes": 111786,
+      "sha256": "9F875C65E9CC1DEEE18CC4C357FF73EC3ECF731A4934855C5135F384CE71E73C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_photo.access.json",
+      "bytes": 427,
+      "sha256": "DF510239A4460D0B5FB8E02371F27F311BE117F9FCC1C3652AB5F78AB2A05B82"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_photo.html",
+      "bytes": 11049,
+      "sha256": "A74A244A2867271266D12E777EBECB14DB045AE5C8BDD010631DD87D9EAD3F96"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_hunan_landmark.access.json",
+      "bytes": 221,
+      "sha256": "467E3BB1D23FEE8470A386BB18FD118671C5FE2F84228BB02638BC5CFF5AA345"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_hunan_landmark_curl.access.json",
+      "bytes": 510,
+      "sha256": "1FBB73AC96141D760B2FB2BD09A70FA9A20A37925CA922C197D880B4834B99E7"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_hunan_landmark_curl.html",
+      "bytes": 36010,
+      "sha256": "0D1700DFDDC9BD7E78DD7EB3BEE61296F532CB5202F808905214822E1066DD0C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_commons.access.json",
+      "bytes": 1002,
+      "sha256": "12DAFB8D998080745263DE08B7802B774C3A6D8D1114662B6CA19F0ED911A827"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_commons.json",
+      "bytes": 3270,
+      "sha256": "A9DFDF86F008F81994B134B06A5AECCF806920F17F396DA7D260E767FAD9D30E"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_river.access.json",
+      "bytes": 930,
+      "sha256": "2219B0275FC32AE87F35B9802CFEFFB9EA72F595D2BEA3C3F5242C73E8B8B9B4"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_campus_river.jpg",
+      "bytes": 5087316,
+      "sha256": "588EC374523ED5CFDCA3DDB19FA28B9EAB705B0A1A1F811F22A0ECE19BAFD79A"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_osm_reverse.access.json",
+      "bytes": 676,
+      "sha256": "AE5891712637440CCB0B1A5C0EBFC0CEC7A0E5DD8695877B06C30D68716C1076"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_osm_reverse.response.json",
+      "bytes": 761,
+      "sha256": "12E85E9D9D26274AACEFD85B0C8D7BD80A532CCC293E765D42022E4EED0DFF4F"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_gallery.access.json",
+      "bytes": 385,
+      "sha256": "3AAD6453EA4B318CA0C4EDB6EBF64E8C46326E4C6D727998F455D81CCC31A122"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_gallery.html",
+      "bytes": 22776,
+      "sha256": "4904E4C9EC96F61451618A7085127FCACF0EC5A44DDCD51C5E3E82580252173C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_zunshi.access.json",
+      "bytes": 409,
+      "sha256": "A0079FEAC8346639B462A367228D83816345F95971AFDF123E67D5904B2CC915"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/018_suda_zunshi.jpg",
+      "bytes": 1274026,
+      "sha256": "36FCE8C96F1A696D05E1BFFB99A26AC6B750460B3CE9A14C5FF66D34BCE5D86C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2.access.json",
+      "bytes": 433,
+      "sha256": "DC4E9FACFB56FDBE7C75149F23DE61E8C19BA090A5D944F68C41C726A81B8E12"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2.jpg",
+      "bytes": 2585819,
+      "sha256": "11F49FF528C9CD99709F9CFE9574B3CAC3010CAC81D2BA6E09B009DA8E742D07"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2_api.access.json",
+      "bytes": 441,
+      "sha256": "52D65202C5ABEB29002A01A3112599BCCB8CC5045DA647E9657D191198117453"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2_api.json",
+      "bytes": 2241,
+      "sha256": "5A1CCE1FFC6C364822908C76CFD8229B8FC041FFA00AB421CA615308816136DA"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq.access.json",
+      "bytes": 408,
+      "sha256": "2EA154DEC854C782B1652A9E4F6D4EF979051D8E6D4BFF91AEBFA6AB2212E6E2"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq.jpg",
+      "bytes": 3451298,
+      "sha256": "4D35743D2BB24467B2EC2730C06FE00F9127C099E48AE63BD4661406D3823492"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq_wide.access.json",
+      "bytes": 422,
+      "sha256": "8B7C32B7D5DF233ECD36955A0C405AA823828C7A1577E39EF431EDE449884E9A"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq_wide.jpg",
+      "bytes": 3230397,
+      "sha256": "5B8D5DD51C2C23F3249545787EAED5BC82A9D81B1FCDB3AB53A2D12233D7FA7F"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_refs_api.access.json",
+      "bytes": 479,
+      "sha256": "3FEE62A84D45BADD2E0021E7282319D2563F0FC25C413D5F29326792B83B1574"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_refs_api.json",
+      "bytes": 4473,
+      "sha256": "55C587F2B8FE8D4D49A399F74FA4A9953FDF9541260FFDEFFCF9F2EF12960B87"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_unesco1002.access.json",
+      "bytes": 694,
+      "sha256": "14803E2B5A705EE96E29FCCBDEFBB1A4723E721EBD88059B868A659B509820F7"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua.access.json",
+      "bytes": 447,
+      "sha256": "DE67C600B6597A930866C9D44B493641939F1067F430C11C2C8C37A66B60A7FE"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua.html",
+      "bytes": 20108,
+      "sha256": "CDCF8BB30E1A9C914FA795415BF5250BD8E8AD9E367AAE53A3F6B9647E363E3F"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_2019.access.json",
+      "bytes": 405,
+      "sha256": "1F54D3BD211F2A2B2DEDDF009B05AF1CFDFD57CA9E8356452C9A4BFBC5CA600C"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_2019.html",
+      "bytes": 8389,
+      "sha256": "58016F36C72E1070C3B132879ACEC5E8BE877D1ECFE362A6C2D0D1E8AA52F39D"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_ground.access.json",
+      "bytes": 611,
+      "sha256": "152F67346DBFB75E50F8FEAC2CAEFFC398285E33369A30FD4FE19E5F33C4312B"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_ground.jpg",
+      "bytes": 61682,
+      "sha256": "73681C9E28C10356DDECDC953886DD21575D05A8AA97FAA989C8277679374341"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_yuezhao.access.json",
+      "bytes": 433,
+      "sha256": "C95D14D4A62379F8B8FFCE73C330C6F6D40649328982A3243C938C42BF35C571"
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_xinhua_yuezhao.jpg",
+      "bytes": 125920,
+      "sha256": "B2B9714E12C80D5FE5ED757032914258EE87C1F7E4FD30A916A9F622EE3BFF61"
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/007.md",
+      "bytes": 3051,
+      "sha256": "DF0C51CDBE144FA5C68B6C5F270FEBA878B0996ABE10FFE6E564497A719F122A"
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/008.md",
+      "bytes": 3370,
+      "sha256": "D95BD7041766F25A55964E58EBCAE436E7A3D640000040833DC7EB517DDFA8E9"
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/009.md",
+      "bytes": 2414,
+      "sha256": "3A227E4441328041ABA145543F3D98D10407FBA38A7DB4D33664FD55F24B3141"
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/014.md",
+      "bytes": 2482,
+      "sha256": "D9F57C01EFC0FA96FE9848CDD2A306C378B0FE49F070A8E76A5C05A3CF805A74"
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/018.md",
+      "bytes": 3062,
+      "sha256": "615C0490B50608F38130F864A5EA981C7ABD50CED3830C6A7775FA39F87E5ACD"
+    },
+    {
+      "path": "标签核验补充_v0.2/逐图记录/019.md",
+      "bytes": 3039,
+      "sha256": "756453B4C675DB746DA07975A8F2161A7980E5066873336D4DD132CFA7523E26"
+    },
+    {
+      "path": "标签核验补充记录_v0.2.md",
+      "bytes": 20974,
+      "sha256": "C846519CD46C7E74DB9ECA5B3AA543A65072539C38802D8240CE8AE1199FC603"
+    }
+  ]
+}

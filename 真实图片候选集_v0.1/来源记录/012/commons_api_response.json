@@ -1,0 +1,138 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 187460598,
+        "ns": 6,
+        "title": "File:Gate of Hongcun Scenario Area, Anhui, China.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2026-03-30T07:35:43Z",
+            "size": 2309065,
+            "width": 4624,
+            "height": 3472,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gate_of_Hongcun_Scenario_Area%2C_Anhui%2C_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gate_of_Hongcun_Scenario_Area,_Anhui,_China.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187460598",
+            "sha1": "02937f34dbd398fdd4beac1f4ded9772dcd214f8",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-03-30 07:35:43",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gate of Hongcun Scenario Area, Anhui, China",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Hongcun|Self-published work",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gate of Hongcun Scenario Area, Anhui, China",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2025-12-23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HCCB3947&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HCCB3947 (page does not exist)\">HCCB3947</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-05-26T18:21:03Z",
+        "lastrevid": 1220712931,
+        "length": 315,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Gate_of_Hongcun_Scenario_Area,_Anhui,_China.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Gate_of_Hongcun_Scenario_Area,_Anhui,_China.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Gate_of_Hongcun_Scenario_Area,_Anhui,_China.jpg",
+        "revisions": [
+          {
+            "revid": 1220712931,
+            "parentid": 1189112684,
+            "timestamp": "2026-05-26T18:21:01Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Gate of Hongcun Scenario Area, Anhui, China}}\n{{zh-hans|1=安徽省宏村景区大门}}\n|date=2025-12-23\n|source={{own}}\n|author=[[User:HCCB3947|HCCB3947]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Hongcun]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Hongcun"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          }
+        ]
+      }
+    ]
+  }
+}

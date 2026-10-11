@@ -1,0 +1,15 @@
+{
+  "candidate_id": "005",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Xi_Jie_%28West_Street%29%2C_Quanzhou_Aug_2023.jpg",
+  "started_at": "2026-10-10T19:50:39.819416+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Xi_Jie_%28West_Street%29%2C_Quanzhou_Aug_2023.jpg",
+  "received_at": "2026-10-10T19:50:41.988798+08:00",
+  "status": "saved",
+  "sha256": "98BAB3B2466181EB670DC836F65763B37E3104250A02B284599F2257DE2ED301",
+  "sha1": "DBCC5CF3F76F30A3E50568FC23CE1F2FC3F92575",
+  "bytes": 1418242,
+  "width": 3961,
+  "height": 2228,
+  "GPS_present_in_original": true
+}

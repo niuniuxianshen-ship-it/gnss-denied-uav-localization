@@ -1,0 +1,16 @@
+== {{int:filedesc}} ==
+{{Self|GFDL|Cc-by-sa-3.0-migrated}}
+{{Information
+|Description=earth building chengqi lou
+|Source={{Own}}
+|Date=2006-10-06
+|Author=[[User:Bolobolo|Bolobolo]]
+|Permission=
+|other_versions=
+}}
+
+== {{int:license-header}} ==
+{{PD-self|author=[[User:Bolobolo|Bolobolo]]}}
+
+
+[[Category:Chengqi Lou]]

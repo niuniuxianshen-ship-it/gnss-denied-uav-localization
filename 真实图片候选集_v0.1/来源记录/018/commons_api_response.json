@@ -1,0 +1,175 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 91212089,
+        "ns": 6,
+        "title": "File:Suzhou canals November 2017 004.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2020-06-14T23:20:40Z",
+            "size": 9581665,
+            "width": 5940,
+            "height": 3960,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Suzhou_canals_November_2017_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Suzhou_canals_November_2017_004.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91212089",
+            "sha1": "817f55e2ba5fb1b84a37023ce140a21ae204ec73",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-14 23:20:40",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Suzhou canals November 2017 004",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Taken with Nikon D750|Uploaded with pattypan|Self-published work|Files with coordinates missing SDC location of creation|Canals in Suzhou",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "quality",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "31.307574",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "120.634737",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Canals of <a href=\"//commons.wikimedia.org/wiki/Suzhou\" title=\"Suzhou\">Suzhou</a>, <a href=\"//commons.wikimedia.org/wiki/China\" class=\"mw-redirect\" title=\"China\">China</a>.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2017-11-26 16:23",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:King_of_Hearts\" title=\"User:King of Hearts\">King of Hearts</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-09-19T16:43:38Z",
+        "lastrevid": 976773969,
+        "length": 526,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Suzhou_canals_November_2017_004.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Suzhou_canals_November_2017_004.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Suzhou_canals_November_2017_004.jpg",
+        "revisions": [
+          {
+            "revid": 976773969,
+            "parentid": 676700199,
+            "timestamp": "2024-12-29T02:58:39Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n |description = {{en|Canals of [[Suzhou]], [[China]].}}\n{{zh|[[苏州]][[:zh:江南水乡|水乡]]。}}\n |date = 2017-11-26 16:23\n |source = {{own}}\n |author = [[User:King of Hearts|King of Hearts]]\n |permission = \n |other versions = \n}}\n{{Location dec|31.307574|120.6347372}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Canals in Suzhou]]\n[[Category:Taken with Nikon D750]]\n[[Category:Uploaded with pattypan]]\n[[Category:Quality images by King of Hearts]]\n{{QualityImage}}"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Canals in Suzhou"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Files with coordinates missing SDC location of creation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Quality images"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Quality images by King of Hearts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Quality images missing SDC depicts"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Taken with Nikon D750"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Uploaded with pattypan"
+          }
+        ]
+      }
+    ]
+  }
+}

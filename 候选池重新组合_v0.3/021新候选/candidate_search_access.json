@@ -1,0 +1,6 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Csha1%7Cextmetadata&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=File%3A%28CHN-Guangxi%29+Elephant+Trunk+Hill+2024-11-25+-+1.jpg%7CFile%3AElephantTrunkHill.jpg%7CFile%3AElephant+Hill+89533-Guilin+%2849040997272%29.jpg&iiurlwidth=1200",
+  "status": 200,
+  "sha256": "860c01bafe2c63c6ee2bc15460e67ec141114fe8b2d597fa95cbb6751f432e7a",
+  "time": "2026-10-11T13:19:14.390094+08:00"
+}

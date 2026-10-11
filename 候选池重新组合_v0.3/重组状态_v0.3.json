@@ -1,0 +1,221 @@
+{
+  "version": "v0.3",
+  "created_at": "2026-10-11T13:35:25.412262+08:00",
+  "scope": "候选池重新组合，不是正式冻结；允许少量新增",
+  "original_pool_count": 20,
+  "added_candidate_ids": [
+    "021",
+    "022"
+  ],
+  "active_candidate_pool_count": 22,
+  "excluded_initial_photo_count": 1,
+  "excluded_initial_photo_in_active_pool": false,
+  "formal_development_target_count": 10,
+  "formal_locked_count": 0,
+  "working_categories": {
+    "clear_text": [
+      "001",
+      "002",
+      "011"
+    ],
+    "missing_or_blurred_text": [
+      "015",
+      "021",
+      "022"
+    ],
+    "similar_landscape": [
+      "007",
+      "008",
+      "014",
+      "019"
+    ]
+  },
+  "working_id_count": 10,
+  "working_unique_id_count": 10,
+  "working_distinct_original_hash_count": 10,
+  "working_image_hashes": [
+    {
+      "candidate_id": "001",
+      "path": "真实图片候选集_v0.1/原图/001.jpg",
+      "sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45"
+    },
+    {
+      "candidate_id": "002",
+      "path": "真实图片候选集_v0.1/原图/002.jpg",
+      "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788"
+    },
+    {
+      "candidate_id": "011",
+      "path": "真实图片候选集_v0.1/原图/011.jpg",
+      "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324"
+    },
+    {
+      "candidate_id": "015",
+      "path": "真实图片候选集_v0.1/原图/015.jpg",
+      "sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D"
+    },
+    {
+      "candidate_id": "021",
+      "path": "候选池重新组合_v0.3/021新候选/021.jpg",
+      "sha256": "C4A0276906D59DB7179057F712D1640C0668868DE5574892AD1FB7CA82EDCBCB"
+    },
+    {
+      "candidate_id": "022",
+      "path": "候选池重新组合_v0.3/022新候选/022.jpg",
+      "sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C"
+    },
+    {
+      "candidate_id": "007",
+      "path": "真实图片候选集_v0.1/原图/007.jpg",
+      "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786"
+    },
+    {
+      "candidate_id": "008",
+      "path": "真实图片候选集_v0.1/原图/008.jpg",
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833"
+    },
+    {
+      "candidate_id": "014",
+      "path": "真实图片候选集_v0.1/原图/014.jpg",
+      "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08"
+    },
+    {
+      "candidate_id": "019",
+      "path": "真实图片候选集_v0.1/原图/019.jpg",
+      "sha256": "1288C23F78BC92FF505C8084D844044453513D16D1227FD442A818B95234B8D1"
+    }
+  ],
+  "new_candidates": [
+    {
+      "candidate_id": "021",
+      "path": "候选池重新组合_v0.3/021新候选/021.jpg",
+      "sha256": "C4A0276906D59DB7179057F712D1640C0668868DE5574892AD1FB7CA82EDCBCB",
+      "bytes": 3632890,
+      "dimensions": [
+        3888,
+        2592
+      ],
+      "province": "广西壮族自治区",
+      "label_state": "有独立支持",
+      "capture_eligibility": "未确认",
+      "formal_locked": false
+    },
+    {
+      "candidate_id": "022",
+      "path": "候选池重新组合_v0.3/022新候选/022.jpg",
+      "sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C",
+      "bytes": 2292716,
+      "dimensions": [
+        1728,
+        2592
+      ],
+      "province": "四川省",
+      "label_state": "有独立支持",
+      "capture_eligibility": "未确认",
+      "formal_locked": false
+    }
+  ],
+  "similarity_pairs": [
+    {
+      "id": "S01",
+      "ids": [
+        "007",
+        "008"
+      ],
+      "province_supported_both": true
+    },
+    {
+      "id": "S02R",
+      "ids": [
+        "014",
+        "019"
+      ],
+      "province_supported_both": true,
+      "similarity": "中等滨水古建筑相似；有文字，有构图及水域差异"
+    }
+  ],
+  "suspended_pair": {
+    "id": "S02",
+    "ids": [
+      "009",
+      "010"
+    ],
+    "status": "继续暂停确认"
+  },
+  "capture_eligibility_unconfirmed": [
+    "005",
+    "015",
+    "021",
+    "022"
+  ],
+  "full_admission_conditions_confirmed": false,
+  "associations": [
+    {
+      "ids": [
+        "012",
+        "019"
+      ],
+      "reason": "同宏村同作者，工作索引仅019"
+    },
+    {
+      "ids": [
+        "008",
+        "015"
+      ],
+      "reason": "同元阳县／景区相关，不完全独立"
+    },
+    {
+      "ids": [
+        "014",
+        "015"
+      ],
+      "reason": "同作者不同地点"
+    },
+    {
+      "ids": [
+        "016",
+        "P05"
+      ],
+      "reason": "同作者景区及记录坐标有关联，不转移标签"
+    }
+  ],
+  "reused_evidence_hashes": [
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_gate.jpg",
+      "sha256": "9F875C65E9CC1DEEE18CC4C357FF73EC3ECF731A4934855C5135F384CE71E73C",
+      "bytes": 111786
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/014_china_photo.html",
+      "sha256": "A74A244A2867271266D12E777EBECB14DB045AE5C8BDD010631DD87D9EAD3F96",
+      "bytes": 11049
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2.jpg",
+      "sha256": "11F49FF528C9CD99709F9CFE9574B3CAC3010CAC81D2BA6E09B009DA8E742D07",
+      "bytes": 2585819
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_editq_wide.jpg",
+      "sha256": "5B8D5DD51C2C23F3249545787EAED5BC82A9D81B1FCDB3AB53A2D12233D7FA7F",
+      "bytes": 3230397
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon2_api.json",
+      "sha256": "5A1CCE1FFC6C364822908C76CFD8229B8FC041FFA00AB421CA615308816136DA",
+      "bytes": 2241
+    },
+    {
+      "path": "标签核验补充_v0.2/证据快照/019_moon_refs_api.json",
+      "sha256": "55C587F2B8FE8D4D49A399F74FA4A9953FDF9541260FFDEFFCF9F2EF12960B87",
+      "bytes": 4473
+    }
+  ],
+  "scoring_rules_modified": false,
+  "experiment_design_modified": false,
+  "source_metadata_modified": false,
+  "anonymous_images_created": 0,
+  "locating_model_calls": 0,
+  "accuracy_computed": false,
+  "new_freeze_plan_created": false
+}

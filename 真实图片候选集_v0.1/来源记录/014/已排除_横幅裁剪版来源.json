@@ -1,0 +1,138 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 80139392,
+        "ns": 6,
+        "title": "File:Fenghuang banner Ancient Town river crossing.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2019-07-03T18:19:07Z",
+            "size": 375350,
+            "width": 2100,
+            "height": 300,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Fenghuang_banner_Ancient_Town_river_crossing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fenghuang_banner_Ancient_Town_river_crossing.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80139392",
+            "sha1": "63a05fa106f117ee2ba7d7d2bad164ec173cad10",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2019-07-03 18:19:07",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Fenghuang banner Ancient Town river crossing",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wikivoyage banners of Hunan|Fenghuang Ancient Town",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "fenghuang ancient town river crossing 2018",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2018-10-09 17:21:41",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg\" title=\"File:1 fenghuang 2018.jpg\">File:1 fenghuang 2018.jpg</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">User:Chensiyuan</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-07-24T02:39:29Z",
+        "lastrevid": 1251173292,
+        "length": 351,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Fenghuang_banner_Ancient_Town_river_crossing.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Fenghuang_banner_Ancient_Town_river_crossing.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Fenghuang_banner_Ancient_Town_river_crossing.jpg",
+        "revisions": [
+          {
+            "revid": 1251173292,
+            "parentid": 1019664988,
+            "timestamp": "2026-07-24T02:39:29Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=fenghuang ancient town river crossing 2018}}\n|date=2018-10-09 17:21:41\n|source=[[:File:1 fenghuang 2018.jpg]]\n|author=[[:User:Chensiyuan]]\n|permission=\n|other versions=\n}}\n\n== {{int:license-header}} ==\n{{cc-by-sa-4.0}}\n\n[[Category:Fenghuang Ancient Town]]\n[[Category:Wikivoyage banners of Hunan]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Fenghuang Ancient Town"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Wikivoyage banners of Hunan"
+          }
+        ]
+      }
+    ]
+  }
+}

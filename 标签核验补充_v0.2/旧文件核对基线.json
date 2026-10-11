@@ -1,0 +1,24 @@
+[
+  {
+    "manifest": "真实图片候选集_v0.1/候选归档清单_v0.1.json",
+    "count": 128,
+    "all_matched": true
+  },
+  {
+    "manifest": "真实图片标签核验_v0.1/核验归档清单_v0.1.json",
+    "count": 59,
+    "all_matched": true
+  },
+  {
+    "path": "候选比较评分表_v0.2.md",
+    "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1"
+  },
+  {
+    "path": "真实模型评价实验设计_v0.1.md",
+    "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B"
+  },
+  {
+    "path": "正式测试集候选筛选_v0.1.md",
+    "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C"
+  }
+]

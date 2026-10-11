@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-10-11T09:10:54.363178+08:00",
+  "formal_locked_count": 0,
+  "supported_in_worklist_count": 8,
+  "locating_model_calls": 0,
+  "records": [
+    {
+      "candidate_id": "018",
+      "province_label": "江苏省（待补证）",
+      "evidence_level": "已检查内部一致性",
+      "decision": "继续待核验；坐标行政归属有支持，具体场景链未闭合",
+      "unconfirmed": "原图白墙建筑、桥与具体河段的对应；真实机位",
+      "record_file": "标签核验补充_v0.2/逐图记录/018.md"
+    },
+    {
+      "candidate_id": "007",
+      "province_label": "广西壮族自治区",
+      "evidence_level": "有独立支持",
+      "decision": "省级标签门槛通过；保留为相似景观候选",
+      "unconfirmed": "精确机位、GPS准确性、逐条田埂配准",
+      "record_file": "标签核验补充_v0.2/逐图记录/007.md"
+    },
+    {
+      "candidate_id": "008",
+      "province_label": "云南省",
+      "evidence_level": "有独立支持",
+      "decision": "省级标签门槛通过；保留为相似景观候选",
+      "unconfirmed": "精确观景点、原始坐标准确性",
+      "record_file": "标签核验补充_v0.2/逐图记录/008.md"
+    },
+    {
+      "candidate_id": "009",
+      "province_label": "湖南省（待补证）",
+      "evidence_level": "已检查内部一致性",
+      "decision": "继续待核验；不能只凭紫鹊界介绍入选",
+      "unconfirmed": "原图具体坡面、房屋和田埂对应；原始拍摄记录",
+      "record_file": "标签核验补充_v0.2/逐图记录/009.md"
+    },
+    {
+      "candidate_id": "014",
+      "province_label": "湖南省",
+      "evidence_level": "有独立支持",
+      "decision": "省级标签门槛通过；保留为补充候选",
+      "unconfirmed": "原图GPS、精确拍摄点与方向",
+      "record_file": "标签核验补充_v0.2/逐图记录/014.md"
+    },
+    {
+      "candidate_id": "019",
+      "province_label": "安徽省",
+      "evidence_level": "有独立支持",
+      "decision": "省级标签门槛通过；保留为补充候选",
+      "unconfirmed": "原图坐标准确性；与012同作者、同地点关联的处置",
+      "record_file": "标签核验补充_v0.2/逐图记录/019.md"
+    }
+  ]
+}

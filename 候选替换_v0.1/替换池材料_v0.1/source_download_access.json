@@ -1,0 +1,52 @@
+[
+  {
+    "candidate_id": "023",
+    "title": "File:Huangmaohai sea crossing bridge Zhuhai dusk 2026 dllu.jpg",
+    "requested_at": "2026-10-11T14:42:31.936675+08:00",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Huangmaohai_sea_crossing_bridge_Zhuhai_dusk_2026_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Huangmaohai_sea_crossing_bridge_Zhuhai_dusk_2026_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "http_status": 200,
+    "bytes": 17937070,
+    "source_bytes": 17937070,
+    "sha256": "BB0BFD404803904BD1DD57A8DF236827E05A9ACD3B8F950A2C3B79DD90861735",
+    "sha1": "0e5ec75e1f638ba0f60e5e0293272cc218cdf562",
+    "source_sha1": "0e5ec75e1f638ba0f60e5e0293272cc218cdf562",
+    "source_size_and_sha1_match": true,
+    "dimensions": [
+      11606,
+      5803
+    ],
+    "page_revision": 1261965309,
+    "original_image_unmodified": true
+  },
+  {
+    "candidate_id": "024",
+    "title": "File:A view from Su causeway (6070105940).jpg",
+    "requested_at": "2026-10-11T14:42:35.944836+08:00",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_view_from_Su_causeway_%286070105940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_view_from_Su_causeway_%286070105940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "http_status": 200,
+    "bytes": 4051017,
+    "source_bytes": 4051017,
+    "sha256": "A27C8496277C60D0B17B3E5FFF27804123B95CC0542AF40A1C19C0BC5001076C",
+    "sha1": "5e1cb7a822afdb9fcf6fff0d01492ec3fc6c5dfc",
+    "source_sha1": "5e1cb7a822afdb9fcf6fff0d01492ec3fc6c5dfc",
+    "source_size_and_sha1_match": true,
+    "dimensions": [
+      3510,
+      2570
+    ],
+    "page_revision": 1003904714,
+    "original_image_unmodified": true
+  },
+  {
+    "candidate_id": "024",
+    "kind": "original author public page",
+    "requested_at": "2026-10-11T14:42:40.459156+08:00",
+    "source_url": "https://www.flickr.com/photos/joiseyshowaa/6070105940/",
+    "final_url": "https://www.flickr.com/photos/joiseyshowaa/6070105940/",
+    "http_status": 200,
+    "bytes": 534749,
+    "sha256": "143A2B0F7393C23A8F18B27926690CDF0B7EB8D62E704700D1533423F93D4DE2"
+  }
+]

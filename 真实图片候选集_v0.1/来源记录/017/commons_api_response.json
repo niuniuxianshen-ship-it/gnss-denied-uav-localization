@@ -1,0 +1,142 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 114599424,
+        "ns": 6,
+        "title": "File:Ziquejie Rice Terraces 20160123076.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2022-01-24T08:08:46Z",
+            "size": 967285,
+            "width": 1920,
+            "height": 1280,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ziquejie_Rice_Terraces_20160123076.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ziquejie_Rice_Terraces_20160123076.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114599424",
+            "sha1": "986fcdba4a3f62346b4e75398b4adfb06e300d9d",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-01-24 08:08:46",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Ziquejie Rice Terraces 20160123076",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Ziquejie Rice Terraces|Self-published work|Snow in Xinhua County",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "A residential house in Ziquejie Rice Terraces. Ziquejie Rice Terraces are located in Xinhua County, Hunan, China.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-01-23 18:14:47",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Huangdan2060\" title=\"User:Huangdan2060\">Huangdan2060</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2026-02-09T15:13:04Z",
+        "lastrevid": 1162542555,
+        "length": 536,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Ziquejie_Rice_Terraces_20160123076.jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Ziquejie_Rice_Terraces_20160123076.jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Ziquejie_Rice_Terraces_20160123076.jpg",
+        "revisions": [
+          {
+            "revid": 1162542555,
+            "parentid": 629156335,
+            "timestamp": "2026-02-09T15:13:04Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=A residential house in Ziquejie Rice Terraces. Ziquejie Rice Terraces are located in Xinhua County, Hunan, China.}}\n{{zh-hans|1=紫鹊界梯田的民居。紫鹊界梯田坐落在中国湖南省娄底市新化县西部水车镇和奉家镇。}}\n|date=2016-01-23 18:14:47\n|source={{own}}\n|author=[[User:Huangdan2060|Huangdan2060]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-3.0}}\n\n[[Category:Ziquejie Rice Terraces]]\n[[Category:Snow in Xinhua County]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-3.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Snow in Xinhua County"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Ziquejie Rice Terraces"
+          }
+        ]
+      }
+    ]
+  }
+}

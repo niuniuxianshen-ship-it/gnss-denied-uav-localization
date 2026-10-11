@@ -1,0 +1,35 @@
+{
+  "mode": "后台研究者仅离线，未联网、未写文件",
+  "items": [
+    {
+      "candidate": "015",
+      "file": "File:1 yuanyang rice terrace paozhuzhai 2012.jpg",
+      "author": "Chensiyuan",
+      "new_direct_entry": "未发现",
+      "checked_sources": [
+        "真实图片候选集_v0.1/来源记录/015/commons_api_response.json",
+        "最终冻结前资格补证_v0.1/015证据/02_author_userpage.json",
+        "最终冻结前资格补证_v0.1/015证据/04_en_author_userpage.json",
+        "最终冻结前资格补证_v0.1/015证据/06_author_gallery.json",
+        "路线A资格追查_v0.2/015证据/01_author_about.json",
+        "路线A资格追查_v0.2/015证据/03_gallery_early_contents.json"
+      ],
+      "remaining_scope": "未知作者日志、相册其他年代，未穷尽"
+    },
+    {
+      "candidate": "022",
+      "file": "File:The giant Buddha statue in Leshan.jpg",
+      "confirmed_alias": "Dafo.jpg",
+      "author": "Ondřej Žváček",
+      "new_direct_entry": "未发现",
+      "checked_sources": [
+        "候选池重新组合_v0.3/022新候选/022_candidate_record_v0.3.json",
+        "最终冻结前资格补证_v0.1/021_022证据/022_commons_author_album.json",
+        "路线A资格追查_v0.2/022证据/022_description_full_history.json",
+        "最终冻结前资格补证_v0.1/021_022证据/022_alias_and_talk.json"
+      ],
+      "remaining_scope": "作者未知其他平台日志、隐藏或删除修订，未穷尽"
+    }
+  ],
+  "queries_note": "后台建议未执行；实际执行仅使用主任务保存的015和022各一条查询，不混记建议为检索结果"
+}

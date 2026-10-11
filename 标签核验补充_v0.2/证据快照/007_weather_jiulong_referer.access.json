@@ -1,0 +1,11 @@
+{
+  "url": "https://pic.weather.com.cn/images/guangxi/photo/2017/10/08/080930266DD0A6045D1FCCF2C18FFB696CA98ACE.jpg",
+  "retrieved_at": "2026-10-11T09:00:46.502959+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 0,
+  "result": "200\nhttps://pic.weather.com.cn/images/guangxi/photo/2017/10/08/080930266DD0A6045D1FCCF2C18FFB696CA98ACE.jpg",
+  "stderr": "",
+  "bytes": 107336,
+  "sha256": "385eacb3de8f8dee269d82790c7ea417553815e2ea8d57024724951e1fa81515",
+  "file": "标签核验补充_v0.2\\证据快照\\007_weather_jiulong_referer.jpg"
+}

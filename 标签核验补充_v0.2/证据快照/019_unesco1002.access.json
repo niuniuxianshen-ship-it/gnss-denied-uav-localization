@@ -1,0 +1,17 @@
+{
+  "url": "https://whc.unesco.org/en/list/1002/",
+  "retrieved_at": "2026-10-11T09:09:56.750448+08:00",
+  "client": "curl.exe default TLS verification",
+  "exit_code": 22,
+  "result": "403\nhttps://whc.unesco.org/en/list/1002/",
+  "stderr": "curl: (22) The requested URL returned error: 403",
+  "web_read_fallback": {
+    "read_date": "2026-10-11",
+    "source_url": "https://whc.unesco.org/en/list/1002/",
+    "fields_checked": [
+      "Outstanding Universal Value / Brief synthesis: Yi County, Huangshan City, south Anhui Province",
+      "Brief synthesis: Moon Pond in the centre of Hongcun"
+    ],
+    "scope": "Tool-read field record only, not an HTTP HTML snapshot"
+  }
+}

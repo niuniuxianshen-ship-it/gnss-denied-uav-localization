@@ -1,0 +1,274 @@
+{
+  "recorded_at": "2026-10-11T19:19:41.379882+08:00",
+  "material_type": "本地入口登记，不是站位补证",
+  "entries": [
+    {
+      "id": "001",
+      "author": "Nihongarden",
+      "title": "File:Chengdu station.jpg",
+      "pageid": 105509194,
+      "revision_ids": [
+        1121890830
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/001/commons_api_response.json",
+      "snapshot_sha256": "ec98242fde0d89a7d71df97a23f6e98a16ad314875e4df9b37f3cb158d2e666a",
+      "artist_field": "<a href=\"//commons.wikimedia.org/wiki/User:Nihongarden\" title=\"User:Nihongarden\">Nihongarden</a>",
+      "author_page_redlink_in_saved_snapshot": false,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "002",
+      "author": "Djhobo9",
+      "title": "File:New Qingdao railway station.jpg",
+      "pageid": 4474814,
+      "revision_ids": [
+        454843824
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/002/commons_api_response.json",
+      "snapshot_sha256": "2316423b7604d32157d6d8425f24c3723d363999c8c558caea9d991511d32309",
+      "artist_field": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Djhobo9&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Djhobo9 (page does not exist)\">Djhobo9</a>",
+      "author_page_redlink_in_saved_snapshot": true,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "007",
+      "author": "Bernessaw",
+      "title": "File:Rice terraces longji.jpg",
+      "pageid": 60328730,
+      "revision_ids": [
+        1174086154
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/007/commons_api_response.json",
+      "snapshot_sha256": "1404dabf7a7d2810dc3f969cd7a4f1466f45fb47d89ab76f49864b12ca710295",
+      "artist_field": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Bernessaw&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Bernessaw (page does not exist)\">Bernessaw</a>",
+      "author_page_redlink_in_saved_snapshot": true,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "008",
+      "author": "Chiu Ho-yang",
+      "title": "File:Yuanyang Hani Rice Terraces at Sunrise.jpg",
+      "pageid": 118295420,
+      "revision_ids": [
+        916831694
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/008/commons_api_response.json",
+      "snapshot_sha256": "a6b94cbbd08f2865fb93d59857febc7818c8c49b6a59ed40eb3c2f3fa57eebb2",
+      "artist_field": "Chiu Ho-yang",
+      "author_page_redlink_in_saved_snapshot": false,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "011",
+      "author": "Zheng Zhou",
+      "title": "File:Wuhan Railway Station (July 2023).jpg",
+      "pageid": 145462028,
+      "revision_ids": [
+        1015387463
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/011/commons_api_response.json",
+      "snapshot_sha256": "453758edeba03ecc7b4ad23dd717e26d9bc83843653b6baee6982031301358a9",
+      "artist_field": "<a href=\"//commons.wikimedia.org/wiki/User:Zheng_Zhou\" title=\"User:Zheng Zhou\">Zheng Zhou</a>",
+      "author_page_redlink_in_saved_snapshot": false,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "012",
+      "author": "HCCB3947",
+      "title": "File:Gate of Hongcun Scenario Area, Anhui, China.jpg",
+      "pageid": 187460598,
+      "revision_ids": [
+        1220712931
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/012/commons_api_response.json",
+      "snapshot_sha256": "d013c08fa80615956d0a9b7c1ab384ad726cb43cc051317498b294a11b7c7881",
+      "artist_field": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HCCB3947&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HCCB3947 (page does not exist)\">HCCB3947</a>",
+      "author_page_redlink_in_saved_snapshot": true,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "014",
+      "author": "Chensiyuan",
+      "title": "File:1 fenghuang 2018.jpg",
+      "pageid": 73606764,
+      "revision_ids": [
+        1259387368
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/014/commons_api_response.json",
+      "snapshot_sha256": "16026c2ae6d2aec5b70cc978c76a7767d6db62af7f5fa5d1d8814816735a9f67",
+      "artist_field": "<a href=\"//commons.wikimedia.org/wiki/User:Chensiyuan\" title=\"User:Chensiyuan\">Chensiyuan</a>",
+      "author_page_redlink_in_saved_snapshot": false,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    },
+    {
+      "id": "019",
+      "author": "HCCB3947",
+      "title": "File:Yuezhao Lake, Hongcun, Anhui, China.jpg",
+      "pageid": 187460597,
+      "revision_ids": [
+        1226629041
+      ],
+      "snapshot": "真实图片候选集_v0.1/来源记录/019/commons_api_response.json",
+      "snapshot_sha256": "d7d4d0850ceb20eb7ec9766e31bbd7857b1352fea6c1ba8c4ad7746f85270861",
+      "artist_field": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:HCCB3947&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:HCCB3947 (page does not exist)\">HCCB3947</a>",
+      "author_page_redlink_in_saved_snapshot": true,
+      "imageinfo_fields": [
+        "timestamp",
+        "size",
+        "width",
+        "height",
+        "url",
+        "descriptionurl",
+        "descriptionshorturl",
+        "sha1",
+        "extmetadata",
+        "mime"
+      ],
+      "upload_user_comment_available_in_snapshot": false,
+      "new_station_evidence": false,
+      "collection_scope": "未确认"
+    }
+  ],
+  "flickr_008": {
+    "model_file": "标签核验补充_v0.2/证据快照/008_flickr_embedded_model.json",
+    "photo_id": "12424132044",
+    "set_models_count": 0,
+    "photo_contexts_models_count": 0,
+    "comment_model_keys": [],
+    "absolute_album_links_detected_in_saved_html": [],
+    "limits": "不代表不存在相册或评论；已有照片页不计新入口"
+  },
+  "gallery_014": {
+    "file": "最终冻结前资格补证_v0.1/015证据/06_author_gallery.json",
+    "exact_entry": "File:1 fenghuang 2018.jpg|Fenghuang III",
+    "newly_identified_same_photo_entry": true,
+    "new_url": false,
+    "station_evidence": false
+  },
+  "priority_groups": {
+    "优先": [
+      "008",
+      "014"
+    ],
+    "次选": [
+      "001",
+      "011"
+    ],
+    "较弱": [
+      "002",
+      "007",
+      "012",
+      "019"
+    ]
+  },
+  "new_effective_station_entries": 0,
+  "existing_files_unchanged": 1085,
+  "existing_files_set_digest": "0c1043c086f8fdbeb0430777801d11352ea71a9d9eb9db5ae98b2846ee8541c7",
+  "network_requests": 0,
+  "model_calls": 0,
+  "formally_frozen_images": 0,
+  "limits": "未联网确认红链接当前状态；未读取全部作者历史；未进行新图像检查",
+  "local_link_check": {
+    "checked": 24,
+    "missing": 0
+  },
+  "document_sha256": "ee94e94c02d2d705ddf1e940940b20917fcf382a0912627de6b0f9aa5e780906"
+}

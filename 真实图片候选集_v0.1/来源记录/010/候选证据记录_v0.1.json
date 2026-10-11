@@ -1,0 +1,59 @@
+{
+  "candidate_id": "010",
+  "candidate_image": "Yunhe Terraces Scenic Area in automn from the village.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3AYunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg&oldid=1230523982",
+  "page_revision_id": 1230523982,
+  "page_snapshot": "来源记录/010/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "Yunhe Terraces Scenic Area in automn from the village",
+  "author": "Nico le terrible",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_credit": "Own work",
+  "date_field": "2025-10-16 11:43:43",
+  "categories": [
+    "Category:CC-BY-4.0",
+    "Category:Self-published work",
+    "Category:Yunhe Terraces Scenic Area"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Yunhe_Terraces_Scenic_Area_in_automn_from_the_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/010.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "7177BAD180AB6DC392DEDBA42F7E7F1488B43CE2D9DB8CED65732D0237228B9F",
+  "source_SHA1": "7AD282050F9D7700BF7456D1D880492FEF2B1DAD",
+  "width": 3072,
+  "height": 4096,
+  "source_bytes": 5549595,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    4096,
+    3072
+  ],
+  "display_size": [
+    3072,
+    4096
+  ],
+  "GPS_present_in_original": false,
+  "metadata_removed": false,
+  "proposed_province": "浙江省",
+  "label_evidence": "具体文件页 Summary/Description 称 Yunhe Terraces Scenic Area，分类同名景区；云和→浙江省映射待核验；未提供页面坐标。",
+  "coordinate_templates": [],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "地貌/建筑/植被",
+  "signal_strength": "弱",
+  "difficulty": "困难",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "前景瓦屋顶、竹盘晾晒物，背景绿色山坡和梯田；远处小标牌未辨认；与009的前景差异明显。",
+  "text_classification": "景观相似；小文字未辨认",
+  "verification_priority": true,
+  "similarity_pair": "S02：009/010；绿色梯田、山地和村屋；前景与清晰度差异明显",
+  "related_group": "未见字节重复；近重复机位仍待专门检查",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

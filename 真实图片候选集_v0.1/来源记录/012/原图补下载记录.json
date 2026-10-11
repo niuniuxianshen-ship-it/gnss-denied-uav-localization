@@ -1,0 +1,15 @@
+{
+  "candidate_id": "012",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gate_of_Hongcun_Scenario_Area%2C_Anhui%2C_China.jpg",
+  "started_at": "2026-10-10T19:52:29.351651+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gate_of_Hongcun_Scenario_Area%2C_Anhui%2C_China.jpg",
+  "received_at": "2026-10-10T19:52:31.578667+08:00",
+  "status": "saved",
+  "sha256": "B912BE455CDCABDF6BD9197F1D42CF1DF28F11E48ECFA3506099F1CDBBD74F5E",
+  "sha1": "02937F34DBD398FDD4BEAC1F4DED9772DCD214F8",
+  "bytes": 2309065,
+  "width": 4624,
+  "height": 3472,
+  "GPS_present_in_original": false
+}

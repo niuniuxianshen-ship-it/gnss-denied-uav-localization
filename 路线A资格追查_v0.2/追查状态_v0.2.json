@@ -1,0 +1,55 @@
+{
+  "version": "v0.2",
+  "record_time": "2026-10-11T14:08:00.758962+08:00",
+  "route": "A",
+  "route_B_started": false,
+  "qualification": [
+    {
+      "candidate_id": "015",
+      "source": "明确",
+      "increment": "上传同期作者相册14正文，13版本收录目标文件且图注一致",
+      "station_nature": "未确认",
+      "ground_photo_eligibility": "未确认"
+    },
+    {
+      "candidate_id": "021",
+      "source": "明确",
+      "album_membership": "已确认",
+      "album_title": "DSE in China [8]",
+      "album_url": "https://www.flickr.com/photos/brostad/albums/72157622397833494",
+      "confirmed_photo_href": "/photos/brostad/3928884953/in/album-72157622397833494",
+      "album_travel_narrative": "Photos taken 19 July 2009, while driving through the Guangxi province heading back to Guilin from Yangshuo city.",
+      "travel_context": "原作者陆路驾车行程背景",
+      "individual_station_nature": "未确认",
+      "dynamic_comments_completeness": "未确认",
+      "ground_photo_eligibility": "未确认"
+    },
+    {
+      "candidate_id": "022",
+      "source": "明确",
+      "increment": "公开可见14条文件历史正文和旧名重定向，无站位说明",
+      "station_nature": "未确认",
+      "ground_photo_eligibility": "未确认"
+    }
+  ],
+  "reserve_005_reaudited_this_round": false,
+  "old_005_qualification": "未确认",
+  "new_http_requests": {
+    "015": 3,
+    "021": 5,
+    "022": 2
+  },
+  "new_search_query_count": {
+    "022": 2
+  },
+  "new_candidates_added": 0,
+  "originals_changed": false,
+  "old_records_overwritten": false,
+  "failed_or_unqualified_samples_deleted": false,
+  "scoring_rules_changed": false,
+  "experiment_design_changed": false,
+  "formal_locked_count": 0,
+  "anonymous_inputs_created": 0,
+  "locating_model_calls": 0,
+  "freeze_decision": "未达到资格门槛，保留准备状态"
+}

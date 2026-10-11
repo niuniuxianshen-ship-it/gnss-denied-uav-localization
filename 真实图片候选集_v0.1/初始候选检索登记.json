@@ -1,0 +1,133 @@
+{
+  "created_at": "2026-10-10T19:38:35.220935+08:00",
+  "seeds": [
+    [
+      "001",
+      "Chengdu station.jpg",
+      "四川省",
+      "强",
+      "简单"
+    ],
+    [
+      "002",
+      "New Qingdao railway station.jpg",
+      "山东省",
+      "强",
+      "简单"
+    ],
+    [
+      "003",
+      "中国国道G322温州段路牌.jpg",
+      "浙江省",
+      "强",
+      "简单"
+    ],
+    [
+      "004",
+      "Street of Hongcun 20141110.JPG",
+      "安徽省",
+      "中",
+      "中等"
+    ],
+    [
+      "005",
+      "Xi Jie (West Street), Quanzhou Aug 2023.jpg",
+      "福建省",
+      "中",
+      "中等"
+    ],
+    [
+      "006",
+      "201907 Harbin Central Street 01.jpg",
+      "黑龙江省",
+      "中",
+      "中等"
+    ],
+    [
+      "007",
+      "Rice terraces longji.jpg",
+      "广西壮族自治区",
+      "弱",
+      "困难"
+    ],
+    [
+      "008",
+      "Yuanyang Hani Rice Terraces at Sunrise.jpg",
+      "云南省",
+      "弱",
+      "困难"
+    ],
+    [
+      "009",
+      "Ziquejie Rice Terrace.jpg",
+      "湖南省",
+      "弱",
+      "困难"
+    ],
+    [
+      "010",
+      "Yunhe Terraces Scenic Area in automn from the village.jpg",
+      "浙江省",
+      "弱",
+      "困难"
+    ],
+    [
+      "011",
+      "Wuhan Railway Station (July 2023).jpg",
+      "湖北省",
+      "强",
+      "简单"
+    ],
+    [
+      "012",
+      "Gate of Hongcun Scenario Area, Anhui, China.jpg",
+      "安徽省",
+      "强",
+      "简单"
+    ],
+    [
+      "013",
+      "2015-01-05 a street in Pingyao.jpg",
+      "山西省",
+      "中",
+      "中等"
+    ],
+    [
+      "014",
+      "Fenghuang banner Ancient Town river crossing.jpg",
+      "湖南省",
+      "中",
+      "中等"
+    ],
+    [
+      "015",
+      "1 yuanyang rice terrace paozhuzhai 2012.jpg",
+      "云南省",
+      "弱",
+      "困难"
+    ],
+    [
+      "016",
+      "Longsheng rice terraces 87778-Longsheng (49040261403).jpg",
+      "广西壮族自治区",
+      "弱",
+      "困难"
+    ],
+    [
+      "017",
+      "Ziquejie Rice Terraces 20160123076.jpg",
+      "湖南省",
+      "弱",
+      "困难"
+    ],
+    [
+      "018",
+      "Suzhou canals November 2017 004.jpg",
+      "江苏省",
+      "中",
+      "中等"
+    ]
+  ],
+  "phase": "⑤-A候选搜集；不是正式开发集",
+  "model_calls": 0
+}

@@ -1,0 +1,101 @@
+{
+  "candidate_id": "022",
+  "source_page": "https://commons.wikimedia.org/wiki/File:The_giant_Buddha_statue_in_Leshan.jpg",
+  "revision_id": 1256909856,
+  "imageinfo": {
+    "size": 2292716,
+    "width": 1728,
+    "height": 2592,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/The_giant_Buddha_statue_in_Leshan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_giant_Buddha_statue_in_Leshan.jpg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3266600",
+    "sha1": "b3875f7a4f858646e1048c4fce38bb6e05dc5bce",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2007-12-23 10:11:18",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "The giant Buddha statue in Leshan",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "GFDL|Taken with Sony DSC-W1|Leshan Giant Buddha|License migration redundant|Self-published work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The giant Buddha statue in Leshan (Sichuan, People's Republic of China).",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2004-08-26",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ond%C5%99ej_%C5%BDv%C3%A1%C4%8Dek\" title=\"User:Ondřej Žváček\">Ondřej Žváček</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Free to distribute and modify as long as the author is attributed (see below).",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.5",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.5",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "I, <a href=\"//commons.wikimedia.org/wiki/User:Ond%C5%99ej_%C5%BDv%C3%A1%C4%8Dek\" title=\"User:Ondřej Žváček\">Ondřej Žváček</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.5",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.5",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "candidate_original_sha256": "5E71D77271E18FD9A659B27D972CA5EF77B32D7F8F28DEFA949FAE4FA177668C",
+  "source_sha1_match": true
+}

@@ -1,0 +1,149 @@
+{
+  "checked_at": "2026-10-11T09:10:54.363178+08:00",
+  "old_archives_and_fixed_files": [
+    {
+      "manifest": "真实图片候选集_v0.1/候选归档清单_v0.1.json",
+      "count": 128,
+      "all_matched": true,
+      "mismatches": []
+    },
+    {
+      "manifest": "真实图片标签核验_v0.1/核验归档清单_v0.1.json",
+      "count": 59,
+      "all_matched": true,
+      "mismatches": []
+    },
+    {
+      "path": "候选比较评分表_v0.2.md",
+      "sha256": "C33B5241A70919DB7B334AB67D75E9A460667B0A999A2E3B577BEB718B69D2D1",
+      "all_matched": true
+    },
+    {
+      "path": "真实模型评价实验设计_v0.1.md",
+      "sha256": "6DE4502B4B8BB345ECBC954547F4D8F882ABA2579B1CFC1BC0DC09614991067B",
+      "all_matched": true
+    },
+    {
+      "path": "正式测试集候选筛选_v0.1.md",
+      "sha256": "453829CFE8C32833D6B9B51D56D164AA3806BF9872F06FD459CEC4C334230C9C",
+      "all_matched": true
+    }
+  ],
+  "originals": [
+    {
+      "candidate_id": "001",
+      "sha256": "B1AE0EF185441A23E1C22A66935868D27D7993AEEC94D00B116FE2CEFFC97A45",
+      "matched": true
+    },
+    {
+      "candidate_id": "002",
+      "sha256": "AF2763ECC42BA9EE6494ABA09E23500DE406A6D958C2575437C6E06CC2DA4788",
+      "matched": true
+    },
+    {
+      "candidate_id": "003",
+      "sha256": "37150716F6AB3FC16B9FD706E64DED0FB89418222DA5A01F1B0C53041902B22F",
+      "matched": true
+    },
+    {
+      "candidate_id": "004",
+      "sha256": "093D61CDEAE8D92DB632BDD899F5ED07EB55CD1D12AEF6BEC2C9B3659762BA02",
+      "matched": true
+    },
+    {
+      "candidate_id": "005",
+      "sha256": "98BAB3B2466181EB670DC836F65763B37E3104250A02B284599F2257DE2ED301",
+      "matched": true
+    },
+    {
+      "candidate_id": "006",
+      "sha256": "3398C6DD377C6088450EB9CB251BE87D95CF97208CC6624D28D2CA961DE934D9",
+      "matched": true
+    },
+    {
+      "candidate_id": "007",
+      "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786",
+      "matched": true
+    },
+    {
+      "candidate_id": "008",
+      "sha256": "5EF683B510CF282AF18720BCBF3ADB44454FDD6F216DC42B6F5E01ED3D884833",
+      "matched": true
+    },
+    {
+      "candidate_id": "009",
+      "sha256": "F00B664F9659F5AC29CCBB3F3EA422FF789A565156150F3854FD27BCD71778B1",
+      "matched": true
+    },
+    {
+      "candidate_id": "010",
+      "sha256": "7177BAD180AB6DC392DEDBA42F7E7F1488B43CE2D9DB8CED65732D0237228B9F",
+      "matched": true
+    },
+    {
+      "candidate_id": "011",
+      "sha256": "A5511C837649C4B9B1C029571D39FE910E78DFC9E401FC7FAA349DC75E88C324",
+      "matched": true
+    },
+    {
+      "candidate_id": "012",
+      "sha256": "B912BE455CDCABDF6BD9197F1D42CF1DF28F11E48ECFA3506099F1CDBBD74F5E",
+      "matched": true
+    },
+    {
+      "candidate_id": "013",
+      "sha256": "AE5E5081BF26921D19C5634DCF5479227EAF78A70591EA4BD4F6263553CE0F40",
+      "matched": true
+    },
+    {
+      "candidate_id": "014",
+      "sha256": "258B07914B14DF42F6A717917F47CA1A3A1315E653E43C5BEB87B1DCC4414C08",
+      "matched": true
+    },
+    {
+      "candidate_id": "015",
+      "sha256": "A802D32149AB3A16FA8C4AA1CB894536E129313D170A650CF3F282F171D11D2D",
+      "matched": true
+    },
+    {
+      "candidate_id": "016",
+      "sha256": "4C4AE1FC8C745DDE3A1F55D6E684FBBBA4D98D0523C1B27540B011011B07865E",
+      "matched": true
+    },
+    {
+      "candidate_id": "017",
+      "sha256": "83E86124ABF1DBC40885A64FF238D57BA22EE83224F9DAC299AF58E78546193B",
+      "matched": true
+    },
+    {
+      "candidate_id": "018",
+      "sha256": "416BAF813216CD8D9978478A88A6BF65CF6B82123EC2FA3BB10909E311FB31BF",
+      "matched": true
+    },
+    {
+      "candidate_id": "019",
+      "sha256": "1288C23F78BC92FF505C8084D844044453513D16D1227FD442A818B95234B8D1",
+      "matched": true
+    },
+    {
+      "candidate_id": "020",
+      "sha256": "ADBC4CB6C3133217B7DF43F45FF1085751F978EDC6E5FC1FB773072AF00F8CFD",
+      "matched": true
+    }
+  ],
+  "all_old_files_matched": true,
+  "all_20_originals_matched": true,
+  "case_order": [
+    "018",
+    "007",
+    "008",
+    "009",
+    "014",
+    "019"
+  ],
+  "six_required_fields_present": true,
+  "temporary_scripts_created": 0,
+  "anonymous_inputs_created": 0,
+  "locating_model_calls": 0,
+  "formal_locked_count": 0
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "number": 1,
+    "url": "https://www.flickr.com/photos/brostad/albums/page5",
+    "time": "2026-10-11T06:00:32.937713+00:00",
+    "purpose": "Follow public album-directory page5 link already present in saved HTML",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/brostad/albums/page5",
+    "bytes": 582811,
+    "sha256": "c5d7fc1a6ac460d91788d695767f1d9384028251a70c5bda9c9d5d4de78179f4",
+    "file": "021_albums_page5.html"
+  },
+  {
+    "number": 2,
+    "url": "https://www.flickr.com/photos/brostad/albums/page4",
+    "time": "2026-10-11T06:01:19.964268+00:00",
+    "purpose": "Follow public page4 link from page5 to inspect older album titles",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/brostad/albums/page4",
+    "bytes": 584428,
+    "sha256": "18f52049e2217333be8a2c6fd9bb7562adf8bd6dd9c81e527242da3e0b75e89c",
+    "file": "021_albums_page4.html"
+  },
+  {
+    "number": 3,
+    "url": "https://www.flickr.com/photos/brostad/albums/72157622397833494",
+    "time": "2026-10-11T06:02:10.102523+00:00",
+    "purpose": "Inspect public linked China album description and target-photo membership",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/brostad/albums/72157622397833494",
+    "bytes": 622947,
+    "sha256": "f6ba87e6b83420011bcfbd9e70aa3e383b5a93b2e5f56a6db26b7d1fb9c54f68",
+    "file": "021_album_72157622397833494.html"
+  },
+  {
+    "number": 4,
+    "url": "https://www.flickr.com/photos/brostad/albums/72157622277632409",
+    "time": "2026-10-11T06:02:10.102523+00:00",
+    "purpose": "Inspect public linked China album description and target-photo membership",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/brostad/albums/72157622277632409",
+    "bytes": 644613,
+    "sha256": "dce6a61710d41b24fa56d8b8b69d3199d8d8e04ba7295336b7308b0fb618d5b2",
+    "file": "021_album_72157622277632409.html"
+  },
+  {
+    "number": 5,
+    "url": "https://www.flickr.com/photos/brostad/3928884953/in/album-72157622397833494",
+    "time": "2026-10-11T06:03:01.880349+00:00",
+    "purpose": "Follow actual target-photo link in confirmed author album to check photo-specific description and visible comments",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/brostad/3928884953/in/album-72157622397833494",
+    "bytes": 527200,
+    "sha256": "6a4d5c12e1e4a5f84fe9747be39b1bb9a6e6ae7d6de6bab147d1a62d2ef625a0",
+    "file": "021_photo_in_album8.html"
+  }
+]

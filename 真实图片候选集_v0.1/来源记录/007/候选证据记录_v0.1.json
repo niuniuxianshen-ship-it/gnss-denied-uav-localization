@@ -1,0 +1,67 @@
+{
+  "candidate_id": "007",
+  "candidate_image": "Rice terraces longji.jpg",
+  "source": "Wikimedia Commons",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Rice_terraces_longji.jpg",
+  "source_permanent_link": "https://commons.wikimedia.org/w/index.php?title=File%3ARice_terraces_longji.jpg&oldid=1174086154",
+  "page_revision_id": 1174086154,
+  "page_snapshot": "来源记录/007/commons_api_response.json",
+  "original_source_field": [
+    "|source={{own}}"
+  ],
+  "description": "Water filled rice terraces in longsheng",
+  "author": "Bernessaw",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_credit": "Own work",
+  "date_field": "2016-02-03 13:45:44",
+  "categories": [
+    "Category:CC-BY-SA-4.0",
+    "Category:Files with coordinates missing SDC location of creation",
+    "Category:Images from Wiki Loves Earth 2017",
+    "Category:Images from Wiki Loves Earth 2017 in China",
+    "Category:Images from Wiki Loves Earth missing SDC depicts",
+    "Category:Images from Wiki Loves Earth missing SDC location of creation",
+    "Category:Longsheng rice terraces",
+    "Category:Self-published work",
+    "Category:Uploaded via Campaign:wle-cn"
+  ],
+  "original_download_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rice_terraces_longji.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "original_file": "原图/007.jpg",
+  "original_download_state": "已保存来源原始文件",
+  "sha256": "99013461A69F8CD01BD094FB7A16BF6C124543F28F8F5A6DBE4FBF377C742786",
+  "source_SHA1": "2F9FBB9ECD2EFCA425D76E33211EE2F57143F510",
+  "width": 2048,
+  "height": 1536,
+  "source_bytes": 1171916,
+  "original_matches_source_size_and_SHA1": true,
+  "encoded_size": [
+    2048,
+    1536
+  ],
+  "display_size": [
+    2048,
+    1536
+  ],
+  "GPS_present_in_original": true,
+  "metadata_removed": false,
+  "proposed_province": "广西壮族自治区",
+  "label_evidence": "具体文件页 Summary/Description 称 Water filled rice terraces in longsheng；Location模板提供坐标；Longsheng→广西壮族自治区映射待核验。",
+  "coordinate_templates": [
+    "{{Location|25.760767|110.125031|heading:235.17131474103584}}"
+  ],
+  "label_verification_state": "仅来源标注",
+  "independent_support": "未检查",
+  "cue_type": "地貌/植被/建筑",
+  "signal_strength": "弱",
+  "difficulty": "困难",
+  "difficulty_basis": "主观筛选预估；不是模型测得的难度",
+  "visual_inspection": "蓄水梯田沿山坡弯曲分布，远处村屋与植被；未见可读文字。",
+  "text_classification": "景观相似；无可读文字",
+  "verification_priority": true,
+  "similarity_pair": "S01：007/008；蓄水山坡梯田；日照和暗部差异明显",
+  "related_group": "；龙胜同地点关联；016与旧P05同作者且来源页坐标相同；真实机位待核验",
+  "pending_checks": "原始出处与该照片对应；独立现场证据；坐标（缺失时记录未提供）及行政区；重复地点/机位；匿名输入元数据与来源、答案泄漏。",
+  "model_exposure": "本批未提交定位模型；公开预训练接触未确认。",
+  "record_time": "2026-10-10T20:09:05.020771+08:00"
+}

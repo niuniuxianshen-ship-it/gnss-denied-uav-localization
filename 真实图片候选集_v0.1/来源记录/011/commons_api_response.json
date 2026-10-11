@@ -1,0 +1,155 @@
+{
+  "query": {
+    "pages": [
+      {
+        "pageid": 145462028,
+        "ns": 6,
+        "title": "File:Wuhan Railway Station (July 2023).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "timestamp": "2024-10-16T07:07:57Z",
+            "size": 1131819,
+            "width": 3573,
+            "height": 1588,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Wuhan_Railway_Station_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(July_2023).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=145462028",
+            "sha1": "c96c75141e26f5cc4ffba53f48502abf02474abb",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-10-16 07:07:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Wuhan Railway Station (July 2023)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wuhan Railway Station|Self-published work|Files with coordinates missing SDC location of creation",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "30.608767",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "114.415742",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Exterior of Wuhan Railway Station in July 2023",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2023-07-23 13:20:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zheng_Zhou\" title=\"User:Zheng Zhou\">Zheng Zhou</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            },
+            "mime": "image/jpeg"
+          }
+        ],
+        "contentmodel": "wikitext",
+        "pagelanguage": "en",
+        "pagelanguagehtmlcode": "en",
+        "pagelanguagedir": "ltr",
+        "touched": "2025-03-31T00:33:33Z",
+        "lastrevid": 1015387463,
+        "length": 359,
+        "fullurl": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(July_2023).jpg",
+        "editurl": "https://commons.wikimedia.org/w/index.php?title=File:Wuhan_Railway_Station_(July_2023).jpg&action=edit",
+        "canonicalurl": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(July_2023).jpg",
+        "revisions": [
+          {
+            "revid": 1015387463,
+            "parentid": 943947307,
+            "timestamp": "2025-03-31T00:33:33Z",
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Exterior of Wuhan Railway Station in July 2023}}\n|date=2023-07-23 13:20:02\n|source={{own}}\n|author=[[User:Zheng Zhou|Zheng Zhou]]\n|permission=\n|other versions=\n}}\n{{Location|30.608767|114.415742|heading:70.9287109375}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Wuhan Railway Station]]"
+              }
+            }
+          }
+        ],
+        "categories": [
+          {
+            "ns": 14,
+            "title": "Category:CC-BY-SA-4.0"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Files with coordinates missing SDC location of creation"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Self-published work"
+          },
+          {
+            "ns": 14,
+            "title": "Category:Wuhan Railway Station"
+          }
+        ]
+      }
+    ]
+  }
+}

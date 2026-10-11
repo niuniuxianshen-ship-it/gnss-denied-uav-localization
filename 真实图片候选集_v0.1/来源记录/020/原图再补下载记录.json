@@ -1,0 +1,15 @@
+{
+  "candidate_id": "020",
+  "requested_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Earth_building-chengqi.jpg",
+  "started_at": "2026-10-10T20:07:05.381800+08:00",
+  "http_status": 200,
+  "returned_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Earth_building-chengqi.jpg",
+  "received_at": "2026-10-10T20:07:07.542344+08:00",
+  "status": "saved",
+  "sha256": "ADBC4CB6C3133217B7DF43F45FF1085751F978EDC6E5FC1FB773072AF00F8CFD",
+  "sha1": "DC34C3A3F9F710D521D1637E615E8B826452C24E",
+  "bytes": 74981,
+  "width": 500,
+  "height": 375,
+  "GPS_present_in_original": false
+}

@@ -1,0 +1,6 @@
+{
+  "evidence_id": "002_designer_alt",
+  "url": "https://cec-cn.com.cn/tabid/83/InfoID/106/frtid/90/Default.aspx",
+  "accessed_at": "2026-10-10T20:31:02.236557+08:00",
+  "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)>"
+}

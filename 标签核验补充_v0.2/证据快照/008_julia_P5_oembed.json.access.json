@@ -1,0 +1,8 @@
+{
+  "url": "https://www.flickr.com/services/oembed/?format=json&url=https%3A%2F%2Fwww.flickr.com%2Fphoto.gne%3Fid%3D22503021938",
+  "read_time": "2026-10-11T09:04:54.685594+08:00",
+  "client": "curl Schannel default certificate checks",
+  "exit_code": 28,
+  "response": "000\nhttps://www.flickr.com/services/oembed/?format=json&url=https%3A%2F%2Fwww.flickr.com%2Fphoto.gne%3Fid%3D22503021938\n",
+  "error": "curl: (28) Failed to connect to www.flickr.com:443 after 21040 ms: Could not connect to server\n"
+}

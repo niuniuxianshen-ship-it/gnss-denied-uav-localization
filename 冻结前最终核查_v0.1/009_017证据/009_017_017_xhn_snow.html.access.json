@@ -1,0 +1,8 @@
+{
+  "url": "https://www.hunantoday.cn/news/xhn/202202/16731770.html",
+  "time": "2026-10-11T01:32:11.143806+00:00",
+  "http_status": "000",
+  "returncode": 6,
+  "error": "curl: (6) Could not resolve host: www.hunantoday.cn",
+  "file": null
+}

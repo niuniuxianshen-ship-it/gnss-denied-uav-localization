@@ -1,0 +1,16 @@
+=={{int:filedesc}}==
+{{Information
+|description={{en|1=Yuanyang Hani Rice Terraces at Sunrise}}
+|date=2014-01-17 08:13:38
+|source=https://www.flickr.com/photos/iloveboeing/12424132044/
+|author=Chiu Ho-yang
+|permission=
+|other versions=
+}}
+{{Location|23.132362|102.736512}}
+
+=={{int:license-header}}==
+{{cc-by-sa-2.0}}{{FlickreviewR|status=passed|author=AC02 Works|sourceurl=https://flickr.com/photos/113550278@N08/12424132044|archive=|reviewdate=2022-05-24 12:56:10|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}
+
+[[Category:Hani Terraces]]
+[[Category:China photographs taken on 2014-01-17]]

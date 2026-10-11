@@ -1,0 +1,8 @@
+{
+  "url_requested": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&titles=File%3AZiquejie+Rice+Terrace.jpg&prop=imageinfo%7Cinfo%7Crevisions%7Ccategories&inprop=url&iiprop=url%7Csize%7Csha1%7Cmime%7Ctimestamp%7Cextmetadata&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&cllimit=max",
+  "url_returned": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&titles=File%3AZiquejie+Rice+Terrace.jpg&prop=imageinfo%7Cinfo%7Crevisions%7Ccategories&inprop=url&iiprop=url%7Csize%7Csha1%7Cmime%7Ctimestamp%7Cextmetadata&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&cllimit=max",
+  "http_status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "attempts": 1,
+  "received_at": "2026-10-10T19:38:45.288050+08:00"
+}
