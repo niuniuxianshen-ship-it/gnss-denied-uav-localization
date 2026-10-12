@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-12",
+  "status": "待审查草案",
+  "source_sha256": {
+    "真实模型评价实验设计_v0.1.md": "6de4502b4b8bb345ecbc954547f4d8f882aba2579b1cfc1bc0dc09614991067b",
+    "候选比较评分表_v0.2.md": "f6f51d12e4433605262d50a8c17c175b5978aa3aba7a9045c8d27e134965e418"
+  },
+  "source_files_unchanged": true,
+  "enhanced_equals_Cv2_text_block": true,
+  "base_equals_enhanced_minus_two_clause_lines": true,
+  "added_lines_in_base_to_enhanced_diff": [
+    "若列出两个或以上候选，应比较第一候选与其他候选所获得的现有线索支持程度，说明支持强弱及相对排序的依据。",
+    "若现有线索不足以区分第一候选与其他主要候选，应明确说明“现有线索无法区分”；此时排序仅为暂定顺序，不代表第一候选具有已证实的相对优势，不得为了满足排序要求而编造区分性证据。"
+  ],
+  "other_changed_lines": 0,
+  "encoding": "UTF-8 without BOM",
+  "line_endings": "LF",
+  "model_calls": 0,
+  "file_sha256": {
+    "基础条件草案.txt": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+    "增强条件草案.txt": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+    "完整文本与差异说明.md": "77bbfabedf48a7bf8499f4774b2f00404e843d5c84b847462b5f5aa69e65df55"
+  }
+}
