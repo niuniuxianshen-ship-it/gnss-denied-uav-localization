@@ -1,0 +1,71 @@
+{
+  "results": [
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\001\\候选证据记录_v0.1.json",
+      "before_sha256": "8f526e9b90bcfe72c1240c9aef8d3aa878e85eb1e5289b6ecc5136e2b33720b6",
+      "after_sha256": "8f526e9b90bcfe72c1240c9aef8d3aa878e85eb1e5289b6ecc5136e2b33720b6",
+      "before_bytes": 2726,
+      "after_bytes": 2726,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\002\\候选证据记录_v0.1.json",
+      "before_sha256": "ab447fa32ffbe1fe7f02365743cdfc93795bcef8d53bc7d5844928b1819fc104",
+      "after_sha256": "ab447fa32ffbe1fe7f02365743cdfc93795bcef8d53bc7d5844928b1819fc104",
+      "before_bytes": 2800,
+      "after_bytes": 2800,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\007\\候选证据记录_v0.1.json",
+      "before_sha256": "b017eae1b6c07b84d664e1c466613e80f4e38d3e6c837fbaaec9be3d7f85abdb",
+      "after_sha256": "b017eae1b6c07b84d664e1c466613e80f4e38d3e6c837fbaaec9be3d7f85abdb",
+      "before_bytes": 3308,
+      "after_bytes": 3308,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\019\\候选证据记录_v0.1.json",
+      "before_sha256": "cb0e8e2de157cf2756a7456ea1a955f2b40c2b32dea4410b462be7364953f702",
+      "after_sha256": "cb0e8e2de157cf2756a7456ea1a955f2b40c2b32dea4410b462be7364953f702",
+      "before_bytes": 2913,
+      "after_bytes": 2913,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\采集范围统一定义_v0.1.md",
+      "before_sha256": "fe7e9df84bc8434848de9365a7adcf14bf5b88be7188c86db2aedc6ebfa630cd",
+      "after_sha256": "fe7e9df84bc8434848de9365a7adcf14bf5b88be7188c86db2aedc6ebfa630cd",
+      "before_bytes": 7183,
+      "after_bytes": 7183,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选统一范围复核_v0.1.md",
+      "before_sha256": "e7f4d45df58f92b3c624f332d82160f3bfc7451cd3bdc7b5885773b34bb80649",
+      "after_sha256": "e7f4d45df58f92b3c624f332d82160f3bfc7451cd3bdc7b5885773b34bb80649",
+      "before_bytes": 16344,
+      "after_bytes": 16344,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\有限站位补证结果_v0.1.md",
+      "before_sha256": "ce765571f8a746fe38c5b60335176d9bb325c4f883a651d92bddb6fc190d6e25",
+      "after_sha256": "ce765571f8a746fe38c5b60335176d9bb325c4f883a651d92bddb6fc190d6e25",
+      "before_bytes": 3991,
+      "after_bytes": 3991,
+      "unchanged": true
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\路线A最终追查记录_v0.3.md",
+      "before_sha256": "3c78aa22e5b07759ec5b71f7dd62b7d726008ee1eddd1aad0d9d16f925932e6b",
+      "after_sha256": "3c78aa22e5b07759ec5b71f7dd62b7d726008ee1eddd1aad0d9d16f925932e6b",
+      "before_bytes": 7540,
+      "after_bytes": 7540,
+      "unchanged": true
+    }
+  ],
+  "all_unchanged": true,
+  "scope": "仅八份指定输入原件，未扩展完整性审计",
+  "model_calls": 0
+}

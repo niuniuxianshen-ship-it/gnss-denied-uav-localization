@@ -1,0 +1,169 @@
+File:Yuezhao Lake, Hongcun, Anhui, China.jpg - Wikimedia Commons (https://commons.wikimedia.org/wiki/File%3AYuezhao_Lake%2C_Hongcun%2C_Anhui%2C_China.jpg)
+citeturn9view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://commons.wikimedia.org/wiki/File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg","lineno":null}); Redirected to URL: https://commons.wikimedia.org/wiki/File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg; Total lines: 239
+L0: cite0†Jump to content L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigate
+L9: 
+L10:   * cite1†Main page L11:   * cite2†Welcome L12:   * cite3†Community portal L13:   * cite4†Village pump L14:   * cite5†Help center L15: 
+L16: Participate
+L17: 
+L18:   * cite6†Upload file L19:   * cite7†Recent changes L20:   * cite8†Latest files L21:   * cite9†Random file L22:   * cite10†Contact us L23:   * cite11†Special pages L24: 
+L25: cite12†Search L26: 
+L27: [Input: Search Wikimedia Commons]
+L28: 
+L29: [Input]
+L30: 
+L31: [Button: Search]
+L32: 
+L33:   * cite13†English L34: 
+L35: [Input] Appearance
+L36:   * cite14†Donate†donate.wikimedia.org L37:   * cite15†Create account L38:   * cite16†Log in L39: 
+L40: [Input] Personal tools
+L41: 
+L42:   * cite14†Donate†donate.wikimedia.org L43:   * cite15†Create account L44:   * cite16†Log in L45: ## Contents
+L46: 
+L47: [Button: move to sidebar] [Button: hide]
+L48: 
+L49:   * cite13†Beginning L50:   * cite17†1 File L51:   * cite18†2 Summary L52:   * cite19†3 Licensing L53:   * cite20†4 File history L54:   * cite21†5 File usage on Commons L55: 
+L56: [Input] Toggle the table of contents
+L57: # File:Yuezhao Lake, Hongcun, Anhui, China.jpg
+L58: 
+L59:   * cite22†File L60:   * cite23†Discussion L61: 
+L62: [Input] English
+L63: 
+L64:   * cite22†Read L65:   * cite24†Edit L66:   * cite25†View history L67: 
+L68: [Input] Tools
+L69: 
+L70: Tools
+L71: 
+L72: [Button: move to sidebar] [Button: hide]
+L73: 
+L74: Actions
+L75: 
+L76:   * cite22†Read L77:   * cite24†Edit L78:   * cite25†View history L79: 
+L80: General
+L81: 
+L82:   * cite26†What links here L83:   * cite27†Related changes L84:   * cite28†Permanent link L85:   * cite29†Page information L86:   * cite30†Cite this page L87:   * cite31†Get shortened URL L88:   * cite32†Concept URI L89: 
+L90: Print/export
+L91:   * cite33†Download as PDF L92:   * Printable version
+L93: 
+L94: In other projects
+L95: 
+L96: Appearance
+L97: 
+L98: [Button: move to sidebar] [Button: hide]
+L99: 
+L100: Size of this preview: cite34†960 × 721 pixels†thumb.wikimedia.org . Other resolutions: cite35†330 × 248 pixels†thumb.wikimedia.org | cite36†1,280 × 961 pixels†thumb.wikimedia.org | cite37†3,840 × 2,883 pixels†thumb.wikimedia.org .
+L101: 
+L102: cite38†Original file†upload.wikimedia.org (4,624 × 3,472 pixels, file size: 1.99 MB, MIME type: image/jpeg)
+L103: 
+L104: File information
+L105: 
+L106: Structured data
+L107: ## Captions
+L108: 
+L109: ### Captions
+L110: 
+L111: English
+L112: 
+L113: Yuezhao Lake, Hongcun, Anhui, China
+L114: 
+L115: Simplified Chinese
+L116: 
+L117: 安徽省宏村的月沼
+L118: 
+L119: ## Summary
+L120: 
+L121: [cite39†edit ]
+L122: 
+L123: Description Yuezhao Lake, Hongcun, Anhui, China.jpg  | English: Yuezhao Lake, Hongcun, Anhui, China 中文（简体）：​安徽省宏村的月沼
+L124: Date  | 23 December 2025
+L125: Source  | Own work
+L126: Author  | cite40†HCCB3947 L127: 
+L128: Camera location  | cite41†30° 00′ 19.51″ N, 117° 59′ 04.53″ E†geohack.toolforge.org | View this and other nearby images on: cite42†OpenStreetMap†wikimap.toolforge.org | 30.005420; 117.984592
+L129: ## Licensing
+L130: 
+L131: [cite43†edit ]
+L132: 
+L133: I, the copyright holder of this work, hereby publish it under the following license:
+L134: 
+L135: cite44†Image: w:en:Creative Commons†thumb.wikimedia.org L136: cite45†Image: attribution†thumb.wikimedia.org cite46†Image: share alike†thumb.wikimedia.org L137: 
+L138: This file is licensed under the cite47†Creative Commons†en.wikipedia.org cite48†Attribution-Share Alike 4.0 International†creativecommons.org license.
+L139: 
+L140:     You are free:
+L141:   * to share – to copy, distribute and transmit the work
+L142:   * to remix – to adapt the work
+L143:     Under the following conditions:
+L144:   * attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+L145:   * share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the cite49†same or compatible license†creativecommons.org as the original.
+L146: https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true
+L147: ## File history
+L148: 
+L149: Click on a date/time to view the file as it appeared at that time.
+L150: 
+L151:  | Date/Time  | Thumbnail  | Dimensions  | User  | Comment
+L152: --- | --- | --- | --- | --- | ---
+L153: current  | cite38†07:35, 30 March 2026†upload.wikimedia.org |  | 4,624 × 3,472 (1.99 MB)  | cite40†HCCB3947 (cite50†talk | cite51†contribs )  | Uploaded own work with UploadWizard
+L154: 
+L155: You cannot overwrite this file.
+L156: 
+L157: ## File usage on Commons
+L158: 
+L159: There are no pages that use this file.
+L160: 
+L161: cite52†Image L162: 
+L163: ## Structured data
+L164: ### Items portrayed in this file
+L165: 
+L166: #### cite53†depicts†www.wikidata.org L167: 
+L168: #### cite54†lake†www.wikidata.org L169: 
+L170: #### cite55†copyright status†www.wikidata.org L171: 
+L172: #### cite56†copyrighted†www.wikidata.org L173: 
+L174: #### cite57†copyright license†www.wikidata.org L175: 
+L176: #### cite58†Creative Commons Attribution-ShareAlike 4.0 International†www.wikidata.org L177: 
+L178: #### cite59†inception†www.wikidata.org L179: 
+L180: #### 23 December 2025
+L181: 
+L182: #### cite60†coordinates of the point of view†www.wikidata.org L183: 
+L184: #### 30°0'19.512"N, 117°59'4.531"E
+L185: #### cite61†media type†www.wikidata.org L186: 
+L187: #### image/jpeg
+L188: 
+L189: #### cite62†data size†www.wikidata.org L190: 
+L191: #### 2,083,860 byte
+L192: 
+L193: #### cite63†height†www.wikidata.org L194: 
+L195: #### 3,472 pixel
+L196: 
+L197: #### cite64†width†www.wikidata.org L198: 
+L199: #### 4,624 pixel
+L200: 
+L201: #### cite65†checksum†www.wikidata.org L202: #### cd9acd74dda6c2349c75e465db7f3febbf3e3c39
+L203: 
+L204: cite66†determination method or standard†www.wikidata.org : cite67†SHA-1†www.wikidata.org L205: 
+L206: Retrieved from "cite28†https://commons.wikimedia.org/w/index.php?title=File:Yuezhao_Lake,_Hongcun,_Anhui,_China.jpg&oldid=1226629041 "
+L207: 
+L208: cite68†Category :
+L209: 
+L210:   * cite69†Hongcun L211: 
+L212: Hidden categories:
+L213: 
+L214:   * cite70†Files with coordinates missing SDC location of creation L215:   * cite71†CC-BY-SA-4.0 L216:   * cite72†Self-published work L217:   * This page was last edited on 6 June 2026, at 05:29.
+L218:   * Files are available under licenses specified on their description page. All structured data from the file namespace is available under the cite73†Creative Commons CC0 License†creativecommons.org ; all unstructured text is available under the cite74†Creative Commons Attribution-ShareAlike License†creativecommons.org ; additional terms may apply. By using this site, you agree to the cite75†Terms of Use†foundation.wikimedia.org and the cite76†Privacy Policy†foundation.wikimedia.org .
+L219:   * cite76†Privacy policy†foundation.wikimedia.org L220:   * cite2†About Wikimedia Commons L221:   * cite77†Disclaimers L222:   * cite78†Legal & safety contacts†foundation.wikimedia.org L223:   * cite79†Code of Conduct†foundation.wikimedia.org L224:   * cite80†Developers†developer.wikimedia.org L225:   * cite81†Statistics†stats.wikimedia.org L226:   * cite82†Cookie statement†foundation.wikimedia.org L227:   * Search
+L228: 
+L229: [Input: Search Wikimedia Commons]
+L230: 
+L231: [Input]
+L232: 
+L233: [Button: Search]
+L234: 
+L235: [Input] Toggle the table of contents
+L236: 
+L237: File:Yuezhao Lake, Hongcun, Anhui, China.jpg
+L238: cite13†Add topic 

@@ -1,0 +1,157 @@
+{
+  "status": "离线准备；配置待审阅，未冻结",
+  "created_at": "2026-10-15T18:20:27.658882+08:00",
+  "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+  "config_sha256": "9d37077b5818e3f55a075b66fb01b533857fea132dbca7ed27545f848f88bd9b",
+  "runner_sha256": "e0546279a554f786bcb49c8d1127da2375046354d79806416de82d2b682adc4a",
+  "planned_uploads": 3,
+  "planned_model_requests": 6,
+  "actual_uploads_at_preparation": 0,
+  "actual_model_calls_at_preparation": 0,
+  "assembly": "prompt bytes + LF LF + appendix bytes, without normalization",
+  "uploads": [
+    {
+      "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+      "image_id": "IMG001",
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG001.png",
+      "sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+      "bytes": 15590941,
+      "size": [
+        4889,
+        3238
+      ],
+      "upload_filename": "IMG001.png",
+      "purpose": "user_data",
+      "expires_after": {
+        "anchor": "created_at",
+        "seconds": 604800
+      },
+      "file_id": null,
+      "status": "待上传"
+    },
+    {
+      "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+      "image_id": "IMG002",
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG002.png",
+      "sha256": "8b1e1de0d82904bc98b3883d30d0f5d05e9d58c6cbabb6052bc8b37a328bde8b",
+      "bytes": 3385923,
+      "size": [
+        2048,
+        1536
+      ],
+      "upload_filename": "IMG002.png",
+      "purpose": "user_data",
+      "expires_after": {
+        "anchor": "created_at",
+        "seconds": 604800
+      },
+      "file_id": null,
+      "status": "待上传"
+    },
+    {
+      "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+      "image_id": "IMG003",
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG003.png",
+      "sha256": "1b4bbf049ba13c9c148e7144be21f36dee6c16234abe5032b2fba5a633477297",
+      "bytes": 1734522,
+      "size": [
+        1702,
+        1276
+      ],
+      "upload_filename": "IMG003.png",
+      "purpose": "user_data",
+      "expires_after": {
+        "anchor": "created_at",
+        "seconds": 604800
+      },
+      "file_id": null,
+      "status": "待上传"
+    }
+  ],
+  "tasks": [
+    {
+      "sequence": 1,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:BASE",
+      "image_id": "IMG001",
+      "condition_id": "BASE",
+      "image_sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+      "prompt_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "template": "请求模板/01_IMG001_BASE.json",
+      "template_sha256": "1a5d9e9c504a886024856548025f6f82e7aca9db37fd8369631eb71d19326abd",
+      "text_utf8_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "text_utf8_bytes": 6763,
+      "status": "尚未调用"
+    },
+    {
+      "sequence": 2,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:ENHANCED",
+      "image_id": "IMG001",
+      "condition_id": "ENHANCED",
+      "image_sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+      "prompt_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "template": "请求模板/02_IMG001_ENHANCED.json",
+      "template_sha256": "2719f1da5852ae030096a29c6a16c803104083036f24afc292ae5208a57fcf2a",
+      "text_utf8_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "text_utf8_bytes": 7176,
+      "status": "尚未调用"
+    },
+    {
+      "sequence": 3,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:ENHANCED",
+      "image_id": "IMG002",
+      "condition_id": "ENHANCED",
+      "image_sha256": "8b1e1de0d82904bc98b3883d30d0f5d05e9d58c6cbabb6052bc8b37a328bde8b",
+      "prompt_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "template": "请求模板/03_IMG002_ENHANCED.json",
+      "template_sha256": "2719f1da5852ae030096a29c6a16c803104083036f24afc292ae5208a57fcf2a",
+      "text_utf8_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "text_utf8_bytes": 7176,
+      "status": "尚未调用"
+    },
+    {
+      "sequence": 4,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:BASE",
+      "image_id": "IMG002",
+      "condition_id": "BASE",
+      "image_sha256": "8b1e1de0d82904bc98b3883d30d0f5d05e9d58c6cbabb6052bc8b37a328bde8b",
+      "prompt_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "template": "请求模板/04_IMG002_BASE.json",
+      "template_sha256": "1a5d9e9c504a886024856548025f6f82e7aca9db37fd8369631eb71d19326abd",
+      "text_utf8_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "text_utf8_bytes": 6763,
+      "status": "尚未调用"
+    },
+    {
+      "sequence": 5,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:BASE",
+      "image_id": "IMG003",
+      "condition_id": "BASE",
+      "image_sha256": "1b4bbf049ba13c9c148e7144be21f36dee6c16234abe5032b2fba5a633477297",
+      "prompt_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "template": "请求模板/05_IMG003_BASE.json",
+      "template_sha256": "1a5d9e9c504a886024856548025f6f82e7aca9db37fd8369631eb71d19326abd",
+      "text_utf8_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "text_utf8_bytes": 6763,
+      "status": "尚未调用"
+    },
+    {
+      "sequence": 6,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:ENHANCED",
+      "image_id": "IMG003",
+      "condition_id": "ENHANCED",
+      "image_sha256": "1b4bbf049ba13c9c148e7144be21f36dee6c16234abe5032b2fba5a633477297",
+      "prompt_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "template": "请求模板/06_IMG003_ENHANCED.json",
+      "template_sha256": "2719f1da5852ae030096a29c6a16c803104083036f24afc292ae5208a57fcf2a",
+      "text_utf8_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "text_utf8_bytes": 7176,
+      "status": "尚未调用"
+    }
+  ]
+}

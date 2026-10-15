@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "batch_id": "DEMO_BATCH_001",
+  "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查",
+  "images": [
+    {
+      "image_id": "DEMO01",
+      "path": "教学材料_不是研究样本/图片/DEMO01.png",
+      "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+      "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+    },
+    {
+      "image_id": "DEMO02",
+      "path": "教学材料_不是研究样本/图片/DEMO02.png",
+      "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+      "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "BASE",
+      "path": "教学材料_不是研究样本/提示词/基础条件草案.txt",
+      "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+    },
+    {
+      "condition_id": "ENHANCED",
+      "path": "教学材料_不是研究样本/提示词/增强条件草案.txt",
+      "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+    }
+  ]
+}

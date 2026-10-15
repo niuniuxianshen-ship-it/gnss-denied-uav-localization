@@ -1,0 +1,104 @@
+{
+  "scope": "本地Files API上传计划；教学准备，不是实验结果；未冻结",
+  "directory_resume": "目录在上轮中断前由本助手创建；实际核对为空后，用户明确允许接续并仅新增原任务产物。",
+  "checked_at_Asia_Shanghai": "2026-10-14T20:09:51.1559205+08:00",
+  "inputs_fully_read": "管理清单与四份文本全文读取；两张图片完整二进制读取、核对哈希，未作视觉定位。仅读取这七个输入，不跟随其他来源引用。",
+  "plan_generation": {
+    "command": "python -B '.\\Files_API上传计划_v0.1\\prepare_upload_plan.py' --manifest '.\\离线文本组装_v0.1\\教学文本草案\\组装清单_管理用.json' --output '.\\Files_API上传计划_v0.1\\上传计划与任务关联.json'",
+    "working_directory": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+    "exit_code": 0,
+    "tool_output": "{\"planned_upload_file_count\": 2, \"associated_location_task_count\": 4, \"actual_upload_count\": 0, \"actual_model_call_count\": 0}\r\n"
+  },
+  "actual_checks": {
+    "command": "python -B '.\\Files_API上传计划_v0.1\\check_upload_plan.py'",
+    "working_directory": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+    "exit_code": 0,
+    "tests_passed": 4,
+    "hash_subcases": [
+      "图片预期哈希不符",
+      "文本预期哈希不符"
+    ],
+    "tool_output": "test_01_normal_generation_and_associations (__main__.UploadPlanChecks) ... ok\r\ntest_02_same_image_identifier_different_file (__main__.UploadPlanChecks) ... ok\r\ntest_03_hash_mismatch (__main__.UploadPlanChecks) ... ok\r\ntest_04_existing_output_refused (__main__.UploadPlanChecks) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 4 tests in 0.654s\r\n\r\nOK\r\n"
+  },
+  "input_hashes": [
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/组装清单_管理用.json",
+      "sha256": "e76232f81b30ece5c566ed6f12f318ad911bb76acaf495c61b81263cf65ba194",
+      "bytes": 8424,
+      "before_sha256": "e76232f81b30ece5c566ed6f12f318ad911bb76acaf495c61b81263cf65ba194",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+      "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+      "bytes": 259,
+      "before_sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_01.txt",
+      "sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "bytes": 6763,
+      "before_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_02.txt",
+      "sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "bytes": 7176,
+      "before_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+      "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+      "bytes": 444,
+      "before_sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_03.txt",
+      "sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "bytes": 6763,
+      "before_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_04.txt",
+      "sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "bytes": 7176,
+      "before_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "unchanged": true
+    }
+  ],
+  "artifact_hashes": [
+    {
+      "name": "prepare_upload_plan.py",
+      "sha256": "03940d01786848d1e64b57e013cb8ad7e82334b75781743486ab35fe011e3ef9"
+    },
+    {
+      "name": "check_upload_plan.py",
+      "sha256": "ba8699ce09e9ab75c068c63e4d0d424adc55aa5022395cdc850b5e001e7c2125"
+    },
+    {
+      "name": "上传计划与任务关联.json",
+      "sha256": "c7772b34af8a08ebf1e52893e4c644a05748d038c1d21b9abb1576134142a3a9"
+    }
+  ],
+  "planned_upload_file_count": 2,
+  "associated_location_task_count": 4,
+  "unique_task_count": 4,
+  "all_file_ids_null": true,
+  "actual_upload_count": 0,
+  "actual_model_call_count": 0,
+  "temporary_entries_after_checks": 0,
+  "limitations": [
+    "未实施上传、服务器文件ID验证、模型请求或真实图片实验",
+    "不核验图片格式、去元数据或样本资格",
+    "未选择远程有效期、运行参数或冻结实验方案"
+  ],
+  "retained_scripts": [
+    "prepare_upload_plan.py",
+    "check_upload_plan.py"
+  ]
+}

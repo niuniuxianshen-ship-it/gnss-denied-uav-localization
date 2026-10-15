@@ -1,0 +1,219 @@
+{
+  "status": "anonymous inputs prepared; not submitted; batch not frozen",
+  "created_at": "2026-10-15T18:02:57.449619+08:00",
+  "python": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "pillow": "12.3.0",
+  "jpeg_codec": "8.0",
+  "zlib": "1.2.11",
+  "script_sha256": "c237b20aed4129193d98a53cc3c5f4a5c9aa853f948f023fa7d1a43a3a3837ca",
+  "source_documents": [
+    {
+      "path": "首批三图可行性批次设计修订_待审查_v0.1.md",
+      "sha256": "db5abb4a4094bd0c7da2867305c6c17b5a91081b17c70c3cf96b0adbc403d424"
+    },
+    {
+      "path": "SCREEN03_工作组合评估_20261015.md",
+      "sha256": "dee7ed00663c212f84997a6ba4725cc294b90ea173a2176fc9a1d942db25048d"
+    },
+    {
+      "path": "替换候选资格核验_v0.1.md",
+      "sha256": "7e881573b227e0f10d412358b5a44b63689e9a98295051ebc0630da9465880ea"
+    },
+    {
+      "path": "证据优先核验_SCREEN01_20261015/核验记录.md",
+      "sha256": "22956ba405500a0d702fe9f449c8f15d9d8e45cf263827241a9ee91717f5b50c"
+    },
+    {
+      "path": "汉中汉江候选核验_20261015/核验记录.md",
+      "sha256": "8b1733b5d13df981311f33da91fefa5569a6e791f58513c8b608bbaa1f791eeb"
+    }
+  ],
+  "condition_reuse": "both conditions use this same PNG file per image",
+  "images": [
+    {
+      "anonymous_id": "IMG001",
+      "original_work_id": "027",
+      "source": {
+        "project_relative_path": "候选替换_v0.1/替换池材料_v0.1/027/027.jpg",
+        "absolute_path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选替换_v0.1\\替换池材料_v0.1\\027\\027.jpg",
+        "sha256": "5f75ba522e50bf2a6ab7836653d1182b0eb848511edaf064c02d249c4c5716a8",
+        "bytes": 5138260,
+        "size": [
+          4889,
+          3238
+        ],
+        "mode": "RGB",
+        "orientation_tag": null,
+        "source_info_keys": [
+          "adobe",
+          "adobe_transform",
+          "dpi",
+          "exif",
+          "icc_profile",
+          "photoshop",
+          "xmp"
+        ],
+        "source_has_gps_ifd": true,
+        "exif_color_space": null,
+        "icc_sha256": "2b3aa1645779a9e634744faf9b01e9102b0c9b88fd6deced7934df86b949af7e",
+        "icc_bytes": 3144
+      },
+      "processing": {
+        "method": "Pillow decode; ImageOps.exif_transpose; fresh Image.frombytes RGB; lossless PNG compress_level=6; no resize, crop, enhancement or JPEG re-encode; retain only the hash-approved generic sRGB ICC when present, or add an sRGB chunk for an explicitly sRGB EXIF source; no other source metadata copied",
+        "colour_policy": "retain audited generic IEC sRGB ICC byte-for-byte",
+        "retained_icc_description": {
+          "name": "IEC 61966-2.1 Default RGB colour space - sRGB",
+          "manufacturer": "IEC http://www.iec.ch",
+          "copyright": "Copyright (c) 1998 Hewlett-Packard Company"
+        },
+        "orientation_applied": false,
+        "pixel_sha256": "f24dba9796c183722af2c4a59c848c56155902407d77edf1e80c328b46810fbb"
+      },
+      "input": {
+        "project_relative_path": "首批三图匿名输入准备_v0.1/模型输入/IMG001.png",
+        "absolute_path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\首批三图匿名输入准备_v0.1\\模型输入\\IMG001.png",
+        "sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+        "bytes": 15590941,
+        "size": [
+          4889,
+          3238
+        ],
+        "mode": "RGB",
+        "png_chunk_counts": {
+          "IHDR": 1,
+          "iCCP": 1,
+          "IDAT": 238,
+          "IEND": 1
+        },
+        "checks": {
+          "decodable": true,
+          "full_pixels_equal": true,
+          "dimensions_and_orientation_equal": true,
+          "colour_policy_preserved": true,
+          "no_exif_gps_xmp_or_text_chunks": true,
+          "crc_and_no_trailing_bytes": true
+        }
+      }
+    },
+    {
+      "anonymous_id": "IMG002",
+      "original_work_id": "SCREEN01",
+      "source": {
+        "project_relative_path": "证据优先核验_SCREEN01_20261015/SCREEN01.jpg",
+        "absolute_path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\证据优先核验_SCREEN01_20261015\\SCREEN01.jpg",
+        "sha256": "dc9bad81e137b56e9d1da4ecd580e6a4d0109a5f153db90072684634a9e1c412",
+        "bytes": 603724,
+        "size": [
+          2048,
+          1536
+        ],
+        "mode": "RGB",
+        "orientation_tag": 1,
+        "source_info_keys": [
+          "dpi",
+          "exif"
+        ],
+        "source_has_gps_ifd": false,
+        "exif_color_space": 1,
+        "icc_sha256": null,
+        "icc_bytes": 0
+      },
+      "processing": {
+        "method": "Pillow decode; ImageOps.exif_transpose; fresh Image.frombytes RGB; lossless PNG compress_level=6; no resize, crop, enhancement or JPEG re-encode; retain only the hash-approved generic sRGB ICC when present, or add an sRGB chunk for an explicitly sRGB EXIF source; no other source metadata copied",
+        "colour_policy": "source EXIF ColorSpace=1; RGB unchanged; anonymous sRGB chunk",
+        "retained_icc_description": null,
+        "orientation_applied": false,
+        "pixel_sha256": "d6af16a211562122d3f9d0bc39bc528c00968e9134266de541f4389a06821e25"
+      },
+      "input": {
+        "project_relative_path": "首批三图匿名输入准备_v0.1/模型输入/IMG002.png",
+        "absolute_path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\首批三图匿名输入准备_v0.1\\模型输入\\IMG002.png",
+        "sha256": "8b1e1de0d82904bc98b3883d30d0f5d05e9d58c6cbabb6052bc8b37a328bde8b",
+        "bytes": 3385923,
+        "size": [
+          2048,
+          1536
+        ],
+        "mode": "RGB",
+        "png_chunk_counts": {
+          "IHDR": 1,
+          "sRGB": 1,
+          "IDAT": 52,
+          "IEND": 1
+        },
+        "checks": {
+          "decodable": true,
+          "full_pixels_equal": true,
+          "dimensions_and_orientation_equal": true,
+          "colour_policy_preserved": true,
+          "no_exif_gps_xmp_or_text_chunks": true,
+          "crc_and_no_trailing_bytes": true
+        }
+      }
+    },
+    {
+      "anonymous_id": "IMG003",
+      "original_work_id": "SCREEN03",
+      "source": {
+        "project_relative_path": "汉中汉江候选核验_20261015/SCREEN03.jpg",
+        "absolute_path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\汉中汉江候选核验_20261015\\SCREEN03.jpg",
+        "sha256": "ad836ae10a691869af5006a594c262bc9dd14e7390820992bdf1eccf0c087daf",
+        "bytes": 317081,
+        "size": [
+          1702,
+          1276
+        ],
+        "mode": "RGB",
+        "orientation_tag": null,
+        "source_info_keys": [
+          "jfif",
+          "jfif_density",
+          "jfif_unit",
+          "jfif_version"
+        ],
+        "source_has_gps_ifd": false,
+        "exif_color_space": null,
+        "icc_sha256": null,
+        "icc_bytes": 0
+      },
+      "processing": {
+        "method": "Pillow decode; ImageOps.exif_transpose; fresh Image.frombytes RGB; lossless PNG compress_level=6; no resize, crop, enhancement or JPEG re-encode; retain only the hash-approved generic sRGB ICC when present, or add an sRGB chunk for an explicitly sRGB EXIF source; no other source metadata copied",
+        "colour_policy": "source_has_no_icc_or_explicit_srgb_tag; RGB values unchanged",
+        "retained_icc_description": null,
+        "orientation_applied": false,
+        "pixel_sha256": "99074072072165ab5807b9f5121de3b34034476558cfe471fe046c6c183b7126"
+      },
+      "input": {
+        "project_relative_path": "首批三图匿名输入准备_v0.1/模型输入/IMG003.png",
+        "absolute_path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\首批三图匿名输入准备_v0.1\\模型输入\\IMG003.png",
+        "sha256": "1b4bbf049ba13c9c148e7144be21f36dee6c16234abe5032b2fba5a633477297",
+        "bytes": 1734522,
+        "size": [
+          1702,
+          1276
+        ],
+        "mode": "RGB",
+        "png_chunk_counts": {
+          "IHDR": 1,
+          "IDAT": 27,
+          "IEND": 1
+        },
+        "checks": {
+          "decodable": true,
+          "full_pixels_equal": true,
+          "dimensions_and_orientation_equal": true,
+          "colour_policy_preserved": true,
+          "no_exif_gps_xmp_or_text_chunks": true,
+          "crc_and_no_trailing_bytes": true
+        }
+      }
+    }
+  ],
+  "limitations": [
+    "not a frozen or submitted batch",
+    "cross-device/software colour rendering not verified",
+    "IMG003 source has no ICC or explicit sRGB declaration",
+    "visual landmarks/text intentionally retained",
+    "no claim of eliminating prior knowledge of public photos"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "recorded_at": "2026-10-15T22:18:53.143558+08:00",
+  "inventory_count": 1274,
+  "missing_original_files": [],
+  "metadata_changed_files": [
+    "README.md",
+    "复现说明.md",
+    "项目导航与维护.md"
+  ],
+  "all_other_original_metadata_unchanged": true,
+  "hash_scope": "23 targeted files before editing; 20 protected files rehashed after; no full historical rehash",
+  "protected_hash_checks": [
+    {
+      "path": "候选比较评分表_v0.2.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "真实模型评价实验设计_v0.1.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图可行性批次设计修订_待审查_v0.1.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/check_offline.py",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/run_batch.py",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/上传计划与任务关联.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/使用与核查说明.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/配置草案.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/请求模板/01_IMG001_BASE.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/请求模板/02_IMG001_ENHANCED.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/请求模板/03_IMG002_ENHANCED.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/请求模板/04_IMG002_BASE.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/请求模板/05_IMG003_BASE.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/请求模板/06_IMG003_ENHANCED.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/prepare_inputs.py",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/使用与核查说明.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG001.png",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG002.png",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG003.png",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/管理/管理映射.json",
+      "sha256_unchanged": true
+    }
+  ],
+  "images": [
+    {
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG001.png",
+      "sha256_matches": true,
+      "bytes_match": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG002.png",
+      "sha256_matches": true,
+      "bytes_match": true
+    },
+    {
+      "path": "首批三图匿名输入准备_v0.1/模型输入/IMG003.png",
+      "sha256_matches": true,
+      "bytes_match": true
+    }
+  ],
+  "templates": [
+    {
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:BASE",
+      "template": "首批三图运行准备_v0.1/请求模板/01_IMG001_BASE.json",
+      "template_hash_matches": true,
+      "one_user": true,
+      "exact_prompt_appendix_text": true,
+      "one_null_file": true,
+      "settings_match": true,
+      "no_tools": true
+    },
+    {
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:ENHANCED",
+      "template": "首批三图运行准备_v0.1/请求模板/02_IMG001_ENHANCED.json",
+      "template_hash_matches": true,
+      "one_user": true,
+      "exact_prompt_appendix_text": true,
+      "one_null_file": true,
+      "settings_match": true,
+      "no_tools": true
+    },
+    {
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:ENHANCED",
+      "template": "首批三图运行准备_v0.1/请求模板/03_IMG002_ENHANCED.json",
+      "template_hash_matches": true,
+      "one_user": true,
+      "exact_prompt_appendix_text": true,
+      "one_null_file": true,
+      "settings_match": true,
+      "no_tools": true
+    },
+    {
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:BASE",
+      "template": "首批三图运行准备_v0.1/请求模板/04_IMG002_BASE.json",
+      "template_hash_matches": true,
+      "one_user": true,
+      "exact_prompt_appendix_text": true,
+      "one_null_file": true,
+      "settings_match": true,
+      "no_tools": true
+    },
+    {
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:BASE",
+      "template": "首批三图运行准备_v0.1/请求模板/05_IMG003_BASE.json",
+      "template_hash_matches": true,
+      "one_user": true,
+      "exact_prompt_appendix_text": true,
+      "one_null_file": true,
+      "settings_match": true,
+      "no_tools": true
+    },
+    {
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:ENHANCED",
+      "template": "首批三图运行准备_v0.1/请求模板/06_IMG003_ENHANCED.json",
+      "template_hash_matches": true,
+      "one_user": true,
+      "exact_prompt_appendix_text": true,
+      "one_null_file": true,
+      "settings_match": true,
+      "no_tools": true
+    }
+  ],
+  "three_by_two_unique_tasks": true,
+  "planned_uploads": 3,
+  "planned_requests": 6,
+  "all_upload_ids_null": true,
+  "runtime_directory_exists": false,
+  "new_network_requests": 0,
+  "new_model_calls": 0,
+  "moves": [],
+  "missing_local_links": [],
+  "credential_scan_files": 20,
+  "credential_scan_limit_bytes": 2000000,
+  "credential_risk_locations": [],
+  "not_repeated": [
+    "Pillow decode and pixel matching",
+    "metadata stripping",
+    "old rater inputs",
+    "historical API archives",
+    "existing offline test suites"
+  ],
+  "privacy_license_full_audit": "not performed"
+}

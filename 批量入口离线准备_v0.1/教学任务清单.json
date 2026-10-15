@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "plan_type": "offline_image_condition_plan",
+  "batch_id": "DEMO_BATCH_001",
+  "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查",
+  "config_input": {
+    "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学配置.json",
+    "sha256": "142a2e5f7a0b1e9d6bcaeff46222006ad93d290c5b2dcab1a738d6d21de5b550"
+  },
+  "image_count": 2,
+  "condition_count": 2,
+  "planned_task_count": 4,
+  "model_call_count": 0,
+  "tasks": [
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "condition_id": "BASE",
+      "task_id": "DEMO_BATCH_001:DEMO01:BASE",
+      "image_input": {
+        "image_id": "DEMO01",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+        "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "condition_input": {
+        "condition_id": "BASE",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/基础条件草案.txt",
+        "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "status": "尚未调用"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "condition_id": "ENHANCED",
+      "task_id": "DEMO_BATCH_001:DEMO01:ENHANCED",
+      "image_input": {
+        "image_id": "DEMO01",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+        "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "condition_input": {
+        "condition_id": "ENHANCED",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/增强条件草案.txt",
+        "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "status": "尚未调用"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "condition_id": "BASE",
+      "task_id": "DEMO_BATCH_001:DEMO02:BASE",
+      "image_input": {
+        "image_id": "DEMO02",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+        "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "condition_input": {
+        "condition_id": "BASE",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/基础条件草案.txt",
+        "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "status": "尚未调用"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "condition_id": "ENHANCED",
+      "task_id": "DEMO_BATCH_001:DEMO02:ENHANCED",
+      "image_input": {
+        "image_id": "DEMO02",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+        "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "condition_input": {
+        "condition_id": "ENHANCED",
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/增强条件草案.txt",
+        "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+        "material_notice": "教学材料，不是研究样本；仅用于离线任务清单检查"
+      },
+      "status": "尚未调用"
+    }
+  ]
+}

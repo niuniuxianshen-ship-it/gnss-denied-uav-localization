@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "artifact_type": "offline_teaching_files_upload_plan",
+  "material_notice": "教学准备，不是研究样本或实验结果；未上传、未调用模型、未冻结",
+  "generated_at_UTC": "2026-10-14T12:09:01.569127+00:00",
+  "source_manifest": {
+    "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/组装清单_管理用.json",
+    "sha256": "e76232f81b30ece5c566ed6f12f318ad911bb76acaf495c61b81263cf65ba194",
+    "bytes": 8424
+  },
+  "source_inputs": [
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/组装清单_管理用.json",
+      "sha256": "e76232f81b30ece5c566ed6f12f318ad911bb76acaf495c61b81263cf65ba194",
+      "bytes": 8424
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+      "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+      "bytes": 259
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_01.txt",
+      "sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "bytes": 6763
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_02.txt",
+      "sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "bytes": 7176
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+      "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+      "bytes": 444
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_03.txt",
+      "sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "bytes": 6763
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_04.txt",
+      "sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "bytes": 7176
+    }
+  ],
+  "association_key": [
+    "batch_id",
+    "image_id"
+  ],
+  "planned_upload_file_count": 2,
+  "associated_location_task_count": 4,
+  "actual_upload_count": 0,
+  "actual_model_call_count": 0,
+  "uploads": [
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "local_path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+      "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284",
+      "bytes": 259,
+      "upload_filename": "DEMO01.png",
+      "file_id": null,
+      "status": "待上传"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "local_path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+      "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d",
+      "bytes": 444,
+      "upload_filename": "DEMO02.png",
+      "file_id": null,
+      "status": "待上传"
+    }
+  ],
+  "tasks": [
+    {
+      "task_id": "DEMO_BATCH_001:DEMO01:BASE",
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "condition_id": "BASE",
+      "text_path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_01.txt",
+      "text_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "status": "尚未调用"
+    },
+    {
+      "task_id": "DEMO_BATCH_001:DEMO01:ENHANCED",
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "condition_id": "ENHANCED",
+      "text_path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_02.txt",
+      "text_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "status": "尚未调用"
+    },
+    {
+      "task_id": "DEMO_BATCH_001:DEMO02:BASE",
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "condition_id": "BASE",
+      "text_path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_03.txt",
+      "text_sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+      "status": "尚未调用"
+    },
+    {
+      "task_id": "DEMO_BATCH_001:DEMO02:ENHANCED",
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "condition_id": "ENHANCED",
+      "text_path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_04.txt",
+      "text_sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+      "status": "尚未调用"
+    }
+  ]
+}

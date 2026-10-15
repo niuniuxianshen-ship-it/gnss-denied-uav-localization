@@ -1,0 +1,196 @@
+{
+  "scope": "仅本地离线任务准备；教学材料不是研究样本；未冻结",
+  "checked_at_Asia_Shanghai": "2026-10-14T18:46:07+08:00",
+  "actual_materials_fully_read": [
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/DeepSeek试跑/run_trial.py",
+      "sha256": "95561b88319b4dc28c163800e7a53b616188cb573413ba1a8a0e1f29dee73ccc"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/DeepSeek试跑/使用说明.md",
+      "sha256": "f258d51e81875c2e5fe4983e9615a49269f88c77c78f0d9b964d749d744dacaf"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/候选比较条件草案_v0.1/基础条件草案.txt",
+      "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/候选比较条件草案_v0.1/增强条件草案.txt",
+      "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4"
+    }
+  ],
+  "old_runner": "仅全文读取，未导入、未执行；未沿用其图片、A/B/C或接口参数",
+  "plan_creation": {
+    "command": "python -B .\\prepare_tasks.py --config '.\\教学配置.json' --output '.\\教学任务清单.json'",
+    "exit_code": 0,
+    "tool_output": "{\"mode\": \"offline\", \"planned_tasks\": 4, \"model_calls\": 0, \"output\": \"C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/\\u89c6\\u89c9\\u5b9a\\u4f4d\\u6d41\\u7a0b\\u5b9e\\u9a8c/\\u6279\\u91cf\\u5165\\u53e3\\u79bb\\u7ebf\\u51c6\\u5907_v0.1/\\u6559\\u5b66\\u4efb\\u52a1\\u6e05\\u5355.json\"}\r\n"
+  },
+  "final_cli_checks": {
+    "command": "python -B .\\test_prepare_tasks.py",
+    "exit_code": 0,
+    "tests_passed": 7,
+    "tool_output": "test_01_all_four_pairs_and_status (__main__.OfflinePreparationChecks) ... ok\r\ntest_02_duplicate_image_id (__main__.OfflinePreparationChecks) ... ok\r\ntest_03_duplicate_condition_id (__main__.OfflinePreparationChecks) ... ok\r\ntest_04_image_hash_mismatch (__main__.OfflinePreparationChecks) ... ok\r\ntest_05_condition_hash_mismatch (__main__.OfflinePreparationChecks) ... ok\r\ntest_06_existing_output (__main__.OfflinePreparationChecks) ... ok\r\ntest_07_missing_input (__main__.OfflinePreparationChecks) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 7 tests in 0.909s\r\n\r\nOK\r\n",
+    "protected_artifacts_unchanged": true
+  },
+  "initial_cli_check_failure": {
+    "exit_code": 1,
+    "tests_run": 7,
+    "errors": 4,
+    "passed_checks": [
+      "all_four_pairs_and_status",
+      "duplicate_image_id",
+      "duplicate_condition_id"
+    ],
+    "error_checks": [
+      "image_hash_mismatch",
+      "condition_hash_mismatch",
+      "existing_output",
+      "missing_input"
+    ],
+    "observed_error": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0xca; subprocess reader returned no decoded stderr, followed by TypeError in the test harness.",
+    "scope": "This was an offline CLI check failure; no model or historical experiment was run."
+  },
+  "repair": "仅在新入口main()显式将stdout/stderr设为UTF-8；随后重新运行本轮离线检查。不是历史实验重跑。",
+  "python_version": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "python_executable": "C:\\Users\\leimaren\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "code_checks": [
+    {
+      "filename": "prepare_tasks.py",
+      "imports": [
+        "argparse",
+        "hashlib",
+        "json",
+        "pathlib",
+        "re",
+        "sys"
+      ],
+      "syntax_valid": true,
+      "sha256": "2322b9ffcafec9ffb96467c8a9d88fab9c9bb3d3f1f70d4cb762d166b5ca7163"
+    },
+    {
+      "filename": "generate_demo_images.py",
+      "imports": [
+        "argparse",
+        "pathlib",
+        "struct",
+        "zlib"
+      ],
+      "syntax_valid": true,
+      "sha256": "80d88e6dbe9f8a53586473dc644b55040e655b4a8417304a30480700c1d3aaa3"
+    },
+    {
+      "filename": "test_prepare_tasks.py",
+      "imports": [
+        "copy",
+        "hashlib",
+        "json",
+        "pathlib",
+        "subprocess",
+        "sys",
+        "tempfile",
+        "unittest"
+      ],
+      "syntax_valid": true,
+      "sha256": "2bc109b980522fd0d8429ae938d48a96e13e7deda13d14f54a59e9f57fc1955a"
+    }
+  ],
+  "source_review": {
+    "network_request_path": false,
+    "credential_lookup_path": false,
+    "old_runner_execution_path": false,
+    "test_subprocess_target": "prepare_tasks.py only",
+    "basis": "AST import/call inspection and source read; not a general security audit"
+  },
+  "plan_pairs": [
+    [
+      "DEMO01",
+      "BASE"
+    ],
+    [
+      "DEMO01",
+      "ENHANCED"
+    ],
+    [
+      "DEMO02",
+      "BASE"
+    ],
+    [
+      "DEMO02",
+      "ENHANCED"
+    ]
+  ],
+  "plan_sha256": "ffa8d13d8c3354dc75f6a6b39243a2836ff391a09809b5c6f2545936645a5029",
+  "planned_tasks": 4,
+  "model_call_count": 0,
+  "png_checks": [
+    {
+      "filename": "DEMO01.png",
+      "dimensions": [
+        96,
+        64
+      ],
+      "crc_and_decompression": "pass",
+      "teaching_notice": "Description\u0000DEMO01; teaching only; not a research sample.",
+      "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284"
+    },
+    {
+      "filename": "DEMO02.png",
+      "dimensions": [
+        96,
+        64
+      ],
+      "crc_and_decompression": "pass",
+      "teaching_notice": "Description\u0000DEMO02; teaching only; not a research sample.",
+      "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d"
+    }
+  ],
+  "originals": [
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/DeepSeek试跑/run_trial.py",
+      "sha256": "95561b88319b4dc28c163800e7a53b616188cb573413ba1a8a0e1f29dee73ccc",
+      "after_sha256": "95561b88319b4dc28c163800e7a53b616188cb573413ba1a8a0e1f29dee73ccc",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/DeepSeek试跑/使用说明.md",
+      "sha256": "f258d51e81875c2e5fe4983e9615a49269f88c77c78f0d9b964d749d744dacaf",
+      "after_sha256": "f258d51e81875c2e5fe4983e9615a49269f88c77c78f0d9b964d749d744dacaf",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/候选比较条件草案_v0.1/基础条件草案.txt",
+      "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "after_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "unchanged": true
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/候选比较条件草案_v0.1/增强条件草案.txt",
+      "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "after_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "unchanged": true
+    }
+  ],
+  "copied_prompts": [
+    {
+      "filename": "基础条件草案.txt",
+      "byte_identical": true,
+      "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56"
+    },
+    {
+      "filename": "增强条件草案.txt",
+      "byte_identical": true,
+      "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4"
+    }
+  ],
+  "temporary_leftovers": [],
+  "unimplemented": [
+    "定位API",
+    "评分API",
+    "评分与比例统计",
+    "共同参考附录组装",
+    "接口与模型参数",
+    "自动补充样本",
+    "正式实验冻结"
+  ],
+  "limits": "四项计划任务全部尚未调用；没有验证API兼容性、图片定位能力、评分可靠性或实验效果。"
+}

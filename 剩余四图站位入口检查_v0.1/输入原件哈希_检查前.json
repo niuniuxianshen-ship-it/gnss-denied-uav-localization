@@ -1,0 +1,113 @@
+{
+  "status": "材料收集，待导师审查；不冻结、不更新资格",
+  "local_start_utc": "2026-10-14T13:08:51Z",
+  "local_start_asia_shanghai": "2026-10-14T21:08:51+08:00",
+  "subjects": [
+    "001",
+    "002",
+    "007",
+    "019"
+  ],
+  "inputs": [
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\001\\候选证据记录_v0.1.json",
+      "sha256": "8f526e9b90bcfe72c1240c9aef8d3aa878e85eb1e5289b6ecc5136e2b33720b6",
+      "bytes": 2726,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\002\\候选证据记录_v0.1.json",
+      "sha256": "ab447fa32ffbe1fe7f02365743cdfc93795bcef8d53bc7d5844928b1819fc104",
+      "bytes": 2800,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\007\\候选证据记录_v0.1.json",
+      "sha256": "b017eae1b6c07b84d664e1c466613e80f4e38d3e6c837fbaaec9be3d7f85abdb",
+      "bytes": 3308,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\019\\候选证据记录_v0.1.json",
+      "sha256": "cb0e8e2de157cf2756a7456ea1a955f2b40c2b32dea4410b462be7364953f702",
+      "bytes": 2913,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\采集范围统一定义_v0.1.md",
+      "sha256": "fe7e9df84bc8434848de9365a7adcf14bf5b88be7188c86db2aedc6ebfa630cd",
+      "bytes": 7183,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选统一范围复核_v0.1.md",
+      "sha256": "e7f4d45df58f92b3c624f332d82160f3bfc7451cd3bdc7b5885773b34bb80649",
+      "bytes": 16344,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\有限站位补证结果_v0.1.md",
+      "sha256": "ce765571f8a746fe38c5b60335176d9bb325c4f883a651d92bddb6fc190d6e25",
+      "bytes": 3991,
+      "read_scope": "全文读取"
+    },
+    {
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\路线A最终追查记录_v0.3.md",
+      "sha256": "3c78aa22e5b07759ec5b71f7dd62b7d726008ee1eddd1aad0d9d16f925932e6b",
+      "bytes": 7540,
+      "read_scope": "全文读取"
+    }
+  ],
+  "historical_stop_check": {
+    "inspected_files": [
+      "采集范围统一定义_v0.1.md",
+      "候选统一范围复核_v0.1.md",
+      "有限站位补证结果_v0.1.md",
+      "路线A最终追查记录_v0.3.md"
+    ],
+    "stopped_subjects_in_provided_records": [
+      "008",
+      "014",
+      "015",
+      "021",
+      "022"
+    ],
+    "conclusion": "指定材料未见本轮四图已有同类停止记录；不声称穷尽项目全部历史。",
+    "not_reopened": [
+      "008",
+      "011",
+      "014",
+      "015",
+      "021",
+      "022"
+    ]
+  },
+  "limits": {
+    "minutes_per_image": 8,
+    "max_objects_per_image": 3,
+    "objects": [
+      "作品页说明",
+      "该作品修订记录首次返回",
+      "该作品讨论入口首次返回"
+    ],
+    "pagination": false,
+    "retry": false,
+    "album_or_search": false,
+    "contact_author": false
+  },
+  "prohibited_evidence": [
+    "画面",
+    "EXIF",
+    "GPS",
+    "一般设施介绍",
+    "其他照片"
+  ],
+  "planned_network_order": [
+    "001",
+    "002",
+    "007",
+    "019"
+  ],
+  "model_calls": 0,
+  "evidence_type": "后续保存web.run工具原始返回，不冒充源站HTTP响应字节或HTML；缓存与底层HTTP请求次数不可确认。"
+}

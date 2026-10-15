@@ -1,0 +1,27 @@
+{
+  "started_at": "2026-10-13T09:04:03.048218+00:00",
+  "requested_model": "deepseek-flash",
+  "endpoint": "https://api.deepseek.com/chat/completions",
+  "key_environment_variable": "WHALE_DEEPSEEK_BALANCE_KEY",
+  "thinking": "disabled",
+  "attempts": 1,
+  "automatic_retries": 0,
+  "input_files": [],
+  "status": "completed",
+  "http_status": 200,
+  "returned_model": "deepseek-flash",
+  "finish_reason": "stop",
+  "tool_calls": false,
+  "usage": {
+    "prompt_tokens": 255,
+    "completion_tokens": 67,
+    "total_tokens": 322,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 255
+  },
+  "elapsed_seconds": 5.594,
+  "ended_at": "2026-10-13T09:04:08.651376+00:00"
+}

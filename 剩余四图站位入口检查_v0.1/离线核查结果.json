@@ -1,0 +1,391 @@
+{
+  "status": "pass",
+  "checked_at_utc": "2026-10-14T13:24:12.411698+00:00",
+  "scope": "Local mechanical verification only. No evidence or qualification adjudication.",
+  "checks": [
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\001\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\002\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\007\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\019\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\采集范围统一定义_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选统一范围复核_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\有限站位补证结果_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "input_unchanged",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\路线A最终追查记录_v0.3.md",
+      "passed": true
+    },
+    {
+      "check": "four_subjects",
+      "passed": true
+    },
+    {
+      "check": "subject_limit",
+      "id": "001",
+      "objects": 3,
+      "seconds": 46.0,
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "001",
+      "quote": "chengdu station",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "001",
+      "quote": "Uploaded own work with UploadWizard",
+      "passed": true
+    },
+    {
+      "check": "description_matches_original",
+      "id": "001",
+      "passed": true
+    },
+    {
+      "check": "subject_limit",
+      "id": "002",
+      "objects": 3,
+      "seconds": 34.0,
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "002",
+      "quote": "Taken after arriving at the recently-reopened Qingdao Railway Station in Qingdao, China (site of the 2008 Olympic sailing events).",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "002",
+      "quote": "加亮",
+      "passed": true
+    },
+    {
+      "check": "description_matches_original",
+      "id": "002",
+      "passed": true
+    },
+    {
+      "check": "subject_limit",
+      "id": "007",
+      "objects": 3,
+      "seconds": 40.0,
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "007",
+      "quote": "Water filled rice terraces in longsheng",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "007",
+      "quote": "User created page with UploadWizard",
+      "passed": true
+    },
+    {
+      "check": "description_matches_original",
+      "id": "007",
+      "passed": true
+    },
+    {
+      "check": "subject_limit",
+      "id": "019",
+      "objects": 3,
+      "seconds": 44.0,
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "exact_tool_transcript",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "019",
+      "quote": "Yuezhao Lake, Hongcun, Anhui, China",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "019",
+      "quote": "安徽省宏村的月沼",
+      "passed": true
+    },
+    {
+      "check": "quote_present",
+      "id": "019",
+      "quote": "location",
+      "passed": true
+    },
+    {
+      "check": "description_matches_original",
+      "id": "019",
+      "passed": true
+    },
+    {
+      "check": "tool_call_and_object_counts",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\001\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\002\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\007\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\019\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\采集范围统一定义_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选统一范围复核_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\有限站位补证结果_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\路线A最终追查记录_v0.3.md",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\输入原件哈希核查.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\执行与访问记录.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\四图材料提取表.md",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\执行与访问记录.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\输入原件哈希_检查前.json",
+      "passed": true
+    },
+    {
+      "check": "local_link_exists",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\输入原件哈希核查.json",
+      "passed": true
+    },
+    {
+      "check": "no_model_calls_recorded",
+      "passed": true
+    },
+    {
+      "check": "no_temporary_files",
+      "passed": true
+    }
+  ]
+}

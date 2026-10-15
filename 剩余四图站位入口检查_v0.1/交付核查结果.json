@@ -1,0 +1,549 @@
+{
+  "status": "fail",
+  "time_utc": "2026-10-14T13:26:02.644579+00:00",
+  "python_version": "3.10.0",
+  "check_count": 71,
+  "local_links_checked": 33,
+  "raw_tool_archives": 8,
+  "readable_tool_transcripts": 8,
+  "model_calls": 0,
+  "checks": [
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\001\\候选证据记录_v0.1.json",
+      "before": "8f526e9b90bcfe72c1240c9aef8d3aa878e85eb1e5289b6ecc5136e2b33720b6",
+      "after": "8f526e9b90bcfe72c1240c9aef8d3aa878e85eb1e5289b6ecc5136e2b33720b6",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\002\\候选证据记录_v0.1.json",
+      "before": "ab447fa32ffbe1fe7f02365743cdfc93795bcef8d53bc7d5844928b1819fc104",
+      "after": "ab447fa32ffbe1fe7f02365743cdfc93795bcef8d53bc7d5844928b1819fc104",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\007\\候选证据记录_v0.1.json",
+      "before": "b017eae1b6c07b84d664e1c466613e80f4e38d3e6c837fbaaec9be3d7f85abdb",
+      "after": "b017eae1b6c07b84d664e1c466613e80f4e38d3e6c837fbaaec9be3d7f85abdb",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\019\\候选证据记录_v0.1.json",
+      "before": "cb0e8e2de157cf2756a7456ea1a955f2b40c2b32dea4410b462be7364953f702",
+      "after": "cb0e8e2de157cf2756a7456ea1a955f2b40c2b32dea4410b462be7364953f702",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\采集范围统一定义_v0.1.md",
+      "before": "fe7e9df84bc8434848de9365a7adcf14bf5b88be7188c86db2aedc6ebfa630cd",
+      "after": "fe7e9df84bc8434848de9365a7adcf14bf5b88be7188c86db2aedc6ebfa630cd",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选统一范围复核_v0.1.md",
+      "before": "e7f4d45df58f92b3c624f332d82160f3bfc7451cd3bdc7b5885773b34bb80649",
+      "after": "e7f4d45df58f92b3c624f332d82160f3bfc7451cd3bdc7b5885773b34bb80649",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\有限站位补证结果_v0.1.md",
+      "before": "ce765571f8a746fe38c5b60335176d9bb325c4f883a651d92bddb6fc190d6e25",
+      "after": "ce765571f8a746fe38c5b60335176d9bb325c4f883a651d92bddb6fc190d6e25",
+      "passed": true
+    },
+    {
+      "check": "final_input_sha256",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\路线A最终追查记录_v0.3.md",
+      "before": "3c78aa22e5b07759ec5b71f7dd62b7d726008ee1eddd1aad0d9d16f925932e6b",
+      "after": "3c78aa22e5b07759ec5b71f7dd62b7d726008ee1eddd1aad0d9d16f925932e6b",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\001\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\002\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\007\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\真实图片候选集_v0.1\\来源记录\\019\\候选证据记录_v0.1.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\采集范围统一定义_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\候选统一范围复核_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\有限站位补证结果_v0.1.md",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\路线A最终追查记录_v0.3.md",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_02_修订与讨论_转录.txt",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\输入原件哈希核查.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\执行与访问记录.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "四图材料提取表.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\离线核查结果.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\四图材料提取表.md",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\执行与访问记录.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\输入原件哈希_检查前.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\输入原件哈希核查.json",
+      "passed": true
+    },
+    {
+      "check": "final_local_link",
+      "document": "使用与核查说明.md",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\离线核查结果.json",
+      "passed": true
+    },
+    {
+      "check": "checker_only_explicit_standard_libraries",
+      "imports": [
+        "argparse",
+        "datetime",
+        "hashlib",
+        "json",
+        "pathlib",
+        "re",
+        "sys"
+      ],
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "urllib",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "requests",
+      "passed": false
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "http.client",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "socket",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "subprocess",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "os.environ",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "getenv",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "worker.py",
+      "passed": true
+    },
+    {
+      "check": "no_network_credentials_or_legacy_execution_in_checker",
+      "token": "run_trial.py",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_01_作品页.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\001_02_修订与讨论.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_01_作品页.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\002_02_修订与讨论.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_01_作品页.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\007_02_修订与讨论.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_01_作品页.json",
+      "passed": true
+    },
+    {
+      "check": "archived_tool_return_unchanged_in_readable_copy",
+      "path": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\剩余四图站位入口检查_v0.1\\工具返回\\019_02_修订与讨论.json",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "001",
+      "quote": "chengdu station",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "001",
+      "quote": "Uploaded own work with UploadWizard",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "002",
+      "quote": "Taken after arriving at the recently-reopened Qingdao Railway Station in Qingdao, China (site of the 2008 Olympic sailing events).",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "002",
+      "quote": "加亮",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "007",
+      "quote": "Water filled rice terraces in longsheng",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "007",
+      "quote": "User created page with UploadWizard",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "019",
+      "quote": "Yuezhao Lake, Hongcun, Anhui, China",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "019",
+      "quote": "安徽省宏村的月沼",
+      "passed": true
+    },
+    {
+      "check": "quoted_sentence_verbatim",
+      "id": "019",
+      "quote": "location",
+      "passed": true
+    },
+    {
+      "check": "four_subjects_and_no_unexecuted_subject",
+      "passed": true
+    },
+    {
+      "check": "zero_model_calls_and_no_credentials_recorded",
+      "passed": true
+    },
+    {
+      "check": "no_one_off_temp_files",
+      "passed": true
+    }
+  ],
+  "manifest": [
+    {
+      "path": "使用与核查说明.md",
+      "bytes": 3720,
+      "sha256": "7a008b13242cf6521797349acb7dd751572b6d7e20f9723455cf5e82d7db97a8"
+    },
+    {
+      "path": "四图材料提取表.md",
+      "bytes": 19690,
+      "sha256": "9518ade7f842d0e667f3392ba14cf179a4bb77aa601697f058dae67a69271d5a"
+    },
+    {
+      "path": "工具返回\\001_01_作品页.json",
+      "bytes": 12710,
+      "sha256": "814e4dcfacf214cce1ff1e671efc3a01de08b2beb8b001579201864b372083cc"
+    },
+    {
+      "path": "工具返回\\001_01_作品页_转录.txt",
+      "bytes": 11963,
+      "sha256": "12aab4d4b9302fb37afeef6305f8213612f3ecd23ccaf8954607469f9f054e06"
+    },
+    {
+      "path": "工具返回\\001_02_修订与讨论.json",
+      "bytes": 16399,
+      "sha256": "d7c1e21f20b5708fd5f11369fe7a0e72c91a21b38f0c578ee093b73d001be226"
+    },
+    {
+      "path": "工具返回\\001_02_修订与讨论_转录.txt",
+      "bytes": 15660,
+      "sha256": "309918a82d8689d13bd14fa3a0c0bdeb136eae15a45e4def4eb1acebf9206a80"
+    },
+    {
+      "path": "工具返回\\002_01_作品页.json",
+      "bytes": 10019,
+      "sha256": "c50a63972761337cb7be886f249d03a5488f0426a11ad964dd6a10301089c732"
+    },
+    {
+      "path": "工具返回\\002_01_作品页_转录.txt",
+      "bytes": 9317,
+      "sha256": "f53bd6890af3f282c042e814321f616aeca9fb5ef51371b054f80b5751606604"
+    },
+    {
+      "path": "工具返回\\002_02_修订与讨论.json",
+      "bytes": 17928,
+      "sha256": "9caca9e43b2fe9fbe15e3d6ea033c0f6c5bf8e8ef2b187f7478e4e0fe91e2d5c"
+    },
+    {
+      "path": "工具返回\\002_02_修订与讨论_转录.txt",
+      "bytes": 17169,
+      "sha256": "81acc029bb33bfca833558ce04d0a38d3d95022116a6ebc5384188bcdbb6f5c4"
+    },
+    {
+      "path": "工具返回\\007_01_作品页.json",
+      "bytes": 13732,
+      "sha256": "e6a3bdad49d1d099d5655c8b2ce5e430efe4fc1f6ad8d2a5418f5c24c2e73c2a"
+    },
+    {
+      "path": "工具返回\\007_01_作品页_转录.txt",
+      "bytes": 12970,
+      "sha256": "eceb89d51ebd514731426063e489e8ef59dc5a4ae6294258b349c84b8fd21224"
+    },
+    {
+      "path": "工具返回\\007_02_修订与讨论.json",
+      "bytes": 15830,
+      "sha256": "97fc634a88004334793f257f28b803e6e774f61f5c87454877810898c68111fe"
+    },
+    {
+      "path": "工具返回\\007_02_修订与讨论_转录.txt",
+      "bytes": 15087,
+      "sha256": "ea9ce9ae02f011fa00b753fe207115948187525021f4385a7ee3f8b529983296"
+    },
+    {
+      "path": "工具返回\\019_01_作品页.json",
+      "bytes": 10069,
+      "sha256": "2ca93ef4bb3321be05c2afd1bcbaf646508076dc4c023b685586d88f1d5d79dc"
+    },
+    {
+      "path": "工具返回\\019_01_作品页_转录.txt",
+      "bytes": 9336,
+      "sha256": "0aee9c89a28edc96cfffa45e9843a1b4e6d40afcc4f63990e1b7d794e44c3e71"
+    },
+    {
+      "path": "工具返回\\019_02_修订与讨论.json",
+      "bytes": 16213,
+      "sha256": "c8330a4d67b81fe77d26da87e2d9df779e342a7199c3aeaa47dfc21652704c21"
+    },
+    {
+      "path": "工具返回\\019_02_修订与讨论_转录.txt",
+      "bytes": 15473,
+      "sha256": "34f091846b93bf8974cdb372f8924d4e6a2c5032c924bd9a8751f2350eff4413"
+    },
+    {
+      "path": "执行与访问记录.json",
+      "bytes": 27014,
+      "sha256": "f3c159fc3f0b3f38d0b4d9d07493e10c3bbfd9556361234d72fb43588c78cb64"
+    },
+    {
+      "path": "离线核查.py",
+      "bytes": 4376,
+      "sha256": "6d3905d51768402e271c4ea2653011d627352b9cb6e9f2fc164f1ac8afc3c171"
+    },
+    {
+      "path": "离线核查结果.json",
+      "bytes": 15952,
+      "sha256": "e2d717d529230b629b94df5dfaf21972b01677a63d00e0d236c2ac12f5be2625"
+    },
+    {
+      "path": "输入原件哈希_检查前.json",
+      "bytes": 4072,
+      "sha256": "b2b389969e57aa54bcc35d62d91254e5090b64da4e49ccd0e8dfa4ff42f0a763"
+    },
+    {
+      "path": "输入原件哈希核查.json",
+      "bytes": 3655,
+      "sha256": "19fcd6ad9184832228c4bad2e9117df4177fdc42c2701571d8639c56cd670b0b"
+    }
+  ],
+  "scope": "Only the eight provided inputs and this round's new deliverables. No repository-wide audit or evidence adjudication.",
+  "manifest_note": "Manifest includes files existing before this report; excludes this report itself."
+}

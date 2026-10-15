@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "artifact_type": "offline_teaching_text_drafts",
+  "material_notice": "教学准备，不是研究样本或实验结果；尚未调用模型",
+  "assembly_rule": "提示词原始字节 + 两个LF换行字节 + 附录原始字节；不裁剪原有换行",
+  "source_manifest": {
+    "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学任务清单.json",
+    "sha256": "ffa8d13d8c3354dc75f6a6b39243a2836ff391a09809b5c6f2545936645a5029"
+  },
+  "appendix_input": {
+    "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/开发输入/参考附录正文.md",
+    "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+  },
+  "source_inputs": [
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学任务清单.json",
+      "sha256": "ffa8d13d8c3354dc75f6a6b39243a2836ff391a09809b5c6f2545936645a5029"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/开发输入/参考附录正文.md",
+      "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+      "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/基础条件草案.txt",
+      "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/增强条件草案.txt",
+      "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4"
+    },
+    {
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+      "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d"
+    }
+  ],
+  "text_draft_count": 4,
+  "model_call_count": 0,
+  "tasks": [
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "condition_id": "BASE",
+      "task_id": "DEMO_BATCH_001:DEMO01:BASE",
+      "image_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+        "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284"
+      },
+      "condition_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/基础条件草案.txt",
+        "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56"
+      },
+      "appendix_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/开发输入/参考附录正文.md",
+        "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+      },
+      "text_draft": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_01.txt",
+        "sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+        "bytes": 6763
+      },
+      "status": "尚未调用",
+      "material_notice": "教学准备，不是研究样本或实验结果；尚未调用模型"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO01",
+      "condition_id": "ENHANCED",
+      "task_id": "DEMO_BATCH_001:DEMO01:ENHANCED",
+      "image_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO01.png",
+        "sha256": "8ff6d05a88caedcb2db5d6a1a632fcca5bdd40cfd3a949d50bb111cc2bf9e284"
+      },
+      "condition_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/增强条件草案.txt",
+        "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4"
+      },
+      "appendix_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/开发输入/参考附录正文.md",
+        "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+      },
+      "text_draft": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_02.txt",
+        "sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+        "bytes": 7176
+      },
+      "status": "尚未调用",
+      "material_notice": "教学准备，不是研究样本或实验结果；尚未调用模型"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "condition_id": "BASE",
+      "task_id": "DEMO_BATCH_001:DEMO02:BASE",
+      "image_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+        "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d"
+      },
+      "condition_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/基础条件草案.txt",
+        "sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56"
+      },
+      "appendix_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/开发输入/参考附录正文.md",
+        "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+      },
+      "text_draft": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_03.txt",
+        "sha256": "04757e8a36be592e83553256139d4f3ac8458b9e36fedf6fb1b7ca05f887242d",
+        "bytes": 6763
+      },
+      "status": "尚未调用",
+      "material_notice": "教学准备，不是研究样本或实验结果；尚未调用模型"
+    },
+    {
+      "batch_id": "DEMO_BATCH_001",
+      "image_id": "DEMO02",
+      "condition_id": "ENHANCED",
+      "task_id": "DEMO_BATCH_001:DEMO02:ENHANCED",
+      "image_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/图片/DEMO02.png",
+        "sha256": "6778917142ebc460cf8d26decdf47a63a2c2ca05db6b92f0f9753aa3b87ff71d"
+      },
+      "condition_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/批量入口离线准备_v0.1/教学材料_不是研究样本/提示词/增强条件草案.txt",
+        "sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4"
+      },
+      "appendix_input": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/开发输入/参考附录正文.md",
+        "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+      },
+      "text_draft": {
+        "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/离线文本组装_v0.1/教学文本草案/教学文本_04.txt",
+        "sha256": "87d37feb13cc8e2a58dd651388faff68b7eba967c27eb8447b7ff642fc847de7",
+        "bytes": 7176
+      },
+      "status": "尚未调用",
+      "material_notice": "教学准备，不是研究样本或实验结果；尚未调用模型"
+    }
+  ]
+}
