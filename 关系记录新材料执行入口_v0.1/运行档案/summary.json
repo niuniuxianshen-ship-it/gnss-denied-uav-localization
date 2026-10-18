@@ -1,0 +1,57 @@
+{
+  "record_kind": "first_api_attempt",
+  "batch_id": "RELATION_NEW_MATERIAL_DIAGNOSTIC_001",
+  "started_at": "2026-10-17T15:51:19.910120+08:00",
+  "status": "completed",
+  "execution_order": [
+    "N01_V03",
+    "N01_V04",
+    "N02_V04",
+    "N02_V03",
+    "N03_V03",
+    "N03_V04",
+    "N04_V04",
+    "N04_V03"
+  ],
+  "attempted": [
+    "N01_V03",
+    "N01_V04",
+    "N02_V04",
+    "N02_V03",
+    "N03_V03",
+    "N03_V04",
+    "N04_V04",
+    "N04_V03"
+  ],
+  "completed": [
+    "N01_V03",
+    "N01_V04",
+    "N02_V04",
+    "N02_V03",
+    "N03_V03",
+    "N03_V04",
+    "N04_V04",
+    "N04_V03"
+  ],
+  "unexecuted": [],
+  "failure": null,
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "client_retries": 0,
+  "freeze_sha256": "178e5f84786765de39a406ca413d517a2ca1b2d59c4bb0e1655d3be803585ae6",
+  "runner_sha256": "461330743d3f179a7fa2491c7018c61a89390567ad370aa82bf8ae8820666359",
+  "config_sha256": "0a6ac1547b3b83dc07af291439a676e4c9eb5690d8ccd787c160a764b23c04ae",
+  "request_map_sha256": "2cabad67e79128e2a3051082f34b1eda1e1f01050f92b1ad840e34d259d46e51",
+  "ended_at": "2026-10-17T15:51:29.440137+08:00"
+}

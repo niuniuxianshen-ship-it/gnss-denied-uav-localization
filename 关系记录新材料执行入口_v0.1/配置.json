@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "status_at_preparation": "离线执行准备；未冻结；本文件不授权执行",
+  "batch_id": "RELATION_NEW_MATERIAL_DIAGNOSTIC_001",
+  "base_url": "https://api.deepseek.com",
+  "endpoint": "/chat/completions",
+  "api_key_env": "DEEPSEEK_API_KEY",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "socket_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "client_retries": 0,
+  "system_message": null,
+  "management_plan_path": "关系记录新材料对照准备_v0.1/管理计划与参照表.md",
+  "recognition_coding_path": "API评审关系记录草案_v0.4/识别编码口径_待审查.md",
+  "freeze_record_file": "本批冻结登记.json",
+  "execution_archive_directory": "运行档案",
+  "execution_order": [
+    "N01_V03",
+    "N01_V04",
+    "N02_V04",
+    "N02_V03",
+    "N03_V03",
+    "N03_V04",
+    "N04_V04",
+    "N04_V03"
+  ],
+  "source_snapshot": [
+    {
+      "path": "关系记录新材料对照准备_v0.1/管理计划与参照表.md",
+      "sha256": "7f644aa5b007de488975340a4495dc51f40b512f0c1bb64178861b46cbc2b7fe",
+      "bytes": 13297
+    },
+    {
+      "path": "API评审关系记录草案_v0.4/识别编码口径_待审查.md",
+      "sha256": "ee7d68178e37f3767785d472afbf4c90a0068a464471f2a3f4141d4a3f242da7",
+      "bytes": 14773
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/run_reviews.py",
+      "sha256": "6f1409b07018c2c46b85e245fdb1d362a1410f920810feb6a1aca7798871c5bb",
+      "bytes": 24383
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/使用与核查说明.md",
+      "sha256": "15a472068824bbd91c0a26100fdb1174bdf7ed6048b4f8dfaec33ff93db63431",
+      "bytes": 7256
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N01.txt",
+      "sha256": "aef95a741234297f1373acd3ad7d9a028cabbf43dd2b959f125257c484e11f96",
+      "bytes": 8909
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N02.txt",
+      "sha256": "290e7c60489e9f8a4736c17bbcea4a005fe5b864e0c881166a20a2e59589a0a3",
+      "bytes": 8891
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N03.txt",
+      "sha256": "1748a8ff0578c7040fa0055aa93091454ebbff5c11b1391a58ef05e18af52029",
+      "bytes": 8765
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N04.txt",
+      "sha256": "0d28b4a76c9bcdcdbe07ed4e2d903b023bf617a00c81a7cfa905488872eaddaa",
+      "bytes": 8906
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N01.txt",
+      "sha256": "24a367053013baa523f6c008ec498fab1a3caa40cd75bb7abe24d120cffa7bf9",
+      "bytes": 10105
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N02.txt",
+      "sha256": "6dff9966819b6c98da2efa57253a603da36705e603e9bcc448312cb4c02c0f8f",
+      "bytes": 10087
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N03.txt",
+      "sha256": "08fef56dfe9e6e02ba108098fa597d43015d3da79d7fc5471447fb98e5bb2f36",
+      "bytes": 9961
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N04.txt",
+      "sha256": "f334ba5c564200d9e8e811520d0fdfcd1cbd43a7d2ee8743f8f6396d73f18921",
+      "bytes": 10102
+    },
+    {
+      "path": "首批三图运行准备_v0.1/使用与核查说明.md",
+      "sha256": "605e76fa07d72338bc83efa9a1663edbfc47be4583c03f756f0c033c79640360",
+      "bytes": 10732
+    }
+  ],
+  "requests": [
+    {
+      "sequence": 1,
+      "material_id": "N01",
+      "prompt_version": "v0.3",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N01.txt",
+      "bytes": 8909,
+      "sha256": "aef95a741234297f1373acd3ad7d9a028cabbf43dd2b959f125257c484e11f96",
+      "task_id": "N01_V03"
+    },
+    {
+      "sequence": 2,
+      "material_id": "N01",
+      "prompt_version": "v0.4",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N01.txt",
+      "bytes": 10105,
+      "sha256": "24a367053013baa523f6c008ec498fab1a3caa40cd75bb7abe24d120cffa7bf9",
+      "task_id": "N01_V04"
+    },
+    {
+      "sequence": 3,
+      "material_id": "N02",
+      "prompt_version": "v0.4",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N02.txt",
+      "bytes": 10087,
+      "sha256": "6dff9966819b6c98da2efa57253a603da36705e603e9bcc448312cb4c02c0f8f",
+      "task_id": "N02_V04"
+    },
+    {
+      "sequence": 4,
+      "material_id": "N02",
+      "prompt_version": "v0.3",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N02.txt",
+      "bytes": 8891,
+      "sha256": "290e7c60489e9f8a4736c17bbcea4a005fe5b864e0c881166a20a2e59589a0a3",
+      "task_id": "N02_V03"
+    },
+    {
+      "sequence": 5,
+      "material_id": "N03",
+      "prompt_version": "v0.3",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N03.txt",
+      "bytes": 8765,
+      "sha256": "1748a8ff0578c7040fa0055aa93091454ebbff5c11b1391a58ef05e18af52029",
+      "task_id": "N03_V03"
+    },
+    {
+      "sequence": 6,
+      "material_id": "N03",
+      "prompt_version": "v0.4",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N03.txt",
+      "bytes": 9961,
+      "sha256": "08fef56dfe9e6e02ba108098fa597d43015d3da79d7fc5471447fb98e5bb2f36",
+      "task_id": "N03_V04"
+    },
+    {
+      "sequence": 7,
+      "material_id": "N04",
+      "prompt_version": "v0.4",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N04.txt",
+      "bytes": 10102,
+      "sha256": "f334ba5c564200d9e8e811520d0fdfcd1cbd43a7d2ee8743f8f6396d73f18921",
+      "task_id": "N04_V04"
+    },
+    {
+      "sequence": 8,
+      "material_id": "N04",
+      "prompt_version": "v0.3",
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N04.txt",
+      "bytes": 8906,
+      "sha256": "0d28b4a76c9bcdcdbe07ed4e2d903b023bf617a00c81a7cfa905488872eaddaa",
+      "task_id": "N04_V03"
+    }
+  ],
+  "planned_first_requests": 8,
+  "actual_api_calls_at_preparation": 0
+}

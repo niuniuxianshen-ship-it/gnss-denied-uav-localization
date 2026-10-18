@@ -1,0 +1,15 @@
+{
+  "method": "POST",
+  "url": "https://api.deepseek.com/files",
+  "fields": {
+    "purpose": "user_data",
+    "expires_after[anchor]": "created_at",
+    "expires_after[seconds]": 604800
+  },
+  "file": {
+    "filename": "IMG001.png",
+    "sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+    "bytes": 15590941,
+    "content_type": "image/png"
+  }
+}

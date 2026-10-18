@@ -1,0 +1,53 @@
+{
+  "record_kind": "first_api_attempt",
+  "batch_id": "RELATION_NEW_MATERIAL_DIAGNOSTIC_001",
+  "task_id": "N02_V04",
+  "started_at": "2026-10-17T15:51:23.083098+08:00",
+  "technical_status": "completed",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "requested_model": "deepseek-flash",
+  "returned_model": "deepseek-flash",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2491,
+    "completion_tokens": 132,
+    "total_tokens": 2623,
+    "prompt_tokens_details": {
+      "cached_tokens": 768
+    },
+    "prompt_cache_hit_tokens": 768,
+    "prompt_cache_miss_tokens": 1723
+  },
+  "socket_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "client_retries": 0,
+  "network_attempt_started": true,
+  "response_complete": true,
+  "request_text_sha256": "6dff9966819b6c98da2efa57253a603da36705e603e9bcc448312cb4c02c0f8f",
+  "request_body_sha256": "9ca03c68d177207efdb447740aa14598f68b4444404e5ad38fd35cda59b65b15",
+  "management_plan_sha256": "7f644aa5b007de488975340a4495dc51f40b512f0c1bb64178861b46cbc2b7fe",
+  "failure": null,
+  "http_status": 200,
+  "response_content_type": "application/json",
+  "refusal": null,
+  "reasoning_content_present": false,
+  "tool_call_detected": false,
+  "request_sha256": "9ca03c68d177207efdb447740aa14598f68b4444404e5ad38fd35cda59b65b15",
+  "response_sha256": "5780462d36355fd4c5a7d059f9de86abcbec22f582957863a11706fa1027fe03",
+  "output_sha256": "0d0f9af33411cb72cbd2b774f43fb69586f89f4373793fe1739a19302c09eaf9",
+  "missing_artifacts": [],
+  "ended_at": "2026-10-17T15:51:24.031902+08:00",
+  "elapsed_seconds": 0.9530000000086147
+}

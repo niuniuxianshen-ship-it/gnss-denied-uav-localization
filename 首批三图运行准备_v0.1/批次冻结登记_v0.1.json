@@ -1,0 +1,211 @@
+{
+  "status": "本三图可行性批次材料、运行设置及评价安排已获研究者同意并冻结；尚未运行定位",
+  "frozen_at": "2026-10-15T23:00:41.398311+08:00",
+  "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+  "authorization": {
+    "user_reply": "同意",
+    "refers_to": "采用运行与评价冻结建议；保存冻结记录并按既定顺序最多执行6次首次定位；预算预留5元；评分另一步执行",
+    "source": "当前聊天中对紧前明确确认请求的研究者回复"
+  },
+  "proposal": {
+    "path": "运行与评价冻结建议_待确认_v0.1.md",
+    "sha256": "95e62aa0f80ee459fc89d88522ed7d7aef823e4e182fa9d36cfcab5f06f256cf"
+  },
+  "evidence_files": [
+    {
+      "path": "首批三图可行性批次设计修订_待审查_v0.1.md",
+      "sha256": "db5abb4a4094bd0c7da2867305c6c17b5a91081b17c70c3cf96b0adbc403d424",
+      "bytes": 5600
+    },
+    {
+      "path": "指标与统计口径草案_v0.1.md",
+      "sha256": "6cabcde59db9ea67e40b990771a742769f848bf64163e64a8e2621229be73fb4",
+      "bytes": 4169
+    },
+    {
+      "path": "API评分备选方案_待审查_v0.1.md",
+      "sha256": "3c805d00d35c2395825827b64437527292a8b0d0570e5074df8f723d902f9585",
+      "bytes": 5146
+    },
+    {
+      "path": "API评审提示词示例草案_v0.3/完整评审提示词草案.txt",
+      "sha256": "aa2fbcb54877e9a979ab0a970be36f9fc61da8b4113e6f8b8b0218d4066b67cf",
+      "bytes": 3482
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "bytes": 5130
+    },
+    {
+      "path": "首批三图运行准备_v0.1/配置草案.json",
+      "sha256": "9d37077b5818e3f55a075b66fb01b533857fea132dbca7ed27545f848f88bd9b",
+      "bytes": 4662
+    },
+    {
+      "path": "首批三图运行准备_v0.1/run_batch.py",
+      "sha256": "e0546279a554f786bcb49c8d1127da2375046354d79806416de82d2b682adc4a",
+      "bytes": 21655
+    },
+    {
+      "path": "首批三图运行准备_v0.1/上传计划与任务关联.json",
+      "sha256": "24e6a788375eca851bebd47e00c3f5a117f12f1aa208383c9a1c170c1e569fcb",
+      "bytes": 6669
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/上传/summary.json",
+      "sha256": "787759022f9baf23f843752b4130d101ad33d072be96f07d9ea23f28c531d16b",
+      "bytes": 549
+    }
+  ],
+  "input_plan": {
+    "path": "上传计划与任务关联.json",
+    "sha256": "24e6a788375eca851bebd47e00c3f5a117f12f1aa208383c9a1c170c1e569fcb"
+  },
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "model_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "budget": {
+    "reserved_cny": 5,
+    "account_hard_limit_enforced_by_runner": false,
+    "calculate_from": "actual returned usage; billed amount not independently verified"
+  },
+  "failure_policy": "按现有入口：技术失败、截断或工具调用停止后续项；不重试、不续跑、不覆盖；答错、合法拒答或文本格式偏差不触发重试",
+  "uploads_already_completed": 3,
+  "location_calls_at_freeze": 0,
+  "scoring_calls_at_freeze": 0,
+  "first_location_requests": [
+    {
+      "sequence": 1,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:BASE",
+      "image_id": "IMG001",
+      "condition_id": "BASE",
+      "file_id": "file-api-1a670771-04ff-43d9-b51a-f8b8530353b7",
+      "image_sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+      "prompt_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "request_body_sha256": "b9d1d12184bd66f3770c1ec20a7edf9aa9d36be0094d2e3668ad2ef84964c390",
+      "request_bytes": 7408
+    },
+    {
+      "sequence": 2,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:ENHANCED",
+      "image_id": "IMG001",
+      "condition_id": "ENHANCED",
+      "file_id": "file-api-1a670771-04ff-43d9-b51a-f8b8530353b7",
+      "image_sha256": "77575985b52e26005fc0ef9063f49ee6f225f2fb5f7a478447057b93b2931bb1",
+      "prompt_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "request_body_sha256": "a42f2e999218fd72218f0b82f74807d7f03c90fb093bd317b9b5343eaa2123fb",
+      "request_bytes": 7823
+    },
+    {
+      "sequence": 3,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:ENHANCED",
+      "image_id": "IMG002",
+      "condition_id": "ENHANCED",
+      "file_id": "file-api-1fe4962d-cf47-4232-a098-fbc5cbab7586",
+      "image_sha256": "8b1e1de0d82904bc98b3883d30d0f5d05e9d58c6cbabb6052bc8b37a328bde8b",
+      "prompt_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "request_body_sha256": "59c7a62d6a9a504b117c02d667c07b7bd64e95c999375a6e7934e431b94e1ec1",
+      "request_bytes": 7823
+    },
+    {
+      "sequence": 4,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:BASE",
+      "image_id": "IMG002",
+      "condition_id": "BASE",
+      "file_id": "file-api-1fe4962d-cf47-4232-a098-fbc5cbab7586",
+      "image_sha256": "8b1e1de0d82904bc98b3883d30d0f5d05e9d58c6cbabb6052bc8b37a328bde8b",
+      "prompt_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "request_body_sha256": "628f8f923222552d38c407d15a3d32e971e86b1a64034a5ac91d5c08d650d3dd",
+      "request_bytes": 7408
+    },
+    {
+      "sequence": 5,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:BASE",
+      "image_id": "IMG003",
+      "condition_id": "BASE",
+      "file_id": "file-api-d511dc47-0688-4697-af9a-2fae45de55fa",
+      "image_sha256": "1b4bbf049ba13c9c148e7144be21f36dee6c16234abe5032b2fba5a633477297",
+      "prompt_sha256": "a2c26cef95d19affca38b7ffb0b1fdf664f35d5ae1fc8b0606a92c38ec582f56",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "request_body_sha256": "d4e74aa322edf25dc77026095450fa79904dc436036493cf949a12547e6cc280",
+      "request_bytes": 7408
+    },
+    {
+      "sequence": 6,
+      "task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:ENHANCED",
+      "image_id": "IMG003",
+      "condition_id": "ENHANCED",
+      "file_id": "file-api-d511dc47-0688-4697-af9a-2fae45de55fa",
+      "image_sha256": "1b4bbf049ba13c9c148e7144be21f36dee6c16234abe5032b2fba5a633477297",
+      "prompt_sha256": "5f6202a8a9ca7d59274535d49814580b3cf1ee486490f35a180d893f5c30caa4",
+      "appendix_sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "request_body_sha256": "0d3639213865093b4e35a2e8c5ed48d558ac9a13455bfb00006c8669a77714ac",
+      "request_bytes": 7823
+    }
+  ],
+  "evaluation_plan": {
+    "status": "研究安排冻结；实际评审请求在发送前另存核对；本次不授权评分调用",
+    "source": "一个deepseek-flash评审模型的首次判断；探索性API评价",
+    "review_prompt_path": "API评审提示词示例草案_v0.3\\完整评审提示词草案.txt",
+    "review_prompt_sha256": "aa2fbcb54877e9a979ab0a970be36f9fc61da8b4113e6f8b8b0218d4066b67cf",
+    "settings": {
+      "model": "deepseek-flash",
+      "thinking": {
+        "type": "disabled"
+      },
+      "temperature": 0,
+      "max_tokens": 8192,
+      "stream": false,
+      "response_format": {
+        "type": "text"
+      },
+      "tool_choice": "none"
+    },
+    "socket_timeout_seconds": 300,
+    "client_retries": 0,
+    "whitelist": [
+      "v0.3评审指令及其既有开发示例",
+      "一份完整首次定位最终正文",
+      "与定位相同的共同附录"
+    ],
+    "excluded_materials": [
+      "图片",
+      "参考标签",
+      "管理映射及来源",
+      "作者复核",
+      "条件名称及两条件定位提示词"
+    ],
+    "assembly_rule": "原v0.3全文仅替换末尾唯一占位句；另加明确边界的共同附录，不当作待评模型正文",
+    "primary_statistic": "各条件分别报告API判定的错误比例E/D及原口径N/C/M/D/E、拒答和排除；D=0不计算",
+    "api_author_disagreement": "不以作者不同意为由改写API原判或自动排除；API不适用与实际多候选冲突按已确认建议单列",
+    "author_review": "覆盖本批实际取得的全部首次输出及相应API判断，计划6份；作者非盲复核另存；必要视觉核验单列",
+    "independent_human_review": "原双人工方案保留未完成；同源模型评审与作者复核不充当独立验证",
+    "validation_limit": "v0.3只通过既有有限教学检查；没有已验证的通用可靠性门槛"
+  },
+  "scope_limits": [
+    "三张均为文字缺失／模糊类",
+    "原十图方案仍未完成、七张旧图范围缺口不升级",
+    "作者与导师已接触图片和地点",
+    "本批外模型接触与预训练收录未知",
+    "服务端图像处理未确认",
+    "不以本批证明普遍准确率、稳定改进或因果优越性"
+  ],
+  "preservation": "所有草案原文、准备文件、旧失败说明及首次上传档案保持原样；DRAFT批次编号仅为既有标识，不为改名重建模板"
+}

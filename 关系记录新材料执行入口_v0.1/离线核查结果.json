@@ -1,0 +1,160 @@
+{
+  "record_kind": "offline_checks_only_not_API_results",
+  "started_at": "2026-10-17T15:43:58.748398+08:00",
+  "ended_at": "2026-10-17T15:43:59.369251+08:00",
+  "python_version": "3.10.0",
+  "tests_run": 7,
+  "failures": 0,
+  "errors": 0,
+  "all_passed": true,
+  "actual_api_calls": 0,
+  "real_credentials_read": false,
+  "HTTP_and_socket_blocked": true,
+  "evidence": {
+    "order": [
+      "N01_V03",
+      "N01_V04",
+      "N02_V04",
+      "N02_V03",
+      "N03_V03",
+      "N03_V04",
+      "N04_V04",
+      "N04_V03"
+    ],
+    "independent_user_messages": 8,
+    "request_hash_change": "rejected_before_credentials_or_HTTP",
+    "execution_gates": [
+      "missing_switch_rejected",
+      "missing_batch_freeze_rejected"
+    ],
+    "existing_archive": "rejected_and_bytes_unchanged",
+    "failure_injection": {
+      "record_kind": "offline_check",
+      "stub_transport_calls": 1,
+      "actual_api_calls": 0,
+      "attempted": [
+        "N01_V03"
+      ],
+      "unexecuted": [
+        "N01_V04",
+        "N02_V04",
+        "N02_V03",
+        "N03_V03",
+        "N03_V04",
+        "N04_V04",
+        "N04_V03"
+      ],
+      "missing_artifacts": [
+        "response.json",
+        "output.txt"
+      ],
+      "frozen_record_created": false,
+      "repeat_execution_rejected": true
+    },
+    "freeze_negative_checks": [
+      "missing_pin",
+      "wrong_pin",
+      "not_frozen",
+      "wrong_batch"
+    ],
+    "reused_functions_ast_equal": [
+      "now",
+      "sha",
+      "encoded",
+      "save",
+      "save_json",
+      "require",
+      "read_json",
+      "project_path",
+      "checked_source",
+      "payload",
+      "api_key",
+      "post_once",
+      "classify_completion"
+    ]
+  },
+  "input_hash_checks": [
+    {
+      "path": "关系记录新材料对照准备_v0.1/管理计划与参照表.md",
+      "before_sha256": "7f644aa5b007de488975340a4495dc51f40b512f0c1bb64178861b46cbc2b7fe",
+      "after_sha256": "7f644aa5b007de488975340a4495dc51f40b512f0c1bb64178861b46cbc2b7fe",
+      "unchanged": true
+    },
+    {
+      "path": "API评审关系记录草案_v0.4/识别编码口径_待审查.md",
+      "before_sha256": "ee7d68178e37f3767785d472afbf4c90a0068a464471f2a3f4141d4a3f242da7",
+      "after_sha256": "ee7d68178e37f3767785d472afbf4c90a0068a464471f2a3f4141d4a3f242da7",
+      "unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/run_reviews.py",
+      "before_sha256": "6f1409b07018c2c46b85e245fdb1d362a1410f920810feb6a1aca7798871c5bb",
+      "after_sha256": "6f1409b07018c2c46b85e245fdb1d362a1410f920810feb6a1aca7798871c5bb",
+      "unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/使用与核查说明.md",
+      "before_sha256": "15a472068824bbd91c0a26100fdb1174bdf7ed6048b4f8dfaec33ff93db63431",
+      "after_sha256": "15a472068824bbd91c0a26100fdb1174bdf7ed6048b4f8dfaec33ff93db63431",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N01.txt",
+      "before_sha256": "aef95a741234297f1373acd3ad7d9a028cabbf43dd2b959f125257c484e11f96",
+      "after_sha256": "aef95a741234297f1373acd3ad7d9a028cabbf43dd2b959f125257c484e11f96",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N02.txt",
+      "before_sha256": "290e7c60489e9f8a4736c17bbcea4a005fe5b864e0c881166a20a2e59589a0a3",
+      "after_sha256": "290e7c60489e9f8a4736c17bbcea4a005fe5b864e0c881166a20a2e59589a0a3",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N03.txt",
+      "before_sha256": "1748a8ff0578c7040fa0055aa93091454ebbff5c11b1391a58ef05e18af52029",
+      "after_sha256": "1748a8ff0578c7040fa0055aa93091454ebbff5c11b1391a58ef05e18af52029",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V03_N04.txt",
+      "before_sha256": "0d28b4a76c9bcdcdbe07ed4e2d903b023bf617a00c81a7cfa905488872eaddaa",
+      "after_sha256": "0d28b4a76c9bcdcdbe07ed4e2d903b023bf617a00c81a7cfa905488872eaddaa",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N01.txt",
+      "before_sha256": "24a367053013baa523f6c008ec498fab1a3caa40cd75bb7abe24d120cffa7bf9",
+      "after_sha256": "24a367053013baa523f6c008ec498fab1a3caa40cd75bb7abe24d120cffa7bf9",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N02.txt",
+      "before_sha256": "6dff9966819b6c98da2efa57253a603da36705e603e9bcc448312cb4c02c0f8f",
+      "after_sha256": "6dff9966819b6c98da2efa57253a603da36705e603e9bcc448312cb4c02c0f8f",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N03.txt",
+      "before_sha256": "08fef56dfe9e6e02ba108098fa597d43015d3da79d7fc5471447fb98e5bb2f36",
+      "after_sha256": "08fef56dfe9e6e02ba108098fa597d43015d3da79d7fc5471447fb98e5bb2f36",
+      "unchanged": true
+    },
+    {
+      "path": "关系记录新材料对照准备_v0.1/请求/请求_V04_N04.txt",
+      "before_sha256": "f334ba5c564200d9e8e811520d0fdfcd1cbd43a7d2ee8743f8f6396d73f18921",
+      "after_sha256": "f334ba5c564200d9e8e811520d0fdfcd1cbd43a7d2ee8743f8f6396d73f18921",
+      "unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/使用与核查说明.md",
+      "before_sha256": "605e76fa07d72338bc83efa9a1663edbfc47be4583c03f756f0c033c79640360",
+      "after_sha256": "605e76fa07d72338bc83efa9a1663edbfc47be4583c03f756f0c033c79640360",
+      "unchanged": true
+    }
+  ],
+  "temporary_check_directories_cleaned": true,
+  "real_execution_archive_created": false,
+  "frozen_record_created": false,
+  "limitation": "未实测API或内容；首项失败测试以明确离线内存桩代替冻结和凭据；未创建已冻结登记"
+}

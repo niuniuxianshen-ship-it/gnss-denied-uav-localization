@@ -1,0 +1,35 @@
+{
+  "label": "G06",
+  "source": "C:/Users/leimaren/.codex/sessions/2026/10/16/rollout-2026-10-16T23-05-52-01a1453f-839e-7b71-a37d-97bcb2564327.jsonl",
+  "source_bytes": 247319,
+  "source_sha256_at_read": "ae5628d7377fc2c81a6d6a8c0572ddd17f169c3f3adba456cc86299fbdfb173c",
+  "read_at": "2026-10-16T15:10:57.245Z",
+  "selected": [
+    {
+      "line": 1,
+      "timestamp": "2026-10-16T15:05:54.540Z",
+      "type": "session_meta",
+      "fields": {
+        "id": "01a1453f-839e-7b71-a37d-97bcb2564327",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+        "model_provider": "openai",
+        "memory_mode": "disabled",
+        "originator": "Codex Desktop",
+        "source": "vscode"
+      }
+    },
+    {
+      "line": 10,
+      "timestamp": "2026-10-16T15:06:00.768Z",
+      "type": "turn_context",
+      "fields": {
+        "turn_id": "01a1453f-89c2-7613-8a82-2807ed155a8a",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+        "model": "gpt-6-luna",
+        "effort": "medium"
+      }
+    }
+  ],
+  "malformed_lines": 0,
+  "note": "只保存指定技术字段，不保存推理或自动上下文全文；原会话文件可能追加。"
+}

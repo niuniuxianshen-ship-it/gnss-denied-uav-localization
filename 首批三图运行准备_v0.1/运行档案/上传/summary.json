@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-10-15T22:46:03.961577+08:00",
+  "stage": "upload",
+  "status": "completed",
+  "order": [
+    "IMG001",
+    "IMG002",
+    "IMG003"
+  ],
+  "completed": [
+    "IMG001",
+    "IMG002",
+    "IMG003"
+  ],
+  "attempted": [
+    "IMG001",
+    "IMG002",
+    "IMG003"
+  ],
+  "unexecuted": [],
+  "config_sha256": "9d37077b5818e3f55a075b66fb01b533857fea132dbca7ed27545f848f88bd9b",
+  "runner_sha256": "e0546279a554f786bcb49c8d1127da2375046354d79806416de82d2b682adc4a",
+  "failure": null,
+  "ended_at": "2026-10-15T22:46:16.664177+08:00"
+}

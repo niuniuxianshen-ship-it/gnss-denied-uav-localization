@@ -1,0 +1,34 @@
+{
+  "source": "C:/Users/leimaren/.codex/sessions/2026/10/16/rollout-2026-10-16T17-55-31-01a14423-5e70-7bf0-ab35-d8945318c8a6.jsonl",
+  "source_bytes": 248849,
+  "source_sha256_at_read": "9077a4c0320e0f3b214f0c02bff04d2194d916885b4b9794f1aac9ac15f51b4e",
+  "read_at": "2026-10-16T09:57:14.280Z",
+  "selected": [
+    {
+      "line": 1,
+      "timestamp": "2026-10-16T09:55:31.986Z",
+      "type": "session_meta",
+      "fields": {
+        "id": "01a14423-5e70-7bf0-ab35-d8945318c8a6",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\r01-r03-r01-r03-r02-r04",
+        "model_provider": "openai",
+        "memory_mode": "disabled",
+        "originator": "Codex Desktop",
+        "source": "vscode"
+      }
+    },
+    {
+      "line": 10,
+      "timestamp": "2026-10-16T09:55:34.857Z",
+      "type": "turn_context",
+      "fields": {
+        "turn_id": "01a14423-61f5-7e41-ba33-8dd5ee458c1e",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\r01-r03-r01-r03-r02-r04",
+        "model": "gpt-6-luna",
+        "effort": "medium"
+      }
+    }
+  ],
+  "malformed_lines": 0,
+  "note": "仅提取该任务session_meta与turn_context的指定字段；未保存推理内容或自动上下文全文。会话文件可能继续追加。"
+}

@@ -1,0 +1,142 @@
+{
+  "created_at": "2026-10-15T23:19:53.382196+08:00",
+  "status": "离线评审准备；没有API评审结果；不新增冻结决定",
+  "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+  "freeze_sha256": "0661b1234f1d3bc4ae52f3209151c4d5c54f7b5984bb931034527378392e656b",
+  "config_sha256": "95443fdc2baba3c8994fa030eeee3fa7a943c355e74543101be4dde241885180",
+  "runner_sha256": "6f1409b07018c2c46b85e245fdb1d362a1410f920810feb6a1aca7798871c5bb",
+  "review_prompt": {
+    "path": "API评审提示词示例草案_v0.3/完整评审提示词草案.txt",
+    "sha256": "aa2fbcb54877e9a979ab0a970be36f9fc61da8b4113e6f8b8b0218d4066b67cf",
+    "bytes": 3482
+  },
+  "appendix": {
+    "path": "开发输入/参考附录正文.md",
+    "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+    "bytes": 5130
+  },
+  "planned_review_requests": 6,
+  "actual_review_calls_at_preparation": 0,
+  "tasks": [
+    {
+      "judge_id": "J01",
+      "sequence": 1,
+      "source_task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:BASE",
+      "image_id": "IMG001",
+      "condition_id": "BASE",
+      "source_output": {
+        "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/output.txt",
+        "sha256": "579fa0997d21a5a50c62b89e15b4ea5ba20abed8b6dfb1a7c8ba5e2cc5837d42",
+        "bytes": 1333
+      },
+      "source_archive": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE",
+      "frozen_location_request_sha256": "b9d1d12184bd66f3770c1ec20a7edf9aa9d36be0094d2e3668ad2ef84964c390",
+      "location_response_sha256": "2c8a8b4f6e178372b56b92068444fd40c767cb437c272090c952e31515356c0b",
+      "request_file": "请求/J01.txt",
+      "request_text_sha256": "6104bd6082d26d2fa026e3aa9d96c20172b9c1daf5baf8aa602a01e721c56c4d",
+      "request_text_bytes": 10104,
+      "api_body_sha256": "987eca64e5e1156e77a3e0de28df4a0b158b703ce76a9b8bf226324a7b792537",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "judge_id": "J02",
+      "sequence": 2,
+      "source_task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG001:ENHANCED",
+      "image_id": "IMG001",
+      "condition_id": "ENHANCED",
+      "source_output": {
+        "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/output.txt",
+        "sha256": "34f2d09aa85f9bd307fb31b5ff658414a81c091c83ad8c85c61dd74800e9fe58",
+        "bytes": 1448
+      },
+      "source_archive": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED",
+      "frozen_location_request_sha256": "a42f2e999218fd72218f0b82f74807d7f03c90fb093bd317b9b5343eaa2123fb",
+      "location_response_sha256": "8403a02dbf398f16e9197c11f1fdb0dbe6e417e3b30f0bac06edec0ea3cbc35e",
+      "request_file": "请求/J02.txt",
+      "request_text_sha256": "60b46cd7748542d5624e135c0a3cd297560fca3297929774ac96fd25a6bcbe78",
+      "request_text_bytes": 10219,
+      "api_body_sha256": "f0b4bde539b7bbff9bd6b5e502f1c1e785cabb5ebdd40ab99e3970788c77c024",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "judge_id": "J03",
+      "sequence": 3,
+      "source_task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:ENHANCED",
+      "image_id": "IMG002",
+      "condition_id": "ENHANCED",
+      "source_output": {
+        "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/output.txt",
+        "sha256": "456e3312dc12249e0d1bcacc360354ca6132159162f0442ca8205971142650d9",
+        "bytes": 1120
+      },
+      "source_archive": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED",
+      "frozen_location_request_sha256": "59c7a62d6a9a504b117c02d667c07b7bd64e95c999375a6e7934e431b94e1ec1",
+      "location_response_sha256": "11b11a760a28afe4fdb95de6c75da8ff9bde32eb27130ea44dd306c65731e4f0",
+      "request_file": "请求/J03.txt",
+      "request_text_sha256": "893b310d1aa9fde8e3ac771a25d43e79dc6e219a1e640cc67f95a67cac9c46dd",
+      "request_text_bytes": 9891,
+      "api_body_sha256": "d7839409efbb3ce14412941c229e3e4cb57647f8195b377c35053c31a2b3758c",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "judge_id": "J04",
+      "sequence": 4,
+      "source_task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG002:BASE",
+      "image_id": "IMG002",
+      "condition_id": "BASE",
+      "source_output": {
+        "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/output.txt",
+        "sha256": "f39319259c485b23b0f4586214034fa775cbbbbddb56e9c38daf97554ccbbb0a",
+        "bytes": 1546
+      },
+      "source_archive": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE",
+      "frozen_location_request_sha256": "628f8f923222552d38c407d15a3d32e971e86b1a64034a5ac91d5c08d650d3dd",
+      "location_response_sha256": "f18f5b2c9cda162f2aa128c31959b83c61a92efbfde258cd7c3135dcff093601",
+      "request_file": "请求/J04.txt",
+      "request_text_sha256": "8a59a634b3eb8e013ba0b912167a965b6f0db3eff0dd2b32df72d7cc4485dbfc",
+      "request_text_bytes": 10317,
+      "api_body_sha256": "7c5c1ce230500cf16a6453a8fa6381d048ec307b4ee3e24b3be0a41f0cc559fa",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "judge_id": "J05",
+      "sequence": 5,
+      "source_task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:BASE",
+      "image_id": "IMG003",
+      "condition_id": "BASE",
+      "source_output": {
+        "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/output.txt",
+        "sha256": "b377a0c2e09009127a0094b52a435dae2c2dd7f95cc21c528b8902a8a80ad86a",
+        "bytes": 1347
+      },
+      "source_archive": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE",
+      "frozen_location_request_sha256": "d4e74aa322edf25dc77026095450fa79904dc436036493cf949a12547e6cc280",
+      "location_response_sha256": "9f6320347339c8610a98508d3aadf9a88281ae3830786f072a1b19711d377991",
+      "request_file": "请求/J05.txt",
+      "request_text_sha256": "f40d6060cc78e0b17aac61d6f5504102da98a1a80cee6309c3dbd31bf732edb0",
+      "request_text_bytes": 10118,
+      "api_body_sha256": "aedd96afedc7f26c7a60d0c2ccc411844063f946b1d9bebf56a9420d1a64327f",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "judge_id": "J06",
+      "sequence": 6,
+      "source_task_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001:IMG003:ENHANCED",
+      "image_id": "IMG003",
+      "condition_id": "ENHANCED",
+      "source_output": {
+        "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/output.txt",
+        "sha256": "e74bc08a7718498c199449bdca9315721d836d6b7eb0cec186d02f122d9bb2ed",
+        "bytes": 1843
+      },
+      "source_archive": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED",
+      "frozen_location_request_sha256": "0d3639213865093b4e35a2e8c5ed48d558ac9a13455bfb00006c8669a77714ac",
+      "location_response_sha256": "cd226f64fd24719da39cfc56e683bf4e444c9d037fcb401029387759d3dd3896",
+      "request_file": "请求/J06.txt",
+      "request_text_sha256": "d2ba7eeb1ae1f3431d7f5ad1a09c2c11fe118ca23eefba757312cc4cc0bef114",
+      "request_text_bytes": 10614,
+      "api_body_sha256": "bb878f7082ef7930bb4dbcbe2c574cd679e7157515e7bfa72095b9a0fc7b498c",
+      "status_at_preparation": "尚未调用"
+    }
+  ]
+}

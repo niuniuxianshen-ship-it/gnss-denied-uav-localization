@@ -1,0 +1,68 @@
+{
+  "source": "C:\\Users\\leimaren\\.codex\\sessions\\2026\\10\\16\\rollout-2026-10-16T17-38-54-01a14414-287f-7412-bc22-f2a0d40373af.jsonl",
+  "source_sha256_at_read": "09c46ff4fa3b828d645ea9ab6a3a137132a4fd0b20a0cb1aa1c22ca28fe54eff",
+  "source_bytes_at_read": 246962,
+  "selected_records": [
+    {
+      "record_type": "session_meta",
+      "timestamp": "2026-10-16T09:38:55.521Z",
+      "available_field_names": [
+        "creator_user_id",
+        "creator_account_id",
+        "session_id",
+        "id",
+        "timestamp",
+        "cwd",
+        "runtime_workspace_roots",
+        "originator",
+        "cli_version",
+        "source",
+        "thread_source",
+        "model_provider",
+        "base_instructions",
+        "memory_mode",
+        "history_mode",
+        "context_window",
+        "git"
+      ],
+      "id": "01a14414-287f-7412-bc22-f2a0d40373af",
+      "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+      "model_provider": "openai",
+      "memory_mode": "disabled",
+      "originator": "Codex Desktop",
+      "source": "vscode",
+      "user_instructions_present": false,
+      "developer_instructions_present": false
+    },
+    {
+      "record_type": "turn_context",
+      "timestamp": "2026-10-16T09:38:58.729Z",
+      "available_field_names": [
+        "turn_id",
+        "root_turn_id",
+        "disabled_plugin_ids",
+        "cwd",
+        "approval_policy",
+        "approvals_reviewer",
+        "sandbox_policy",
+        "permission_profile",
+        "active_permission_profile",
+        "file_system_sandbox_policy",
+        "model",
+        "comp_hash",
+        "collaboration_mode",
+        "multi_agent_version",
+        "realtime_active",
+        "cyber_access_program",
+        "effort",
+        "summary"
+      ],
+      "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+      "model": "gpt-6-luna",
+      "effort": "medium",
+      "user_instructions_present": false,
+      "developer_instructions_present": false
+    }
+  ],
+  "opening_mode": "read-only FileShare.ReadWrite; no write"
+}

@@ -1,0 +1,177 @@
+{
+  "record_kind": "Codex界面首次记录的本地归档；不是API原始request或response",
+  "review_id": "G02",
+  "source_request_id": "J02",
+  "thread": {
+    "id": "01a14423-5e70-7bf0-ab35-d8945318c8a6",
+    "title": "评审候选优势断言",
+    "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\r01-r03-r01-r03-r02-r04",
+    "createdAt": 1792144531,
+    "updatedAt": 1792144538,
+    "url": "codex://threads/01a14423-5e70-7bf0-ab35-d8945318c8a6"
+  },
+  "turn": {
+    "id": "01a14423-61f5-7e41-ba33-8dd5ee458c1e",
+    "status": "completed",
+    "error": null,
+    "started_at_unix": 1792144531,
+    "completed_at_unix": 1792144538,
+    "started_at_beijing": "2026-10-16 17:55:31 +08:00",
+    "completed_at_beijing": "2026-10-16 17:55:38 +08:00",
+    "duration_ms": 6790,
+    "visible_user_messages": 1,
+    "visible_final_answers": 1,
+    "visible_item_types": [
+      "userMessage",
+      "agentMessage"
+    ],
+    "tool_use_observation": "本次read_thread返回仅userMessage和agentMessage，未见工具调用项；不声明已审计不可见上下文或遥测"
+  },
+  "actual_settings": {
+    "model": "gpt-6-luna",
+    "reasoning_effort": "medium",
+    "memory_mode": "disabled",
+    "model_provider": "openai",
+    "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\r01-r03-r01-r03-r02-r04",
+    "separate_use_memory_toggle": "未取得独立字段",
+    "separate_generate_memory_toggle": "未取得独立字段",
+    "pre_submission_UI_verification_time": "未提供",
+    "automatic_context_or_directory_contents": "未审计，不能声称完全隔离",
+    "temperature": "界面未提供",
+    "max_tokens": "界面未提供",
+    "HTTP_status": "界面未提供",
+    "finish_reason": "界面未提供",
+    "usage": "界面未提供"
+  },
+  "answer": {
+    "state": "未发现本错误",
+    "content_correctness": "未在本步裁定",
+    "format_fields_present": [
+      "判断状态",
+      "证据原句",
+      "理由",
+      "必要材料缺口"
+    ],
+    "sha256": "c2d8d1eeab8f87859210e8c281d3bf63a38a10debcc539d71af7e400bbd457b1",
+    "bytes": 314
+  },
+  "comparison": {
+    "prepared_bytes": 10702,
+    "prepared_sha256": "b13d27388fe8e5a73e320040913fd89e55b0af63ee044a4e482d0f7356772a1b",
+    "actual_bytes": 10629,
+    "actual_sha256": "6f453030c20a8cd9e6a4571c584bb5ab4aceabd3f2f65a8501c16584edeebde7",
+    "byte_equal": false,
+    "equal_after_CRLF_to_LF_and_removing_only_trailing_newlines": true,
+    "prepared_CRLF": 74,
+    "actual_CRLF": 0,
+    "prepared_trailing_newline_characters": 1,
+    "actual_trailing_newline_characters": 2,
+    "pasted_answer_exact_match": true,
+    "answer_bytes": 314,
+    "answer_sha256": "c2d8d1eeab8f87859210e8c281d3bf63a38a10debcc539d71af7e400bbd457b1"
+  },
+  "source_inputs": [
+    {
+      "key": "prepared_G02",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/待粘贴正文/G02.txt",
+      "bytes": 10702,
+      "sha256": "b13d27388fe8e5a73e320040913fd89e55b0af63ee044a4e482d0f7356772a1b"
+    },
+    {
+      "key": "original_J02",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/首批三图API评审准备_v0.1/请求/J02.txt",
+      "bytes": 10219,
+      "sha256": "60b46cd7748542d5624e135c0a3cd297560fca3297929774ac96fd25a6bcbe78"
+    },
+    {
+      "key": "prefix",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/统一边界前缀.txt",
+      "bytes": 481,
+      "sha256": "9efad7bd4be6a598c085658669ae7eab1713d0127378e945571cb1e053eba8cd"
+    },
+    {
+      "key": "operation",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/操作单_管理用.md",
+      "bytes": 5912,
+      "sha256": "f8e121f8c35550eac48da7409e0c2239c36623f2f3e505dac4061e639d0dfe0d"
+    }
+  ],
+  "settings_evidence": "设置字段提取.json",
+  "read_tool_evidence": "任务读取_工具返回.json",
+  "archived_at": "2026-10-16T09:58:58.765Z",
+  "manager_actions": {
+    "new_model_calls": 0,
+    "new_thread_messages": 0,
+    "G03_submitted": false
+  },
+  "limitations": [
+    "仅归档及技术核查，不裁定判断或引文是否充分",
+    "G02工作目录与G01不同，不能称六份环境完全一致",
+    "本地会话文件可能追加，记录的是读取时哈希",
+    "实际发送正文为工具可见转录，不是HTTP线级请求字节"
+  ],
+  "input_preservation_checks": [
+    {
+      "key": "prepared_G02",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/待粘贴正文/G02.txt",
+      "bytes": 10702,
+      "sha256": "b13d27388fe8e5a73e320040913fd89e55b0af63ee044a4e482d0f7356772a1b",
+      "after_bytes": 10702,
+      "after_sha256": "b13d27388fe8e5a73e320040913fd89e55b0af63ee044a4e482d0f7356772a1b",
+      "unchanged": true
+    },
+    {
+      "key": "original_J02",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/首批三图API评审准备_v0.1/请求/J02.txt",
+      "bytes": 10219,
+      "sha256": "60b46cd7748542d5624e135c0a3cd297560fca3297929774ac96fd25a6bcbe78",
+      "after_bytes": 10219,
+      "after_sha256": "60b46cd7748542d5624e135c0a3cd297560fca3297929774ac96fd25a6bcbe78",
+      "unchanged": true
+    },
+    {
+      "key": "prefix",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/统一边界前缀.txt",
+      "bytes": 481,
+      "sha256": "9efad7bd4be6a598c085658669ae7eab1713d0127378e945571cb1e053eba8cd",
+      "after_bytes": 481,
+      "after_sha256": "9efad7bd4be6a598c085658669ae7eab1713d0127378e945571cb1e053eba8cd",
+      "unchanged": true
+    },
+    {
+      "key": "operation",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/操作单_管理用.md",
+      "bytes": 5912,
+      "sha256": "f8e121f8c35550eac48da7409e0c2239c36623f2f3e505dac4061e639d0dfe0d",
+      "after_bytes": 5912,
+      "after_sha256": "f8e121f8c35550eac48da7409e0c2239c36623f2f3e505dac4061e639d0dfe0d",
+      "unchanged": true
+    }
+  ],
+  "artifact_manifest": [
+    {
+      "path": "实际发送正文.txt",
+      "bytes": 10629,
+      "sha256": "6f453030c20a8cd9e6a4571c584bb5ab4aceabd3f2f65a8501c16584edeebde7"
+    },
+    {
+      "path": "首次回答.txt",
+      "bytes": 314,
+      "sha256": "c2d8d1eeab8f87859210e8c281d3bf63a38a10debcc539d71af7e400bbd457b1"
+    },
+    {
+      "path": "设置字段提取.json",
+      "bytes": 1259,
+      "sha256": "010eb174be4c6c75a3bb2a53548edcc3894e5cbee74ba5440fd248d3a7c2b7fa"
+    },
+    {
+      "path": "任务读取_工具返回.json",
+      "bytes": 23204,
+      "sha256": "7b704cd63f381c59330c75dd3a363a81c2b072e75cc832d29b09d0fff98d67e1"
+    }
+  ],
+  "management_tool_notes": [
+    "首次read_thread读取因输出上限参数过大被工具校验拒绝，更正为20000后取得记录；未向G02发送消息",
+    "一次本地暂存调用超过工具载荷上限而未执行，缩小暂存内容后完成；不是评审重跑"
+  ]
+}

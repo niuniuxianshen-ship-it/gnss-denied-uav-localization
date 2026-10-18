@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "batch_id": "RELATION_NEW_MATERIAL_DIAGNOSTIC_001",
+  "status": "frozen",
+  "execution_authorized": true,
+  "approved_by": "研究者（本对话用户）",
+  "approved_at": "2026-10-17T15:50:20.771594+08:00",
+  "approved_at_basis": "本地接收并登记明确授权的时刻；用户消息精确发送时间未提供，此字段不冒充精确发送时间",
+  "user_message_timestamp": null,
+  "registered_at": "2026-10-17T15:50:20.771594+08:00",
+  "approval_reference": "本对话上一轮助手就冻结当前管理计划、参照及编码口径并使用现有密钥执行最多8次首次DeepSeek API评审征求确认；用户在本轮明确回复：同意。",
+  "approval_message_verbatim": "同意",
+  "maximum_first_requests": 8,
+  "bindings": {
+    "runner_sha256": "461330743d3f179a7fa2491c7018c61a89390567ad370aa82bf8ae8820666359",
+    "config_sha256": "0a6ac1547b3b83dc07af291439a676e4c9eb5690d8ccd787c160a764b23c04ae",
+    "request_map_sha256": "2cabad67e79128e2a3051082f34b1eda1e1f01050f92b1ad840e34d259d46e51",
+    "management_plan_sha256": "7f644aa5b007de488975340a4495dc51f40b512f0c1bb64178861b46cbc2b7fe",
+    "recognition_coding_sha256": "ee7d68178e37f3767785d472afbf4c90a0068a464471f2a3f4141d4a3f242da7",
+    "execution_order": [
+      "N01_V03",
+      "N01_V04",
+      "N02_V04",
+      "N02_V03",
+      "N03_V03",
+      "N03_V04",
+      "N04_V04",
+      "N04_V03"
+    ],
+    "request_text_sha256": {
+      "N01_V03": "aef95a741234297f1373acd3ad7d9a028cabbf43dd2b959f125257c484e11f96",
+      "N01_V04": "24a367053013baa523f6c008ec498fab1a3caa40cd75bb7abe24d120cffa7bf9",
+      "N02_V04": "6dff9966819b6c98da2efa57253a603da36705e603e9bcc448312cb4c02c0f8f",
+      "N02_V03": "290e7c60489e9f8a4736c17bbcea4a005fe5b864e0c881166a20a2e59589a0a3",
+      "N03_V03": "1748a8ff0578c7040fa0055aa93091454ebbff5c11b1391a58ef05e18af52029",
+      "N03_V04": "08fef56dfe9e6e02ba108098fa597d43015d3da79d7fc5471447fb98e5bb2f36",
+      "N04_V04": "f334ba5c564200d9e8e811520d0fdfcd1cbd43a7d2ee8743f8f6396d73f18921",
+      "N04_V03": "0d28b4a76c9bcdcdbe07ed4e2d903b023bf617a00c81a7cfa905488872eaddaa"
+    },
+    "api_body_sha256": {
+      "N01_V03": "e1395baa4fe2015e2dc81ce57a3b76b9ac95bf4e40b9d6651e068bbf3ab899f6",
+      "N01_V04": "8be360dcee1ed9adc9493baf4ffdb67203a190575b49cd610d999ec6ea8d9cdc",
+      "N02_V04": "9ca03c68d177207efdb447740aa14598f68b4444404e5ad38fd35cda59b65b15",
+      "N02_V03": "267e8348b3e58ed3339ef08b8eac0ecc092d61f7027440f5bb6d94ed6191bfdb",
+      "N03_V03": "895140d2890caf65711c871adcf092284825f77c9a9bd49c5d0daed642766867",
+      "N03_V04": "f64fa09ae68b2b56c37880cf4c69698c6c08f84f0384ad02847804b26e291c20",
+      "N04_V04": "2ff2a5d5aad1ac806703af9c41b4625ed7aeb2138d2e0c5ff525fc036aeffb7d",
+      "N04_V03": "01c9e4a01e68974fe130b5739a5629f2401744ca44afae72208b07d83703aa0b"
+    }
+  },
+  "scope": {
+    "materials": "N01—N04新构造诊断文本，不是真实图片实验结果",
+    "comparison": [
+      "v0.3",
+      "v0.4"
+    ],
+    "execution_order": [
+      "N01_V03",
+      "N01_V04",
+      "N02_V04",
+      "N02_V03",
+      "N03_V03",
+      "N03_V04",
+      "N04_V04",
+      "N04_V03"
+    ],
+    "settings": {
+      "model": "deepseek-flash",
+      "thinking": {
+        "type": "disabled"
+      },
+      "temperature": 0,
+      "max_tokens": 8192,
+      "stream": false,
+      "response_format": {
+        "type": "text"
+      },
+      "tool_choice": "none"
+    },
+    "socket_timeout_seconds": 300,
+    "client_retries": 0,
+    "history_or_management_reference_in_payload": false,
+    "on_technical_failure": "保存首次档案并停止后续，不重试、不追加探测、不切换模型",
+    "on_content_or_format_issue": "原样保留，不纠正、不追加调用",
+    "content_adjudication": "运行及技术归档后另行开展，不由入口裁定"
+  }
+}

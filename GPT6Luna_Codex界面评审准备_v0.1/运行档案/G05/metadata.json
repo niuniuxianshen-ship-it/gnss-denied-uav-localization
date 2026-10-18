@@ -1,0 +1,180 @@
+{
+  "record_kind": "界面可见消息的首次目标评审归档；不是HTTP原始请求或响应",
+  "review_id": "G05",
+  "source_request_id": "J05",
+  "thread": {
+    "id": "01a1453a-ceeb-7930-b32f-97c55fb2519d",
+    "title": "Clarify request",
+    "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\new-chat-3",
+    "createdAt": 1792162844,
+    "updatedAt": 1792163131,
+    "url": "codex://threads/01a1453a-ceeb-7930-b32f-97c55fb2519d"
+  },
+  "target_review_turn": {
+    "id": "01a1453f-2090-7bf2-8036-6ada966c7e99",
+    "status": "completed",
+    "error": null,
+    "started_at_unix": 1792163127,
+    "completed_at_unix": 1792163131,
+    "started_at_beijing": "2026-10-16 23:05:27 +08:00",
+    "completed_at_beijing": "2026-10-16 23:05:31 +08:00",
+    "duration_ms": 3805,
+    "target_request_occurrences_in_visible_history": 1,
+    "final_message_id": "msg_061b08b968c96e31016ad23d3912e08199b4c5cb559848f4b7",
+    "user_message_id": "01a1453f-2101-72f3-9cc2-bdb8b5d3a1fc",
+    "visible_item_types": [
+      "userMessage",
+      "agentMessage"
+    ]
+  },
+  "prior_turn_count": 1,
+  "prior_turn_ids": [
+    "01a1453a-d2a7-7353-8f82-18d6dfadb5f0"
+  ],
+  "actual_settings": {
+    "model": "gpt-6-luna",
+    "reasoning_effort": "medium",
+    "memory_mode_session": "disabled",
+    "model_provider": "openai",
+    "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\new-chat-3",
+    "cwd_is_research_directory": false,
+    "separate_memory_use_and_generation_toggles": "未取得两个开关的独立字段",
+    "pre_submission_UI_check_time": "未提供",
+    "automatic_context_and_directory_content": "未审计，不能声称完全隔离",
+    "temperature": "界面未提供",
+    "max_tokens": "界面未提供",
+    "HTTP_status": "界面未提供",
+    "finish_reason": "界面未提供",
+    "usage": "界面未提供"
+  },
+  "first_review_answer": {
+    "state": "未发现本错误",
+    "bytes": 981,
+    "sha256": "2895a85f81dd53e7489f229f4bb983bc09f1bd5eb6a8c4c2eb7e4bc555f9f128",
+    "content_correctness": "未在本步裁定",
+    "four_field_labels_present": true
+  },
+  "comparison": {
+    "prepared_bytes": 10601,
+    "prepared_sha256": "ebb008deb0669cf1d7e44f8b6fc9f49de8452aed9babcfb8131a02ffc111d307",
+    "actual_bytes": 10528,
+    "actual_sha256": "f98c6a9dcc567e4377352937c407fb0287265d1a096a05f97602ad9067b43369",
+    "byte_equal": false,
+    "equal_after_CRLF_to_LF_and_removing_only_trailing_newlines": true,
+    "extra_leading_ASCII_spaces": 0,
+    "equal_after_documented_formatting_normalization": true,
+    "prepared_CRLF": 74,
+    "actual_CRLF": 0,
+    "prepared_trailing_newline_characters": 1,
+    "actual_trailing_newline_characters": 2,
+    "normalization_applied_only_for_comparison": true,
+    "archived_actual_text_modified": false
+  },
+  "protocol_deviations": [
+    {
+      "type": "pre_existing_conversation",
+      "description": "该任务已有1轮数字占位及模型澄清，评审全文在其后追加；不满足空白任务直接首次提交全文要求。",
+      "prior_turn_ids": [
+        "01a1453a-d2a7-7353-8f82-18d6dfadb5f0"
+      ]
+    }
+  ],
+  "protocol_conformance": "存在已确认偏差，未作纳入或排除决定",
+  "tool_observation": "目标评审轮可见条目只有userMessage和agentMessage，未见工具调用项；未审计不可见遥测",
+  "tool_transcript_scope": "保存用户消息、最终回答及指定技术字段；省略reasoning条目正文并明确标记，不冒充完整API原始档案",
+  "settings_evidence": "设置字段提取.json",
+  "visible_history_evidence": "任务可见记录_工具转录.json",
+  "original_input_snapshots": [
+    {
+      "key": "prefix",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/统一边界前缀.txt",
+      "bytes": 481,
+      "sha256": "9efad7bd4be6a598c085658669ae7eab1713d0127378e945571cb1e053eba8cd"
+    },
+    {
+      "key": "operation",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/操作单_管理用.md",
+      "bytes": 5912,
+      "sha256": "f8e121f8c35550eac48da7409e0c2239c36623f2f3e505dac4061e639d0dfe0d"
+    },
+    {
+      "key": "G05",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/待粘贴正文/G05.txt",
+      "bytes": 10601,
+      "sha256": "ebb008deb0669cf1d7e44f8b6fc9f49de8452aed9babcfb8131a02ffc111d307"
+    },
+    {
+      "key": "J05",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/首批三图API评审准备_v0.1/请求/J05.txt",
+      "bytes": 10118,
+      "sha256": "f40d6060cc78e0b17aac61d6f5504102da98a1a80cee6309c3dbd31bf732edb0"
+    }
+  ],
+  "manager_actions": {
+    "new_thread_messages": 0,
+    "new_model_calls": 0,
+    "retry_or_regeneration": false
+  },
+  "archived_at": "2026-10-16T15:13:12.756Z",
+  "input_preservation_checks": [
+    {
+      "key": "prefix",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/统一边界前缀.txt",
+      "bytes_before": 481,
+      "bytes_after": 481,
+      "sha256_before": "9efad7bd4be6a598c085658669ae7eab1713d0127378e945571cb1e053eba8cd",
+      "sha256_after": "9efad7bd4be6a598c085658669ae7eab1713d0127378e945571cb1e053eba8cd",
+      "unchanged": true
+    },
+    {
+      "key": "operation",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/操作单_管理用.md",
+      "bytes_before": 5912,
+      "bytes_after": 5912,
+      "sha256_before": "f8e121f8c35550eac48da7409e0c2239c36623f2f3e505dac4061e639d0dfe0d",
+      "sha256_after": "f8e121f8c35550eac48da7409e0c2239c36623f2f3e505dac4061e639d0dfe0d",
+      "unchanged": true
+    },
+    {
+      "key": "G05",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/GPT6Luna_Codex界面评审准备_v0.1/待粘贴正文/G05.txt",
+      "bytes_before": 10601,
+      "bytes_after": 10601,
+      "sha256_before": "ebb008deb0669cf1d7e44f8b6fc9f49de8452aed9babcfb8131a02ffc111d307",
+      "sha256_after": "ebb008deb0669cf1d7e44f8b6fc9f49de8452aed9babcfb8131a02ffc111d307",
+      "unchanged": true
+    },
+    {
+      "key": "J05",
+      "path": "C:/Users/leimaren/Documents/Codex/2026-10-09/6-2-x20/outputs/视觉定位流程实验/首批三图API评审准备_v0.1/请求/J05.txt",
+      "bytes_before": 10118,
+      "bytes_after": 10118,
+      "sha256_before": "f40d6060cc78e0b17aac61d6f5504102da98a1a80cee6309c3dbd31bf732edb0",
+      "sha256_after": "f40d6060cc78e0b17aac61d6f5504102da98a1a80cee6309c3dbd31bf732edb0",
+      "unchanged": true
+    }
+  ],
+  "artifact_manifest": [
+    {
+      "path": "实际发送正文.txt",
+      "bytes": 10528,
+      "sha256": "f98c6a9dcc567e4377352937c407fb0287265d1a096a05f97602ad9067b43369"
+    },
+    {
+      "path": "首次评审回答.txt",
+      "bytes": 981,
+      "sha256": "2895a85f81dd53e7489f229f4bb983bc09f1bd5eb6a8c4c2eb7e4bc555f9f128"
+    },
+    {
+      "path": "设置字段提取.json",
+      "bytes": 1540,
+      "sha256": "1674b28b811d951cbb19d7ef88ef951cc45908aea001f9a8bcf1e2b5f35352e6"
+    },
+    {
+      "path": "任务可见记录_工具转录.json",
+      "bytes": 13822,
+      "sha256": "3363bcf8183510519a682997dd2107c2aa5e99824f61f974181e6d901ca29971"
+    }
+  ],
+  "answer_path": "首次评审回答.txt"
+}

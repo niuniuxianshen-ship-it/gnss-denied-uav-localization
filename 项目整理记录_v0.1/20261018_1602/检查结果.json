@@ -1,0 +1,474 @@
+{
+  "recorded_at": "2026-10-18T16:05:51.070876+08:00",
+  "trigger_time": "2026-10-18T16:02:25+08:00",
+  "inventory_count": 1497,
+  "missing_original_files": [],
+  "metadata_changed_files": [
+    "README.md",
+    "复现说明.md",
+    "项目导航与维护.md"
+  ],
+  "all_other_original_metadata_unchanged": true,
+  "targeted_hashes_before": 70,
+  "protected_hash_checks": [
+    {
+      "path": "首批三图阶段报告_v0.1.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图阶段报告_v0.2_待审查.md",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/批次冻结登记_v0.1.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/stage_start.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/summary.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/stage_start.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/summary.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J01/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J01/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J01/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J01/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J01/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J02/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J02/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J02/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J02/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J02/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J03/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J03/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J03/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J03/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J03/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J04/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J04/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J04/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J04/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J04/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J05/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J05/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J05/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J05/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J05/response.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J06/attempt.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J06/metadata.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J06/output.txt",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J06/request.json",
+      "sha256_unchanged": true
+    },
+    {
+      "path": "首批三图API评审准备_v0.1/运行档案/J06/response.json",
+      "sha256_unchanged": true
+    }
+  ],
+  "freeze_sha256_matches_report": true,
+  "freeze_precedes_first_localization": true,
+  "first_localization_start": "2026-10-15T23:01:16.887202+08:00",
+  "original_record_checks": [
+    {
+      "id": "J01",
+      "condition": "BASE",
+      "original_review_state": "未发现本错误",
+      "final_answer_field": "浙江省",
+      "technical_pair": [
+        {
+          "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        },
+        {
+          "path": "首批三图API评审准备_v0.1/运行档案/J01",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        }
+      ]
+    },
+    {
+      "id": "J02",
+      "condition": "ENHANCED",
+      "original_review_state": "有错误",
+      "final_answer_field": "浙江省",
+      "technical_pair": [
+        {
+          "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        },
+        {
+          "path": "首批三图API评审准备_v0.1/运行档案/J02",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        }
+      ]
+    },
+    {
+      "id": "J03",
+      "condition": "ENHANCED",
+      "original_review_state": "未发现本错误",
+      "final_answer_field": "无法判断",
+      "technical_pair": [
+        {
+          "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        },
+        {
+          "path": "首批三图API评审准备_v0.1/运行档案/J03",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        }
+      ]
+    },
+    {
+      "id": "J04",
+      "condition": "BASE",
+      "original_review_state": "未发现本错误",
+      "final_answer_field": "无法判断",
+      "technical_pair": [
+        {
+          "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        },
+        {
+          "path": "首批三图API评审准备_v0.1/运行档案/J04",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        }
+      ]
+    },
+    {
+      "id": "J05",
+      "condition": "BASE",
+      "original_review_state": "有错误",
+      "final_answer_field": "无法判断",
+      "technical_pair": [
+        {
+          "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        },
+        {
+          "path": "首批三图API评审准备_v0.1/运行档案/J05",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        }
+      ]
+    },
+    {
+      "id": "J06",
+      "condition": "ENHANCED",
+      "original_review_state": "有错误",
+      "final_answer_field": "天津市",
+      "technical_pair": [
+        {
+          "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        },
+        {
+          "path": "首批三图API评审准备_v0.1/运行档案/J06",
+          "http": 200,
+          "technical_status": "completed",
+          "finish_reason": "stop",
+          "output_matches": true,
+          "response_hash_matches": true,
+          "tool_call_detected": false
+        }
+      ]
+    }
+  ],
+  "counts_from_original_API_states": {
+    "BASE": {
+      "N": 3,
+      "D": 3,
+      "E": 1,
+      "R": 2
+    },
+    "ENHANCED": {
+      "N": 3,
+      "D": 3,
+      "E": 2,
+      "R": 1
+    }
+  },
+  "statistics_scope": "API judgement counts and final refusal fields only; candidate count and semantic validity follow existing report, not independently rejudged",
+  "counts_match_report": true,
+  "missing_local_links": [],
+  "credential_scan_files": 70,
+  "credential_scan_limit_bytes": 2000000,
+  "credential_risk_locations": [],
+  "new_network_requests": 0,
+  "new_model_calls": 0,
+  "moves": [],
+  "not_repeated": [
+    "PNG pixel/metadata checks",
+    "old rater and teaching checks",
+    "all historical archive hashes",
+    "content grading or adjudication"
+  ],
+  "privacy_license_full_audit": "not performed"
+}

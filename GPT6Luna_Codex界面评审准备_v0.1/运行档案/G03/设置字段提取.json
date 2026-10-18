@@ -1,0 +1,46 @@
+{
+  "label": "G03",
+  "source": "C:/Users/leimaren/.codex/sessions/2026/10/16/rollout-2026-10-16T23-00-08-01a1453a-4129-7eb0-b525-b937396e5bc0.jsonl",
+  "source_bytes": 267584,
+  "source_sha256_at_read": "33057b6febabbe2fada8ae7a30f6d0132a6b3a605b39b1484edb563486b52e8a",
+  "read_at": "2026-10-16T15:10:57.240Z",
+  "selected": [
+    {
+      "line": 1,
+      "timestamp": "2026-10-16T15:00:09.118Z",
+      "type": "session_meta",
+      "fields": {
+        "id": "01a1453a-4129-7eb0-b525-b937396e5bc0",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\new-chat",
+        "model_provider": "openai",
+        "memory_mode": "disabled",
+        "originator": "Codex Desktop",
+        "source": "vscode"
+      }
+    },
+    {
+      "line": 10,
+      "timestamp": "2026-10-16T15:00:15.283Z",
+      "type": "turn_context",
+      "fields": {
+        "turn_id": "01a1453a-4509-7981-9402-2bfcf132cad7",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\new-chat",
+        "model": "gpt-6-luna",
+        "effort": "medium"
+      }
+    },
+    {
+      "line": 24,
+      "timestamp": "2026-10-16T15:04:56.678Z",
+      "type": "turn_context",
+      "fields": {
+        "turn_id": "01a1453e-a7fe-7100-97a2-a4e86fb2615f",
+        "cwd": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-16\\new-chat",
+        "model": "gpt-6-luna",
+        "effort": "medium"
+      }
+    }
+  ],
+  "malformed_lines": 0,
+  "note": "只保存指定技术字段，不保存推理或自动上下文全文；原会话文件可能追加。"
+}

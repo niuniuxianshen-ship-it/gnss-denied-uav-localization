@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "review_id": "G01",
+  "source_request_id": "J01",
+  "review_channel": "用户手动提交的Codex界面首次评审",
+  "thread_id": "01a14414-287f-7412-bc22-f2a0d40373af",
+  "thread_url": "codex://threads/01a14414-287f-7412-bc22-f2a0d40373af",
+  "thread_title": "评审候选优势断言",
+  "turn_id": "01a14414-2ca6-7c72-a502-769fd5d6c7b3",
+  "user_message_id": "01a14414-3a5b-7a62-b44d-ea208ccb10ed",
+  "final_message_id": "msg_04c76024302682f6016ad1f0b421688198988c77d7328d021f",
+  "thread_created_at_beijing": "2026-10-16T17:38:54.000+08:00",
+  "turn_started_at_beijing": "2026-10-16T17:38:55.000+08:00",
+  "turn_completed_at_beijing": "2026-10-16T17:39:03.000+08:00",
+  "turn_duration_ms": 8157,
+  "exact_ui_click_submit_time": null,
+  "thread_status": {
+    "type": "idle"
+  },
+  "turn_status": "completed",
+  "model_first_judgment_state": "未发现本错误",
+  "content_correctness_reviewed": false,
+  "settings": {
+    "planned_model": "gpt-6-luna",
+    "planned_effort": "Medium",
+    "recorded_model": "gpt-6-luna",
+    "recorded_effort": "medium",
+    "recorded_model_provider": "openai",
+    "source": "本地session_meta和turn_context设置字段，只读提取",
+    "recorded_session_memory_mode": "disabled",
+    "individual_memory_use_toggle": "用户表示已完成关闭；未另见独立字段",
+    "individual_memory_generation_toggle": "用户表示已完成关闭；未另见独立字段",
+    "http_status": null,
+    "finish_reason": null,
+    "api_token_usage": null,
+    "temperature": null,
+    "max_tokens": null,
+    "unavailable_fields_note": "界面或线程读取未提供，不以DeepSeek设置或轮次completed替代"
+  },
+  "context": {
+    "cwd_at_turn": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+    "cwd_first_tool_read": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+    "user_reported_move": "我把它移出去了",
+    "move_time": null,
+    "cwd_after_user_reported_move": "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验",
+    "project_membership_after_move": "用户报告已移出；read_thread未提供projectId，未独立核验",
+    "extra_automatic_context": "未核验；未将无工具调用等同完全隔离"
+  },
+  "tools": {
+    "observed_in_read_thread": false,
+    "scope": "本次可见1轮items，仅userMessage和agentMessage；不保证完整内部系统上下文"
+  },
+  "input": {
+    "prepared_text_path": "../../待粘贴正文/G01.txt",
+    "prepared_text_sha256": "db7fe77aaecd29e32c26817b3cd931c5c92ec680abbd1ec4a5c62ae4c2e87e18",
+    "prepared_text_bytes": 10587,
+    "actual_text_representation": "read_thread用户消息文本的UTF-8归档；不是HTTP请求原始字节",
+    "actual_text_bytes": 10514,
+    "exact_byte_match": false,
+    "newline_note": "准备文本中74个CRLF在可见消息中为LF；末尾另多1个LF；统一换行并忽略末尾空白后内容一致",
+    "normalized_content_equal": true,
+    "request_text_not_corrected": true,
+    "actual_text_sha256": "b554468b9187a354a2d99ebac21c39f0644609135487b3c3b3ab15e9e44d6089"
+  },
+  "output": {
+    "representation": "read_thread首次final_answer原文的UTF-8归档",
+    "bytes": 648,
+    "corrected": false,
+    "sha256": "d4170340766b96d55b331f80109b5527fcb9556b324c459cad55282473a840e0"
+  },
+  "local_settings_source": {
+    "path": "C:\\Users\\leimaren\\.codex\\sessions\\2026\\10\\16\\rollout-2026-10-16T17-38-54-01a14414-287f-7412-bc22-f2a0d40373af.jsonl",
+    "sha256_at_read": "09c46ff4fa3b828d645ea9ab6a3a137132a4fd0b20a0cb1aa1c22ca28fe54eff",
+    "bytes_at_read": 246962,
+    "whitelist_only": true,
+    "full_session_log_copied": false
+  },
+  "archive_status": "首次材料已保存；科研目录偏差待审查；不认定G01已满足全部环境要求，不覆盖或重跑",
+  "other_reviews": "G02—G06尚未在本管理线程取得首次记录；本助手未提交",
+  "scoring_or_location_calls_by_archivist": 0,
+  "archive_note": "本地归档曾有一个新文件名误写，确认其内容后改名，指纹不变；没有覆盖首次内容或再次发送材料；最终说明保存所用进程曾在启动时被系统拒绝，改用本地文件接口完成，未更改权限或重发评审。",
+  "files": {
+    "实际发送正文.txt": {
+      "sha256": "b554468b9187a354a2d99ebac21c39f0644609135487b3c3b3ab15e9e44d6089",
+      "bytes": 10514
+    },
+    "首次回答.txt": {
+      "sha256": "d4170340766b96d55b331f80109b5527fcb9556b324c459cad55282473a840e0",
+      "bytes": 648
+    },
+    "设置字段提取.json": {
+      "sha256": "3eb002b442a105fb2a20819232c8b8eb9bf47b158cb11d277db09f37d491363c",
+      "bytes": 2203
+    },
+    "任务读取_移出前_工具返回.json": {
+      "sha256": "0f3651eea69d14f987ea27db122f165000c4c558c8f5b845a939631db65944be",
+      "bytes": 23571
+    },
+    "任务读取_移出后_工具返回.json": {
+      "sha256": "c1916638af5147b322db96ac5a69c3dc4c125db747a6ed1d8e1184eba439bf16",
+      "bytes": 23571
+    }
+  },
+  "archived_at_beijing": "2026-10-16T17:49:03.249+08:00",
+  "prepared_inputs_unchanged": 11
+}

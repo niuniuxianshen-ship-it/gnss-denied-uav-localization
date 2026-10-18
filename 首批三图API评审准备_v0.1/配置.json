@@ -1,0 +1,253 @@
+{
+  "status": "离线评审准备；沿用已冻结评价安排，本文件不授权执行",
+  "batch_id": "THREE_IMAGE_FEASIBILITY_DRAFT_001",
+  "freeze_sha256": "0661b1234f1d3bc4ae52f3209151c4d5c54f7b5984bb931034527378392e656b",
+  "base_url": "https://api.deepseek.com",
+  "endpoint": "/chat/completions",
+  "api_key_env": "DEEPSEEK_API_KEY",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "socket_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "client_retries": 0,
+  "system_message": null,
+  "execution_order": [
+    "J01",
+    "J02",
+    "J03",
+    "J04",
+    "J05",
+    "J06"
+  ],
+  "source_snapshot": [
+    {
+      "path": "API评分备选方案_待审查_v0.1.md",
+      "sha256": "3c805d00d35c2395825827b64437527292a8b0d0570e5074df8f723d902f9585",
+      "bytes": 5146
+    },
+    {
+      "path": "API评审提示词示例草案_v0.3/完整评审提示词草案.txt",
+      "sha256": "aa2fbcb54877e9a979ab0a970be36f9fc61da8b4113e6f8b8b0218d4066b67cf",
+      "bytes": 3482
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37",
+      "bytes": 5130
+    },
+    {
+      "path": "指标与统计口径草案_v0.1.md",
+      "sha256": "6cabcde59db9ea67e40b990771a742769f848bf64163e64a8e2621229be73fb4",
+      "bytes": 4169
+    },
+    {
+      "path": "首批三图可行性批次设计修订_待审查_v0.1.md",
+      "sha256": "db5abb4a4094bd0c7da2867305c6c17b5a91081b17c70c3cf96b0adbc403d424",
+      "bytes": 5600
+    },
+    {
+      "path": "首批三图运行准备_v0.1/run_batch.py",
+      "sha256": "e0546279a554f786bcb49c8d1127da2375046354d79806416de82d2b682adc4a",
+      "bytes": 21655
+    },
+    {
+      "path": "首批三图运行准备_v0.1/上传计划与任务关联.json",
+      "sha256": "24e6a788375eca851bebd47e00c3f5a117f12f1aa208383c9a1c170c1e569fcb",
+      "bytes": 6669
+    },
+    {
+      "path": "首批三图运行准备_v0.1/批次冻结登记_v0.1.json",
+      "sha256": "0661b1234f1d3bc4ae52f3209151c4d5c54f7b5984bb931034527378392e656b",
+      "bytes": 9582
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行与评价冻结建议_待确认_v0.1.md",
+      "sha256": "95e62aa0f80ee459fc89d88522ed7d7aef823e4e182fa9d36cfcab5f06f256cf",
+      "bytes": 8635
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/上传/summary.json",
+      "sha256": "787759022f9baf23f843752b4130d101ad33d072be96f07d9ea23f28c531d16b",
+      "bytes": 549
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/attempt.json",
+      "sha256": "2edc47b5c3b19f0b62ad41133ae3504882a52110bb50fea295daad33bb7546ca",
+      "bytes": 120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/metadata.json",
+      "sha256": "f533722800d1dc4337eb7d6d95c3a6d6605aea2cbd166a4b476ef2f91db63753",
+      "bytes": 1434
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/output.txt",
+      "sha256": "579fa0997d21a5a50c62b89e15b4ea5ba20abed8b6dfb1a7c8ba5e2cc5837d42",
+      "bytes": 1333
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/request.json",
+      "sha256": "b9d1d12184bd66f3770c1ec20a7edf9aa9d36be0094d2e3668ad2ef84964c390",
+      "bytes": 7408
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/01_IMG001_BASE/response.json",
+      "sha256": "2c8a8b4f6e178372b56b92068444fd40c767cb437c272090c952e31515356c0b",
+      "bytes": 1802
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/attempt.json",
+      "sha256": "f474ac754769bc624f0f30a9822e3a501678ab08dc8d60b88118bb2398176227",
+      "bytes": 120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/metadata.json",
+      "sha256": "16a92bfb205aafe289fc1dc1dd670fd1bab939c3dc29cb4e6d331806dd184237",
+      "bytes": 1434
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/output.txt",
+      "sha256": "34f2d09aa85f9bd307fb31b5ff658414a81c091c83ad8c85c61dd74800e9fe58",
+      "bytes": 1448
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/request.json",
+      "sha256": "a42f2e999218fd72218f0b82f74807d7f03c90fb093bd317b9b5343eaa2123fb",
+      "bytes": 7823
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/02_IMG001_ENHANCED/response.json",
+      "sha256": "8403a02dbf398f16e9197c11f1fdb0dbe6e417e3b30f0bac06edec0ea3cbc35e",
+      "bytes": 1917
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/attempt.json",
+      "sha256": "0e2d139374c8612504d20e3ea4875bb164e324cd369d00eed9a41f7f19877a8a",
+      "bytes": 120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/metadata.json",
+      "sha256": "bc75213aa5b83ac2fac1493d0945ceae70a6051701effc086e1be7a209e172c6",
+      "bytes": 1440
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/output.txt",
+      "sha256": "456e3312dc12249e0d1bcacc360354ca6132159162f0442ca8205971142650d9",
+      "bytes": 1120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/request.json",
+      "sha256": "59c7a62d6a9a504b117c02d667c07b7bd64e95c999375a6e7934e431b94e1ec1",
+      "bytes": 7823
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/03_IMG002_ENHANCED/response.json",
+      "sha256": "11b11a760a28afe4fdb95de6c75da8ff9bde32eb27130ea44dd306c65731e4f0",
+      "bytes": 1595
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/attempt.json",
+      "sha256": "393891a5afb42e23bfccb7f65affac0305d289830bcfa0ee0a26251d999188c7",
+      "bytes": 120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/metadata.json",
+      "sha256": "7dc9c5bccc2713870e34a74b6c15eda2575a0b57a2225aea416a1d6a00c88d35",
+      "bytes": 1441
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/output.txt",
+      "sha256": "f39319259c485b23b0f4586214034fa775cbbbbddb56e9c38daf97554ccbbb0a",
+      "bytes": 1546
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/request.json",
+      "sha256": "628f8f923222552d38c407d15a3d32e971e86b1a64034a5ac91d5c08d650d3dd",
+      "bytes": 7408
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/04_IMG002_BASE/response.json",
+      "sha256": "f18f5b2c9cda162f2aa128c31959b83c61a92efbfde258cd7c3135dcff093601",
+      "bytes": 2018
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/attempt.json",
+      "sha256": "dfa89e9ef41530b5b092ad353965d57d5708ec9bca733ff72a73387ccc4c33f8",
+      "bytes": 120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/metadata.json",
+      "sha256": "2523e71b5e6bfb9eff65190ecbf0128a42638dcc81a00a97f09890c9dee27249",
+      "bytes": 1441
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/output.txt",
+      "sha256": "b377a0c2e09009127a0094b52a435dae2c2dd7f95cc21c528b8902a8a80ad86a",
+      "bytes": 1347
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/request.json",
+      "sha256": "d4e74aa322edf25dc77026095450fa79904dc436036493cf949a12547e6cc280",
+      "bytes": 7408
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/05_IMG003_BASE/response.json",
+      "sha256": "9f6320347339c8610a98508d3aadf9a88281ae3830786f072a1b19711d377991",
+      "bytes": 1822
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/attempt.json",
+      "sha256": "75e84b5c973e5153f1a2f9db0fee5ea6c1eb3fe70ee25c2b2dff44d628c809c1",
+      "bytes": 120
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/metadata.json",
+      "sha256": "0739cd1df31447e7ca1a4c0792421bd3fcce33c586e61188a9485c71f604b576",
+      "bytes": 1440
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/output.txt",
+      "sha256": "e74bc08a7718498c199449bdca9315721d836d6b7eb0cec186d02f122d9bb2ed",
+      "bytes": 1843
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/request.json",
+      "sha256": "0d3639213865093b4e35a2e8c5ed48d558ac9a13455bfb00006c8669a77714ac",
+      "bytes": 7823
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/06_IMG003_ENHANCED/response.json",
+      "sha256": "cd226f64fd24719da39cfc56e683bf4e444c9d037fcb401029387759d3dd3896",
+      "bytes": 2323
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/stage_start.json",
+      "sha256": "6d031ee8900fcd7bec24f1410404959796c6e90b886213f791d036361959e20d",
+      "bytes": 507
+    },
+    {
+      "path": "首批三图运行准备_v0.1/运行档案/定位/summary.json",
+      "sha256": "c824ac752fd7c4920dea426388264e16ab2e8d1d47bae3ffb555305f41d8b886",
+      "bytes": 852
+    },
+    {
+      "path": "首批三图运行准备_v0.1/配置草案.json",
+      "sha256": "9d37077b5818e3f55a075b66fb01b533857fea132dbca7ed27545f848f88bd9b",
+      "bytes": 4662
+    }
+  ],
+  "assembly_rule": "v0.3原字节只替换末尾唯一占位句；完整定位正文逐字节插入；共同附录全文在待评边界之外单列参考材料",
+  "actual_review_calls_at_preparation": 0,
+  "execution_requires_separate_authorization": true
+}
