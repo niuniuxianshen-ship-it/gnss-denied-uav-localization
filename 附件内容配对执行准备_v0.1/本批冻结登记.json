@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "batch_id": "ATTACHMENT_CONTENT_PAIR_V04_001",
+  "status": "frozen",
+  "execution_authorized": true,
+  "maximum_first_requests": 6,
+  "approved_by": "本聊天用户",
+  "approved_at": "2026-10-28T16:57:34.746059+08:00",
+  "approval_reference": "本聊天2026-10-28用户明确授权：冻结本批输入、设置和顺序；使用现有凭据向DeepSeek提交甲乙各三次独立请求，固定交替，每项一次、不重试，技术失败立即停止；先交付技术核查结果。",
+  "bindings": {
+    "runner_sha256": "29e11fd92d78827c4cbb0d86f4f2e93be8a12de9565f4dd7fcfdcce1ed080d74",
+    "config_sha256": "90d421e75c6a7796de1c190a00e205a777daca01d142a8e0a5565c79711b0655",
+    "mapping_sha256": "0d205b427ecdca152b80165d5d5b07a1a538c6fee79d11b9bed35b5b119f1ecd",
+    "usage_and_design_sha256": "05afc607358973686319895be5824d0e3f691327222e7c8d7ef243e287e11694",
+    "execution_order": [
+      "REP_A_V04_01",
+      "REP_B_V04_01",
+      "REP_A_V04_02",
+      "REP_B_V04_02",
+      "REP_A_V04_03",
+      "REP_B_V04_03"
+    ],
+    "request_text_sha256": {
+      "REP_A_V04_01": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "REP_B_V04_01": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "REP_A_V04_02": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "REP_B_V04_02": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "REP_A_V04_03": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "REP_B_V04_03": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412"
+    },
+    "api_body_sha256": {
+      "REP_A_V04_01": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+      "REP_B_V04_01": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+      "REP_A_V04_02": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+      "REP_B_V04_02": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+      "REP_A_V04_03": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+      "REP_B_V04_03": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304"
+    }
+  },
+  "source_snapshot": [
+    {
+      "path": "附件内容配对离线组装_v0.1/甲版完整请求.txt",
+      "sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "bytes": 10052
+    },
+    {
+      "path": "附件内容配对离线组装_v0.1/乙版完整请求.txt",
+      "sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "bytes": 10928
+    },
+    {
+      "path": "评审重复检查准备_v0.1/配置.json",
+      "sha256": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+      "bytes": 1543
+    },
+    {
+      "path": "附件内容配对离线组装_v0.1/管理说明.md",
+      "sha256": "ff470691e287942b3878b04ad56b199bdace1347c63c4e67d53c3f996c3a6ed5",
+      "bytes": 4992
+    },
+    {
+      "path": "附件内容配对离线组装_v0.1/结果判读卡.md",
+      "sha256": "d0a82111ea90665bba68d2d1bb514912576b662bd97ad08b217683b830256194",
+      "bytes": 4093
+    },
+    {
+      "path": "评审重复检查准备_v0.1/run_repeat.py",
+      "sha256": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+      "bytes": 17205
+    },
+    {
+      "path": "评审重复检查准备_v0.1/offline_checks.py",
+      "sha256": "5980e82f9d28d748a53396dc676bb02c5fc24699720bee1d8c5ffdfa11439d10",
+      "bytes": 12608
+    }
+  ],
+  "settings": {
+    "base_url": "https://api.deepseek.com",
+    "endpoint": "/chat/completions",
+    "settings": {
+      "model": "deepseek-flash",
+      "thinking": {
+        "type": "disabled"
+      },
+      "temperature": 0,
+      "max_tokens": 8192,
+      "stream": false,
+      "response_format": {
+        "type": "text"
+      },
+      "tool_choice": "none"
+    },
+    "socket_timeout_seconds": 300,
+    "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+    "client_retries": 0,
+    "system_message": null
+  },
+  "pre_execution_files": {
+    "run_repeat.py": "29e11fd92d78827c4cbb0d86f4f2e93be8a12de9565f4dd7fcfdcce1ed080d74",
+    "offline_checks.py": "a46c10b9158ff711cbdf463c43b41108ccb2ed2c51065a6843c4c5b3c4e72a38",
+    "配置.json": "90d421e75c6a7796de1c190a00e205a777daca01d142a8e0a5565c79711b0655",
+    "六项任务关联_管理用.json": "0d205b427ecdca152b80165d5d5b07a1a538c6fee79d11b9bed35b5b119f1ecd",
+    "逐份记录_空白.csv": "42b62f905070b3429fcb6c811f7573eba0daf8839321a6c63e4f8f2c6768f8b5",
+    "使用与核查说明.md": "05afc607358973686319895be5824d0e3f691327222e7c8d7ef243e287e11694",
+    "离线核查结果.json": "3fc8da4821630f635574387db11c48ee3c1a25cfe15a9b6d1da7748ca8aa152e",
+    "请求副本/请求_A_V04.txt": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+    "请求副本/请求_B_V04.txt": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412"
+  },
+  "execution_policy": "one attempt per task; no retry/resume/overwrite; stop on first technical failure",
+  "content_review_status": "尚未执行；先交付技术核查"
+}

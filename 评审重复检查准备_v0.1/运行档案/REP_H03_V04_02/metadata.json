@@ -1,0 +1,54 @@
+{
+  "record_kind": "first_api_attempt",
+  "batch_id": "REVIEW_REPEAT_H03_H04_V04_001",
+  "task_id": "REP_H03_V04_02",
+  "material_id": "H03",
+  "repeat_index": 2,
+  "started_at": "2026-10-26T16:20:00.982264+08:00",
+  "technical_status": "completed",
+  "requested_model": "deepseek-flash",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "returned_model": "deepseek-flash",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2468,
+    "completion_tokens": 142,
+    "total_tokens": 2610,
+    "prompt_tokens_details": {
+      "cached_tokens": 2304
+    },
+    "prompt_cache_hit_tokens": 2304,
+    "prompt_cache_miss_tokens": 164
+  },
+  "network_attempt_started": true,
+  "response_complete": true,
+  "socket_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "client_retries": 0,
+  "request_text_sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+  "request_body_sha256": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+  "failure": null,
+  "http_status": 200,
+  "response_content_type": "application/json",
+  "refusal": null,
+  "reasoning_content_present": false,
+  "tool_call_detected": false,
+  "request_sha256": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+  "response_sha256": "527412578c5158366a68e31394eb76d7523198164a304fb722a6b7ca609f69d0",
+  "output_sha256": "8553165a5fed3c6b3eb7dffbe78bffe301376daaa7f80f9d1738053b34dc15fe",
+  "missing_artifacts": [],
+  "ended_at": "2026-10-26T16:20:02.497602+08:00",
+  "elapsed_seconds": 1.5150000000139698
+}

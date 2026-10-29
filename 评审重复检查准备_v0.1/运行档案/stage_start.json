@@ -1,0 +1,33 @@
+{
+  "record_kind": "first_api_attempt",
+  "batch_id": "REVIEW_REPEAT_H03_H04_V04_001",
+  "started_at": "2026-10-26T16:19:57.343149+08:00",
+  "status": "failed",
+  "execution_order": [
+    "REP_H03_V04_01",
+    "REP_H04_V04_01",
+    "REP_H03_V04_02",
+    "REP_H04_V04_02",
+    "REP_H03_V04_03",
+    "REP_H04_V04_03"
+  ],
+  "attempted": [],
+  "completed": [],
+  "unexecuted": [],
+  "failure": null,
+  "freeze_sha256": "545e7efdba4c6999b9a6e36e0656f4259671225cc643ef7950dd539fa17cf6c5",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "client_retries": 0
+}

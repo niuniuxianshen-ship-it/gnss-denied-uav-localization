@@ -1,0 +1,53 @@
+{
+  "record_kind": "first_api_attempt",
+  "batch_id": "EVIDENCE_RECORD_H_CHECK_001",
+  "task_id": "H03_V05",
+  "started_at": "2026-10-19T12:21:39.739812+08:00",
+  "technical_status": "completed",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "requested_model": "deepseek-flash",
+  "returned_model": "deepseek-flash",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2719,
+    "completion_tokens": 261,
+    "total_tokens": 2980,
+    "prompt_tokens_details": {
+      "cached_tokens": 1024
+    },
+    "prompt_cache_hit_tokens": 1024,
+    "prompt_cache_miss_tokens": 1695
+  },
+  "socket_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "client_retries": 0,
+  "network_attempt_started": true,
+  "response_complete": true,
+  "request_text_sha256": "f740d704eb327b4cc6988a1c96ef607eabc6468f14d257b9fb1634bc1f5da12b",
+  "request_body_sha256": "aa1b41409b1ebc5a31eea6d0b4ef89acfba6511f1cdfd7afc9c2e618b1951380",
+  "management_plan_sha256": "12ca10c8e5496ef5d90848644ea9cd95c5a9de37f89cf300a4876b367a6c73ff",
+  "failure": null,
+  "http_status": 200,
+  "response_content_type": "application/json",
+  "refusal": null,
+  "reasoning_content_present": false,
+  "tool_call_detected": false,
+  "request_sha256": "aa1b41409b1ebc5a31eea6d0b4ef89acfba6511f1cdfd7afc9c2e618b1951380",
+  "response_sha256": "63ec988179525f903244183b63af93fdda92aa31bc828c701e6574948f48b0db",
+  "output_sha256": "be29d3839baa01408b84d6cf11a6403bd8e5d14752dafe0398d99dcce4a39742",
+  "missing_artifacts": [],
+  "ended_at": "2026-10-19T12:21:41.507010+08:00",
+  "elapsed_seconds": 1.7649999999557622
+}

@@ -1,0 +1,33 @@
+{
+  "checked_at": "2026-10-25T17:04:47.810105+08:00",
+  "baseline_files": 1604,
+  "missing": [],
+  "changed": [
+    "README.md",
+    "复现说明.md",
+    "项目导航与维护.md"
+  ],
+  "unchanged_count": 1601,
+  "added_link_count": 14,
+  "missing_added_links": [],
+  "ast_python": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "ast_parsed_files": [
+    "依据记录H批次执行_v0.1/run_checks.py",
+    "依据记录开发检查执行_v0.1/run_checks.py"
+  ],
+  "new_since_baseline": [
+    "CAD实验报告2025_林钰宸_完善版.docx",
+    "CAD实验报告2025林钰宸_图文修订版.docx",
+    "CAD实验报告2025林钰宸_恢复原格式版.docx",
+    "项目整理记录_v0.1/20261021_2152/Git整理前状态.txt",
+    "项目整理记录_v0.1/20261021_2152/README.md.before.md",
+    "项目整理记录_v0.1/20261021_2152/复现说明.md.before.md",
+    "项目整理记录_v0.1/20261021_2152/整理前清单.json",
+    "项目整理记录_v0.1/20261021_2152/整理说明.md",
+    "项目整理记录_v0.1/20261021_2152/项目导航与维护.md.before.md"
+  ],
+  "no_project_scripts_executed": true,
+  "no_network_or_models": true,
+  "scope": "2026-10-25 delayed acceptance for 2026-10-21 edits",
+  "check_note": "Initial acceptance stopped on the not-yet-written result JSON self-link; no historical material changed. Self-link verified after this file is saved."
+}

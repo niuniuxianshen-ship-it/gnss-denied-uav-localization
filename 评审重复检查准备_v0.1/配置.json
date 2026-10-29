@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "batch_id": "REVIEW_REPEAT_H03_H04_V04_001",
+  "preparation_status": "未冻结；尚未调用",
+  "planned_first_requests": 6,
+  "actual_api_calls_at_preparation": 0,
+  "execution_order": [
+    "REP_H03_V04_01",
+    "REP_H04_V04_01",
+    "REP_H03_V04_02",
+    "REP_H04_V04_02",
+    "REP_H03_V04_03",
+    "REP_H04_V04_03"
+  ],
+  "base_url": "https://api.deepseek.com",
+  "endpoint": "/chat/completions",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "socket_timeout_seconds": 300,
+  "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+  "client_retries": 0,
+  "system_message": null,
+  "execution_archive_directory": "运行档案",
+  "freeze_record_file": "本批冻结登记.json",
+  "source_snapshot": [
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H03_V04.txt",
+      "sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "bytes": 9976
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H04_V04.txt",
+      "sha256": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "bytes": 10101
+    },
+    {
+      "path": "依据记录H批次执行_v0.1/执行关联.json",
+      "sha256": "571f595ab989bf50245e963f699a0516c75bfb98d37f5e6666232da03505c59e",
+      "bytes": 9658
+    }
+  ]
+}

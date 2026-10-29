@@ -1,0 +1,33 @@
+{
+  "record_kind": "first_api_attempt",
+  "batch_id": "ATTACHMENT_CONTENT_PAIR_V04_001",
+  "started_at": "2026-10-28T16:57:59.897173+08:00",
+  "status": "failed",
+  "execution_order": [
+    "REP_A_V04_01",
+    "REP_B_V04_01",
+    "REP_A_V04_02",
+    "REP_B_V04_02",
+    "REP_A_V04_03",
+    "REP_B_V04_03"
+  ],
+  "attempted": [],
+  "completed": [],
+  "unexecuted": [],
+  "failure": null,
+  "freeze_sha256": "86d82a2690dc482fbb155be9f818623435d6f79e9403da8a95999d7f63ae1051",
+  "settings": {
+    "model": "deepseek-flash",
+    "thinking": {
+      "type": "disabled"
+    },
+    "temperature": 0,
+    "max_tokens": 8192,
+    "stream": false,
+    "response_format": {
+      "type": "text"
+    },
+    "tool_choice": "none"
+  },
+  "client_retries": 0
+}

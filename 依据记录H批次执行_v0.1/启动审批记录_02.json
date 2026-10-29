@@ -1,0 +1,13 @@
+{
+  "record_kind": "approval_service_failure_not_api_result",
+  "recorded_at": "2026-10-19T12:14:41.541718+08:00",
+  "launch_submission": 2,
+  "batch_id": "EVIDENCE_RECORD_H_CHECK_001",
+  "process_started": false,
+  "actual_api_calls": 0,
+  "archive_directory_exists": false,
+  "freeze_sha256": "ff6a5a5d6773333110241d12d75e3939e9a9cba4ad63fce195eaf489e5bc2da8",
+  "sources_still_matching": 19,
+  "tool_error": "Automatic approval review failed: Selected model is at capacity. Please try a different model. The action was not executed because automatic approval review could not be completed. This is a review failure, not a determination that the action is unsafe.",
+  "next_action": "Stop this launch turn; do not bypass approval or submit further launches. Wait for approval-service recovery or user guidance; existing authorization is retained."
+}

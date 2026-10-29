@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "batch_id": "REVIEW_REPEAT_H03_H04_V04_001",
+  "status": "frozen",
+  "execution_authorized": true,
+  "maximum_first_requests": 6,
+  "approved_by": "User in the current research mentoring chat",
+  "approved_at": "2026-10-26T16:18:55.335367+08:00",
+  "approval_reference": "Current chat: after the assistant asked permission to freeze and execute exactly six independent requests, the user replied 同意‘. approved_at records when this authorization was registered; the exact message timestamp was not supplied.",
+  "scope": "Freeze only this six-request development repeat-check arrangement. No retries, no continuation, stop after technical failure. No claim that the evaluator is validated.",
+  "bindings": {
+    "runner_sha256": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+    "config_sha256": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+    "mapping_sha256": "409e7ed7d77f01028b508d0873cfd0733ae29b81b2e9f4d4b2a3838e2a7fdd1e",
+    "usage_and_design_sha256": "fc6286e5bfe64f3d53bf4c9ca2a642d6ef90f468136e1d6ff1971c523d5e7f65",
+    "execution_order": [
+      "REP_H03_V04_01",
+      "REP_H04_V04_01",
+      "REP_H03_V04_02",
+      "REP_H04_V04_02",
+      "REP_H03_V04_03",
+      "REP_H04_V04_03"
+    ],
+    "request_text_sha256": {
+      "REP_H03_V04_01": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "REP_H04_V04_01": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "REP_H03_V04_02": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "REP_H04_V04_02": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "REP_H03_V04_03": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "REP_H04_V04_03": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4"
+    },
+    "api_body_sha256": {
+      "REP_H03_V04_01": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "REP_H04_V04_01": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab",
+      "REP_H03_V04_02": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "REP_H04_V04_02": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab",
+      "REP_H03_V04_03": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "REP_H04_V04_03": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab"
+    }
+  }
+}

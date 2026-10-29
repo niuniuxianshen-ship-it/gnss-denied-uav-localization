@@ -1,0 +1,493 @@
+{
+  "record_kind": "first_api_technical_audit",
+  "checked_at": "2026-10-28T16:59:43.098878+08:00",
+  "batch_id": "ATTACHMENT_CONTENT_PAIR_V04_001",
+  "freeze_sha256": "86d82a2690dc482fbb155be9f818623435d6f79e9403da8a95999d7f63ae1051",
+  "planned_requests": 6,
+  "network_attempts_recorded": 6,
+  "completed": 6,
+  "failed": 0,
+  "unexecuted": [],
+  "execution_order": [
+    "REP_A_V04_01",
+    "REP_B_V04_01",
+    "REP_A_V04_02",
+    "REP_B_V04_02",
+    "REP_A_V04_03",
+    "REP_B_V04_03"
+  ],
+  "all_technical_checks_passed": true,
+  "expected_archive_files": 32,
+  "archive_files_verified": 32,
+  "settings": {
+    "base_url": "https://api.deepseek.com",
+    "endpoint": "/chat/completions",
+    "settings": {
+      "model": "deepseek-flash",
+      "thinking": {
+        "type": "disabled"
+      },
+      "temperature": 0,
+      "max_tokens": 8192,
+      "stream": false,
+      "response_format": {
+        "type": "text"
+      },
+      "tool_choice": "none"
+    },
+    "socket_timeout_seconds": 300,
+    "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+    "client_retries": 0,
+    "system_message": null
+  },
+  "tasks": [
+    {
+      "sequence": 1,
+      "task_id": "REP_A_V04_01",
+      "input": "甲",
+      "repeat_index": 1,
+      "technical_status": "completed",
+      "http_status": 200,
+      "finish_reason": "stop",
+      "requested_model": "deepseek-flash",
+      "returned_model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 2483,
+        "completion_tokens": 207,
+        "total_tokens": 2690,
+        "prompt_tokens_details": {
+          "cached_tokens": 768
+        },
+        "prompt_cache_hit_tokens": 768,
+        "prompt_cache_miss_tokens": 1715
+      },
+      "started_at": "2026-10-28T16:57:59.903163+08:00",
+      "ended_at": "2026-10-28T16:58:01.772793+08:00",
+      "elapsed_seconds": 1.8589999999994689,
+      "client_retries": 0,
+      "request_matches_frozen_payload": true,
+      "single_user_matches_source": true,
+      "response_complete": true,
+      "missing_artifacts": [],
+      "first_output_path": "运行档案/REP_A_V04_01/output.txt"
+    },
+    {
+      "sequence": 2,
+      "task_id": "REP_B_V04_01",
+      "input": "乙",
+      "repeat_index": 1,
+      "technical_status": "completed",
+      "http_status": 200,
+      "finish_reason": "stop",
+      "requested_model": "deepseek-flash",
+      "returned_model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 2662,
+        "completion_tokens": 220,
+        "total_tokens": 2882,
+        "prompt_tokens_details": {
+          "cached_tokens": 768
+        },
+        "prompt_cache_hit_tokens": 768,
+        "prompt_cache_miss_tokens": 1894
+      },
+      "started_at": "2026-10-28T16:58:01.777391+08:00",
+      "ended_at": "2026-10-28T16:58:03.441770+08:00",
+      "elapsed_seconds": 1.655999999999949,
+      "client_retries": 0,
+      "request_matches_frozen_payload": true,
+      "single_user_matches_source": true,
+      "response_complete": true,
+      "missing_artifacts": [],
+      "first_output_path": "运行档案/REP_B_V04_01/output.txt"
+    },
+    {
+      "sequence": 3,
+      "task_id": "REP_A_V04_02",
+      "input": "甲",
+      "repeat_index": 2,
+      "technical_status": "completed",
+      "http_status": 200,
+      "finish_reason": "stop",
+      "requested_model": "deepseek-flash",
+      "returned_model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 2483,
+        "completion_tokens": 221,
+        "total_tokens": 2704,
+        "prompt_tokens_details": {
+          "cached_tokens": 2304
+        },
+        "prompt_cache_hit_tokens": 2304,
+        "prompt_cache_miss_tokens": 179
+      },
+      "started_at": "2026-10-28T16:58:03.447223+08:00",
+      "ended_at": "2026-10-28T16:58:05.307978+08:00",
+      "elapsed_seconds": 1.8590000000003783,
+      "client_retries": 0,
+      "request_matches_frozen_payload": true,
+      "single_user_matches_source": true,
+      "response_complete": true,
+      "missing_artifacts": [],
+      "first_output_path": "运行档案/REP_A_V04_02/output.txt"
+    },
+    {
+      "sequence": 4,
+      "task_id": "REP_B_V04_02",
+      "input": "乙",
+      "repeat_index": 2,
+      "technical_status": "completed",
+      "http_status": 200,
+      "finish_reason": "stop",
+      "requested_model": "deepseek-flash",
+      "returned_model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 2662,
+        "completion_tokens": 213,
+        "total_tokens": 2875,
+        "prompt_tokens_details": {
+          "cached_tokens": 2432
+        },
+        "prompt_cache_hit_tokens": 2432,
+        "prompt_cache_miss_tokens": 230
+      },
+      "started_at": "2026-10-28T16:58:05.313161+08:00",
+      "ended_at": "2026-10-28T16:58:07.081410+08:00",
+      "elapsed_seconds": 1.7659999999996217,
+      "client_retries": 0,
+      "request_matches_frozen_payload": true,
+      "single_user_matches_source": true,
+      "response_complete": true,
+      "missing_artifacts": [],
+      "first_output_path": "运行档案/REP_B_V04_02/output.txt"
+    },
+    {
+      "sequence": 5,
+      "task_id": "REP_A_V04_03",
+      "input": "甲",
+      "repeat_index": 3,
+      "technical_status": "completed",
+      "http_status": 200,
+      "finish_reason": "stop",
+      "requested_model": "deepseek-flash",
+      "returned_model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 2483,
+        "completion_tokens": 211,
+        "total_tokens": 2694,
+        "prompt_tokens_details": {
+          "cached_tokens": 2304
+        },
+        "prompt_cache_hit_tokens": 2304,
+        "prompt_cache_miss_tokens": 179
+      },
+      "started_at": "2026-10-28T16:58:07.084881+08:00",
+      "ended_at": "2026-10-28T16:58:08.815333+08:00",
+      "elapsed_seconds": 1.7340000000003783,
+      "client_retries": 0,
+      "request_matches_frozen_payload": true,
+      "single_user_matches_source": true,
+      "response_complete": true,
+      "missing_artifacts": [],
+      "first_output_path": "运行档案/REP_A_V04_03/output.txt"
+    },
+    {
+      "sequence": 6,
+      "task_id": "REP_B_V04_03",
+      "input": "乙",
+      "repeat_index": 3,
+      "technical_status": "completed",
+      "http_status": 200,
+      "finish_reason": "stop",
+      "requested_model": "deepseek-flash",
+      "returned_model": "deepseek-flash",
+      "usage": {
+        "prompt_tokens": 2662,
+        "completion_tokens": 204,
+        "total_tokens": 2866,
+        "prompt_tokens_details": {
+          "cached_tokens": 2432
+        },
+        "prompt_cache_hit_tokens": 2432,
+        "prompt_cache_miss_tokens": 230
+      },
+      "started_at": "2026-10-28T16:58:08.818813+08:00",
+      "ended_at": "2026-10-28T16:58:10.898457+08:00",
+      "elapsed_seconds": 2.094000000000051,
+      "client_retries": 0,
+      "request_matches_frozen_payload": true,
+      "single_user_matches_source": true,
+      "response_complete": true,
+      "missing_artifacts": [],
+      "first_output_path": "运行档案/REP_B_V04_03/output.txt"
+    }
+  ],
+  "usage_totals": {
+    "prompt_tokens": 15435,
+    "completion_tokens": 1276,
+    "total_tokens": 16711
+  },
+  "artifacts": [
+    {
+      "path": "运行档案/REP_A_V04_01/attempt.json",
+      "bytes": 176,
+      "sha256": "7456f9e3092431058456fb67c3a29752e743aa963358d3eacd9e4963073ab953"
+    },
+    {
+      "path": "运行档案/REP_A_V04_01/request.json",
+      "bytes": 10567,
+      "sha256": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487"
+    },
+    {
+      "path": "运行档案/REP_A_V04_01/response.json",
+      "bytes": 1501,
+      "sha256": "f203fc33558998576284641e57e1e44815eee58187baefa15dfb57549996066b"
+    },
+    {
+      "path": "运行档案/REP_A_V04_01/output.txt",
+      "bytes": 1030,
+      "sha256": "04f2af69d6141041ef13cf5cc40a914cf42756e4ad03d0dd31df43758c408c6a"
+    },
+    {
+      "path": "运行档案/REP_A_V04_01/metadata.json",
+      "bytes": 1794,
+      "sha256": "cc9844662e14f5f3ca07bfd663f7071bad97c4d1e71c0360a9fb835dc2ee6327"
+    },
+    {
+      "path": "运行档案/REP_B_V04_01/attempt.json",
+      "bytes": 176,
+      "sha256": "2ef2fab9c88e3925bdf12ca20b83943f5a4e1e0fd9526c1fb8eb8a3679ee1298"
+    },
+    {
+      "path": "运行档案/REP_B_V04_01/request.json",
+      "bytes": 11458,
+      "sha256": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304"
+    },
+    {
+      "path": "运行档案/REP_B_V04_01/response.json",
+      "bytes": 1575,
+      "sha256": "34147c43921daaddfba5f68807e09da2a3984b7d2b97cd41229a3832fa006569"
+    },
+    {
+      "path": "运行档案/REP_B_V04_01/output.txt",
+      "bytes": 1104,
+      "sha256": "93d9b6e85d3509a9167638f41d3139a6361f8c5a284d966bf68b6e3c88397e89"
+    },
+    {
+      "path": "运行档案/REP_B_V04_01/metadata.json",
+      "bytes": 1793,
+      "sha256": "54504cb925a1672bed97e49f52a0e49fd2b6552a75f6a73b9b6c6fe7f9816221"
+    },
+    {
+      "path": "运行档案/REP_A_V04_02/attempt.json",
+      "bytes": 176,
+      "sha256": "d2b278f9a3d096206a537d4676069b785e2c08ab3e9b5fb0face98e604da3984"
+    },
+    {
+      "path": "运行档案/REP_A_V04_02/request.json",
+      "bytes": 10567,
+      "sha256": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487"
+    },
+    {
+      "path": "运行档案/REP_A_V04_02/response.json",
+      "bytes": 1571,
+      "sha256": "97c2f2ea0ac93a38d030e1c521f89c589a8e5d5acd5725e09e5b0da4adce9054"
+    },
+    {
+      "path": "运行档案/REP_A_V04_02/output.txt",
+      "bytes": 1099,
+      "sha256": "552312f7d3c85d46cbf52ce3e42dd74872ece0c0cbab71bbeb6432b553f59ca5"
+    },
+    {
+      "path": "运行档案/REP_A_V04_02/metadata.json",
+      "bytes": 1795,
+      "sha256": "8244cc980611eedda42145aae5a4b3c50d76274a5ef8ee9fbc27a2d548efd4eb"
+    },
+    {
+      "path": "运行档案/REP_B_V04_02/attempt.json",
+      "bytes": 176,
+      "sha256": "4b3968991de708d75290562481e31421c7b2f85b042ec977d5e479089275e6a4"
+    },
+    {
+      "path": "运行档案/REP_B_V04_02/request.json",
+      "bytes": 11458,
+      "sha256": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304"
+    },
+    {
+      "path": "运行档案/REP_B_V04_02/response.json",
+      "bytes": 1539,
+      "sha256": "b0168639951b230a9db998f0c3d613a73ee3aaa9470db56157201f602cf79dc4"
+    },
+    {
+      "path": "运行档案/REP_B_V04_02/output.txt",
+      "bytes": 1067,
+      "sha256": "c6f3b8603f123f0b60f75787a6622729d183d2790aa60566469fea327ab7eec3"
+    },
+    {
+      "path": "运行档案/REP_B_V04_02/metadata.json",
+      "bytes": 1795,
+      "sha256": "fc558e2f7ffdaed22e83d91fac66ab811d57431a28870a2f1cb66b8e481556f7"
+    },
+    {
+      "path": "运行档案/REP_A_V04_03/attempt.json",
+      "bytes": 176,
+      "sha256": "a612f1d96b1e4f0900893ff3c4bbd808bf346a24f289b3c502ffaad3d80ae20f"
+    },
+    {
+      "path": "运行档案/REP_A_V04_03/request.json",
+      "bytes": 10567,
+      "sha256": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487"
+    },
+    {
+      "path": "运行档案/REP_A_V04_03/response.json",
+      "bytes": 1517,
+      "sha256": "7c8f41b5b7eca91be0c371f18d778884096a62e3c954beabd7bd5166cada988d"
+    },
+    {
+      "path": "运行档案/REP_A_V04_03/output.txt",
+      "bytes": 1045,
+      "sha256": "cf0ba7237ac4b295d87e3639d0e53643b65cb3ae691027a858d0f229e8ec6ba4"
+    },
+    {
+      "path": "运行档案/REP_A_V04_03/metadata.json",
+      "bytes": 1795,
+      "sha256": "a7a4e252771e9ea9b0b6829689ea70417f7e57a31df9f584c997ab2daef9bd04"
+    },
+    {
+      "path": "运行档案/REP_B_V04_03/attempt.json",
+      "bytes": 176,
+      "sha256": "4ab99fafafb5a0e0f1ded66d6d79e5d6a510d33efff7837c5f0ef75b191e36cd"
+    },
+    {
+      "path": "运行档案/REP_B_V04_03/request.json",
+      "bytes": 11458,
+      "sha256": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304"
+    },
+    {
+      "path": "运行档案/REP_B_V04_03/response.json",
+      "bytes": 1488,
+      "sha256": "3ab80743f2d3aa93080b1b352be2002a5928142af2fdd75ddbabf69ae9d304bb"
+    },
+    {
+      "path": "运行档案/REP_B_V04_03/output.txt",
+      "bytes": 1016,
+      "sha256": "7696a698b39c788fbf31a01b8eea42fc94909ca63befff7cec0ea049f496abee"
+    },
+    {
+      "path": "运行档案/REP_B_V04_03/metadata.json",
+      "bytes": 1794,
+      "sha256": "ff7c4d394fc2230e0f721c61eefcf2d70a332583012c7db631b278ab7cb3caaa"
+    },
+    {
+      "path": "运行档案/stage_start.json",
+      "bytes": 746,
+      "sha256": "6e53bbe2e92972eb7fd61887d9572d2f1d57bde22aaaba5f1a9a82cac7de803b"
+    },
+    {
+      "path": "运行档案/summary.json",
+      "bytes": 1264,
+      "sha256": "01b52b47c4f326b8c6e445a937d7747f616a059256e9b56a9b299e87f149e236"
+    }
+  ],
+  "original_hash_checks": [
+    {
+      "path": "run_repeat.py",
+      "before_sha256": "29e11fd92d78827c4cbb0d86f4f2e93be8a12de9565f4dd7fcfdcce1ed080d74",
+      "after_sha256": "29e11fd92d78827c4cbb0d86f4f2e93be8a12de9565f4dd7fcfdcce1ed080d74",
+      "unchanged": true
+    },
+    {
+      "path": "offline_checks.py",
+      "before_sha256": "a46c10b9158ff711cbdf463c43b41108ccb2ed2c51065a6843c4c5b3c4e72a38",
+      "after_sha256": "a46c10b9158ff711cbdf463c43b41108ccb2ed2c51065a6843c4c5b3c4e72a38",
+      "unchanged": true
+    },
+    {
+      "path": "配置.json",
+      "before_sha256": "90d421e75c6a7796de1c190a00e205a777daca01d142a8e0a5565c79711b0655",
+      "after_sha256": "90d421e75c6a7796de1c190a00e205a777daca01d142a8e0a5565c79711b0655",
+      "unchanged": true
+    },
+    {
+      "path": "六项任务关联_管理用.json",
+      "before_sha256": "0d205b427ecdca152b80165d5d5b07a1a538c6fee79d11b9bed35b5b119f1ecd",
+      "after_sha256": "0d205b427ecdca152b80165d5d5b07a1a538c6fee79d11b9bed35b5b119f1ecd",
+      "unchanged": true
+    },
+    {
+      "path": "逐份记录_空白.csv",
+      "before_sha256": "42b62f905070b3429fcb6c811f7573eba0daf8839321a6c63e4f8f2c6768f8b5",
+      "after_sha256": "42b62f905070b3429fcb6c811f7573eba0daf8839321a6c63e4f8f2c6768f8b5",
+      "unchanged": true
+    },
+    {
+      "path": "使用与核查说明.md",
+      "before_sha256": "05afc607358973686319895be5824d0e3f691327222e7c8d7ef243e287e11694",
+      "after_sha256": "05afc607358973686319895be5824d0e3f691327222e7c8d7ef243e287e11694",
+      "unchanged": true
+    },
+    {
+      "path": "离线核查结果.json",
+      "before_sha256": "3fc8da4821630f635574387db11c48ee3c1a25cfe15a9b6d1da7748ca8aa152e",
+      "after_sha256": "3fc8da4821630f635574387db11c48ee3c1a25cfe15a9b6d1da7748ca8aa152e",
+      "unchanged": true
+    },
+    {
+      "path": "请求副本/请求_A_V04.txt",
+      "before_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "after_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "unchanged": true
+    },
+    {
+      "path": "请求副本/请求_B_V04.txt",
+      "before_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "after_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "unchanged": true
+    },
+    {
+      "path": "../附件内容配对离线组装_v0.1/甲版完整请求.txt",
+      "before_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "after_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "unchanged": true
+    },
+    {
+      "path": "../附件内容配对离线组装_v0.1/乙版完整请求.txt",
+      "before_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "after_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "unchanged": true
+    },
+    {
+      "path": "../评审重复检查准备_v0.1/配置.json",
+      "before_sha256": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+      "after_sha256": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+      "unchanged": true
+    },
+    {
+      "path": "../附件内容配对离线组装_v0.1/管理说明.md",
+      "before_sha256": "ff470691e287942b3878b04ad56b199bdace1347c63c4e67d53c3f996c3a6ed5",
+      "after_sha256": "ff470691e287942b3878b04ad56b199bdace1347c63c4e67d53c3f996c3a6ed5",
+      "unchanged": true
+    },
+    {
+      "path": "../附件内容配对离线组装_v0.1/结果判读卡.md",
+      "before_sha256": "d0a82111ea90665bba68d2d1bb514912576b662bd97ad08b217683b830256194",
+      "after_sha256": "d0a82111ea90665bba68d2d1bb514912576b662bd97ad08b217683b830256194",
+      "unchanged": true
+    },
+    {
+      "path": "../评审重复检查准备_v0.1/run_repeat.py",
+      "before_sha256": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+      "after_sha256": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+      "unchanged": true
+    },
+    {
+      "path": "../评审重复检查准备_v0.1/offline_checks.py",
+      "before_sha256": "5980e82f9d28d748a53396dc676bb02c5fc24699720bee1d8c5ffdfa11439d10",
+      "after_sha256": "5980e82f9d28d748a53396dc676bb02c5fc24699720bee1d8c5ffdfa11439d10",
+      "unchanged": true
+    }
+  ],
+  "content_review_performed": false,
+  "review_csv_untouched": true,
+  "limitations": "技术完成不证明内容判断正确；顺序请求不含历史回答；本轮尚未进行内容复核。"
+}

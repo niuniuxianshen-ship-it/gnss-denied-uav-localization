@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "batch_id": "EVIDENCE_RECORD_H_CHECK_001",
+  "maximum_first_requests": 8,
+  "execution_order": [
+    "H01_V04",
+    "H01_V05",
+    "H02_V05",
+    "H02_V04",
+    "H03_V04",
+    "H03_V05",
+    "H04_V05",
+    "H04_V04"
+  ],
+  "config": {
+    "base_url": "https://api.deepseek.com",
+    "endpoint": "/chat/completions",
+    "settings": {
+      "model": "deepseek-flash",
+      "thinking": {
+        "type": "disabled"
+      },
+      "temperature": 0,
+      "max_tokens": 8192,
+      "stream": false,
+      "response_format": {
+        "type": "text"
+      },
+      "tool_choice": "none"
+    },
+    "socket_timeout_seconds": 300,
+    "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+    "client_retries": 0,
+    "system_message": null,
+    "batch_id": "EVIDENCE_RECORD_H_CHECK_001"
+  },
+  "source_snapshot": [
+    {
+      "path": "API评审关系记录草案_v0.4/完整评审提示词草案.txt",
+      "bytes": 4678,
+      "sha256": "ce96739688ba10b3e62cb8b8795ca7c1ba9c98d5eef959a8abf7afefabae2d96"
+    },
+    {
+      "path": "API评审依据关系草案_v0.5/完整评审提示词草案.txt",
+      "bytes": 5844,
+      "sha256": "4283d2e2996e44861cec4fbea02f4fa144c1794814e0070c0203d99c4726f995"
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "bytes": 5130,
+      "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+    },
+    {
+      "path": "依据记录开发检查执行_v0.1/执行关联.json",
+      "bytes": 4848,
+      "sha256": "62053d4ecdfaed1cf1faadf5e56f6abc992511fa3f97ab57b34b0e96c6c02c5a"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/待评正文_H01.txt",
+      "bytes": 264,
+      "sha256": "0a25a9c7bc63f3c36d07d872f2981dfc6e8cde34f1b0df5a801cc1b9279ef4b0"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/待评正文_H02.txt",
+      "bytes": 204,
+      "sha256": "a3d62dcb66547e4b90dbf002c7e0e7f524a06b9f7f1b0b992d21892bed26797f"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/待评正文_H03.txt",
+      "bytes": 93,
+      "sha256": "2262b2035faf01c06e48864fa98c3834f8c09005d5e62d5926aa9d1882259fc0"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/待评正文_H04.txt",
+      "bytes": 218,
+      "sha256": "bc63fd754c3300cea3b5016a604625021107df3b04f1e20f925a617e0ed65d1e"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H01_V04.txt",
+      "bytes": 10147,
+      "sha256": "70fedc3fa9574eb33c93377b900efdaf3dd707f22e37b8008a72804c9cd3d338"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H01_V05.txt",
+      "bytes": 11313,
+      "sha256": "9d1e7fbc4f9b6a26ad4c3631855fa1625e16bfb2e0b5300d6c5b13214b745f69"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H02_V05.txt",
+      "bytes": 11253,
+      "sha256": "8b063c9c157482a4d37872bdf43c6fd9b5f14c2d593cb5a5f997414f12a7dfa4"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H02_V04.txt",
+      "bytes": 10087,
+      "sha256": "ee03b9a1bb9b35021a33704078d755bce231030cb4bd2ce18a2df0e65ba17f23"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H03_V04.txt",
+      "bytes": 9976,
+      "sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H03_V05.txt",
+      "bytes": 11142,
+      "sha256": "f740d704eb327b4cc6988a1c96ef607eabc6468f14d257b9fb1634bc1f5da12b"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H04_V05.txt",
+      "bytes": 11267,
+      "sha256": "431de7b6719f976e5411d22386f69ecca29fb3eb95eecb4ec04042e983625ccc"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/请求_H04_V04.txt",
+      "bytes": 10101,
+      "sha256": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4"
+    },
+    {
+      "path": "依据记录H批次对照准备_v0.1/管理计划与参照表.md",
+      "bytes": 11436,
+      "sha256": "12ca10c8e5496ef5d90848644ea9cd95c5a9de37f89cf300a4876b367a6c73ff"
+    },
+    {
+      "path": "依据记录开发检查执行_v0.1/run_checks.py",
+      "bytes": 9674,
+      "sha256": "d62f39c4f19a08aa76191e9a93b79c77fb6a985b57db453344e01341c0d2a5f4"
+    },
+    {
+      "path": "关系记录新材料执行入口_v0.1/run_comparison.py",
+      "bytes": 18730,
+      "sha256": "461330743d3f179a7fa2491c7018c61a89390567ad370aa82bf8ae8820666359"
+    }
+  ],
+  "tasks": [
+    {
+      "sequence": 1,
+      "task_id": "H01_V04",
+      "path": "依据记录H批次对照准备_v0.1/请求_H01_V04.txt",
+      "bytes": 10147,
+      "request_text_sha256": "70fedc3fa9574eb33c93377b900efdaf3dd707f22e37b8008a72804c9cd3d338",
+      "api_body_sha256": "a33bf5f07231f250d69e52aa33256cc7577a850b2fe9837c0d7f0c62d284bad8",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 2,
+      "task_id": "H01_V05",
+      "path": "依据记录H批次对照准备_v0.1/请求_H01_V05.txt",
+      "bytes": 11313,
+      "request_text_sha256": "9d1e7fbc4f9b6a26ad4c3631855fa1625e16bfb2e0b5300d6c5b13214b745f69",
+      "api_body_sha256": "5e8bff1b919c66f00840eac7410c4ff3a248acc0de1d24cf37cee78b325e6737",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 3,
+      "task_id": "H02_V05",
+      "path": "依据记录H批次对照准备_v0.1/请求_H02_V05.txt",
+      "bytes": 11253,
+      "request_text_sha256": "8b063c9c157482a4d37872bdf43c6fd9b5f14c2d593cb5a5f997414f12a7dfa4",
+      "api_body_sha256": "226018e3f04fd404bea24ccf585fabd332f646945a1fad45abf990a18689ca07",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 4,
+      "task_id": "H02_V04",
+      "path": "依据记录H批次对照准备_v0.1/请求_H02_V04.txt",
+      "bytes": 10087,
+      "request_text_sha256": "ee03b9a1bb9b35021a33704078d755bce231030cb4bd2ce18a2df0e65ba17f23",
+      "api_body_sha256": "5041ab915ae1d06c566b546ff316c813dc8400d6d474a8f8642122e32eb78377",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 5,
+      "task_id": "H03_V04",
+      "path": "依据记录H批次对照准备_v0.1/请求_H03_V04.txt",
+      "bytes": 9976,
+      "request_text_sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "api_body_sha256": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 6,
+      "task_id": "H03_V05",
+      "path": "依据记录H批次对照准备_v0.1/请求_H03_V05.txt",
+      "bytes": 11142,
+      "request_text_sha256": "f740d704eb327b4cc6988a1c96ef607eabc6468f14d257b9fb1634bc1f5da12b",
+      "api_body_sha256": "aa1b41409b1ebc5a31eea6d0b4ef89acfba6511f1cdfd7afc9c2e618b1951380",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 7,
+      "task_id": "H04_V05",
+      "path": "依据记录H批次对照准备_v0.1/请求_H04_V05.txt",
+      "bytes": 11267,
+      "request_text_sha256": "431de7b6719f976e5411d22386f69ecca29fb3eb95eecb4ec04042e983625ccc",
+      "api_body_sha256": "a744eb18ee51f8354a1c7c739a192b51365e27d8440b9e3eb10ced005d7a0df1",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 8,
+      "task_id": "H04_V04",
+      "path": "依据记录H批次对照准备_v0.1/请求_H04_V04.txt",
+      "bytes": 10101,
+      "request_text_sha256": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "api_body_sha256": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab",
+      "status_at_preparation": "尚未调用"
+    }
+  ],
+  "actual_api_calls_at_preparation": 0,
+  "scope": "四份新构造文本的有限对照检查；H01不预设最终状态；不称独立人工验证或真实图片实验结果",
+  "runner_reuse": {
+    "template_path": "依据记录开发检查执行_v0.1/run_checks.py",
+    "template_sha256": "d62f39c4f19a08aa76191e9a93b79c77fb6a985b57db453344e01341c0d2a5f4",
+    "changes": [
+      {
+        "before": "Four first requests for the evidence-record development check; default is read-only.",
+        "after": "Eight first requests for the H evidence-record check; default is read-only."
+      },
+      {
+        "before": "BATCH = \"EVIDENCE_RECORD_DEVELOPMENT_001\"",
+        "after": "BATCH = \"EVIDENCE_RECORD_H_CHECK_001\""
+      },
+      {
+        "before": "PREP = \"依据记录开发检查准备_v0.1/\"",
+        "after": "PREP = \"依据记录H批次对照准备_v0.1/\""
+      },
+      {
+        "before": "CONFIG_SOURCE = \"关系记录新材料执行入口_v0.1/配置.json\"",
+        "after": "CONFIG_SOURCE = \"依据记录开发检查执行_v0.1/执行关联.json\""
+      },
+      {
+        "before": "ORDER = [\"甲_V04\", \"甲_V05\", \"乙_V05\", \"乙_V04\"]",
+        "after": "ORDER = [\"H01_V04\", \"H01_V05\", \"H02_V05\", \"H02_V04\", \"H03_V04\", \"H03_V05\", \"H04_V05\", \"H04_V04\"]"
+      },
+      {
+        "before": "manifest[\"maximum_first_requests\"] == 4",
+        "after": "manifest[\"maximum_first_requests\"] == 8"
+      },
+      {
+        "before": "四项数量或顺序不符",
+        "after": "八项数量或顺序不符"
+      },
+      {
+        "before": "original = json.loads(sources[CONFIG_SOURCE])",
+        "after": "original = json.loads(sources[CONFIG_SOURCE])[\"config\"]"
+      },
+      {
+        "before": "record.get(\"maximum_first_requests\") == 4",
+        "after": "record.get(\"maximum_first_requests\") == 8"
+      },
+      {
+        "before": "\"planned_requests\": 4",
+        "after": "\"planned_requests\": 8"
+      }
+    ]
+  }
+}

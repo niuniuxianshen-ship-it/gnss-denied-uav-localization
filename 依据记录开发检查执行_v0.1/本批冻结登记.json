@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "batch_id": "EVIDENCE_RECORD_DEVELOPMENT_001",
+  "status": "frozen",
+  "execution_authorized": true,
+  "approved_by": "研究者（本对话用户）",
+  "approved_at": "2026-10-18T19:45:21.097720+08:00",
+  "registered_at": "2026-10-18T19:45:21.097720+08:00",
+  "approved_at_basis": "本地登记本轮明确授权的时刻，不冒充用户消息的精确发送时间",
+  "user_message_timestamp": null,
+  "approval_message_verbatim": "同意",
+  "approval_reference": "本对话上一轮已明确四项请求、管理参照、既有设置和冻结后最多4次首次调用；用户本轮回复同意。",
+  "maximum_first_requests": 4,
+  "bindings": {
+    "runner_sha256": "d62f39c4f19a08aa76191e9a93b79c77fb6a985b57db453344e01341c0d2a5f4",
+    "manifest_sha256": "62053d4ecdfaed1cf1faadf5e56f6abc992511fa3f97ab57b34b0e96c6c02c5a",
+    "management_plan_sha256": "6e01bf012a3a9d04f917290881e50d5967c8376dc3a8cc7c83be42bb8f7d53d4",
+    "execution_order": [
+      "甲_V04",
+      "甲_V05",
+      "乙_V05",
+      "乙_V04"
+    ],
+    "request_text_sha256": {
+      "甲_V04": "3b703ef84b1a84befb1e122530e0a8cf2a3b1b879bb78916b3bd80b1076aad15",
+      "甲_V05": "866e8d3679199e3e11fbf9c4603d3e1bcd0339ee37d93de60e29973b5586af45",
+      "乙_V05": "56280272132a2c775dd0b4a6309904baaa80195c995e58ffc298c9bbf4571f70",
+      "乙_V04": "ed12664573b4a4026cdaef2d5522a53cbefa6d2edc1b2b6e6e40c0406defd970"
+    },
+    "api_body_sha256": {
+      "甲_V04": "145e8dd1415bd486169a267dedeaa82ba86fe527ff98f2698603d04676430cb1",
+      "甲_V05": "64149cf56a407d1bf49d2e411d4910670692a454e24ec9ebcc199c2248d471af",
+      "乙_V05": "df5e738be6ba5ba00c21f8c64c3f2fd89ce53468171daca3189b8819cb3adc78",
+      "乙_V04": "e75c8dd9bd9f751fad056bdfdb5ba5e86b76d37fc9677e40ad21dfe2edb935d1"
+    }
+  },
+  "execution_policy": {
+    "order": [
+      "甲_V04",
+      "甲_V05",
+      "乙_V05",
+      "乙_V04"
+    ],
+    "requests_per_task": 1,
+    "client_retries": 0,
+    "stop_after_technical_failure": true,
+    "content_adjudication": "后续另行复核，不在执行阶段裁定；甲的支持关系疑点保留",
+    "credentials": "仅在执行进程中读取既有命名凭据，不显示、不写入档案"
+  },
+  "scope": "本次冻结仅绑定本批开发检查的材料、规则与设置，不将v0.5认定为有效方法，不改旧方案或历史原件"
+}

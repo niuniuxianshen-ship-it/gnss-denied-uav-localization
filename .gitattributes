@@ -1,0 +1,27 @@
+# Preserve original bytes for files synchronized on 2026-10-29.
+/.gitattributes -text
+/API评审依据关系草案_v0.5/** -text
+/HANDOFF.md -text
+/IMG002_两条件线索对照_非盲补充_v0.1.md -text
+/IMG003_非盲补充分析_v0.1.md -text
+/README.md -text
+/Rating_Roulette_论文中文译文.md -text
+/Rating_Roulette_论文中文译文.pdf -text
+/依据记录H批次对照准备_v0.1/** -text
+/依据记录H批次执行_v0.1/** -text
+/依据记录H批次阶段小结_v0.1.md -text
+/依据记录开发检查准备_v0.1/** -text
+/依据记录开发检查执行_v0.1/** -text
+/复现说明.md -text
+/定位流程可见数量核对_改进设计卡_v0.1.md -text
+/无人机自定位_首个任务_v0.1.md -text
+/更新日志.md -text
+/清理与同步记录_20261029.md -text
+/版本索引.md -text
+/评审重复检查准备_v0.1/** -text
+/附件内容配对执行准备_v0.1/** -text
+/附件内容配对离线组装_v0.1/** -text
+/项目导航与维护.md -text
+/项目整理记录_v0.1/20261021_2152/** -text
+/项目整理记录_v0.1/20261027_1215/** -text
+/首批三图阶段报告_v0.3_待审查.md -text

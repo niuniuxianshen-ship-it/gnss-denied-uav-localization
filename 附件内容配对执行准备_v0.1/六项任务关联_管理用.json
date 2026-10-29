@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "batch_id": "ATTACHMENT_CONTENT_PAIR_V04_001",
+  "planned_first_requests": 6,
+  "actual_api_calls_at_preparation": 0,
+  "config_sha256": "90d421e75c6a7796de1c190a00e205a777daca01d142a8e0a5565c79711b0655",
+  "runner_sha256": "29e11fd92d78827c4cbb0d86f4f2e93be8a12de9565f4dd7fcfdcce1ed080d74",
+  "tasks": [
+    {
+      "sequence": 1,
+      "task_id": "REP_A_V04_01",
+      "material_id": "A",
+      "repeat_index": 1,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_A_V04.txt",
+      "original_request_path": "附件内容配对离线组装_v0.1/甲版完整请求.txt",
+      "request_bytes": 10052,
+      "request_text_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "api_body_sha256": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 2,
+      "task_id": "REP_B_V04_01",
+      "material_id": "B",
+      "repeat_index": 1,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_B_V04.txt",
+      "original_request_path": "附件内容配对离线组装_v0.1/乙版完整请求.txt",
+      "request_bytes": 10928,
+      "request_text_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "api_body_sha256": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 3,
+      "task_id": "REP_A_V04_02",
+      "material_id": "A",
+      "repeat_index": 2,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_A_V04.txt",
+      "original_request_path": "附件内容配对离线组装_v0.1/甲版完整请求.txt",
+      "request_bytes": 10052,
+      "request_text_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "api_body_sha256": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 4,
+      "task_id": "REP_B_V04_02",
+      "material_id": "B",
+      "repeat_index": 2,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_B_V04.txt",
+      "original_request_path": "附件内容配对离线组装_v0.1/乙版完整请求.txt",
+      "request_bytes": 10928,
+      "request_text_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "api_body_sha256": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 5,
+      "task_id": "REP_A_V04_03",
+      "material_id": "A",
+      "repeat_index": 3,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_A_V04.txt",
+      "original_request_path": "附件内容配对离线组装_v0.1/甲版完整请求.txt",
+      "request_bytes": 10052,
+      "request_text_sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "api_body_sha256": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 6,
+      "task_id": "REP_B_V04_03",
+      "material_id": "B",
+      "repeat_index": 3,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_B_V04.txt",
+      "original_request_path": "附件内容配对离线组装_v0.1/乙版完整请求.txt",
+      "request_bytes": 10928,
+      "request_text_sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "api_body_sha256": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+      "status_at_preparation": "尚未调用"
+    }
+  ]
+}

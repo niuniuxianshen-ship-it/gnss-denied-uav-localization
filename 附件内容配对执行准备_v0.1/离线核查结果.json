@@ -1,0 +1,157 @@
+{
+  "record_kind": "offline_preparation_check",
+  "checked_at": "2026-10-28T16:52:27.984816+08:00",
+  "python": "3.10.0",
+  "batch_id": "ATTACHMENT_CONTENT_PAIR_V04_001",
+  "all_passed": true,
+  "commands": [
+    {
+      "command": [
+        "C:\\Users\\leimaren\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+        "-X",
+        "utf8",
+        "-B",
+        "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\附件内容配对执行准备_v0.1\\run_repeat.py",
+        "check"
+      ],
+      "exit_code": 0,
+      "result": {
+        "status": "offline_check_passed",
+        "planned_requests": 6,
+        "execution_order": [
+          "REP_A_V04_01",
+          "REP_B_V04_01",
+          "REP_A_V04_02",
+          "REP_B_V04_02",
+          "REP_A_V04_03",
+          "REP_B_V04_03"
+        ],
+        "actual_api_calls_in_this_check": 0,
+        "freeze_verified": false,
+        "existing_archive": false,
+        "bindings_for_future_review_only": {
+          "runner_sha256": "29e11fd92d78827c4cbb0d86f4f2e93be8a12de9565f4dd7fcfdcce1ed080d74",
+          "config_sha256": "90d421e75c6a7796de1c190a00e205a777daca01d142a8e0a5565c79711b0655",
+          "mapping_sha256": "0d205b427ecdca152b80165d5d5b07a1a538c6fee79d11b9bed35b5b119f1ecd",
+          "usage_and_design_sha256": "05afc607358973686319895be5824d0e3f691327222e7c8d7ef243e287e11694",
+          "execution_order": [
+            "REP_A_V04_01",
+            "REP_B_V04_01",
+            "REP_A_V04_02",
+            "REP_B_V04_02",
+            "REP_A_V04_03",
+            "REP_B_V04_03"
+          ],
+          "request_text_sha256": {
+            "REP_A_V04_01": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+            "REP_B_V04_01": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+            "REP_A_V04_02": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+            "REP_B_V04_02": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+            "REP_A_V04_03": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+            "REP_B_V04_03": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412"
+          },
+          "api_body_sha256": {
+            "REP_A_V04_01": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+            "REP_B_V04_01": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+            "REP_A_V04_02": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+            "REP_B_V04_02": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304",
+            "REP_A_V04_03": "890d9f67a2ce8b662b8c8cff22b0bd791c4c9feed1ee36fd12d097dca2df5487",
+            "REP_B_V04_03": "97f67e1ef52af427231536783dcd2bbf9d59904d3e39fe0173bc88c34b4a7304"
+          }
+        }
+      }
+    },
+    {
+      "command": [
+        "C:\\Users\\leimaren\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+        "-X",
+        "utf8",
+        "-B",
+        "C:\\Users\\leimaren\\Documents\\Codex\\2026-10-09\\6-2-x20\\outputs\\视觉定位流程实验\\附件内容配对执行准备_v0.1\\offline_checks.py"
+      ],
+      "exit_code": 0,
+      "result": {
+        "record_kind": "offline_check",
+        "checked_at": "2026-10-28T16:52:27.968432+08:00",
+        "checks": [
+          "正常check、六项固定顺序、同材料三项消息和载荷一致、单条user白名单：通过",
+          "内存副本哈希变化时拒绝：通过；历史原件未改",
+          "无显式执行开关、无本批冻结时拒绝且不读凭据：通过",
+          "真实文件独占写入拒绝覆盖，已有请求副本字节不变：通过",
+          "已有档案阻止执行或续跑，原内容不变：通过（内存模拟）",
+          "首项本地技术故障只尝试1项、后5项未执行、保留失败信息且再次执行被拒：通过",
+          "六项本地成功桩完整归档；内容格式不由入口裁定、不重试；再次执行被拒：通过",
+          "13项通用及执行控制函数和既有凭据函数AST一致；不导入旧入口：通过"
+        ],
+        "all_passed": true,
+        "existing_inputs_unchanged": 7,
+        "real_api_calls": 0,
+        "real_credentials_read": false,
+        "network_used": false,
+        "temporary_disk_files": 0,
+        "simulated_archives": "仅内存；退出即释放，不是API结果",
+        "frozen": false
+      }
+    }
+  ],
+  "blank_review_table_checked": true,
+  "source_hash_checks": [
+    {
+      "path": "附件内容配对离线组装_v0.1/甲版完整请求.txt",
+      "sha256": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "bytes": 10052,
+      "sha256_after": "2cdd34d9f7c4df63d409d45f56bc2e65460be75d662957a79b0f3b0a87911b58",
+      "unchanged": true
+    },
+    {
+      "path": "附件内容配对离线组装_v0.1/乙版完整请求.txt",
+      "sha256": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "bytes": 10928,
+      "sha256_after": "2bdff58959ad369107eaa629dd0091018de663a6fe415a4cfcf67d969f369412",
+      "unchanged": true
+    },
+    {
+      "path": "评审重复检查准备_v0.1/配置.json",
+      "sha256": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+      "bytes": 1543,
+      "sha256_after": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+      "unchanged": true
+    },
+    {
+      "path": "附件内容配对离线组装_v0.1/管理说明.md",
+      "sha256": "ff470691e287942b3878b04ad56b199bdace1347c63c4e67d53c3f996c3a6ed5",
+      "bytes": 4992,
+      "sha256_after": "ff470691e287942b3878b04ad56b199bdace1347c63c4e67d53c3f996c3a6ed5",
+      "unchanged": true
+    },
+    {
+      "path": "附件内容配对离线组装_v0.1/结果判读卡.md",
+      "sha256": "d0a82111ea90665bba68d2d1bb514912576b662bd97ad08b217683b830256194",
+      "bytes": 4093,
+      "sha256_after": "d0a82111ea90665bba68d2d1bb514912576b662bd97ad08b217683b830256194",
+      "unchanged": true
+    },
+    {
+      "path": "评审重复检查准备_v0.1/run_repeat.py",
+      "sha256": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+      "bytes": 17205,
+      "sha256_after": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+      "unchanged": true
+    },
+    {
+      "path": "评审重复检查准备_v0.1/offline_checks.py",
+      "sha256": "5980e82f9d28d748a53396dc676bb02c5fc24699720bee1d8c5ffdfa11439d10",
+      "bytes": 12608,
+      "sha256_after": "5980e82f9d28d748a53396dc676bb02c5fc24699720bee1d8c5ffdfa11439d10",
+      "unchanged": true
+    }
+  ],
+  "real_api_calls": 0,
+  "real_credentials_read": false,
+  "network_used": false,
+  "formal_freeze_created": false,
+  "real_archive_created": false,
+  "historical_inputs_changed": false,
+  "scope": "只写附件内容配对执行准备_v0.1",
+  "limitations": "内存桩只验证流程；未验证真实冻结正向路径、API兼容性或评审正确性"
+}

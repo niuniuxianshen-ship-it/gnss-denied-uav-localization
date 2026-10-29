@@ -1,0 +1,6 @@
+{
+  "record_kind": "first_api_attempt",
+  "task_id": "REP_H03_V04_02",
+  "started_at": "2026-10-26T16:20:00.982264+08:00",
+  "policy": "one attempt; never resume or overwrite"
+}

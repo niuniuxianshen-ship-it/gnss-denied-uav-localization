@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "batch_id": "EVIDENCE_RECORD_DEVELOPMENT_001",
+  "maximum_first_requests": 4,
+  "execution_order": [
+    "甲_V04",
+    "甲_V05",
+    "乙_V05",
+    "乙_V04"
+  ],
+  "config": {
+    "base_url": "https://api.deepseek.com",
+    "endpoint": "/chat/completions",
+    "settings": {
+      "model": "deepseek-flash",
+      "thinking": {
+        "type": "disabled"
+      },
+      "temperature": 0,
+      "max_tokens": 8192,
+      "stream": false,
+      "response_format": {
+        "type": "text"
+      },
+      "tool_choice": "none"
+    },
+    "socket_timeout_seconds": 300,
+    "timeout_scope": "connection and each socket operation, not total wall-clock deadline",
+    "client_retries": 0,
+    "system_message": null,
+    "batch_id": "EVIDENCE_RECORD_DEVELOPMENT_001"
+  },
+  "source_snapshot": [
+    {
+      "path": "API评审关系记录草案_v0.4/完整评审提示词草案.txt",
+      "bytes": 4678,
+      "sha256": "ce96739688ba10b3e62cb8b8795ca7c1ba9c98d5eef959a8abf7afefabae2d96"
+    },
+    {
+      "path": "API评审依据关系草案_v0.5/完整评审提示词草案.txt",
+      "bytes": 5844,
+      "sha256": "4283d2e2996e44861cec4fbea02f4fa144c1794814e0070c0203d99c4726f995"
+    },
+    {
+      "path": "开发输入/参考附录正文.md",
+      "bytes": 5130,
+      "sha256": "8dcfc001dde496a16dd15335cebc67846252df68df2aa864d35274542a287d37"
+    },
+    {
+      "path": "关系记录新材料执行入口_v0.1/配置.json",
+      "bytes": 6289,
+      "sha256": "0a6ac1547b3b83dc07af291439a676e4c9eb5690d8ccd787c160a764b23c04ae"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/待评正文_甲.txt",
+      "bytes": 156,
+      "sha256": "34d6379a249ebecb42faf9b4f5ec9985096605c2f0b8b972579f46bfad59eb03"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/待评正文_乙.txt",
+      "bytes": 141,
+      "sha256": "1a048065e9367f278b27898c3db81811c724f4a1f3f5c0687e67ee1153ff80e7"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/请求_甲_V04.txt",
+      "bytes": 10039,
+      "sha256": "3b703ef84b1a84befb1e122530e0a8cf2a3b1b879bb78916b3bd80b1076aad15"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/请求_甲_V05.txt",
+      "bytes": 11205,
+      "sha256": "866e8d3679199e3e11fbf9c4603d3e1bcd0339ee37d93de60e29973b5586af45"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/请求_乙_V05.txt",
+      "bytes": 11190,
+      "sha256": "56280272132a2c775dd0b4a6309904baaa80195c995e58ffc298c9bbf4571f70"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/请求_乙_V04.txt",
+      "bytes": 10024,
+      "sha256": "ed12664573b4a4026cdaef2d5522a53cbefa6d2edc1b2b6e6e40c0406defd970"
+    },
+    {
+      "path": "依据记录开发检查准备_v0.1/管理计划与参照表.md",
+      "bytes": 8058,
+      "sha256": "6e01bf012a3a9d04f917290881e50d5967c8376dc3a8cc7c83be42bb8f7d53d4"
+    },
+    {
+      "path": "关系记录新材料执行入口_v0.1/run_comparison.py",
+      "bytes": 18730,
+      "sha256": "461330743d3f179a7fa2491c7018c61a89390567ad370aa82bf8ae8820666359"
+    }
+  ],
+  "tasks": [
+    {
+      "sequence": 1,
+      "task_id": "甲_V04",
+      "path": "依据记录开发检查准备_v0.1/请求_甲_V04.txt",
+      "bytes": 10039,
+      "request_text_sha256": "3b703ef84b1a84befb1e122530e0a8cf2a3b1b879bb78916b3bd80b1076aad15",
+      "api_body_sha256": "145e8dd1415bd486169a267dedeaa82ba86fe527ff98f2698603d04676430cb1",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 2,
+      "task_id": "甲_V05",
+      "path": "依据记录开发检查准备_v0.1/请求_甲_V05.txt",
+      "bytes": 11205,
+      "request_text_sha256": "866e8d3679199e3e11fbf9c4603d3e1bcd0339ee37d93de60e29973b5586af45",
+      "api_body_sha256": "64149cf56a407d1bf49d2e411d4910670692a454e24ec9ebcc199c2248d471af",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 3,
+      "task_id": "乙_V05",
+      "path": "依据记录开发检查准备_v0.1/请求_乙_V05.txt",
+      "bytes": 11190,
+      "request_text_sha256": "56280272132a2c775dd0b4a6309904baaa80195c995e58ffc298c9bbf4571f70",
+      "api_body_sha256": "df5e738be6ba5ba00c21f8c64c3f2fd89ce53468171daca3189b8819cb3adc78",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 4,
+      "task_id": "乙_V04",
+      "path": "依据记录开发检查准备_v0.1/请求_乙_V04.txt",
+      "bytes": 10024,
+      "request_text_sha256": "ed12664573b4a4026cdaef2d5522a53cbefa6d2edc1b2b6e6e40c0406defd970",
+      "api_body_sha256": "e75c8dd9bd9f751fad056bdfdb5ba5e86b76d37fc9677e40ad21dfe2edb935d1",
+      "status_at_preparation": "尚未调用"
+    }
+  ],
+  "actual_api_calls_at_preparation": 0,
+  "scope": "两份构造开发材料，不是独立验证或真实图片实验结果；不预设甲的最终状态"
+}

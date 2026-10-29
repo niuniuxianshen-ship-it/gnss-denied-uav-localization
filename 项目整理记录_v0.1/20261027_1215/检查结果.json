@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-27T12:17:38.717651+08:00",
+  "path_inventory_count": 1659,
+  "missing": [],
+  "target_hashes": 47,
+  "protected_hashes_unchanged": 44,
+  "protected_changed": [],
+  "edited": [
+    "README.md",
+    "项目导航与维护.md",
+    "复现说明.md"
+  ],
+  "new_link_count": 12,
+  "missing_links": [],
+  "scope": "rg-visible paths only; targeted hashes, not whole-project byte verification",
+  "project_scripts_executed": false,
+  "network_or_model_calls": 0
+}

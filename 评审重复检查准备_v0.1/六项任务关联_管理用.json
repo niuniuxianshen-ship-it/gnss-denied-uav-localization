@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "batch_id": "REVIEW_REPEAT_H03_H04_V04_001",
+  "planned_first_requests": 6,
+  "actual_api_calls_at_preparation": 0,
+  "config_sha256": "820137406d6fba257af6e33aa9aa853fef626bdf811f0b33b3687e0f85bae4f2",
+  "runner_sha256": "967b8309f99b7aef0d640c523d7abc7b5cc5d76a6b8b5e290ead725f9f66bceb",
+  "tasks": [
+    {
+      "sequence": 1,
+      "task_id": "REP_H03_V04_01",
+      "material_id": "H03",
+      "repeat_index": 1,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_H03_V04.txt",
+      "original_request_path": "依据记录H批次对照准备_v0.1/请求_H03_V04.txt",
+      "request_bytes": 9976,
+      "request_text_sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "api_body_sha256": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 2,
+      "task_id": "REP_H04_V04_01",
+      "material_id": "H04",
+      "repeat_index": 1,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_H04_V04.txt",
+      "original_request_path": "依据记录H批次对照准备_v0.1/请求_H04_V04.txt",
+      "request_bytes": 10101,
+      "request_text_sha256": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "api_body_sha256": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 3,
+      "task_id": "REP_H03_V04_02",
+      "material_id": "H03",
+      "repeat_index": 2,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_H03_V04.txt",
+      "original_request_path": "依据记录H批次对照准备_v0.1/请求_H03_V04.txt",
+      "request_bytes": 9976,
+      "request_text_sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "api_body_sha256": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 4,
+      "task_id": "REP_H04_V04_02",
+      "material_id": "H04",
+      "repeat_index": 2,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_H04_V04.txt",
+      "original_request_path": "依据记录H批次对照准备_v0.1/请求_H04_V04.txt",
+      "request_bytes": 10101,
+      "request_text_sha256": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "api_body_sha256": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 5,
+      "task_id": "REP_H03_V04_03",
+      "material_id": "H03",
+      "repeat_index": 3,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_H03_V04.txt",
+      "original_request_path": "依据记录H批次对照准备_v0.1/请求_H03_V04.txt",
+      "request_bytes": 9976,
+      "request_text_sha256": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "api_body_sha256": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "status_at_preparation": "尚未调用"
+    },
+    {
+      "sequence": 6,
+      "task_id": "REP_H04_V04_03",
+      "material_id": "H04",
+      "repeat_index": 3,
+      "prompt_version": "v0.4",
+      "request_path": "请求副本/请求_H04_V04.txt",
+      "original_request_path": "依据记录H批次对照准备_v0.1/请求_H04_V04.txt",
+      "request_bytes": 10101,
+      "request_text_sha256": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4",
+      "api_body_sha256": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab",
+      "status_at_preparation": "尚未调用"
+    }
+  ]
+}

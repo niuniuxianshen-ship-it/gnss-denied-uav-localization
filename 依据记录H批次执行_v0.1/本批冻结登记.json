@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "batch_id": "EVIDENCE_RECORD_H_CHECK_001",
+  "status": "frozen",
+  "execution_authorized": true,
+  "approved_by": "研究者（本对话用户）",
+  "approved_at": "2026-10-19T12:10:28.832962+08:00",
+  "registered_at": "2026-10-19T12:10:28.832962+08:00",
+  "approved_at_basis": "本地登记本轮明确授权的时刻；不冒充用户消息精确发送时间",
+  "user_message_timestamp": null,
+  "approval_message_verbatim": "同意开始吧",
+  "approval_reference": "本对话上一轮已明确H批次管理计划、既有设置、固定八项顺序及最多8次首次评审；用户本轮回复同意开始吧。",
+  "maximum_first_requests": 8,
+  "bindings": {
+    "runner_sha256": "a4dd5c67af10030f98c620048e2190824800434abe806314ab87273e247d5b71",
+    "manifest_sha256": "571f595ab989bf50245e963f699a0516c75bfb98d37f5e6666232da03505c59e",
+    "management_plan_sha256": "12ca10c8e5496ef5d90848644ea9cd95c5a9de37f89cf300a4876b367a6c73ff",
+    "execution_order": [
+      "H01_V04",
+      "H01_V05",
+      "H02_V05",
+      "H02_V04",
+      "H03_V04",
+      "H03_V05",
+      "H04_V05",
+      "H04_V04"
+    ],
+    "request_text_sha256": {
+      "H01_V04": "70fedc3fa9574eb33c93377b900efdaf3dd707f22e37b8008a72804c9cd3d338",
+      "H01_V05": "9d1e7fbc4f9b6a26ad4c3631855fa1625e16bfb2e0b5300d6c5b13214b745f69",
+      "H02_V05": "8b063c9c157482a4d37872bdf43c6fd9b5f14c2d593cb5a5f997414f12a7dfa4",
+      "H02_V04": "ee03b9a1bb9b35021a33704078d755bce231030cb4bd2ce18a2df0e65ba17f23",
+      "H03_V04": "972b5230b52c47d3940417fc32dadef75d3bc22f6d7d8d5a48210b0050149c18",
+      "H03_V05": "f740d704eb327b4cc6988a1c96ef607eabc6468f14d257b9fb1634bc1f5da12b",
+      "H04_V05": "431de7b6719f976e5411d22386f69ecca29fb3eb95eecb4ec04042e983625ccc",
+      "H04_V04": "c40ebbfd0e6f48fd497ab8c1ec972a72962123b0ec2e99ab6dff4986d3fe42b4"
+    },
+    "api_body_sha256": {
+      "H01_V04": "a33bf5f07231f250d69e52aa33256cc7577a850b2fe9837c0d7f0c62d284bad8",
+      "H01_V05": "5e8bff1b919c66f00840eac7410c4ff3a248acc0de1d24cf37cee78b325e6737",
+      "H02_V05": "226018e3f04fd404bea24ccf585fabd332f646945a1fad45abf990a18689ca07",
+      "H02_V04": "5041ab915ae1d06c566b546ff316c813dc8400d6d474a8f8642122e32eb78377",
+      "H03_V04": "dfe191ba8a22b374ca0a2963bfbc8662c0cd73fef665b598c180260f08e97742",
+      "H03_V05": "aa1b41409b1ebc5a31eea6d0b4ef89acfba6511f1cdfd7afc9c2e618b1951380",
+      "H04_V05": "a744eb18ee51f8354a1c7c739a192b51365e27d8440b9e3eb10ced005d7a0df1",
+      "H04_V04": "b5d386850c8845562347cfea7aa375da94965f06b4c9739272c5b0b6190220ab"
+    }
+  },
+  "execution_policy": {
+    "order": [
+      "H01_V04",
+      "H01_V05",
+      "H02_V05",
+      "H02_V04",
+      "H03_V04",
+      "H03_V05",
+      "H04_V05",
+      "H04_V04"
+    ],
+    "requests_per_task": 1,
+    "client_retries": 0,
+    "stop_after_technical_failure": true,
+    "after_this_batch": "完成本批后形成阶段小结，不自动追加调词或模型调用",
+    "content_adjudication": "执行时仅技术核查，首次内容复核与后续反馈另存；H01最终状态不预设",
+    "credentials": "仅执行进程读取既有命名凭据，不显示、不写入档案"
+  },
+  "scope": "仅冻结本批材料、分层参照与执行设置；不认定v0.5有效或正式评分方案完成验证",
+  "provenance_note": "材料按本对话转交的H表和本地管理记录处理；本次执行不另行核实其生成过程，不认定为独立人工验证"
+}
