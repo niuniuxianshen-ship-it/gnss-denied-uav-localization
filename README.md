@@ -4,6 +4,8 @@
 
 当前主线转向无人机自定位，先复现成熟基线，再从实际失败中确定研究问题。照片省级定位与评审诊断保留为前期探索，不代表已经改善无人机定位。
 
+GitHub仓库：[gnss-denied-uav-localization](https://github.com/niuniuxianshen-ship-it/gnss-denied-uav-localization)。已由原仓库改名，本地origin已更新。同步以本地当前文件树为准。
+
 - [当前交接](HANDOFF.md)：最新目标、进度和授权边界。
 - [首个实际任务](无人机自定位_首个任务_v0.1.md)：已核对本机硬件，候选为 ORB-SLAM3 双目＋IMU与 EuRoC MH_01_easy。研究者先安装并验收 WSL2＋Ubuntu；尚未安装、下载新数据或运行算法。
 - [清理与同步记录](清理与同步记录_20261029.md)：只删除已被Git历史逐字保存的11份冗余导航副本。首次实验档案与旧结果保留。
