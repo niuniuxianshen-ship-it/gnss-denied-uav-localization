@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>假正常复核 V221</title>
+  <style>
+    :root{color-scheme:light;--page:#f5f7fc;--surface:#fff;--tonal:#eaf0fb;--line:#dce4f2;--ink:#182133;--muted:#4f5d73;--primary:#2457ac;--review:#a74704;--missing:#6850a4;--quiet:#526984}
+    *{box-sizing:border-box} [hidden]{display:none!important}
+    body{margin:0;background:var(--page);color:var(--ink);font:14px/1.6 Roboto,"Segoe UI","Microsoft YaHei UI",sans-serif}
+    button,select{font:inherit} button{cursor:pointer} button:disabled{cursor:default;opacity:.56}
+    :focus-visible{outline:2px solid var(--primary);outline-offset:3px}
+    header{background:var(--tonal);border-bottom:1px solid var(--line)}
+    .top{max-width:1240px;margin:auto;min-height:60px;padding:0 28px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .identity{display:flex;align-items:center;gap:11px;font-weight:650}.mark{width:24px;height:24px;border-radius:7px;background:var(--primary);display:grid;place-items:center}.mark::after{content:"";width:10px;height:5px;border:solid #fff;border-width:0 0 2px 2px;transform:rotate(-45deg) translateY(-1px)}
+    .context,.subtle{color:var(--muted);font-size:13px}
+    main{max-width:1240px;margin:auto;padding:27px 28px 34px}
+    .intro{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:16px}
+    h1{font-size:30px;line-height:1.2;letter-spacing:-.02em;margin:0 0 7px;font-weight:650} h2{font-size:17px;margin:0;font-weight:650} p{margin:0}
+    .actions{display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+    .button{border-radius:24px;border:1px solid var(--line);background:var(--surface);color:var(--primary);padding:9px 16px;font-weight:650;min-height:42px;white-space:nowrap;transition:background-color 140ms ease}
+    .button:hover{background:#eef3fc}.primary{background:var(--primary);border-color:var(--primary);color:#fff}.primary:hover{background:#184388}
+    #message{min-height:23px;color:var(--muted);font-size:13px;margin-bottom:14px} #message.error{color:#9a3718}
+    .paper{background:var(--surface);border:1px solid var(--line);border-radius:20px;box-shadow:0 2px 7px #334d7710}
+    .empty{padding:28px 24px;color:var(--muted)} .empty strong{color:var(--ink)}
+    .controls{display:flex;gap:12px;align-items:end;justify-content:space-between;flex-wrap:wrap;margin-bottom:13px}
+    .control{display:grid;gap:4px;color:var(--muted);font-size:13px}
+    select{min-height:42px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:7px 11px;max-width:min(330px,80vw)}
+    .metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:13px}
+    .metric{text-align:left;display:grid;gap:2px;border:1px solid transparent;border-radius:17px;padding:10px 16px;background:var(--tonal);color:var(--muted);transition:background-color 140ms ease,border-color 140ms ease}
+    .metric:hover,.metric[aria-pressed=true]{background:#dde9fc;border-color:#aec5ec}.metric strong{font-size:30px;line-height:1.25;letter-spacing:-.02em;color:var(--ink);font-variant-numeric:tabular-nums}
+    .review{--signal:var(--review);--tint:#ffead6}.missing{--signal:var(--missing);--tint:#f0e8fc}.quiet{--signal:var(--quiet);--tint:#eaf0f6}
+    .dot{display:inline-block;width:9px;height:9px;margin-right:7px;background:var(--signal);border-radius:50%}
+    .timeline-card{padding:15px 18px;margin-bottom:13px} .timeline-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px}
+    .timeline{position:relative;height:12px;background:var(--tonal);border-radius:8px;overflow:hidden}.slice{position:absolute;top:0;height:100%;min-width:2px;background:var(--signal)}
+    .table-card{overflow:hidden}.table-top{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:14px 18px;border-bottom:1px solid var(--line)}
+    .table-scroll{overflow:auto;max-height:365px}table{min-width:585px;width:100%;border-collapse:collapse;text-align:left}thead{position:sticky;top:0;background:var(--tonal)}th,td{padding:10px 15px;border-bottom:1px solid var(--line)}th{font-size:13px;color:var(--muted);font-weight:650}td:first-child,td:nth-child(2){white-space:nowrap;font-variant-numeric:tabular-nums}
+    tr[aria-selected=true]{background:#eef4ff}.pill{display:inline-block;color:var(--signal);background:var(--tint);border-radius:20px;padding:2px 9px;white-space:nowrap;font-weight:600;font-size:13px}
+    .select-row{color:var(--primary);border:0;background:transparent;padding:2px 0;text-align:left;font-variant-numeric:tabular-nums}.select-row:hover{text-decoration:underline}
+    .details{display:grid;grid-template-columns:1.6fr 1fr;gap:12px;padding:10px 18px;background:#f4f7fd;border-bottom:1px solid var(--line);color:var(--muted);font-size:13px;overflow-wrap:anywhere}
+    @media(max-width:720px){.top,main{padding-left:16px;padding-right:16px}.intro{align-items:flex-start;flex-direction:column}.details{grid-template-columns:1fr}.metric{padding:9px}.metric strong,h1{font-size:24px}.context{display:none}}
+    @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+  </style>
+</head>
+<body>
+  <header><div class="top"><div class="identity"><span class="mark" aria-hidden="true"></span>定位日志工具</div><div class="context">本机运行 / V221</div></div></header>
+  <main>
+    <section class="intro">
+      <div><h1>假正常复核</h1><p class="subtle">从 VIO 日志定位需要人工复核的时段。</p></div>
+      <div class="actions"><button class="button" id="sample" hidden>载入真实回放</button><button class="button primary" id="open">打开日志</button></div>
+      <input type="file" id="files" accept=".csv,text/csv" multiple hidden>
+    </section>
+    <p id="message" aria-live="polite"></p>
+    <section id="empty" class="paper empty"><strong>选择复核输入</strong><p>选一份合并 CSV，或同时选中上游动作、双目分数和八列特征三张表。</p></section>
+    <section id="report" hidden>
+      <div class="controls"><label class="control">运行<select id="run"></select></label><label class="control">状态<select id="filter"><option>待复核</option><option>证据不足</option><option>未触发</option><option>全部</option></select></label></div>
+      <div class="metrics" id="metrics"></div>
+      <div class="paper timeline-card"><div class="timeline-head"><h2>时间线</h2><span id="span" class="subtle"></span></div><div class="timeline" id="timeline" aria-hidden="true"></div></div>
+      <div class="paper table-card">
+        <div class="table-top"><div><h2>复核时段</h2><p id="segmentCount" class="subtle"></p></div><button class="button" id="export">导出当前清单</button></div>
+        <div class="details" id="detail"><span>选择时段可查看原始时戳及分值。</span></div>
+        <div class="table-scroll"><table><thead><tr><th scope="col">窗口末端 (秒)</th><th scope="col">帧号</th><th scope="col">状态</th><th scope="col">触发依据</th></tr></thead><tbody id="rows"></tbody></table></div>
+      </div>
+    </section>
+  </main>
+  <script>
+    'use strict';
+    const $ = id => document.getElementById(id);
+    const states = ['待复核','证据不足','未触发'];
+    const tones = {'待复核':'review','证据不足':'missing','未触发':'quiet'};
+    const headers = {'X-V221-Review':'1'};
+    const fields = ['parent','run','condition','state','reason','start','end','first','last','first_ns','last_ns','count','score','single','triple'];
+    let runs = [], shown = [], activeRow = null;
+    const element = (tag, text, className) => {
+      const node = document.createElement(tag);
+      if (text != null) node.textContent = text;
+      if (className) node.className = className;
+      return node;
+    };
+    function message(text, error = false) {
+      $('message').textContent = text;
+      $('message').classList.toggle('error', error);
+      if (error) {
+        $('report').hidden = true;
+        $('empty').hidden = false;
+      }
+    }
+    async function request(path, options = {}) {
+      const res = await fetch(path, {...options, headers:{...headers,...options.headers}});
+      const value = await res.json();
+      if (!res.ok) throw new Error(value.error);
+      return value;
+    }
+    const digits = (value, places = 3) => value == null ? '—' : value.toFixed(places);
+    function describe(item, row) {
+      if (activeRow) activeRow.removeAttribute('aria-selected');
+      activeRow = row;
+      row.setAttribute('aria-selected','true');
+      $('detail').replaceChildren(
+        element('span',`原始时戳 (ns)  ${item.first_ns} → ${item.last_ns}`),
+        element('span',`窗口 ${item.count} 个 / 八列峰值 ${digits(item.score,4)} / 双目单窗 ${digits(item.single,4)} / 连续三窗 ${digits(item.triple,4)}`)
+      );
+    }
+    function refresh() {
+      const run = runs[$('run').selectedIndex];
+      if (!run) return;
+      const filter = $('filter').value;
+      shown = run.segments.filter(item => filter === '全部' || filter === item.state);
+      $('metrics').replaceChildren(...states.map(state => {
+        const card = element('button',null,`metric ${tones[state]}`);
+        card.setAttribute('aria-pressed',String(state === filter));
+        const caption = element('span');
+        caption.append(element('span',null,'dot'),document.createTextNode(`${state}窗口`));
+        card.append(caption,element('strong',(run.counts[state] || 0).toLocaleString('zh-CN')));
+        card.addEventListener('click',() => { $('filter').value = state; refresh(); });
+        return card;
+      }));
+      const finish = run.segments.at(-1).end;
+      $('span').textContent = `0.000 — ${digits(finish)} 秒 / ${run.total.toLocaleString('zh-CN')} 个窗口`;
+      const timeline = document.createDocumentFragment();
+      for (const item of run.segments) {
+        const slice = element('span',null,`slice ${tones[item.state]}`);
+        slice.style.left = `${100 * item.start / (finish || 1)}%`;
+        slice.style.width = `${100 * (item.end - item.start) / (finish || 1)}%`;
+        timeline.append(slice);
+      }
+      $('timeline').replaceChildren(timeline);
+      $('segmentCount').textContent = `${shown.length} 个时段，供人工复核`;
+      $('export').disabled = !shown.length;
+      activeRow = null;
+      $('detail').replaceChildren(element('span',shown.length ? '选择时段可查看原始时戳及分值。' : '当前筛选无时段。'));
+      const rows = document.createDocumentFragment();
+      for (const item of shown) {
+        const row = element('tr'), time = element('td'), state = element('td');
+        const button = element('button',`${digits(item.start)} — ${digits(item.end)}`,'select-row');
+        button.addEventListener('click',() => describe(item,row));
+        time.append(button);
+        state.append(element('span',item.state,`pill ${tones[item.state]}`));
+        row.append(time,element('td',`${item.first} – ${item.last}`),state,element('td',item.reason));
+        rows.append(row);
+      }
+      $('rows').replaceChildren(rows);
+    }
+    async function load(source, operation) {
+      $('open').disabled = $('sample').disabled = true;
+      message('正在读取日志…');
+      try {
+        const result = await operation();
+        runs = result.runs;
+        $('run').replaceChildren(...runs.map(run => element('option',`${run.parent} / ${run.condition}`)));
+        $('filter').value = '待复核';
+        $('empty').hidden = true;
+        $('report').hidden = false;
+        message(`${source} / ${runs.reduce((sum, run) => sum + run.total,0).toLocaleString('zh-CN')} 个窗口`);
+        refresh();
+      } catch(error) {
+        message(error.message || '导入失败，请核对日志格式。', true);
+      } finally {
+        $('open').disabled = $('sample').disabled = false;
+      }
+    }
+    $('open').addEventListener('click',() => $('files').click());
+    $('files').addEventListener('change', async event => {
+      const files = [...event.target.files];
+      event.target.value = '';
+      if (!files.length) return;
+      if (![1,3].includes(files.length)) return message('请选择一份合并日志，或同时选择三张项目导出表。',true);
+      await load(files.map(file => file.name).join(' / '),async () => {
+        const decoder = new TextDecoder('utf-8',{fatal:true});
+        const texts = await Promise.all(files.map(async file => decoder.decode(await file.arrayBuffer())));
+        return request('/api/analyze',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(texts)});
+      });
+    });
+    $('sample').addEventListener('click',() => load('EuRoC V1_02 真实实验回放',() => request('/api/example')));
+    $('run').addEventListener('change',refresh);
+    $('filter').addEventListener('change',refresh);
+    $('export').addEventListener('click',() => {
+      const run = runs[$('run').selectedIndex];
+      const cell = value => {
+        const safe = typeof value === 'string' && /^ *[=+@\-\t\r]/.test(value) ? `'${value}` : value ?? '';
+        return `"${String(safe).replaceAll('"','""')}"`;
+      };
+      const rows = shown.map(item => fields.map(field => cell(item[field] ?? run[field])).join(','));
+      const url = URL.createObjectURL(new Blob(['\ufeff',fields.join(','),'\r\n',rows.join('\r\n'),'\r\n'],{type:'text/csv;charset=utf-8'}));
+      const anchor = element('a');
+      anchor.href = url;
+      anchor.download = 'V221复核清单.csv';
+      anchor.click();
+      setTimeout(() => URL.revokeObjectURL(url),1000);
+    });
+    request('/api/config').then(config => { $('sample').hidden = !config.example; }).catch(error => message(error.message,true));
+  </script>
+</body>
+</html>
